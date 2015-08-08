@@ -25,34 +25,34 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の平年度一反当りモルヒネ含有量は、その者がその年度の前三年度中に納付したあへんの各年度における一反当りのモルヒネ含有量を平均した数量とする。ただし、その三年度中にその者があへんの納付をしなかつた年度が二年度以上含まれているときは、その三年度中にすべてのけし耕作者が納付したあへんの各年度における一反当りのモルヒネ含有量を平均した数量とする。
-        </article_item>
-        <article_item number="３">
-          <l>前項</l>の規定の適用については、その者が災害補償金の交付を受けた年度は、あへんの納付をしなかつた年度とみなす。
-          </article_item>
-          <article_item number="４">
-            けし耕作者がけしの栽培に着手した後、その栽培を継続することができるにもかかわらず、その栽培面積を縮少し、又は栽培を廃止したときは、その縮少又は廃止に係る栽培面積の反数は、<l>第一項</l>の実栽培面積の反数から控除するものとする。
-          </article_item>
-        </articles>
-        <articles number="第三条" title="（手数料）">
-          <article_item number="第三条">
-            法<l>第四十六条</l>に規定する政令で定める手数料の額は、次の各号に掲げる区分ごとに、それぞれ当該各号に定めるとおりとする。
-            <go>
-              <go_item number="一">
-                けし栽培の許可を申請する者　　　　　　　　　　　　千円
-              </go_item>
-              <go_item number="二">
-                けし栽培の許可の変更を申請する者　　　　　　　　五百円
-              </go_item>
-              <go_item number="三">
-                栽培許可証の再交付を申請する者　　　　　　　　　三百円
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-        <articles number="第四条" title="（交付金）">
-          <article_item number="第四条">
-            法<l>第四十七条</l>の規定による費用の交付は、法に基き都道府県知事が行う事務のために都道府県が支出する旅費及び事務費について行う。
-          </article_item>
-        </articles>
-      </body>
+      </article_item>
+      <article_item number="３">
+        <l>前項</l>の規定の適用については、その者が災害補償金の交付を受けた年度は、あへんの納付をしなかつた年度とみなす。
+      </article_item>
+      <article_item number="４">
+        けし耕作者がけしの栽培に着手した後、その栽培を継続することができるにもかかわらず、その栽培面積を縮少し、又は栽培を廃止したときは、その縮少又は廃止に係る栽培面積の反数は、<l>第一項</l>の実栽培面積の反数から控除するものとする。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（手数料）">
+      <article_item number="第三条">
+        法<l>第四十六条</l>に規定する政令で定める手数料の額は、次の各号に掲げる区分ごとに、それぞれ当該各号に定めるとおりとする。
+        <go>
+          <go_item number="一">
+            けし栽培の許可を申請する者　　　　　　　　　　　　千円
+          </go_item>
+          <go_item number="二">
+            けし栽培の許可の変更を申請する者　　　　　　　　五百円
+          </go_item>
+          <go_item number="三">
+            栽培許可証の再交付を申請する者　　　　　　　　　三百円
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（交付金）">
+      <article_item number="第四条">
+        法<l>第四十七条</l>の規定による費用の交付は、法に基き都道府県知事が行う事務のために都道府県が支出する旅費及び事務費について行う。
+      </article_item>
+    </articles>
+  </body>
 </law>

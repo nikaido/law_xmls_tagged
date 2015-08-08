@@ -35,26 +35,26 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の規定により公聴会を主宰した職員は、<l>次条</l>各号に掲げる事項を記載した報告書を作成し、消費者庁長官に提出するものとする。
-        </article_item>
-      </articles>
-      <articles number="第五条" title="（公聴会の記録）">
-        <article_item number="第五条">
-          消費者庁長官は、公聴会について、次に掲げる事項を記載した記録を作成するものとする。
-          <go>
-            <go_item number="一">
-              案件の内容
-            </go_item>
-            <go_item number="二">
-              公聴会の期日及び場所
-            </go_item>
-            <go_item number="三">
-              公聴会において意見を述べた者の氏名、住所及び職業並びにその意見の要旨
-            </go_item>
-            <go_item number="四">
-              その他必要な事項
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-    </body>
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（公聴会の記録）">
+      <article_item number="第五条">
+        消費者庁長官は、公聴会について、次に掲げる事項を記載した記録を作成するものとする。
+        <go>
+          <go_item number="一">
+            案件の内容
+          </go_item>
+          <go_item number="二">
+            公聴会の期日及び場所
+          </go_item>
+          <go_item number="三">
+            公聴会において意見を述べた者の氏名、住所及び職業並びにその意見の要旨
+          </go_item>
+          <go_item number="四">
+            その他必要な事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

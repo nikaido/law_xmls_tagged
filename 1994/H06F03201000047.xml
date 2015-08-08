@@ -97,68 +97,68 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の公示は、当該法務大臣等の事務所の掲示場に掲示することによって行うことができる。
-        </article_item>
-      </articles>
-      <articles number="第十一条" title="（陳述書の提出の方法）">
-        <article_item number="第十一条">
-          法<l>第二十一条第一項</l>の規定による陳述書の提出は、提出する者の氏名、住所、聴聞の件名及び当該聴聞に係る不利益処分の原因となる事実その他当該事案の内容についての意見を記載した書面により行うものとする。
-        </article_item>
-      </articles>
-      <articles number="第十二条" title="（聴聞調書及び報告書の記載事項）">
-        <article_item number="第十二条">
-          聴聞調書には、次に掲げる事項（聴聞の期日における審理が行われなかった場合においては、<l>第四号</l>に掲げる事項を除く。）を記載し、主宰者がこれに記名押印しなければならない。
-          <go>
-            <go_item number="一">
-              聴聞の件名
-            </go_item>
-            <go_item number="二">
-              聴聞の期日及び場所
-            </go_item>
-            <go_item number="三">
-              主宰者の氏名及び職名
-            </go_item>
-            <go_item number="四">
-              聴聞の期日に出頭した当事者、参加人、代理人及び補佐人（以下この項において「当事者等」という。）の氏名並びに当該処分庁の職員の氏名及び職名
-            </go_item>
-            <go_item number="五">
-              聴聞の期日に出頭しなかった当事者等の氏名及び当該当事者にあっては、出頭しなかったことについての正当な理由の有無
-            </go_item>
-            <go_item number="六">
-              当事者等及び当該処分庁の職員の陳述の要旨（提出された陳述書における意見の陳述を含む。）
-            </go_item>
-            <go_item number="七">
-              証拠書類等が提出されたときは、その標目
-            </go_item>
-            <go_item number="八">
-              その他参考となるべき事項
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="２">
-          聴聞調書には、書面、図面、写真その他主宰者が適当と認めるものを添付して調書の一部とすることができる。
-        </article_item>
-        <article_item number="３">
-          報告書には、次に掲げる事項を記載し、主宰者がこれに記名押印しなければならない。
-          <go>
-            <go_item number="一">
-              意見
-            </go_item>
-            <go_item number="二">
-              不利益処分の原因となる事実に対する当事者等の主張
-            </go_item>
-            <go_item number="三">
-              理由
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第十三条" title="（聴聞調書及び報告書の閲覧の手続）">
-        <article_item number="第十三条">
-          法<l>第二十四条第四項</l>の規定による閲覧の求めについては、当事者又は参加人は、その氏名、住所及び閲覧をしようとする聴聞調書又は報告書の件名を記載した書面を、聴聞の終結前にあっては聴聞の主宰者に、聴聞の終結後にあっては法務大臣等に提出してこれを行うものとする。
-        </article_item>
-        <article_item number="２">
-          主宰者又は法務大臣等は、閲覧を許可したときは、その場で閲覧させる場合を除き、速やかに、閲覧の日時及び場所を当該当事者又は参加人に通知しなければならない。
-        </article_item>
-      </articles>
-    </body>
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（陳述書の提出の方法）">
+      <article_item number="第十一条">
+        法<l>第二十一条第一項</l>の規定による陳述書の提出は、提出する者の氏名、住所、聴聞の件名及び当該聴聞に係る不利益処分の原因となる事実その他当該事案の内容についての意見を記載した書面により行うものとする。
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（聴聞調書及び報告書の記載事項）">
+      <article_item number="第十二条">
+        聴聞調書には、次に掲げる事項（聴聞の期日における審理が行われなかった場合においては、<l>第四号</l>に掲げる事項を除く。）を記載し、主宰者がこれに記名押印しなければならない。
+        <go>
+          <go_item number="一">
+            聴聞の件名
+          </go_item>
+          <go_item number="二">
+            聴聞の期日及び場所
+          </go_item>
+          <go_item number="三">
+            主宰者の氏名及び職名
+          </go_item>
+          <go_item number="四">
+            聴聞の期日に出頭した当事者、参加人、代理人及び補佐人（以下この項において「当事者等」という。）の氏名並びに当該処分庁の職員の氏名及び職名
+          </go_item>
+          <go_item number="五">
+            聴聞の期日に出頭しなかった当事者等の氏名及び当該当事者にあっては、出頭しなかったことについての正当な理由の有無
+          </go_item>
+          <go_item number="六">
+            当事者等及び当該処分庁の職員の陳述の要旨（提出された陳述書における意見の陳述を含む。）
+          </go_item>
+          <go_item number="七">
+            証拠書類等が提出されたときは、その標目
+          </go_item>
+          <go_item number="八">
+            その他参考となるべき事項
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        聴聞調書には、書面、図面、写真その他主宰者が適当と認めるものを添付して調書の一部とすることができる。
+      </article_item>
+      <article_item number="３">
+        報告書には、次に掲げる事項を記載し、主宰者がこれに記名押印しなければならない。
+        <go>
+          <go_item number="一">
+            意見
+          </go_item>
+          <go_item number="二">
+            不利益処分の原因となる事実に対する当事者等の主張
+          </go_item>
+          <go_item number="三">
+            理由
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十三条" title="（聴聞調書及び報告書の閲覧の手続）">
+      <article_item number="第十三条">
+        法<l>第二十四条第四項</l>の規定による閲覧の求めについては、当事者又は参加人は、その氏名、住所及び閲覧をしようとする聴聞調書又は報告書の件名を記載した書面を、聴聞の終結前にあっては聴聞の主宰者に、聴聞の終結後にあっては法務大臣等に提出してこれを行うものとする。
+      </article_item>
+      <article_item number="２">
+        主宰者又は法務大臣等は、閲覧を許可したときは、その場で閲覧させる場合を除き、速やかに、閲覧の日時及び場所を当該当事者又は参加人に通知しなければならない。
+      </article_item>
+    </articles>
+  </body>
 </law>

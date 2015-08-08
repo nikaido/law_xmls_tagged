@@ -17,36 +17,36 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の規定による申請書の提出について必要な事項は、文部科学省令で定める。
-        </article_item>
-      </articles>
-      <articles number="第二条" title="（合格通知）">
-        <article_item number="第二条">
-          文部科学大臣は、<l>前条第一項</l>の者が、審査に合格したときは、その旨を通知しなければならない。
-        </article_item>
-      </articles>
-      <articles number="第三条" title="（契約書の作成）">
-        <article_item number="第三条">
-          文部科学大臣又はその委任を受けた官吏が出版権の設定契約をしようとするときは、教科書の書目、出版権の存続期間その他必要な事項を詳細に記載した契約書を作成しなければならない。
-        </article_item>
-        <article_item number="２">
-          <l>前項</l>の契約書には、文部科学大臣又はその委任を受けた官吏が、記名して印をおさなければならない。
-          </article_item>
-        </articles>
-        <articles number="第四条" title="（法を準用する図書の種類）">
-          <article_item number="第四条">
-            法<l>第十七条</l>の規定により法の規定を準用する文部科学省が著作名義を有する教科書以外の教授上用いられる図書は、左の通りとする。
-            <go>
-              <go_item number="一">
-                学習指導要領
-              </go_item>
-              <go_item number="二">
-                指導書、手引書の類
-              </go_item>
-              <go_item number="三">
-                掛図、図集、型紙の類
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-      </body>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（合格通知）">
+      <article_item number="第二条">
+        文部科学大臣は、<l>前条第一項</l>の者が、審査に合格したときは、その旨を通知しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（契約書の作成）">
+      <article_item number="第三条">
+        文部科学大臣又はその委任を受けた官吏が出版権の設定契約をしようとするときは、教科書の書目、出版権の存続期間その他必要な事項を詳細に記載した契約書を作成しなければならない。
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の契約書には、文部科学大臣又はその委任を受けた官吏が、記名して印をおさなければならない。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（法を準用する図書の種類）">
+      <article_item number="第四条">
+        法<l>第十七条</l>の規定により法の規定を準用する文部科学省が著作名義を有する教科書以外の教授上用いられる図書は、左の通りとする。
+        <go>
+          <go_item number="一">
+            学習指導要領
+          </go_item>
+          <go_item number="二">
+            指導書、手引書の類
+          </go_item>
+          <go_item number="三">
+            掛図、図集、型紙の類
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

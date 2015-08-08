@@ -50,48 +50,48 @@
       </article_item>
       <article_item number="３">
         <l>前項</l>の場合においては、保険契約者は、保険料に係る保険料期間の開始日までに、当該保険料を払い込まなければならない。
-        </article_item>
-      </articles>
-      <articles number="第四条" title="（保険証書の記載事項）">
-        <article_item number="第四条">
-          法<l>第七条</l>の保険証書には、次に掲げる事項並びに記号及び番号を記載し、研究所の理事長がこれに記名押印しなければならない。
-          <go>
-            <go_item number="一">
-              保険の目的の所在及び地番
-            </go_item>
-            <go_item number="二">
-              保険の目的の樹種、林令及び面積並びに本数又は材積
-            </go_item>
-            <go_item number="三">
-              保険金額
-            </go_item>
-            <go_item number="四">
-              保険期間
-            </go_item>
-            <go_item number="五">
-              保険料及びその支払方法
-            </go_item>
-            <go_item number="六">
-              保険契約者及び被保険者又はその代表者の氏名又は名称
-            </go_item>
-            <go_item number="七">
-              保険証書作成の年月日
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第五条" title="（免責）">
-        <article_item number="第五条">
-          法<l>第十二条第四号</l>の農林水産省令で定める場合は、てん補すべき額が法<l>第二条第一項</l>に規定する保険事故によつて生じた損害についての調査に通常要する費用の額を勘案して農林水産大臣が定める基準に従つて研究所が定める額未満のときとする。
-        </article_item>
-      </articles>
-      <articles number="第六条" title="（危険増加による解除等）">
-        <article_item number="第六条">
-          研究所は、法<l>第十六条第一項</l>の規定により森林保険契約を解除する場合には、その旨及び危険増加の事由を書面で保険契約者に通知しなければならない。
-        </article_item>
-        <article_item number="２">
-          法<l>第十六条第二項</l>の規定による通知は、危険増加の事由を記載した書面で研究所にしなければならない。
-        </article_item>
-      </articles>
-    </body>
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（保険証書の記載事項）">
+      <article_item number="第四条">
+        法<l>第七条</l>の保険証書には、次に掲げる事項並びに記号及び番号を記載し、研究所の理事長がこれに記名押印しなければならない。
+        <go>
+          <go_item number="一">
+            保険の目的の所在及び地番
+          </go_item>
+          <go_item number="二">
+            保険の目的の樹種、林令及び面積並びに本数又は材積
+          </go_item>
+          <go_item number="三">
+            保険金額
+          </go_item>
+          <go_item number="四">
+            保険期間
+          </go_item>
+          <go_item number="五">
+            保険料及びその支払方法
+          </go_item>
+          <go_item number="六">
+            保険契約者及び被保険者又はその代表者の氏名又は名称
+          </go_item>
+          <go_item number="七">
+            保険証書作成の年月日
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（免責）">
+      <article_item number="第五条">
+        法<l>第十二条第四号</l>の農林水産省令で定める場合は、てん補すべき額が法<l>第二条第一項</l>に規定する保険事故によつて生じた損害についての調査に通常要する費用の額を勘案して農林水産大臣が定める基準に従つて研究所が定める額未満のときとする。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（危険増加による解除等）">
+      <article_item number="第六条">
+        研究所は、法<l>第十六条第一項</l>の規定により森林保険契約を解除する場合には、その旨及び危険増加の事由を書面で保険契約者に通知しなければならない。
+      </article_item>
+      <article_item number="２">
+        法<l>第十六条第二項</l>の規定による通知は、危険増加の事由を記載した書面で研究所にしなければならない。
+      </article_item>
+    </articles>
+  </body>
 </law>

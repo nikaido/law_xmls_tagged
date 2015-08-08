@@ -81,179 +81,179 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>に規定するその他の因子は、一とする。
-        </article_item>
-      </articles>
-      <articles number="第六条" title="（音圧レベルにおける聴感補正）">
-        <article_item number="第六条">
-          令別表第二第六号の音圧実効値に経済産業省令で定める聴感補正を行って得られる値は、その音を構成する周波数毎に別表第十に掲げる補正値を用いて次に掲げる式により算出する。<br/>　　　Ｐ＝（シグマ（Ｐｎ<sup>２</sup>・１０<sup>ａｎ／１０</sup>））<sup>１／２</sup><br/>Ｐは、音圧実効値に聴感補正を行って得られる値<br/>Ｐ<sub>ｎ</sub>は、周波数がｎヘルツである成分の音圧実効値<br/>ａｎは、周波数ｎヘルツにおける補正値 
-        </article_item>
-      </articles>
-      <articles number="第七条" title="（振動加速度レベルにおける感覚補正）">
-        <article_item number="第七条">
-          令別表第二第七号の振動加速度実効値に経済産業省令で定める感覚補正を行って得られる値は、その振動を構成する鉛直振動の周波数毎に別表第十一に掲げる補正値を用いて次に掲げる式により算出する。<br/>　　　Ａ＝（シグマ（Ａｎ<sup>２</sup>・１０<sup>ａｎ／１０</sup>））<sup>１／２</sup><br/>Ａは、振動加速度実効値に感覚補正を行って得られる値<br/>Ａ<sub>ｎ</sub>は、周波数がｎヘルツである成分の鉛直振動の振動加速度実効値<br/>ａｎは、周波数ｎヘルツにおける補正値 
-        </article_item>
-      </articles>
-      <articles number="第八条" title="（非法定計量単位による目盛等を付した計量器）">
-        <article_item number="第八条">
-          令<l>第七条第二号</l>の経済産業省令で定めるものは、次の各号に掲げる計量器であって、別表第十二の中欄又は下欄に掲げる表示を付したもののうち法定計量単位により計量することが著しく困難なものに用いるものとして、経済産業大臣の承認を受けたものとする。
-          <go>
-            <go_item number="一">
-              輸出すべき機械又は装置を製造する者が当該機械又は装置の購入者の指示により行う設計図面の製作又は補修に用いるもの
-            </go_item>
-            <go_item number="二">
-              国、地方公共団体又はこれらに準ずる者が輸出する貨物について当該貨物の仕向地の法令又は確立された国際的基準に従って行う検査に用いるもの
-            </go_item>
-            <go_item number="三">
-              輸出する貨物について当該貨物の購入者又はその指定する者が購入に際してする検査に用いるもの（<l>前号</l>に掲げるものを除く。）
-            </go_item>
-            <go_item number="四">
-              港湾運送事業法（昭和二十六年法律第百六十一号）<l>第三条第八号</l>の検量事業を営む者が輸出する貨物の船積又は輸入する貨物の陸揚げを行うに際してするその貨物の容積又は質量の検査に用いるもの（<l>前二号</l>に掲げるものを除く。）
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第九条" title="（非法定計量単位による目盛等を付した計量器）">
-        <article_item number="第九条">
-          令<l>第七条第三号</l>の経済産業省令で定めるものは、次の各号に掲げる計量器とする。
-          <go>
-            <go_item number="一">
-              令<l>第七条第一号</l>及び<l>第二号</l>の計量器を使用する者又は製造し若しくは修理する者が用いる計量器であって経済産業大臣の承認を受けたもの
-            </go_item>
-            <go_item number="二">
-              都道府県知事の用いる計量器であって経済産業大臣に届け出たもの
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第十条" title="（輸入された商品）">
-        <article_item number="第十条">
-          令<l>第十条</l>の経済産業省令で定める商品は、次のとおりとする。
-          <go>
-            <go_item number="一">
-              半導体製造装置及びその部品
-            </go_item>
-            <go_item number="二">
-              植物油脂及び加工油脂
-            </go_item>
-            <go_item number="三">
-              とうもろこし
-            </go_item>
-            <go_item number="四">
-              豆類及びその調製品
-            </go_item>
-            <go_item number="五">
-              調製穀粉
-            </go_item>
-            <go_item number="六">
-              野菜及びその加工品
-            </go_item>
-            <go_item number="七">
-              果実及びその加工品
-            </go_item>
-            <go_item number="八">
-              生鮮肉類及び肉製品
-            </go_item>
-            <go_item number="九">
-              魚類、えび類及びかに類並びにこれらの加工品
-            </go_item>
-            <go_item number="十">
-              茶、コーヒー及びココアの調製品
-            </go_item>
-            <go_item number="十一">
-              香辛料
-            </go_item>
-            <go_item number="十二">
-              めん・パン類
-            </go_item>
-            <go_item number="十三">
-              菓子類
-            </go_item>
-            <go_item number="十四">
-              酪農製品
-            </go_item>
-            <go_item number="十五">
-              加工卵製品
-            </go_item>
-            <go_item number="十六">
-              ソース
-            </go_item>
-            <go_item number="十七">
-              調味料関連製品
-            </go_item>
-            <go_item number="十八">
-              アルコールを含まない飲料
-            </go_item>
-            <go_item number="十九">
-              食料品のかん詰及びびん詰（他の号に掲げるものを除く。）
-            </go_item>
-            <go_item number="二十">
-              化粧品（<l>第二十三号</l>に掲げるものを除く。）
-            </go_item>
-            <go_item number="二十一">
-              歯磨き
-            </go_item>
-            <go_item number="二十二">
-              化粧石けん
-            </go_item>
-            <go_item number="二十三">
-              医薬部外品であって次に掲げるもの
-              <go>
-                <go_item number="イ">
-                  口中清涼剤
-                </go_item>
-                <go_item number="ロ">
-                  腋臭防止剤
-                </go_item>
-                <go_item number="ハ">
-                  てんか粉類
-                </go_item>
-                <go_item number="ニ">
-                  育毛剤
-                </go_item>
-                <go_item number="ホ">
-                  除毛剤
-                </go_item>
-                <go_item number="ヘ">
-                  染毛剤
-                </go_item>
-                <go_item number="ト">
-                  薬用石けん
-                </go_item>
-                <go_item number="チ">
-                  薬用化粧品
-                </go_item>
-                <go_item number="リ">
-                  薬用歯磨き類
-                </go_item>
-              </go>
-            </go_item>
-            <go_item number="二十四">
-              ズボン（ジーンズパンツに限る。）
-            </go_item>
-            <go_item number="二十五">
-              哺乳用具
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第十一条" title="（ヤードポンド法による目盛を付した計量器）">
-        <article_item number="第十一条">
-          令<l>第十二条第一号</l>の経済産業省令で定めるものは、次の各号に掲げる計量器とする。
-          <go>
-            <go_item number="一">
-              令<l>第十二条第一号</l>イに掲げるものにあっては、経済産業大臣の承認を受けたもの（ただし、自衛隊が用いるものにあっては経済産業大臣に届け出たもの）
-            </go_item>
-            <go_item number="二">
-              令<l>第十二条第一号</l>ロに掲げるものにあっては、自衛隊が武器の一部として用いるもの（そのものが法<l>第二条第四項</l>の特定計量器（以下「特定計量器」という。）である場合にあっては経済産業大臣に届け出たものに限る。）
-            </go_item>
-            <go_item number="三">
-              令<l>第十二条第一号</l>ハに掲げるものにあっては、国、地方公共団体、独立行政法人通則法（平成十一年法律第百三号）<l>第二条第一項</l>に規定する独立行政法人（以下この号において「独立行政法人」という。）又は製造事業者が検査に用いるもの（地方公共団体又は独立行政法人が用いるものにあっては経済産業大臣に届け出たものに、製造事業者が用いるものにあっては経済産業大臣の承認を受けたものに限る。）
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="２">
-          <l>前項第一号</l>及び<l>第二号</l>に掲げる計量器が特定計量器である場合にあっては、別表第十三の中欄又は下欄に掲げる表示を付したものでなければならない。
-          </article_item>
-        </articles>
-      </body>
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（音圧レベルにおける聴感補正）">
+      <article_item number="第六条">
+        令別表第二第六号の音圧実効値に経済産業省令で定める聴感補正を行って得られる値は、その音を構成する周波数毎に別表第十に掲げる補正値を用いて次に掲げる式により算出する。<br/>　　　Ｐ＝（シグマ（Ｐｎ<sup>２</sup>・１０<sup>ａｎ／１０</sup>））<sup>１／２</sup><br/>Ｐは、音圧実効値に聴感補正を行って得られる値<br/>Ｐ<sub>ｎ</sub>は、周波数がｎヘルツである成分の音圧実効値<br/>ａｎは、周波数ｎヘルツにおける補正値 
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（振動加速度レベルにおける感覚補正）">
+      <article_item number="第七条">
+        令別表第二第七号の振動加速度実効値に経済産業省令で定める感覚補正を行って得られる値は、その振動を構成する鉛直振動の周波数毎に別表第十一に掲げる補正値を用いて次に掲げる式により算出する。<br/>　　　Ａ＝（シグマ（Ａｎ<sup>２</sup>・１０<sup>ａｎ／１０</sup>））<sup>１／２</sup><br/>Ａは、振動加速度実効値に感覚補正を行って得られる値<br/>Ａ<sub>ｎ</sub>は、周波数がｎヘルツである成分の鉛直振動の振動加速度実効値<br/>ａｎは、周波数ｎヘルツにおける補正値 
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（非法定計量単位による目盛等を付した計量器）">
+      <article_item number="第八条">
+        令<l>第七条第二号</l>の経済産業省令で定めるものは、次の各号に掲げる計量器であって、別表第十二の中欄又は下欄に掲げる表示を付したもののうち法定計量単位により計量することが著しく困難なものに用いるものとして、経済産業大臣の承認を受けたものとする。
+        <go>
+          <go_item number="一">
+            輸出すべき機械又は装置を製造する者が当該機械又は装置の購入者の指示により行う設計図面の製作又は補修に用いるもの
+          </go_item>
+          <go_item number="二">
+            国、地方公共団体又はこれらに準ずる者が輸出する貨物について当該貨物の仕向地の法令又は確立された国際的基準に従って行う検査に用いるもの
+          </go_item>
+          <go_item number="三">
+            輸出する貨物について当該貨物の購入者又はその指定する者が購入に際してする検査に用いるもの（<l>前号</l>に掲げるものを除く。）
+          </go_item>
+          <go_item number="四">
+            港湾運送事業法（昭和二十六年法律第百六十一号）<l>第三条第八号</l>の検量事業を営む者が輸出する貨物の船積又は輸入する貨物の陸揚げを行うに際してするその貨物の容積又は質量の検査に用いるもの（<l>前二号</l>に掲げるものを除く。）
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（非法定計量単位による目盛等を付した計量器）">
+      <article_item number="第九条">
+        令<l>第七条第三号</l>の経済産業省令で定めるものは、次の各号に掲げる計量器とする。
+        <go>
+          <go_item number="一">
+            令<l>第七条第一号</l>及び<l>第二号</l>の計量器を使用する者又は製造し若しくは修理する者が用いる計量器であって経済産業大臣の承認を受けたもの
+          </go_item>
+          <go_item number="二">
+            都道府県知事の用いる計量器であって経済産業大臣に届け出たもの
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（輸入された商品）">
+      <article_item number="第十条">
+        令<l>第十条</l>の経済産業省令で定める商品は、次のとおりとする。
+        <go>
+          <go_item number="一">
+            半導体製造装置及びその部品
+          </go_item>
+          <go_item number="二">
+            植物油脂及び加工油脂
+          </go_item>
+          <go_item number="三">
+            とうもろこし
+          </go_item>
+          <go_item number="四">
+            豆類及びその調製品
+          </go_item>
+          <go_item number="五">
+            調製穀粉
+          </go_item>
+          <go_item number="六">
+            野菜及びその加工品
+          </go_item>
+          <go_item number="七">
+            果実及びその加工品
+          </go_item>
+          <go_item number="八">
+            生鮮肉類及び肉製品
+          </go_item>
+          <go_item number="九">
+            魚類、えび類及びかに類並びにこれらの加工品
+          </go_item>
+          <go_item number="十">
+            茶、コーヒー及びココアの調製品
+          </go_item>
+          <go_item number="十一">
+            香辛料
+          </go_item>
+          <go_item number="十二">
+            めん・パン類
+          </go_item>
+          <go_item number="十三">
+            菓子類
+          </go_item>
+          <go_item number="十四">
+            酪農製品
+          </go_item>
+          <go_item number="十五">
+            加工卵製品
+          </go_item>
+          <go_item number="十六">
+            ソース
+          </go_item>
+          <go_item number="十七">
+            調味料関連製品
+          </go_item>
+          <go_item number="十八">
+            アルコールを含まない飲料
+          </go_item>
+          <go_item number="十九">
+            食料品のかん詰及びびん詰（他の号に掲げるものを除く。）
+          </go_item>
+          <go_item number="二十">
+            化粧品（<l>第二十三号</l>に掲げるものを除く。）
+          </go_item>
+          <go_item number="二十一">
+            歯磨き
+          </go_item>
+          <go_item number="二十二">
+            化粧石けん
+          </go_item>
+          <go_item number="二十三">
+            医薬部外品であって次に掲げるもの
+            <go>
+              <go_item number="イ">
+                口中清涼剤
+              </go_item>
+              <go_item number="ロ">
+                腋臭防止剤
+              </go_item>
+              <go_item number="ハ">
+                てんか粉類
+              </go_item>
+              <go_item number="ニ">
+                育毛剤
+              </go_item>
+              <go_item number="ホ">
+                除毛剤
+              </go_item>
+              <go_item number="ヘ">
+                染毛剤
+              </go_item>
+              <go_item number="ト">
+                薬用石けん
+              </go_item>
+              <go_item number="チ">
+                薬用化粧品
+              </go_item>
+              <go_item number="リ">
+                薬用歯磨き類
+              </go_item>
+            </go>
+          </go_item>
+          <go_item number="二十四">
+            ズボン（ジーンズパンツに限る。）
+          </go_item>
+          <go_item number="二十五">
+            哺乳用具
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（ヤードポンド法による目盛を付した計量器）">
+      <article_item number="第十一条">
+        令<l>第十二条第一号</l>の経済産業省令で定めるものは、次の各号に掲げる計量器とする。
+        <go>
+          <go_item number="一">
+            令<l>第十二条第一号</l>イに掲げるものにあっては、経済産業大臣の承認を受けたもの（ただし、自衛隊が用いるものにあっては経済産業大臣に届け出たもの）
+          </go_item>
+          <go_item number="二">
+            令<l>第十二条第一号</l>ロに掲げるものにあっては、自衛隊が武器の一部として用いるもの（そのものが法<l>第二条第四項</l>の特定計量器（以下「特定計量器」という。）である場合にあっては経済産業大臣に届け出たものに限る。）
+          </go_item>
+          <go_item number="三">
+            令<l>第十二条第一号</l>ハに掲げるものにあっては、国、地方公共団体、独立行政法人通則法（平成十一年法律第百三号）<l>第二条第一項</l>に規定する独立行政法人（以下この号において「独立行政法人」という。）又は製造事業者が検査に用いるもの（地方公共団体又は独立行政法人が用いるものにあっては経済産業大臣に届け出たものに、製造事業者が用いるものにあっては経済産業大臣の承認を受けたものに限る。）
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        <l>前項第一号</l>及び<l>第二号</l>に掲げる計量器が特定計量器である場合にあっては、別表第十三の中欄又は下欄に掲げる表示を付したものでなければならない。
+      </article_item>
+    </articles>
+  </body>
 </law>

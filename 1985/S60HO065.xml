@@ -49,76 +49,76 @@
           </go_item>
           <go_item number="四">
             <l>前三号</l>に掲げるもののほか、民間において行われる基盤技術に関する試験研究の促進に関する重要事項
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="３">
-          総務大臣及び経済産業大臣は、基本方針を定め、又はこれを変更したときは、遅滞なく、これを公表しなければならない。
-        </article_item>
-      </articles>
-      <articles number="第七条" title="（国立研究開発法人情報通信研究機構による通信・放送基盤技術に関する試験研究の促進）">
-        <article_item number="第七条">
-          国立研究開発法人情報通信研究機構（<l>第十二条</l>において「研究機構」という。）は、民間において行われる基盤技術（電気通信業及び放送業（有線放送業を含む。）の技術その他電気通信に係る電波の利用の技術のうち総務省の所掌に係るものに限る。以下この条において「通信・放送基盤技術」という。）に関する試験研究を促進するため、次の業務を行う。
-          <go>
-            <go_item number="一">
-              通信・放送基盤技術に関する試験研究を政府等（政府及び独立行政法人通則法（平成十一年法律第百三号）<l>第二条第一項</l>に規定する独立行政法人をいう。<l>第十一条第一号</l>において同じ。）以外の者に委託して行い、その成果を普及すること。
-            </go_item>
-            <go_item number="二">
-              海外から通信・放送基盤技術に関する研究者を招へいすること。
-            </go_item>
-            <go_item number="三">
-              通信・放送基盤技術に関する情報を収集し、整理し、及び提供すること。
-            </go_item>
-            <go_item number="四">
-              通信・放送基盤技術に関し調査すること。
-            </go_item>
-            <go_item number="五">
-              前各号の業務に附帯する業務を行うこと。
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第八条">
-        <article_item number="第八条">
-          削除
-        </article_item>
-      </articles>
-      <articles number="第九条">
-        <article_item number="第九条">
-          削除
-        </article_item>
-      </articles>
-      <articles number="第十条">
-        <article_item number="第十条">
-          削除
-        </article_item>
-      </articles>
-      <articles number="第十一条" title="（国立研究開発法人新エネルギー・産業技術総合開発機構の業務）">
-        <article_item number="第十一条">
-          国立研究開発法人新エネルギー・産業技術総合開発機構（以下「開発機構」という。）は、民間において行われる基盤技術（鉱業及び工業の技術のうち経済産業省の所掌に係るものに限る。以下この条において「鉱工業基盤技術」という。）に関する試験研究を促進するため、次の業務を行う。
-          <go>
-            <go_item number="一">
-              鉱工業基盤技術に関する試験研究を政府等以外の者に委託して行い、その成果を普及すること。
-            </go_item>
-            <go_item number="二">
-              海外から鉱工業基盤技術に関する研究者を招へいすること。
-            </go_item>
-            <go_item number="三">
-              鉱工業基盤技術に関する情報を収集し、整理し、及び提供すること。
-            </go_item>
-            <go_item number="四">
-              鉱工業基盤技術に関し調査すること。
-            </go_item>
-            <go_item number="五">
-              前各号の業務に附帯する業務を行うこと。
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第十二条" title="（研究機構及び開発機構の業務における配慮）">
-        <article_item number="第十二条">
-          研究機構及び開発機構は、<l>第七条</l>及び<l>前条</l>に規定する業務が円滑に実施されるよう、相互に連携を図らなければならない。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="３">
+        総務大臣及び経済産業大臣は、基本方針を定め、又はこれを変更したときは、遅滞なく、これを公表しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（国立研究開発法人情報通信研究機構による通信・放送基盤技術に関する試験研究の促進）">
+      <article_item number="第七条">
+        国立研究開発法人情報通信研究機構（<l>第十二条</l>において「研究機構」という。）は、民間において行われる基盤技術（電気通信業及び放送業（有線放送業を含む。）の技術その他電気通信に係る電波の利用の技術のうち総務省の所掌に係るものに限る。以下この条において「通信・放送基盤技術」という。）に関する試験研究を促進するため、次の業務を行う。
+        <go>
+          <go_item number="一">
+            通信・放送基盤技術に関する試験研究を政府等（政府及び独立行政法人通則法（平成十一年法律第百三号）<l>第二条第一項</l>に規定する独立行政法人をいう。<l>第十一条第一号</l>において同じ。）以外の者に委託して行い、その成果を普及すること。
+          </go_item>
+          <go_item number="二">
+            海外から通信・放送基盤技術に関する研究者を招へいすること。
+          </go_item>
+          <go_item number="三">
+            通信・放送基盤技術に関する情報を収集し、整理し、及び提供すること。
+          </go_item>
+          <go_item number="四">
+            通信・放送基盤技術に関し調査すること。
+          </go_item>
+          <go_item number="五">
+            前各号の業務に附帯する業務を行うこと。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第八条">
+      <article_item number="第八条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第九条">
+      <article_item number="第九条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第十条">
+      <article_item number="第十条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（国立研究開発法人新エネルギー・産業技術総合開発機構の業務）">
+      <article_item number="第十一条">
+        国立研究開発法人新エネルギー・産業技術総合開発機構（以下「開発機構」という。）は、民間において行われる基盤技術（鉱業及び工業の技術のうち経済産業省の所掌に係るものに限る。以下この条において「鉱工業基盤技術」という。）に関する試験研究を促進するため、次の業務を行う。
+        <go>
+          <go_item number="一">
+            鉱工業基盤技術に関する試験研究を政府等以外の者に委託して行い、その成果を普及すること。
+          </go_item>
+          <go_item number="二">
+            海外から鉱工業基盤技術に関する研究者を招へいすること。
+          </go_item>
+          <go_item number="三">
+            鉱工業基盤技術に関する情報を収集し、整理し、及び提供すること。
+          </go_item>
+          <go_item number="四">
+            鉱工業基盤技術に関し調査すること。
+          </go_item>
+          <go_item number="五">
+            前各号の業務に附帯する業務を行うこと。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（研究機構及び開発機構の業務における配慮）">
+      <article_item number="第十二条">
+        研究機構及び開発機構は、<l>第七条</l>及び<l>前条</l>に規定する業務が円滑に実施されるよう、相互に連携を図らなければならない。
+      </article_item>
+    </articles>
+  </body>
 </law>

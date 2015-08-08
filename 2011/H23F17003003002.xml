@@ -19,12 +19,12 @@
           </go_item>
           <go_item number="二">
             <l>前号</l>に掲げる者のほか、生物の多様性を保全するための活動又は当該活動の促進に寄与する活動を行う法人及び特定非営利活動法人
-            </go_item>
-            <go_item number="三">
-              生物の多様性を保全するための活動又は当該活動の促進に寄与する活動を行う個人
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+          <go_item number="三">
+            生物の多様性を保全するための活動又は当該活動の促進に寄与する活動を行う個人
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

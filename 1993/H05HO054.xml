@@ -73,17 +73,17 @@
           </go_item>
           <go_item number="三">
             <l>前二号</l>の業務に附帯する業務を行うこと。
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第五条" title="（資金の確保等）">
-        <article_item number="第五条">
-          政府は、通信・放送身体障害者利用円滑化事業の実施に必要な資金の確保又はその融通のあっせんに努めるものとする。
-        </article_item>
-        <article_item number="２">
-          総務大臣は、<l>前条</l>に規定する機構の業務の円滑な運営が図られるように、情報の提供その他の必要な配慮を行うものとする。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（資金の確保等）">
+      <article_item number="第五条">
+        政府は、通信・放送身体障害者利用円滑化事業の実施に必要な資金の確保又はその融通のあっせんに努めるものとする。
+      </article_item>
+      <article_item number="２">
+        総務大臣は、<l>前条</l>に規定する機構の業務の円滑な運営が図られるように、情報の提供その他の必要な配慮を行うものとする。
+      </article_item>
+    </articles>
+  </body>
 </law>

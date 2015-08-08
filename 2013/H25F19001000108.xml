@@ -30,48 +30,48 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の申出書には、次の各号に掲げる書類を添えなければならない。
-          <go>
-            <go_item number="一">
-              生年月日を明らかにすることができる書類
-            </go_item>
-            <go_item number="二">
-              国民年金手帳を所持しているときは、国民年金手帳
-            </go_item>
-            <go_item number="三">
-              特定期間を有する場合は、当該期間を明らかにすることができる書類
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="３">
-          第一項の申出に係る保険料の納付は、歳入徴収官事務規程（昭和二十七年大蔵省令第百四十一号）別紙<l>第四号の十五</l>書式によって行うものとする。
-        </article_item>
-      </articles>
-      <articles number="第二条" title="（令附則第四条第一項の申出）">
-        <article_item number="第二条">
-          令附則<l>第四条第一項</l>の規定による申出は、次の各号に掲げる事項を記載した申出書に、特定期間における配偶者の基礎年金番号を明らかにすることができる書類を添えて、これを機構に提出することによって行わなければならない。
-          <go>
-            <go_item number="一">
-              氏名、生年月日及び住所
-            </go_item>
-            <go_item number="二">
-              基礎年金番号
-            </go_item>
-            <go_item number="三">
-              特定期間
-            </go_item>
-            <go_item number="四">
-              特定期間における配偶者の氏名及び生年月日
-            </go_item>
-            <go_item number="五">
-              特定期間における配偶者の基礎年金番号
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第三条" title="（申出書の記載事項）">
-        <article_item number="第三条">
-          <l>前二条</l>の規定によって提出する申出書には、申出の年月日を記載し、記名押印又は自ら署名しなければならない。
-          </article_item>
-        </articles>
-      </body>
+        <go>
+          <go_item number="一">
+            生年月日を明らかにすることができる書類
+          </go_item>
+          <go_item number="二">
+            国民年金手帳を所持しているときは、国民年金手帳
+          </go_item>
+          <go_item number="三">
+            特定期間を有する場合は、当該期間を明らかにすることができる書類
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="３">
+        第一項の申出に係る保険料の納付は、歳入徴収官事務規程（昭和二十七年大蔵省令第百四十一号）別紙<l>第四号の十五</l>書式によって行うものとする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（令附則第四条第一項の申出）">
+      <article_item number="第二条">
+        令附則<l>第四条第一項</l>の規定による申出は、次の各号に掲げる事項を記載した申出書に、特定期間における配偶者の基礎年金番号を明らかにすることができる書類を添えて、これを機構に提出することによって行わなければならない。
+        <go>
+          <go_item number="一">
+            氏名、生年月日及び住所
+          </go_item>
+          <go_item number="二">
+            基礎年金番号
+          </go_item>
+          <go_item number="三">
+            特定期間
+          </go_item>
+          <go_item number="四">
+            特定期間における配偶者の氏名及び生年月日
+          </go_item>
+          <go_item number="五">
+            特定期間における配偶者の基礎年金番号
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（申出書の記載事項）">
+      <article_item number="第三条">
+        <l>前二条</l>の規定によって提出する申出書には、申出の年月日を記載し、記名押印又は自ら署名しなければならない。
+      </article_item>
+    </articles>
+  </body>
 </law>

@@ -236,51 +236,51 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の事故肥料成分票の様式は、農林水産省令で定める。
-        </article_item>
-      </articles>
-      <articles number="第六条" title="（表示の基準を定めるべき特殊肥料）">
-        <article_item number="第六条">
-          法<l>第二十二条の二第一項</l>の政令で定める種類の特殊肥料は、次に掲げるものとする。
-          <go>
-            <go_item number="一">
-              たい肥（汚泥又は魚介類の臓器を原料として生産されるものを除く。）
-            </go_item>
-            <go_item number="二">
-              動物の排せつ物
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第七条" title="（異物の混入が認められる普通肥料の種類）">
-        <article_item number="第七条">
-          法<l>第二十五条</l>ただし書（法<l>第三十三条の二第六項</l>において準用する場合を含む。）の政令で定める種類の普通肥料は、次のとおりとする。
-          <go>
-            <go_item number="一">
-              尿素
-            </go_item>
-            <go_item number="二">
-              石灰窒素
-            </go_item>
-            <go_item number="三">
-              尿素を含有する肥料（複合肥料を除く。）であつて、農林水産大臣が定める種類のもの
-            </go_item>
-            <go_item number="四">
-              過りん酸石灰
-            </go_item>
-            <go_item number="五">
-              重過りん酸石灰
-            </go_item>
-            <go_item number="六">
-              複合肥料であつて、農林水産大臣が定める種類のもの
-            </go_item>
-            <go_item number="七">
-              石灰質肥料であつて、農林水産大臣が定める種類のもの
-            </go_item>
-            <go_item number="八">
-              微量要素複合肥料であつて、農林水産大臣が定める種類のもの
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-    </body>
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（表示の基準を定めるべき特殊肥料）">
+      <article_item number="第六条">
+        法<l>第二十二条の二第一項</l>の政令で定める種類の特殊肥料は、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            たい肥（汚泥又は魚介類の臓器を原料として生産されるものを除く。）
+          </go_item>
+          <go_item number="二">
+            動物の排せつ物
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（異物の混入が認められる普通肥料の種類）">
+      <article_item number="第七条">
+        法<l>第二十五条</l>ただし書（法<l>第三十三条の二第六項</l>において準用する場合を含む。）の政令で定める種類の普通肥料は、次のとおりとする。
+        <go>
+          <go_item number="一">
+            尿素
+          </go_item>
+          <go_item number="二">
+            石灰窒素
+          </go_item>
+          <go_item number="三">
+            尿素を含有する肥料（複合肥料を除く。）であつて、農林水産大臣が定める種類のもの
+          </go_item>
+          <go_item number="四">
+            過りん酸石灰
+          </go_item>
+          <go_item number="五">
+            重過りん酸石灰
+          </go_item>
+          <go_item number="六">
+            複合肥料であつて、農林水産大臣が定める種類のもの
+          </go_item>
+          <go_item number="七">
+            石灰質肥料であつて、農林水産大臣が定める種類のもの
+          </go_item>
+          <go_item number="八">
+            微量要素複合肥料であつて、農林水産大臣が定める種類のもの
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

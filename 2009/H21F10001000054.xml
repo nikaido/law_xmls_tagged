@@ -69,42 +69,42 @@
     <articles number="第八条" title="（公聴会）">
       <article_item number="第八条">
         <l>第六条</l>の規定により指名された委員又は専門委員は、公述人に対して質疑を行うことができる。
-        </article_item>
-        <article_item number="２">
-          公述人は、委員又は専門委員に対して質疑を行うことができない。
-        </article_item>
-      </articles>
-      <articles number="第九条" title="（公聴会）">
-        <article_item number="第九条">
-          公述人は、議長の承認を得たときは、文書で意見を提示し、又は代理人に意見を述べさせることができる。
-        </article_item>
-      </articles>
-      <articles number="第十条" title="（法第二十条第三項の規定により立入検査をする職員の身分を示す証明）">
-        <article_item number="第十条">
-          法<l>第二十条第四項</l>の証明書は、別記様式による。
-        </article_item>
-      </articles>
-      <articles number="第十一条" title="（都道府県知事の行う命令の内容の報告）">
-        <article_item number="第十一条">
-          農林物資の規格化等に関する法律施行令<l>第十二条第四項</l>の規定による報告は、遅滞なく、次に掲げる事項を記載した書面を提出してしなければならない。
-          <go>
-            <go_item number="一">
-              命令をした製造業者等（法<l>第十四条第一項</l>に規定する製造業者等をいう。）の氏名又は名称及び住所
-            </go_item>
-            <go_item number="二">
-              命令をした年月日
-            </go_item>
-            <go_item number="三">
-              命令に係る農林物資の種類
-            </go_item>
-            <go_item number="四">
-              命令の内容
-            </go_item>
-            <go_item number="五">
-              その他参考となるべき事項
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-    </body>
+      </article_item>
+      <article_item number="２">
+        公述人は、委員又は専門委員に対して質疑を行うことができない。
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（公聴会）">
+      <article_item number="第九条">
+        公述人は、議長の承認を得たときは、文書で意見を提示し、又は代理人に意見を述べさせることができる。
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（法第二十条第三項の規定により立入検査をする職員の身分を示す証明）">
+      <article_item number="第十条">
+        法<l>第二十条第四項</l>の証明書は、別記様式による。
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（都道府県知事の行う命令の内容の報告）">
+      <article_item number="第十一条">
+        農林物資の規格化等に関する法律施行令<l>第十二条第四項</l>の規定による報告は、遅滞なく、次に掲げる事項を記載した書面を提出してしなければならない。
+        <go>
+          <go_item number="一">
+            命令をした製造業者等（法<l>第十四条第一項</l>に規定する製造業者等をいう。）の氏名又は名称及び住所
+          </go_item>
+          <go_item number="二">
+            命令をした年月日
+          </go_item>
+          <go_item number="三">
+            命令に係る農林物資の種類
+          </go_item>
+          <go_item number="四">
+            命令の内容
+          </go_item>
+          <go_item number="五">
+            その他参考となるべき事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

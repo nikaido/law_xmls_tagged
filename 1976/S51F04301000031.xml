@@ -27,195 +27,195 @@
         <go>
           <go_item number="一">
             <l>第七条</l>の規定による債務を負担する行為について、事項ごとにその負担する債務の限度額、その行為に基づいて支出すべき年限及びその必要な理由
-            </go_item>
-            <go_item number="二">
-              <l>第八条第二項</l>の規定による経費の指定
+          </go_item>
+          <go_item number="二">
+            <l>第八条第二項</l>の規定による経費の指定
+          </go_item>
+          <go_item number="三">
+            <l>第九条第一項</l>ただし書の規定による経費の指定
+          </go_item>
+          <go_item number="四">
+            借入金の借入限度額
+          </go_item>
+          <go_item number="五">
+            その他予算の実施に関し必要な事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（収入支出予算）">
+      <article_item number="第四条">
+        収入支出予算は、収入にあつてはその性質、支出にあつてはその目的に従つて区分するものとする。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（予算の認可申請書の添付書類等）">
+      <article_item number="第五条">
+        協会は、消防法（昭和二十三年法律第百八十六号。以下「法」という。）<l>第十六条の四十一</l>の規定による予算の認可を受けようとするときは、次の書類を添付した認可申請書を総務大臣に提出しなければならない。
+        <go>
+          <go_item number="一">
+            前事業年度の予定貸借対照表及び予定損益計算書
+          </go_item>
+          <go_item number="二">
+            当該事業年度の予定貸借対照表及び予定損益計算書
+          </go_item>
+          <go_item number="三">
+            その他当該予算の参考となる書類
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        協会は、法<l>第十六条の四十一</l>後段の規定による予算の変更の認可を受けようとするときは、変更しようとする事項及びその理由を記載した申請書を総務大臣に提出しなければならない。この場合において、変更が<l>前項第二号</l>又は<l>第三号</l>に掲げる書類の変更に係るときは、当該変更に係る書類を添付しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（予備費）">
+      <article_item number="第六条">
+        協会は、予見することができない事由による支出予算の不足を補うため、収入支出予算に予備費を設けることができる。
+      </article_item>
+      <article_item number="２">
+        協会は、予備費を使用したときは、速やかに、使用の理由、金額及び積算の基礎を明らかにした書類を総務大臣に提出しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（債務を負担する行為）">
+      <article_item number="第七条">
+        協会は、支出予算の金額の範囲内におけるもののほか、その業務を行うため必要があるときは、毎事業年度、予算をもつて総務大臣の認可を受けた金額の範囲内において、債務を負担する行為をすることができる。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（支出予算の流用等）">
+      <article_item number="第八条">
+        協会は、支出予算については、当該予算に定める目的のほかに使用してはならない。ただし、予算の実施上必要かつ適当であるときは、<l>第四条</l>の規定による区分にかかわらず、相互流用することができる。
+      </article_item>
+      <article_item number="２">
+        協会は、予算総則で指定する経費（以下この項において「指定経費」という。）の金額については、総務大臣の承認を受けなければ、指定経費の間若しくは指定経費と他の経費との間に相互流用し、又は指定経費に予備費を使用することができない。
+      </article_item>
+      <article_item number="３">
+        協会は、<l>前項</l>の規定による予算の流用又は予備費の使用について総務大臣の承認を受けようとするときは、流用又は使用の理由、金額及び積算の基礎を明らかにした書類を総務大臣に提出しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（支出予算の繰越し）">
+      <article_item number="第九条">
+        協会は、支出予算の経費の金額のうち、当該事業年度内に支出決定を終わらなかつたものについて、予算の実施上必要があるときは、これを翌事業年度に繰り越して使用することができる。ただし、予算総則で指定する経費の金額については、あらかじめ総務大臣の承認を受けなければならない。
+      </article_item>
+      <article_item number="２">
+        協会は、<l>前項</l>ただし書の規定による承認を受けようとするときは、当該事業年度末までに、当該経費の項目ごとに、繰越しを必要とする理由及び金額を明らかにした書類を総務大臣に提出しなければならない。
+      </article_item>
+      <article_item number="３">
+        協会は、<l>第一項</l>の規定による繰越しをしたときは、翌事業年度の五月三十一日までに、繰越計算書を総務大臣に提出しなければならない。
+      </article_item>
+      <article_item number="４">
+        <l>前項</l>の繰越計算書は、支出予算と同一の区分により作成し、かつ、これに次に掲げる事項を記載しなければならない。
+        <go>
+          <go_item number="一">
+            繰越しに係る経費の支出予算現額
+          </go_item>
+          <go_item number="二">
+            <l>前号</l>の支出予算現額のうち支出決定済額
+          </go_item>
+          <go_item number="三">
+            第一号の支出予算現額のうち翌事業年度への繰越額
+          </go_item>
+          <go_item number="四">
+            第一号の支出予算現額のうち不用額
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（事業計画）">
+      <article_item number="第十条">
+        法<l>第十六条の四十一</l>の事業計画には、法<l>第十六条の三十四第一項</l>各号に掲げる業務及び<l>同条第三項</l>の業務に関する計画を記載しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（決算報告書）">
+      <article_item number="第十一条">
+        法<l>第十六条の四十二第二項</l>の決算報告書は、収入支出決算書及び債務に関する計算書とする。
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の決算報告書には、<l>第三条</l>の規定により予算総則に規定した事項に係る予算の実施の結果を記載しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（収入支出決算書）">
+      <article_item number="第十二条">
+        <l>前条第一項</l>の収入支出決算書は、収入支出予算と同一の区分により作成し、かつ、これに次に掲げる事項を記載しなければならない。
+        <go>
+          <go_item number="一">
+            収入
+            <go>
+              <go_item number="イ">
+                収入予算額
               </go_item>
-              <go_item number="三">
-                <l>第九条第一項</l>ただし書の規定による経費の指定
-                </go_item>
-                <go_item number="四">
-                  借入金の借入限度額
-                </go_item>
-                <go_item number="五">
-                  その他予算の実施に関し必要な事項
-                </go_item>
-              </go>
-            </article_item>
-          </articles>
-          <articles number="第四条" title="（収入支出予算）">
-            <article_item number="第四条">
-              収入支出予算は、収入にあつてはその性質、支出にあつてはその目的に従つて区分するものとする。
-            </article_item>
-          </articles>
-          <articles number="第五条" title="（予算の認可申請書の添付書類等）">
-            <article_item number="第五条">
-              協会は、消防法（昭和二十三年法律第百八十六号。以下「法」という。）<l>第十六条の四十一</l>の規定による予算の認可を受けようとするときは、次の書類を添付した認可申請書を総務大臣に提出しなければならない。
-              <go>
-                <go_item number="一">
-                  前事業年度の予定貸借対照表及び予定損益計算書
-                </go_item>
-                <go_item number="二">
-                  当該事業年度の予定貸借対照表及び予定損益計算書
-                </go_item>
-                <go_item number="三">
-                  その他当該予算の参考となる書類
-                </go_item>
-              </go>
-            </article_item>
-            <article_item number="２">
-              協会は、法<l>第十六条の四十一</l>後段の規定による予算の変更の認可を受けようとするときは、変更しようとする事項及びその理由を記載した申請書を総務大臣に提出しなければならない。この場合において、変更が<l>前項第二号</l>又は<l>第三号</l>に掲げる書類の変更に係るときは、当該変更に係る書類を添付しなければならない。
-            </article_item>
-          </articles>
-          <articles number="第六条" title="（予備費）">
-            <article_item number="第六条">
-              協会は、予見することができない事由による支出予算の不足を補うため、収入支出予算に予備費を設けることができる。
-            </article_item>
-            <article_item number="２">
-              協会は、予備費を使用したときは、速やかに、使用の理由、金額及び積算の基礎を明らかにした書類を総務大臣に提出しなければならない。
-            </article_item>
-          </articles>
-          <articles number="第七条" title="（債務を負担する行為）">
-            <article_item number="第七条">
-              協会は、支出予算の金額の範囲内におけるもののほか、その業務を行うため必要があるときは、毎事業年度、予算をもつて総務大臣の認可を受けた金額の範囲内において、債務を負担する行為をすることができる。
-            </article_item>
-          </articles>
-          <articles number="第八条" title="（支出予算の流用等）">
-            <article_item number="第八条">
-              協会は、支出予算については、当該予算に定める目的のほかに使用してはならない。ただし、予算の実施上必要かつ適当であるときは、<l>第四条</l>の規定による区分にかかわらず、相互流用することができる。
-            </article_item>
-            <article_item number="２">
-              協会は、予算総則で指定する経費（以下この項において「指定経費」という。）の金額については、総務大臣の承認を受けなければ、指定経費の間若しくは指定経費と他の経費との間に相互流用し、又は指定経費に予備費を使用することができない。
-            </article_item>
-            <article_item number="３">
-              協会は、<l>前項</l>の規定による予算の流用又は予備費の使用について総務大臣の承認を受けようとするときは、流用又は使用の理由、金額及び積算の基礎を明らかにした書類を総務大臣に提出しなければならない。
-            </article_item>
-          </articles>
-          <articles number="第九条" title="（支出予算の繰越し）">
-            <article_item number="第九条">
-              協会は、支出予算の経費の金額のうち、当該事業年度内に支出決定を終わらなかつたものについて、予算の実施上必要があるときは、これを翌事業年度に繰り越して使用することができる。ただし、予算総則で指定する経費の金額については、あらかじめ総務大臣の承認を受けなければならない。
-            </article_item>
-            <article_item number="２">
-              協会は、<l>前項</l>ただし書の規定による承認を受けようとするときは、当該事業年度末までに、当該経費の項目ごとに、繰越しを必要とする理由及び金額を明らかにした書類を総務大臣に提出しなければならない。
-            </article_item>
-            <article_item number="３">
-              協会は、<l>第一項</l>の規定による繰越しをしたときは、翌事業年度の五月三十一日までに、繰越計算書を総務大臣に提出しなければならない。
-            </article_item>
-            <article_item number="４">
-              <l>前項</l>の繰越計算書は、支出予算と同一の区分により作成し、かつ、これに次に掲げる事項を記載しなければならない。
-                <go>
-                  <go_item number="一">
-                    繰越しに係る経費の支出予算現額
-                  </go_item>
-                  <go_item number="二">
-                    <l>前号</l>の支出予算現額のうち支出決定済額
-                    </go_item>
-                    <go_item number="三">
-                      第一号の支出予算現額のうち翌事業年度への繰越額
-                    </go_item>
-                    <go_item number="四">
-                      第一号の支出予算現額のうち不用額
-                    </go_item>
-                  </go>
-                </article_item>
-              </articles>
-              <articles number="第十条" title="（事業計画）">
-                <article_item number="第十条">
-                  法<l>第十六条の四十一</l>の事業計画には、法<l>第十六条の三十四第一項</l>各号に掲げる業務及び<l>同条第三項</l>の業務に関する計画を記載しなければならない。
-                </article_item>
-              </articles>
-              <articles number="第十一条" title="（決算報告書）">
-                <article_item number="第十一条">
-                  法<l>第十六条の四十二第二項</l>の決算報告書は、収入支出決算書及び債務に関する計算書とする。
-                </article_item>
-                <article_item number="２">
-                  <l>前項</l>の決算報告書には、<l>第三条</l>の規定により予算総則に規定した事項に係る予算の実施の結果を記載しなければならない。
-                  </article_item>
-                </articles>
-                <articles number="第十二条" title="（収入支出決算書）">
-                  <article_item number="第十二条">
-                    <l>前条第一項</l>の収入支出決算書は、収入支出予算と同一の区分により作成し、かつ、これに次に掲げる事項を記載しなければならない。
-                      <go>
-                        <go_item number="一">
-                          収入
-                          <go>
-                            <go_item number="イ">
-                              収入予算額
-                            </go_item>
-                            <go_item number="ロ">
-                              収入決定済額
-                            </go_item>
-                            <go_item number="ハ">
-                              収入予算額と収入決定済額との差額
-                            </go_item>
-                          </go>
-                        </go_item>
-                        <go_item number="二">
-                          支出
-                          <go>
-                            <go_item number="イ">
-                              支出予算額
-                            </go_item>
-                            <go_item number="ロ">
-                              前事業年度からの繰越額
-                            </go_item>
-                            <go_item number="ハ">
-                              予備費の使用の金額及びその理由
-                            </go_item>
-                            <go_item number="ニ">
-                              流用の金額及びその理由
-                            </go_item>
-                            <go_item number="ホ">
-                              支出予算現額
-                            </go_item>
-                            <go_item number="ヘ">
-                              支出決定済額
-                            </go_item>
-                            <go_item number="ト">
-                              翌事業年度への繰越額
-                            </go_item>
-                            <go_item number="チ">
-                              不用額
-                            </go_item>
-                          </go>
-                        </go_item>
-                      </go>
-                    </article_item>
-                  </articles>
-                  <articles number="第十三条" title="（債務に関する計算書）">
-                    <article_item number="第十三条">
-                      <l>第十三条第一項</l>の債務に関する計算書には、<l>第七条</l>の規定により負担した債務の金額を事項ごとに記載しなければならない。
-                      </article_item>
-                    </articles>
-                    <articles number="第十四条" title="（余裕金の運用）">
-                      <article_item number="第十四条">
-                        協会は、次の方法によるほか、業務上の余裕金を運用してはならない。
-                        <go>
-                          <go_item number="一">
-                            国債、地方債、特別の法律により法人の発行する債券、貸付信託の受益証券その他確実と認められる有価証券の取得
-                          </go_item>
-                          <go_item number="二">
-                            銀行その他総務大臣の指定する金融機関への預金
-                          </go_item>
-                          <go_item number="三">
-                            信託会社（信託業法（平成十六年法律第百五十四号）<l>第三条</l>又は<l>第五十三条第一項</l>の免許を受けたものに限る。）又は信託業務を営む金融機関への金銭信託
-                          </go_item>
-                          <go_item number="四">
-                            その他理事長が総務大臣の承認を得て定める運用方法
-                          </go_item>
-                        </go>
-                      </article_item>
-                    </articles>
-                    <articles number="第十五条" title="（会計規程）">
-                      <article_item number="第十五条">
-                        協会は、その財務及び会計に関し、会計規程を定めなければならない。
-                      </article_item>
-                      <article_item number="２">
-                        協会は、<l>前項</l>の会計規程を定めようとするときは、その基本的事項について総務大臣の承認を受けなければならない。これを変更しようとするときも、同様とする。
-                      </article_item>
-                      <article_item number="３">
-                        協会は、<l>第一項</l>の会計規程を制定し、又は変更したときは、その理由及び内容を明らかにして、遅滞なく、総務大臣に届け出なければならない。
-                      </article_item>
-                    </articles>
-                  </body>
+              <go_item number="ロ">
+                収入決定済額
+              </go_item>
+              <go_item number="ハ">
+                収入予算額と収入決定済額との差額
+              </go_item>
+            </go>
+          </go_item>
+          <go_item number="二">
+            支出
+            <go>
+              <go_item number="イ">
+                支出予算額
+              </go_item>
+              <go_item number="ロ">
+                前事業年度からの繰越額
+              </go_item>
+              <go_item number="ハ">
+                予備費の使用の金額及びその理由
+              </go_item>
+              <go_item number="ニ">
+                流用の金額及びその理由
+              </go_item>
+              <go_item number="ホ">
+                支出予算現額
+              </go_item>
+              <go_item number="ヘ">
+                支出決定済額
+              </go_item>
+              <go_item number="ト">
+                翌事業年度への繰越額
+              </go_item>
+              <go_item number="チ">
+                不用額
+              </go_item>
+            </go>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十三条" title="（債務に関する計算書）">
+      <article_item number="第十三条">
+        <l>第十三条第一項</l>の債務に関する計算書には、<l>第七条</l>の規定により負担した債務の金額を事項ごとに記載しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十四条" title="（余裕金の運用）">
+      <article_item number="第十四条">
+        協会は、次の方法によるほか、業務上の余裕金を運用してはならない。
+        <go>
+          <go_item number="一">
+            国債、地方債、特別の法律により法人の発行する債券、貸付信託の受益証券その他確実と認められる有価証券の取得
+          </go_item>
+          <go_item number="二">
+            銀行その他総務大臣の指定する金融機関への預金
+          </go_item>
+          <go_item number="三">
+            信託会社（信託業法（平成十六年法律第百五十四号）<l>第三条</l>又は<l>第五十三条第一項</l>の免許を受けたものに限る。）又は信託業務を営む金融機関への金銭信託
+          </go_item>
+          <go_item number="四">
+            その他理事長が総務大臣の承認を得て定める運用方法
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十五条" title="（会計規程）">
+      <article_item number="第十五条">
+        協会は、その財務及び会計に関し、会計規程を定めなければならない。
+      </article_item>
+      <article_item number="２">
+        協会は、<l>前項</l>の会計規程を定めようとするときは、その基本的事項について総務大臣の承認を受けなければならない。これを変更しようとするときも、同様とする。
+      </article_item>
+      <article_item number="３">
+        協会は、<l>第一項</l>の会計規程を制定し、又は変更したときは、その理由及び内容を明らかにして、遅滞なく、総務大臣に届け出なければならない。
+      </article_item>
+    </articles>
+  </body>
 </law>

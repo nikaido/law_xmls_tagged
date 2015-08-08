@@ -63,100 +63,100 @@
         </article_item>
         <article_item number="４">
           <l>前二項</l>の規定は、司法制度改革推進計画の変更について準用する。
-          </article_item>
-        </articles>
-      </section>
-      <section title="第四章　司法制度改革推進本部" type="Sho">
-        <articles number="第八条" title="（設置）">
-          <article_item number="第八条">
-            司法制度改革を総合的かつ集中的に推進するため、内閣に、司法制度改革推進本部（以下「本部」という。）を置く。
-          </article_item>
-        </articles>
-        <articles number="第九条" title="（所掌事務）">
-          <article_item number="第九条">
-            本部は、次に掲げる事務をつかさどる。
-            <go>
-              <go_item number="一">
-                司法制度改革の推進に関する総合調整に関すること。
-              </go_item>
-              <go_item number="二">
-                司法制度改革推進計画の作成及び推進に関すること。
-              </go_item>
-              <go_item number="三">
-                司法制度改革の総合的かつ集中的な推進のために必要な法律案及び政令案の立案に関すること。
-              </go_item>
-              <go_item number="四">
-                司法制度改革の推進に関する関係機関及び関係団体との連絡調整に関すること。
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-        <articles number="第十条" title="（組織）">
-          <article_item number="第十条">
-            本部は、司法制度改革推進本部長、司法制度改革推進副本部長及び司法制度改革推進本部員をもって組織する。
-          </article_item>
-        </articles>
-        <articles number="第十一条" title="（司法制度改革推進本部長）">
-          <article_item number="第十一条">
-            本部の長は、司法制度改革推進本部長（以下「本部長」という。）とし、内閣総理大臣をもって充てる。
-          </article_item>
-          <article_item number="２">
-            本部長は、本部の事務を総括し、所部の職員を指揮監督する。
-          </article_item>
-        </articles>
-        <articles number="第十二条" title="（司法制度改革推進副本部長）">
-          <article_item number="第十二条">
-            本部に、司法制度改革推進副本部長（以下「副本部長」という。）を置き、国務大臣をもって充てる。
-          </article_item>
-          <article_item number="２">
-            副本部長は、本部長の職務を助ける。
-          </article_item>
-        </articles>
-        <articles number="第十三条" title="（司法制度改革推進本部員）">
-          <article_item number="第十三条">
-            本部に、司法制度改革推進本部員（以下「本部員」という。）を置く。
-          </article_item>
-          <article_item number="２">
-            本部員は、本部長及び副本部長以外のすべての国務大臣をもって充てる。
-          </article_item>
-        </articles>
-        <articles number="第十四条" title="（資料の提出その他の協力）">
-          <article_item number="第十四条">
-            本部は、その所掌事務を遂行するため必要があると認めるときは、関係行政機関、最高裁判所及び日本弁護士連合会に対して、資料の提出、意見の開陳、説明その他必要な協力を求めることができる。
-          </article_item>
-          <article_item number="２">
-            本部は、その所掌事務を遂行するため特に必要があると認めるときは、<l>前項</l>に規定する者以外の者に対しても、必要な協力を依頼することができる。
-          </article_item>
-        </articles>
-        <articles number="第十五条" title="（事務局）">
-          <article_item number="第十五条">
-            本部に、その事務を処理させるため、事務局を置く。
-          </article_item>
-          <article_item number="２">
-            事務局に、事務局長その他の職員を置く。
-          </article_item>
-          <article_item number="３">
-            事務局長は、関係のある他の職を占める者をもって充てられるものとする。
-          </article_item>
-          <article_item number="４">
-            事務局長は、本部長の命を受け、局務を掌理する。
-          </article_item>
-        </articles>
-        <articles number="第十六条" title="（設置期限）">
-          <article_item number="第十六条">
-            本部は、その設置の日から起算して三年を経過する日まで置かれるものとする。
-          </article_item>
-        </articles>
-        <articles number="第十七条" title="（主任の大臣）">
-          <article_item number="第十七条">
-            本部に係る事項については、内閣法（昭和二十二年法律第五号）にいう主任の大臣は、内閣総理大臣とする。
-          </article_item>
-        </articles>
-        <articles number="第十八条" title="（政令への委任）">
-          <article_item number="第十八条">
-            この法律に定めるもののほか、本部に関し必要な事項は、政令で定める。
-          </article_item>
-        </articles>
-      </section>
-    </body>
+        </article_item>
+      </articles>
+    </section>
+    <section title="第四章　司法制度改革推進本部" type="Sho">
+      <articles number="第八条" title="（設置）">
+        <article_item number="第八条">
+          司法制度改革を総合的かつ集中的に推進するため、内閣に、司法制度改革推進本部（以下「本部」という。）を置く。
+        </article_item>
+      </articles>
+      <articles number="第九条" title="（所掌事務）">
+        <article_item number="第九条">
+          本部は、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              司法制度改革の推進に関する総合調整に関すること。
+            </go_item>
+            <go_item number="二">
+              司法制度改革推進計画の作成及び推進に関すること。
+            </go_item>
+            <go_item number="三">
+              司法制度改革の総合的かつ集中的な推進のために必要な法律案及び政令案の立案に関すること。
+            </go_item>
+            <go_item number="四">
+              司法制度改革の推進に関する関係機関及び関係団体との連絡調整に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第十条" title="（組織）">
+        <article_item number="第十条">
+          本部は、司法制度改革推進本部長、司法制度改革推進副本部長及び司法制度改革推進本部員をもって組織する。
+        </article_item>
+      </articles>
+      <articles number="第十一条" title="（司法制度改革推進本部長）">
+        <article_item number="第十一条">
+          本部の長は、司法制度改革推進本部長（以下「本部長」という。）とし、内閣総理大臣をもって充てる。
+        </article_item>
+        <article_item number="２">
+          本部長は、本部の事務を総括し、所部の職員を指揮監督する。
+        </article_item>
+      </articles>
+      <articles number="第十二条" title="（司法制度改革推進副本部長）">
+        <article_item number="第十二条">
+          本部に、司法制度改革推進副本部長（以下「副本部長」という。）を置き、国務大臣をもって充てる。
+        </article_item>
+        <article_item number="２">
+          副本部長は、本部長の職務を助ける。
+        </article_item>
+      </articles>
+      <articles number="第十三条" title="（司法制度改革推進本部員）">
+        <article_item number="第十三条">
+          本部に、司法制度改革推進本部員（以下「本部員」という。）を置く。
+        </article_item>
+        <article_item number="２">
+          本部員は、本部長及び副本部長以外のすべての国務大臣をもって充てる。
+        </article_item>
+      </articles>
+      <articles number="第十四条" title="（資料の提出その他の協力）">
+        <article_item number="第十四条">
+          本部は、その所掌事務を遂行するため必要があると認めるときは、関係行政機関、最高裁判所及び日本弁護士連合会に対して、資料の提出、意見の開陳、説明その他必要な協力を求めることができる。
+        </article_item>
+        <article_item number="２">
+          本部は、その所掌事務を遂行するため特に必要があると認めるときは、<l>前項</l>に規定する者以外の者に対しても、必要な協力を依頼することができる。
+        </article_item>
+      </articles>
+      <articles number="第十五条" title="（事務局）">
+        <article_item number="第十五条">
+          本部に、その事務を処理させるため、事務局を置く。
+        </article_item>
+        <article_item number="２">
+          事務局に、事務局長その他の職員を置く。
+        </article_item>
+        <article_item number="３">
+          事務局長は、関係のある他の職を占める者をもって充てられるものとする。
+        </article_item>
+        <article_item number="４">
+          事務局長は、本部長の命を受け、局務を掌理する。
+        </article_item>
+      </articles>
+      <articles number="第十六条" title="（設置期限）">
+        <article_item number="第十六条">
+          本部は、その設置の日から起算して三年を経過する日まで置かれるものとする。
+        </article_item>
+      </articles>
+      <articles number="第十七条" title="（主任の大臣）">
+        <article_item number="第十七条">
+          本部に係る事項については、内閣法（昭和二十二年法律第五号）にいう主任の大臣は、内閣総理大臣とする。
+        </article_item>
+      </articles>
+      <articles number="第十八条" title="（政令への委任）">
+        <article_item number="第十八条">
+          この法律に定めるもののほか、本部に関し必要な事項は、政令で定める。
+        </article_item>
+      </articles>
+    </section>
+  </body>
 </law>

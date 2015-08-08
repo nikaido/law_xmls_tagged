@@ -96,57 +96,57 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の農薬使用者は、航空機を用いて農薬を使用しようとする区域（以下「対象区域」という。）において、風速及び風向を観測し、対象区域外に農薬が飛散することを防止するために必要な措置を講じるよう努めなければならない。
-        </article_item>
-      </articles>
-      <articles number="第五条" title="（ゴルフ場における農薬の使用）">
-        <article_item number="第五条">
-          農薬使用者は、ゴルフ場において農薬を使用しようとするときは、毎年度、使用しようとする最初の日までに、次に掲げる事項を記載した農薬使用計画書を農林水産大臣に提出しなければならない。これを変更しようとするときも、同様とする。
-          <go>
-            <go_item number="一">
-              当該農薬使用者の氏名及び住所
-            </go_item>
-            <go_item number="二">
-              当該年度のゴルフ場における農薬の使用計画
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第六条" title="（住宅地等における農薬の使用）">
-        <article_item number="第六条">
-          農薬使用者は、住宅の用に供する土地及びこれに近接する土地において農薬を使用するときは、農薬が飛散することを防止するために必要な措置を講じるよう努めなければならない。
-        </article_item>
-      </articles>
-      <articles number="第七条" title="（水田における農薬の使用）">
-        <article_item number="第七条">
-          農薬使用者は、水田において別表第一に掲げる農薬を使用するときは、当該農薬が流出することを防止するために必要な措置を講じるよう努めなければならない。
-        </article_item>
-      </articles>
-      <articles number="第八条" title="（被覆を要する農薬の使用）">
-        <article_item number="第八条">
-          農薬使用者は、別表第二に掲げる農薬を使用するときは、農薬を使用した土壌から当該農薬が揮散することを防止するために必要な措置を講じるよう努めなければならない。
-        </article_item>
-      </articles>
-      <articles number="第九条" title="（帳簿の記載）">
-        <article_item number="第九条">
-          農薬使用者は、農薬を使用したときは、次に掲げる事項を帳簿に記載するよう努めなければならない。
-          <go>
-            <go_item number="一">
-              農薬を使用した年月日
-            </go_item>
-            <go_item number="二">
-              農薬を使用した場所
-            </go_item>
-            <go_item number="三">
-              農薬を使用した農作物等
-            </go_item>
-            <go_item number="四">
-              使用した農薬の種類又は名称
-            </go_item>
-            <go_item number="五">
-              使用した農薬の単位面積当たりの使用量又は希釈倍数
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-    </body>
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（ゴルフ場における農薬の使用）">
+      <article_item number="第五条">
+        農薬使用者は、ゴルフ場において農薬を使用しようとするときは、毎年度、使用しようとする最初の日までに、次に掲げる事項を記載した農薬使用計画書を農林水産大臣に提出しなければならない。これを変更しようとするときも、同様とする。
+        <go>
+          <go_item number="一">
+            当該農薬使用者の氏名及び住所
+          </go_item>
+          <go_item number="二">
+            当該年度のゴルフ場における農薬の使用計画
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（住宅地等における農薬の使用）">
+      <article_item number="第六条">
+        農薬使用者は、住宅の用に供する土地及びこれに近接する土地において農薬を使用するときは、農薬が飛散することを防止するために必要な措置を講じるよう努めなければならない。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（水田における農薬の使用）">
+      <article_item number="第七条">
+        農薬使用者は、水田において別表第一に掲げる農薬を使用するときは、当該農薬が流出することを防止するために必要な措置を講じるよう努めなければならない。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（被覆を要する農薬の使用）">
+      <article_item number="第八条">
+        農薬使用者は、別表第二に掲げる農薬を使用するときは、農薬を使用した土壌から当該農薬が揮散することを防止するために必要な措置を講じるよう努めなければならない。
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（帳簿の記載）">
+      <article_item number="第九条">
+        農薬使用者は、農薬を使用したときは、次に掲げる事項を帳簿に記載するよう努めなければならない。
+        <go>
+          <go_item number="一">
+            農薬を使用した年月日
+          </go_item>
+          <go_item number="二">
+            農薬を使用した場所
+          </go_item>
+          <go_item number="三">
+            農薬を使用した農作物等
+          </go_item>
+          <go_item number="四">
+            使用した農薬の種類又は名称
+          </go_item>
+          <go_item number="五">
+            使用した農薬の単位面積当たりの使用量又は希釈倍数
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

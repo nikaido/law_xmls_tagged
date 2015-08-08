@@ -91,27 +91,27 @@
             </go_item>
             <go_item number="三">
               <l>前二号</l>の業務に附帯する業務を行うこと。
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-      </section>
-      <section title="第四章　地方公共団体の講ずる措置等" type="Sho">
-        <articles number="第八条" title="（市町村の講ずる措置）">
-          <article_item number="第八条">
-            市町村は、福祉用具の利用者がその心身の状況及びその置かれている環境に応じて、福祉用具を適切に利用できるよう、福祉用具に関する情報の提供、相談その他必要な措置を講ずるように努めなければならない。
-          </article_item>
-        </articles>
-        <articles number="第九条" title="（都道府県の講ずる措置）">
-          <article_item number="第九条">
-            都道府県は、福祉用具に関する情報の提供及び相談のうち専門的な知識及び技術を必要とするものを行うとともに、<l>前条</l>に規定する措置の実施に関し助言その他の援助を行うように努めなければならない。
-          </article_item>
-        </articles>
-        <articles number="第十条" title="（関係機関等との連携）">
-          <article_item number="第十条">
-            都道府県及び市町村は、<l>前二条</l>に規定する措置の実施に当たっては、関係機関及び関係団体等との連携に努めなければならない。
-          </article_item>
-        </articles>
-      </section>
-    </body>
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </section>
+    <section title="第四章　地方公共団体の講ずる措置等" type="Sho">
+      <articles number="第八条" title="（市町村の講ずる措置）">
+        <article_item number="第八条">
+          市町村は、福祉用具の利用者がその心身の状況及びその置かれている環境に応じて、福祉用具を適切に利用できるよう、福祉用具に関する情報の提供、相談その他必要な措置を講ずるように努めなければならない。
+        </article_item>
+      </articles>
+      <articles number="第九条" title="（都道府県の講ずる措置）">
+        <article_item number="第九条">
+          都道府県は、福祉用具に関する情報の提供及び相談のうち専門的な知識及び技術を必要とするものを行うとともに、<l>前条</l>に規定する措置の実施に関し助言その他の援助を行うように努めなければならない。
+        </article_item>
+      </articles>
+      <articles number="第十条" title="（関係機関等との連携）">
+        <article_item number="第十条">
+          都道府県及び市町村は、<l>前二条</l>に規定する措置の実施に当たっては、関係機関及び関係団体等との連携に努めなければならない。
+        </article_item>
+      </articles>
+    </section>
+  </body>
 </law>

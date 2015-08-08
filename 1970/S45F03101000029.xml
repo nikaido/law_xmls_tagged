@@ -204,94 +204,94 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の調査事項の細目については、内閣総理大臣が定める調査票による。
-        </article_item>
-      </articles>
-      <articles number="第七条" title="（申告の義務及び方法）">
-        <article_item number="第七条">
-          内閣総理大臣は、都道府県知事に調査票を配布するものとし、都道府県知事は、内閣総理大臣の定めるところにより、調査対象市町村の長及びその他の調査対象団体の代表者に調査票を配布するものとする。
-        </article_item>
-        <article_item number="２">
-          <l>前項</l>の調査票を配布された都道府県知事、調査対象市町村の長及びその他の調査対象団体の代表者は、<l>前条</l>に規定する事項について申告しなければならない。
-          </article_item>
-          <article_item number="３">
-            <l>前項</l>の規定による申告は、配布された調査票に所定の事項を記入したうえ、都道府県知事にあつては内閣総理大臣に、調査対象市町村の長及びその他の調査対象団体の代表者にあつては都道府県知事に、当該調査票を提出することにより行なう。
-            </article_item>
-          </articles>
-          <articles number="第八条" title="（調査票の審査、整理及び提出）">
-            <article_item number="第八条">
-              都道府県知事は、<l>前条第三項</l>の規定により調査対象市町村の長及びその他の調査対象団体の代表者から提出された調査票並びに当該都道府県の調査票の内容を審査、整理して、内閣総理大臣の定める期日までに提出しなければならない。
-            </article_item>
-          </articles>
-          <articles number="第九条" title="（集計及び公表）">
-            <article_item number="第九条">
-              内閣総理大臣は、調査票を審査し、評価額を算定して集計し、すみやかにその結果を公表するものとする。
-            </article_item>
-          </articles>
-          <articles number="第十条" title="（調査の執行）">
-            <article_item number="第十条">
-              都道府県知事は、内閣総理大臣の指揮監督を受けて、その管轄区域内の地方公共団体資産調査の執行をつかさどる。
-            </article_item>
-          </articles>
-          <articles number="第十一条" title="（統計従事者）">
-            <article_item number="第十一条">
-              地方公共団体資産調査には、統計法<l>第十条第三項</l>ただし書の規定により、<l>同条第一項</l>及び<l>第二項</l>に定める者以外の者も従事させることができる。
-            </article_item>
-          </articles>
-          <articles number="第十二条" title="（調査票の使用）">
-            <article_item number="第十二条">
-              調査票は、統計法<l>第十五条第一項</l>の規定により、統計上の目的以外に使用してはならない。
-            </article_item>
-          </articles>
-          <articles number="第十三条" title="（関係書類の保存）">
-            <article_item number="第十三条">
-              地方公共団体資産調査の関係書類は、次の区分によつて保存しなければならない。<br/>
-              <table>
-                <tr>
-                  <td>
-                    関係書類名
-                  </td>
-                  <td>
-                    保存期間
-                  </td>
-                  <td>
-                    保存責任者
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    調査票
-                  </td>
-                  <td>
-                    次回調査まで
-                  </td>
-                  <td>
-                    内閣総理大臣
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    調査票を集録した磁気テープ
-                  </td>
-                  <td>
-                    永久
-                  </td>
-                  <td>
-                    内閣総理大臣
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    結果原表
-                  </td>
-                  <td>
-                    永久
-                  </td>
-                  <td>
-                    内閣総理大臣
-                  </td>
-                </tr>
-              </table>
-            </article_item>
-          </articles>
-        </body>
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（申告の義務及び方法）">
+      <article_item number="第七条">
+        内閣総理大臣は、都道府県知事に調査票を配布するものとし、都道府県知事は、内閣総理大臣の定めるところにより、調査対象市町村の長及びその他の調査対象団体の代表者に調査票を配布するものとする。
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の調査票を配布された都道府県知事、調査対象市町村の長及びその他の調査対象団体の代表者は、<l>前条</l>に規定する事項について申告しなければならない。
+      </article_item>
+      <article_item number="３">
+        <l>前項</l>の規定による申告は、配布された調査票に所定の事項を記入したうえ、都道府県知事にあつては内閣総理大臣に、調査対象市町村の長及びその他の調査対象団体の代表者にあつては都道府県知事に、当該調査票を提出することにより行なう。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（調査票の審査、整理及び提出）">
+      <article_item number="第八条">
+        都道府県知事は、<l>前条第三項</l>の規定により調査対象市町村の長及びその他の調査対象団体の代表者から提出された調査票並びに当該都道府県の調査票の内容を審査、整理して、内閣総理大臣の定める期日までに提出しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（集計及び公表）">
+      <article_item number="第九条">
+        内閣総理大臣は、調査票を審査し、評価額を算定して集計し、すみやかにその結果を公表するものとする。
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（調査の執行）">
+      <article_item number="第十条">
+        都道府県知事は、内閣総理大臣の指揮監督を受けて、その管轄区域内の地方公共団体資産調査の執行をつかさどる。
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（統計従事者）">
+      <article_item number="第十一条">
+        地方公共団体資産調査には、統計法<l>第十条第三項</l>ただし書の規定により、<l>同条第一項</l>及び<l>第二項</l>に定める者以外の者も従事させることができる。
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（調査票の使用）">
+      <article_item number="第十二条">
+        調査票は、統計法<l>第十五条第一項</l>の規定により、統計上の目的以外に使用してはならない。
+      </article_item>
+    </articles>
+    <articles number="第十三条" title="（関係書類の保存）">
+      <article_item number="第十三条">
+        地方公共団体資産調査の関係書類は、次の区分によつて保存しなければならない。<br/>
+        <table>
+          <tr>
+            <td>
+              関係書類名
+            </td>
+            <td>
+              保存期間
+            </td>
+            <td>
+              保存責任者
+            </td>
+          </tr>
+          <tr>
+            <td>
+              調査票
+            </td>
+            <td>
+              次回調査まで
+            </td>
+            <td>
+              内閣総理大臣
+            </td>
+          </tr>
+          <tr>
+            <td>
+              調査票を集録した磁気テープ
+            </td>
+            <td>
+              永久
+            </td>
+            <td>
+              内閣総理大臣
+            </td>
+          </tr>
+          <tr>
+            <td>
+              結果原表
+            </td>
+            <td>
+              永久
+            </td>
+            <td>
+              内閣総理大臣
+            </td>
+          </tr>
+        </table>
+      </article_item>
+    </articles>
+  </body>
 </law>

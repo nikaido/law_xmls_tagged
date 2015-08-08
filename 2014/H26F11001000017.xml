@@ -97,31 +97,31 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>各号に掲げる方法は、受信者がファイルへの記録を出力することにより書面を作成することができるものでなければならない。
-        </article_item>
-      </articles>
-      <articles number="第八条" title="（電磁的記録に記録された情報を電磁的方法により不特定多数の者が提供を受けることができる状態に置く措置）">
-        <article_item number="第八条">
-          法<l>第三十条第五項</l>の総務省令で定める措置は、電磁的記録に記録された事項を紙面又は映像面に表示する方法とする。
-        </article_item>
-      </articles>
-      <articles number="第九条" title="（監事の監査報告の内容）">
-        <article_item number="第九条">
-          監事は、財務諸表及び決算報告書を受領したときは、次に掲げる事項を内容とする監査報告を作成しなければならない。
-          <go>
-            <go_item number="一">
-              監事の監査の方法及びその内容
-            </go_item>
-            <go_item number="二">
-              重要な後発事象
-            </go_item>
-            <go_item number="三">
-              監査のため必要な調査ができなかったときは、その旨及びその理由
-            </go_item>
-            <go_item number="四">
-              監査報告を作成した日
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-    </body>
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（電磁的記録に記録された情報を電磁的方法により不特定多数の者が提供を受けることができる状態に置く措置）">
+      <article_item number="第八条">
+        法<l>第三十条第五項</l>の総務省令で定める措置は、電磁的記録に記録された事項を紙面又は映像面に表示する方法とする。
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（監事の監査報告の内容）">
+      <article_item number="第九条">
+        監事は、財務諸表及び決算報告書を受領したときは、次に掲げる事項を内容とする監査報告を作成しなければならない。
+        <go>
+          <go_item number="一">
+            監事の監査の方法及びその内容
+          </go_item>
+          <go_item number="二">
+            重要な後発事象
+          </go_item>
+          <go_item number="三">
+            監査のため必要な調査ができなかったときは、その旨及びその理由
+          </go_item>
+          <go_item number="四">
+            監査報告を作成した日
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

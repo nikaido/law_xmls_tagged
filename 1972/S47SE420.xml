@@ -38,34 +38,34 @@
         <go>
           <go_item number="一">
             <l>第一条</l>各号に掲げる設備
-            </go_item>
-            <go_item number="二">
-              冷却用のみに使用される冷凍設備
-            </go_item>
-            <go_item number="三">
-              温水又は冷水の貯水そう
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第四条" title="（報告の徴収）">
-        <article_item number="第四条">
-          法<l>第二十七条</l>の規定により経済産業大臣が熱供給事業者に対し報告をさせることができる事項は、次のとおりとする。
-          <go>
-            <go_item number="一">
-              供給業務の運営に関する事項
-            </go_item>
-            <go_item number="二">
-              導管の工事並びに熱供給施設の維持及び運用の保安に関する事項
-            </go_item>
-            <go_item number="三">
-              財務計算に関する事項
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="２">
-          法<l>第二十七条</l>の規定により経済産業大臣が法<l>第二十四条</l>に規定する者に対し報告をさせることができる事項は、<l>同条</l>の経済産業省令で定める場所に設置される<l>同条</l>に規定する導管の工事、維持及び運用の保安に関する事項とする。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+          <go_item number="二">
+            冷却用のみに使用される冷凍設備
+          </go_item>
+          <go_item number="三">
+            温水又は冷水の貯水そう
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（報告の徴収）">
+      <article_item number="第四条">
+        法<l>第二十七条</l>の規定により経済産業大臣が熱供給事業者に対し報告をさせることができる事項は、次のとおりとする。
+        <go>
+          <go_item number="一">
+            供給業務の運営に関する事項
+          </go_item>
+          <go_item number="二">
+            導管の工事並びに熱供給施設の維持及び運用の保安に関する事項
+          </go_item>
+          <go_item number="三">
+            財務計算に関する事項
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        法<l>第二十七条</l>の規定により経済産業大臣が法<l>第二十四条</l>に規定する者に対し報告をさせることができる事項は、<l>同条</l>の経済産業省令で定める場所に設置される<l>同条</l>に規定する導管の工事、維持及び運用の保安に関する事項とする。
+      </article_item>
+    </articles>
+  </body>
 </law>

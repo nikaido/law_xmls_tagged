@@ -33,33 +33,33 @@
           </go_item>
           <go_item number="二">
             <l>前条第二号</l>に該当する者
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第三条" title="（書面の交付）">
-        <article_item number="第三条">
-          市町村長は、次に掲げる事項を記載した書面を、<l>第一条第一号</l>又は<l>前条第一号</l>の特定捕獲等に参加した者の求めに応じて交付するものとする。
-          <go>
-            <go_item number="一">
-              特定捕獲等に参加した年月日
-            </go_item>
-            <go_item number="二">
-              特定捕獲等に参加した場所
-            </go_item>
-            <go_item number="三">
-              特定捕獲等の対象とした鳥獣の種類
-            </go_item>
-            <go_item number="四">
-              特定捕獲等に参加した際に使用した猟銃の種類
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第四条" title="（書面の交付）">
-        <article_item number="第四条">
-          <l>前条</l>の書面の様式は、別記様式のとおりとする。
-          </article_item>
-        </articles>
-      </body>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（書面の交付）">
+      <article_item number="第三条">
+        市町村長は、次に掲げる事項を記載した書面を、<l>第一条第一号</l>又は<l>前条第一号</l>の特定捕獲等に参加した者の求めに応じて交付するものとする。
+        <go>
+          <go_item number="一">
+            特定捕獲等に参加した年月日
+          </go_item>
+          <go_item number="二">
+            特定捕獲等に参加した場所
+          </go_item>
+          <go_item number="三">
+            特定捕獲等の対象とした鳥獣の種類
+          </go_item>
+          <go_item number="四">
+            特定捕獲等に参加した際に使用した猟銃の種類
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（書面の交付）">
+      <article_item number="第四条">
+        <l>前条</l>の書面の様式は、別記様式のとおりとする。
+      </article_item>
+    </articles>
+  </body>
 </law>

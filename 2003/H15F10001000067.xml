@@ -135,28 +135,28 @@
           </go_item>
           <go_item number="六">
             <l>前号</l>に掲げるもののほか、食品の安全性の確保に関する関係者相互間の情報及び意見の交換に関すること。
-            </go_item>
-            <go_item number="七">
-              委員会の保有する情報の公開に関すること。
-            </go_item>
-            <go_item number="八">
-              委員会の保有する個人情報の保護に関すること。
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第六条" title="（リスクコミュニケーション官の職務）">
-        <article_item number="第六条">
-          リスクコミュニケーション官は、命を受けて、関係者相互間の情報及び意見の交換に関する重要事項に係るものに参画する。
-        </article_item>
-      </articles>
-      <articles number="第七条" title="（評価調整官）">
-        <article_item number="第七条">
-          評価第一課に、評価調整官一人を置く。
-        </article_item>
-        <article_item number="２">
-          評価調整官は、命を受けて、評価第一課の所掌事務のうち重要事項に係るものの調整に関する事務に従事する。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+          <go_item number="七">
+            委員会の保有する情報の公開に関すること。
+          </go_item>
+          <go_item number="八">
+            委員会の保有する個人情報の保護に関すること。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（リスクコミュニケーション官の職務）">
+      <article_item number="第六条">
+        リスクコミュニケーション官は、命を受けて、関係者相互間の情報及び意見の交換に関する重要事項に係るものに参画する。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（評価調整官）">
+      <article_item number="第七条">
+        評価第一課に、評価調整官一人を置く。
+      </article_item>
+      <article_item number="２">
+        評価調整官は、命を受けて、評価第一課の所掌事務のうち重要事項に係るものの調整に関する事務に従事する。
+      </article_item>
+    </articles>
+  </body>
 </law>

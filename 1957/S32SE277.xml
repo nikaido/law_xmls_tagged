@@ -49,14 +49,14 @@
           </go_item>
           <go_item number="三">
             <l>前二号</l>のほか、都道府県（地域保健法（昭和二十二年法律第百一号）<l>第五条第一項</l>の規定に基づく政令で定める市（以下「保健所を設置する市」という。）又は特別区にあつては、市又は特別区）が条例で定める場合
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第五条" title="（業務停止に関する通知）">
-        <article_item number="第五条">
-          都道府県知事、保健所を設置する市の市長又は特別区の区長は、法<l>第十条第二項</l>の規定により業務停止の処分を行つたときは、厚生労働大臣に厚生労働省令で定める事項を通知しなければならない。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（業務停止に関する通知）">
+      <article_item number="第五条">
+        都道府県知事、保健所を設置する市の市長又は特別区の区長は、法<l>第十条第二項</l>の規定により業務停止の処分を行つたときは、厚生労働大臣に厚生労働省令で定める事項を通知しなければならない。
+      </article_item>
+    </articles>
+  </body>
 </law>

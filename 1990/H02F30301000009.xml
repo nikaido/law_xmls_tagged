@@ -46,24 +46,24 @@
           </go_item>
           <go_item number="二">
             <l>前号</l>に掲げるもののほか、被疑者写真記録を保管する必要がなくなったとき。
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第六条" title="（被疑者写真照会）">
-        <article_item number="第六条">
-          警察署長等は、被疑者の特定その他犯罪捜査のため必要があると認めるときは、警察庁犯罪鑑識官に対し、被疑者写真照会（警察庁犯罪鑑識官の管理する被疑者写真記録のうちから必要な被疑者写真記録を検索し、該当する被疑者写真記録を送信するよう求めることをいう。）を行うことができる。
-        </article_item>
-      </articles>
-      <articles number="第七条" title="（被疑者写真の閲覧）">
-        <article_item number="第七条">
-          警察署長等は、被疑者の特定その他犯罪捜査のため特に必要があると認めるときは、必要な限度において、被害者その他必要と認める者に対して被疑者写真を閲覧させることができる。
-        </article_item>
-      </articles>
-      <articles number="第八条" title="（規則の実施に関する細目）">
-        <article_item number="第八条">
-          この規則の実施に関し必要な事項は、警察庁長官が定める。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（被疑者写真照会）">
+      <article_item number="第六条">
+        警察署長等は、被疑者の特定その他犯罪捜査のため必要があると認めるときは、警察庁犯罪鑑識官に対し、被疑者写真照会（警察庁犯罪鑑識官の管理する被疑者写真記録のうちから必要な被疑者写真記録を検索し、該当する被疑者写真記録を送信するよう求めることをいう。）を行うことができる。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（被疑者写真の閲覧）">
+      <article_item number="第七条">
+        警察署長等は、被疑者の特定その他犯罪捜査のため特に必要があると認めるときは、必要な限度において、被害者その他必要と認める者に対して被疑者写真を閲覧させることができる。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（規則の実施に関する細目）">
+      <article_item number="第八条">
+        この規則の実施に関し必要な事項は、警察庁長官が定める。
+      </article_item>
+    </articles>
+  </body>
 </law>

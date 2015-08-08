@@ -38,68 +38,68 @@
           </go_item>
           <go_item number="三">
             <l>前二号</l>に掲げるもののほか、保有個人情報の管理に関する事務の総括に関すること。
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第四条" title="（個人情報管理担当者）">
-        <article_item number="第四条">
-          総括個人情報管理者は、警察庁職員のうちから、個人情報管理担当者を指名する。
-        </article_item>
-        <article_item number="２">
-          個人情報管理担当者は、総括個人情報管理者の命を受け、この規則による保有個人情報の適切な管理に必要な事務を行う。
-        </article_item>
-      </articles>
-      <articles number="第五条" title="（正確性の確保）">
-        <article_item number="第五条">
-          警察庁職員は、保有個人情報の内容が事実でないと認められたときは、その利用目的の達成に必要な範囲内で、過去又は現在の事実と合致するよう、当該保有個人情報の訂正、追加又は削除をするものとする。
-        </article_item>
-      </articles>
-      <articles number="第六条" title="（取扱いの制限）">
-        <article_item number="第六条">
-          総括個人情報管理者は、警察庁職員がその業務の目的以外の目的で保有個人情報を取り扱うことのないよう、教育の実施その他必要な措置を講じるものとする。
-        </article_item>
-        <article_item number="２">
-          総括個人情報管理者は、保有個人情報及びそれが記録されている行政文書について、その内容に応じ、次の事項を定めて警察庁職員に遵守させるものとする。
-          <go>
-            <go_item number="一">
-              取り扱う権限を有する者の範囲
-            </go_item>
-            <go_item number="二">
-              電気通信を利用して伝達する場合における注意事項
-            </go_item>
-            <go_item number="三">
-              取り扱うことができる場所
-            </go_item>
-            <go_item number="四">
-              保存すべき場所
-            </go_item>
-            <go_item number="五">
-              前各号に掲げるもののほか、適正な取扱いを確保するために必要な制限に関する事項
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第七条" title="（廃棄及び削除）">
-        <article_item number="第七条">
-          総括個人情報管理者は、保有個人情報が記録されている行政文書を廃棄するときは、焼却その他漏えい防止のための措置を講じるものとする。
-        </article_item>
-        <article_item number="２">
-          総括個人情報管理者は、保有個人情報が不要となったときは、遅滞なく、当該保有個人情報を削除するものとする。
-        </article_item>
-      </articles>
-      <articles number="第八条" title="（事故発生時の措置）">
-        <article_item number="第八条">
-          総括個人情報管理者は、漏えいその他保有個人情報の管理に係る事故が発生したときは、速やかに事故の原因を調査するものとする。
-        </article_item>
-        <article_item number="２">
-          総括個人情報管理者は、事故の再発防止に資するため、<l>前項</l>の調査の結果に基づき、保有個人情報の管理の方法の改善に必要な措置を講じるものとする。
-        </article_item>
-      </articles>
-      <articles number="第九条" title="（補則）">
-        <article_item number="第九条">
-          この規則に定めるもののほか、保有個人情報の管理に関し必要な事項は、総括個人情報管理者が定める。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（個人情報管理担当者）">
+      <article_item number="第四条">
+        総括個人情報管理者は、警察庁職員のうちから、個人情報管理担当者を指名する。
+      </article_item>
+      <article_item number="２">
+        個人情報管理担当者は、総括個人情報管理者の命を受け、この規則による保有個人情報の適切な管理に必要な事務を行う。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（正確性の確保）">
+      <article_item number="第五条">
+        警察庁職員は、保有個人情報の内容が事実でないと認められたときは、その利用目的の達成に必要な範囲内で、過去又は現在の事実と合致するよう、当該保有個人情報の訂正、追加又は削除をするものとする。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（取扱いの制限）">
+      <article_item number="第六条">
+        総括個人情報管理者は、警察庁職員がその業務の目的以外の目的で保有個人情報を取り扱うことのないよう、教育の実施その他必要な措置を講じるものとする。
+      </article_item>
+      <article_item number="２">
+        総括個人情報管理者は、保有個人情報及びそれが記録されている行政文書について、その内容に応じ、次の事項を定めて警察庁職員に遵守させるものとする。
+        <go>
+          <go_item number="一">
+            取り扱う権限を有する者の範囲
+          </go_item>
+          <go_item number="二">
+            電気通信を利用して伝達する場合における注意事項
+          </go_item>
+          <go_item number="三">
+            取り扱うことができる場所
+          </go_item>
+          <go_item number="四">
+            保存すべき場所
+          </go_item>
+          <go_item number="五">
+            前各号に掲げるもののほか、適正な取扱いを確保するために必要な制限に関する事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（廃棄及び削除）">
+      <article_item number="第七条">
+        総括個人情報管理者は、保有個人情報が記録されている行政文書を廃棄するときは、焼却その他漏えい防止のための措置を講じるものとする。
+      </article_item>
+      <article_item number="２">
+        総括個人情報管理者は、保有個人情報が不要となったときは、遅滞なく、当該保有個人情報を削除するものとする。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（事故発生時の措置）">
+      <article_item number="第八条">
+        総括個人情報管理者は、漏えいその他保有個人情報の管理に係る事故が発生したときは、速やかに事故の原因を調査するものとする。
+      </article_item>
+      <article_item number="２">
+        総括個人情報管理者は、事故の再発防止に資するため、<l>前項</l>の調査の結果に基づき、保有個人情報の管理の方法の改善に必要な措置を講じるものとする。
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（補則）">
+      <article_item number="第九条">
+        この規則に定めるもののほか、保有個人情報の管理に関し必要な事項は、総括個人情報管理者が定める。
+      </article_item>
+    </articles>
+  </body>
 </law>

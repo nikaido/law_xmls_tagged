@@ -51,26 +51,26 @@
     <articles number="第四条" title="（下限利率の下限）">
       <article_item number="第四条">
         <l>前二条</l>の規定による下限利率が五厘未満であるときは、これらの規定にかかわらず、下限利率は五厘とする。
-        </article_item>
-      </articles>
-      <articles number="第五条" title="（下限利率の告示）">
-        <article_item number="第五条">
-          厚生労働大臣は、<l>前三条</l>の規定により下限利率が変更されるときは、その旨を告示するものとする。
-        </article_item>
-      </articles>
-      <articles number="第六条" title="（利子の計算）">
-        <article_item number="第六条">
-          利子は、預入の月から付けなければならない。ただし、月の十六日以後に預入された場合には、その預入の月の利子を付けることを要しない。
-        </article_item>
-        <article_item number="○２">
-          払戻金に相当する預金には、その払渡しの月の利子を付けることを要しない。預入の月において払戻金の払渡しがあったときも、同様とする。
-        </article_item>
-        <article_item number="○３">
-          十円未満の預金の端数には、利子を付けることを要しない。
-        </article_item>
-        <article_item number="○４">
-          利子の計算においては、円未満の端数は切り捨てることができる。
-        </article_item>
-      </articles>
-    </body>
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（下限利率の告示）">
+      <article_item number="第五条">
+        厚生労働大臣は、<l>前三条</l>の規定により下限利率が変更されるときは、その旨を告示するものとする。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（利子の計算）">
+      <article_item number="第六条">
+        利子は、預入の月から付けなければならない。ただし、月の十六日以後に預入された場合には、その預入の月の利子を付けることを要しない。
+      </article_item>
+      <article_item number="○２">
+        払戻金に相当する預金には、その払渡しの月の利子を付けることを要しない。預入の月において払戻金の払渡しがあったときも、同様とする。
+      </article_item>
+      <article_item number="○３">
+        十円未満の預金の端数には、利子を付けることを要しない。
+      </article_item>
+      <article_item number="○４">
+        利子の計算においては、円未満の端数は切り捨てることができる。
+      </article_item>
+    </articles>
+  </body>
 </law>

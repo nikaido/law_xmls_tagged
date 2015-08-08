@@ -125,109 +125,109 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の場合においては、当該計画に係る事項について利害関係を有する者又はこれらの者の組織する団体が意見があるときは、当該縦覧期間内に意見を申し出るべき旨を明示しなければならない。
-        </article_item>
-        <article_item number="３">
-          市町村長は、<l>前項</l>の規定により意見が申し述べられた場合においては、遅滞なく、その内容を審査し、その意見を採択すべきでないと認めるときは、その者に対しその理由を附した文書をもつてその旨を通知しなければならない。
-        </article_item>
-      </articles>
-      <articles number="第十条" title="（関連事業計画の公表）">
-        <article_item number="第十条">
-          法<l>第二十四条第四項</l>の関連事業計画の内容の公表は、当該計画を作成し、又は変更した日から一週間以内に、当該内容を市町村の事務所に掲示して行うものとする。
-        </article_item>
-      </articles>
-      <articles number="第十一条" title="（地すべり防止区域台帳又はぼた山崩壊防止区域台帳）">
-        <article_item number="第十一条">
-          法<l>第二十六条第一項</l>の地すべり防止区域台帳は、帳簿及び図面をもつて組成するものとする。
-        </article_item>
-        <article_item number="２">
-          <l>前項</l>の帳簿及び図面は、地すべり防止区域ごとに調製するものとする。
-          </article_item>
-          <article_item number="３">
-            第一項の帳簿には、地すべり防止区域につき、少くとも次の各号に掲げる事項を記載するものとし、その様式は、別記様式第九とする。
+      </article_item>
+      <article_item number="３">
+        市町村長は、<l>前項</l>の規定により意見が申し述べられた場合においては、遅滞なく、その内容を審査し、その意見を採択すべきでないと認めるときは、その者に対しその理由を附した文書をもつてその旨を通知しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（関連事業計画の公表）">
+      <article_item number="第十条">
+        法<l>第二十四条第四項</l>の関連事業計画の内容の公表は、当該計画を作成し、又は変更した日から一週間以内に、当該内容を市町村の事務所に掲示して行うものとする。
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（地すべり防止区域台帳又はぼた山崩壊防止区域台帳）">
+      <article_item number="第十一条">
+        法<l>第二十六条第一項</l>の地すべり防止区域台帳は、帳簿及び図面をもつて組成するものとする。
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の帳簿及び図面は、地すべり防止区域ごとに調製するものとする。
+      </article_item>
+      <article_item number="３">
+        第一項の帳簿には、地すべり防止区域につき、少くとも次の各号に掲げる事項を記載するものとし、その様式は、別記様式第九とする。
+        <go>
+          <go_item number="一">
+            地すべり防止区域に指定された年月日
+          </go_item>
+          <go_item number="二">
+            地すべり防止区域
+          </go_item>
+          <go_item number="三">
+            地すべり防止区域の面積
+          </go_item>
+          <go_item number="四">
+            地すべり防止区域の概況
+          </go_item>
+          <go_item number="五">
+            地すべり防止施設の管理者名（管理者と所有者が異なるときは管理者名及び所有者名）、位置、種類、構造及び数量
+          </go_item>
+          <go_item number="六">
+            地すべり防止区域と砂防指定地又は保安林若しくは保安施設地区との重複関係
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="４">
+        第一項の図面は、平面図とし、地すべり防止区域につき次の各号により調製するものとし、その様式は、別記様式第十とする。
+        <go>
+          <go_item number="一">
+            長さは、メートルを単位とすること。
+          </go_item>
+          <go_item number="二">
+            高さは、すべて東京湾中等潮位を基準とすること。
+          </go_item>
+          <go_item number="三">
+            縮尺は、原則として二千分の一とすること。
+          </go_item>
+          <go_item number="四">
+            等高線は、原則として五メートルごととすること。
+          </go_item>
+          <go_item number="五">
+            地すべり防止施設の位置及び種類を記号又は色別をもつて表示すること。特に重要な地すべり防止施設については、その構造図を添付し、必要がある場合には縦断図をも添付すること。
+          </go_item>
+          <go_item number="六">
+            <l>前号</l>に掲げるもののほか、少なくとも次の事項を記載すること。
             <go>
-              <go_item number="一">
-                地すべり防止区域に指定された年月日
+              <go_item number="イ">
+                地すべり防止区域の境界線
               </go_item>
-              <go_item number="二">
-                地すべり防止区域
+              <go_item number="ロ">
+                市町村名、大字名、字名及びその境界線
               </go_item>
-              <go_item number="三">
-                地すべり防止区域の面積
+              <go_item number="ハ">
+                地形及び地目（記号をもつて表示すること。）
               </go_item>
-              <go_item number="四">
-                地すべり防止区域の概況
+              <go_item number="ニ">
+                水準基標又は恒久標識の位置及び高さ
               </go_item>
-              <go_item number="五">
-                地すべり防止施設の管理者名（管理者と所有者が異なるときは管理者名及び所有者名）、位置、種類、構造及び数量
+              <go_item number="ホ">
+                地すべり防止施設以外の施設又は工作物のうち主要なもの
               </go_item>
-              <go_item number="六">
-                地すべり防止区域と砂防指定地又は保安林若しくは保安施設地区との重複関係
+              <go_item number="ヘ">
+                砂防指定地、保安林、保安施設地区、港湾隣接地域及び漁港区域の境界線
+              </go_item>
+              <go_item number="ト">
+                方位
+              </go_item>
+              <go_item number="チ">
+                縮尺
+              </go_item>
+              <go_item number="リ">
+                調整年月日
               </go_item>
             </go>
-          </article_item>
-          <article_item number="４">
-            第一項の図面は、平面図とし、地すべり防止区域につき次の各号により調製するものとし、その様式は、別記様式第十とする。
-            <go>
-              <go_item number="一">
-                長さは、メートルを単位とすること。
-              </go_item>
-              <go_item number="二">
-                高さは、すべて東京湾中等潮位を基準とすること。
-              </go_item>
-              <go_item number="三">
-                縮尺は、原則として二千分の一とすること。
-              </go_item>
-              <go_item number="四">
-                等高線は、原則として五メートルごととすること。
-              </go_item>
-              <go_item number="五">
-                地すべり防止施設の位置及び種類を記号又は色別をもつて表示すること。特に重要な地すべり防止施設については、その構造図を添付し、必要がある場合には縦断図をも添付すること。
-              </go_item>
-              <go_item number="六">
-                <l>前号</l>に掲げるもののほか、少なくとも次の事項を記載すること。
-                  <go>
-                    <go_item number="イ">
-                      地すべり防止区域の境界線
-                    </go_item>
-                    <go_item number="ロ">
-                      市町村名、大字名、字名及びその境界線
-                    </go_item>
-                    <go_item number="ハ">
-                      地形及び地目（記号をもつて表示すること。）
-                    </go_item>
-                    <go_item number="ニ">
-                      水準基標又は恒久標識の位置及び高さ
-                    </go_item>
-                    <go_item number="ホ">
-                      地すべり防止施設以外の施設又は工作物のうち主要なもの
-                    </go_item>
-                    <go_item number="ヘ">
-                      砂防指定地、保安林、保安施設地区、港湾隣接地域及び漁港区域の境界線
-                    </go_item>
-                    <go_item number="ト">
-                      方位
-                    </go_item>
-                    <go_item number="チ">
-                      縮尺
-                    </go_item>
-                    <go_item number="リ">
-                      調整年月日
-                    </go_item>
-                  </go>
-                </go_item>
-              </go>
-            </article_item>
-            <article_item number="５">
-              帳簿及び図面の記載事項に変更があつたときは、都道府県知事は、すみやかにこれを訂正しなければならない。
-            </article_item>
-            <article_item number="６">
-              第一項から<l>前項</l>までの規定は、ぼた山崩壊防止区域台帳の記載事項その他その調製について準用する。
-            </article_item>
-          </articles>
-          <articles number="第十二条" title="（延滞金）">
-            <article_item number="第十二条">
-              法<l>第三十八条第二項</l>（法<l>第四十五条第一項</l>において準用する場合を含む。）に規定する延滞金は、<l>同条第一項</l>（法<l>第四十五条第一項</l>において準用する場合を含む。）に規定する負担金の額につき年十・七五パーセントの割合で、納期限の翌日からその負担金の完納の日又は財産差押えの日の前日までの日数により計算した額とする。
-            </article_item>
-          </articles>
-        </body>
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="５">
+        帳簿及び図面の記載事項に変更があつたときは、都道府県知事は、すみやかにこれを訂正しなければならない。
+      </article_item>
+      <article_item number="６">
+        第一項から<l>前項</l>までの規定は、ぼた山崩壊防止区域台帳の記載事項その他その調製について準用する。
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（延滞金）">
+      <article_item number="第十二条">
+        法<l>第三十八条第二項</l>（法<l>第四十五条第一項</l>において準用する場合を含む。）に規定する延滞金は、<l>同条第一項</l>（法<l>第四十五条第一項</l>において準用する場合を含む。）に規定する負担金の額につき年十・七五パーセントの割合で、納期限の翌日からその負担金の完納の日又は財産差押えの日の前日までの日数により計算した額とする。
+      </article_item>
+    </articles>
+  </body>
 </law>

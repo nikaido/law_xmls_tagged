@@ -54,33 +54,33 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の請求書が質権の設定の登録に係るものであるときは、<l>同項</l>に掲げる事項のほか、次の各号に掲げる事項を記載しなければならない。
-          <go>
-            <go_item number="一">
-              債権の額（質権が一定の金額を目的としない債権を担保するものであるときは、その限度額）
-            </go_item>
-            <go_item number="二">
-              登録の原因に弁済期、利息、違約金又は賠償額その他の定があるときは、その定
-            </go_item>
-            <go_item number="三">
-              質権設定者が債務者でないときは、その債務者の氏名又は名称及び住所
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第六条" title="（登録の方法）">
-        <article_item number="第六条">
-          登録は、電話加入権質原簿に登録請求書をつづり、これに登録を証する印を押してするものとする。
-        </article_item>
-      </articles>
-      <articles number="第七条" title="（電話加入権質原簿の閲覧）">
-        <article_item number="第七条">
-          利害関係人は、電話加入権質原簿の利害関係のある部分の閲覧を請求することができる。
-        </article_item>
-      </articles>
-      <articles number="第八条" title="（総務省令への委任）">
-        <article_item number="第八条">
-          法及びこの政令で定めるもののほか、電話加入権質原簿及びその登録に関して必要な事項は、総務省令で定める。
-        </article_item>
-      </articles>
-    </body>
+        <go>
+          <go_item number="一">
+            債権の額（質権が一定の金額を目的としない債権を担保するものであるときは、その限度額）
+          </go_item>
+          <go_item number="二">
+            登録の原因に弁済期、利息、違約金又は賠償額その他の定があるときは、その定
+          </go_item>
+          <go_item number="三">
+            質権設定者が債務者でないときは、その債務者の氏名又は名称及び住所
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（登録の方法）">
+      <article_item number="第六条">
+        登録は、電話加入権質原簿に登録請求書をつづり、これに登録を証する印を押してするものとする。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（電話加入権質原簿の閲覧）">
+      <article_item number="第七条">
+        利害関係人は、電話加入権質原簿の利害関係のある部分の閲覧を請求することができる。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（総務省令への委任）">
+      <article_item number="第八条">
+        法及びこの政令で定めるもののほか、電話加入権質原簿及びその登録に関して必要な事項は、総務省令で定める。
+      </article_item>
+    </articles>
+  </body>
 </law>

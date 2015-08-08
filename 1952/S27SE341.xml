@@ -127,12 +127,12 @@
     <articles number="第六条" title="（省令への委任）">
       <article_item number="第六条">
         <l>前三条</l>に規定するものの外、国家試験の試験科目、受験手続その他国家試験に関し必要な事項は、経済産業省令で定める。
-        </article_item>
-      </articles>
-      <articles number="第七条" title="（手数料）">
-        <article_item number="第七条">
-          法<l>第十八条</l>の規定により別表の上欄に掲げる者が納付すべき手数料の額は、同表の中欄に定める金額（電子申請による場合にあつては、同表の下欄に定める金額）とする。
-        </article_item>
-      </articles>
-    </body>
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（手数料）">
+      <article_item number="第七条">
+        法<l>第十八条</l>の規定により別表の上欄に掲げる者が納付すべき手数料の額は、同表の中欄に定める金額（電子申請による場合にあつては、同表の下欄に定める金額）とする。
+      </article_item>
+    </articles>
+  </body>
 </law>

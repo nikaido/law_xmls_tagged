@@ -55,14 +55,14 @@
           </go_item>
           <go_item number="二">
             <l>前号</l>に規定する高等学校の実習助手（本務として定時制教育又は通信教育に従事する者に限る。）であつて、その技術が優秀と認められるものとして政令で定める者
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第六条" title="（政令への委任）">
-        <article_item number="第六条">
-          <l>第四条</l>に規定するもののほか、補助金の交付に関し必要な事項は、政令で定める。
-          </article_item>
-        </articles>
-      </body>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（政令への委任）">
+      <article_item number="第六条">
+        <l>第四条</l>に規定するもののほか、補助金の交付に関し必要な事項は、政令で定める。
+      </article_item>
+    </articles>
+  </body>
 </law>

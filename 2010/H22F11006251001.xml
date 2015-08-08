@@ -72,66 +72,66 @@
           </go_item>
           <go_item number="六">
             <l>前号</l>の洗浄に用いた水又はふき取った布等は、密閉できる容器に入れて保管すること。
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第五条" title="（容器等の点検）">
-        <article_item number="第五条">
-          取扱事業者は、泡消火薬剤等を入れた容器等について次の各号に掲げる事項を定期的に点検しなければならない。
-          <go>
-            <go_item number="一">
-              容器から泡消火薬剤等が漏出していないこと。
-            </go_item>
-            <go_item number="二">
-              容器に損傷又は腐食が生じていないこと。
-            </go_item>
-            <go_item number="三">
-              床面等にひび割れがないこと。
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="２">
-          取扱事業者は、<l>前項</l>に規定する点検の結果において泡消火薬剤等を入れた容器等に異常が認められた場合は、速やかに補修その他の必要な措置を講じなければならない。
-        </article_item>
-        <article_item number="３">
-          取扱事業者は、<l>第一項</l>の点検の結果の記録を作成し、これを作成の日から起算して五年間保存しなければならない。
-        </article_item>
-      </articles>
-      <articles number="第六条" title="（漏出処理措置）">
-        <article_item number="第六条">
-          取扱事業者は、消火器等を保管する場合又は泡消火薬剤等の移替えを行う場合において、泡消火薬剤等が漏出したときは、次の各号に掲げる措置を講じなければならない。
-          <go>
-            <go_item number="一">
-              速やかに漏出の拡大の防止のために必要な応急措置を講ずること。
-            </go_item>
-            <go_item number="二">
-              漏出した泡消火薬剤等について回収するよう努めること。
-            </go_item>
-            <go_item number="三">
-              回収した泡消火薬剤等又は泡消火薬剤等をふき取った布等を、密閉できる容器に入れて保管すること。
-            </go_item>
-            <go_item number="四">
-              <l>前三号</l>に掲げるもののほか、漏出した泡消火薬剤等を取り扱うに当たって必要と認められる措置を講ずること。
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-        <articles number="第七条" title="（帳簿）">
-          <article_item number="第七条">
-            取扱事業者は、事業所ごとに、泡消火薬剤等の保管数量を記載した帳簿を作成しなければならない。
-          </article_item>
-          <article_item number="２">
-            <l>前項</l>の帳簿は、事業所ごとに備え、これを最終の記入をした日から五年間保存しなければならない。
-            </article_item>
-          </articles>
-          <articles number="第八条" title="（訓練等における措置）">
-            <article_item number="第八条">
-              取扱事業者は、消火器等を訓練又は点検において使用する場合は、放出した泡消火薬剤等を回収しなければならない。
-            </article_item>
-            <article_item number="２">
-              取扱事業者は、<l>前項</l>により回収した泡消火薬剤等又は泡消火薬剤等をふき取った布等を、密閉できる容器に入れて保管しなければならない。
-            </article_item>
-          </articles>
-        </body>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（容器等の点検）">
+      <article_item number="第五条">
+        取扱事業者は、泡消火薬剤等を入れた容器等について次の各号に掲げる事項を定期的に点検しなければならない。
+        <go>
+          <go_item number="一">
+            容器から泡消火薬剤等が漏出していないこと。
+          </go_item>
+          <go_item number="二">
+            容器に損傷又は腐食が生じていないこと。
+          </go_item>
+          <go_item number="三">
+            床面等にひび割れがないこと。
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        取扱事業者は、<l>前項</l>に規定する点検の結果において泡消火薬剤等を入れた容器等に異常が認められた場合は、速やかに補修その他の必要な措置を講じなければならない。
+      </article_item>
+      <article_item number="３">
+        取扱事業者は、<l>第一項</l>の点検の結果の記録を作成し、これを作成の日から起算して五年間保存しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（漏出処理措置）">
+      <article_item number="第六条">
+        取扱事業者は、消火器等を保管する場合又は泡消火薬剤等の移替えを行う場合において、泡消火薬剤等が漏出したときは、次の各号に掲げる措置を講じなければならない。
+        <go>
+          <go_item number="一">
+            速やかに漏出の拡大の防止のために必要な応急措置を講ずること。
+          </go_item>
+          <go_item number="二">
+            漏出した泡消火薬剤等について回収するよう努めること。
+          </go_item>
+          <go_item number="三">
+            回収した泡消火薬剤等又は泡消火薬剤等をふき取った布等を、密閉できる容器に入れて保管すること。
+          </go_item>
+          <go_item number="四">
+            <l>前三号</l>に掲げるもののほか、漏出した泡消火薬剤等を取り扱うに当たって必要と認められる措置を講ずること。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（帳簿）">
+      <article_item number="第七条">
+        取扱事業者は、事業所ごとに、泡消火薬剤等の保管数量を記載した帳簿を作成しなければならない。
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の帳簿は、事業所ごとに備え、これを最終の記入をした日から五年間保存しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（訓練等における措置）">
+      <article_item number="第八条">
+        取扱事業者は、消火器等を訓練又は点検において使用する場合は、放出した泡消火薬剤等を回収しなければならない。
+      </article_item>
+      <article_item number="２">
+        取扱事業者は、<l>前項</l>により回収した泡消火薬剤等又は泡消火薬剤等をふき取った布等を、密閉できる容器に入れて保管しなければならない。
+      </article_item>
+    </articles>
+  </body>
 </law>

@@ -22,28 +22,28 @@
           </go_item>
           <go_item number="三">
             <l>前号</l>の地域を水源地域とする理由
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="２">
-          <l>前項</l>の申出書には、次に掲げる書類を添付しなければならない。
-            <go>
-              <go_item number="一">
-                <l>前項第二号</l>の地域を黄色で着色した国土地理院発行の二万五千分の一（二万五千分の一がない場合は五万分の一）の地形図
-                </go_item>
-                <go_item number="二">
-                  法<l>第三条第二項</l>の関係市町村長の意見を記載した書面
-                </go_item>
-              </go>
-            </article_item>
-            <article_item number="３">
-              <l>前二項</l>の規定は、法<l>第三条第四項</l>において準用する<l>同条第一項</l>の規定による水源地域の変更の申出について準用する。
-              </article_item>
-            </articles>
-            <articles number="第二条" title="（水源地域整備計画の公示）">
-              <article_item number="第二条">
-                法<l>第四条第四項</l>（<l>同条第五項</l>において準用する場合を含む。）の規定による水源地域整備計画の公示は、官報に掲載して行うものとする。
-              </article_item>
-            </articles>
-          </body>
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の申出書には、次に掲げる書類を添付しなければならない。
+        <go>
+          <go_item number="一">
+            <l>前項第二号</l>の地域を黄色で着色した国土地理院発行の二万五千分の一（二万五千分の一がない場合は五万分の一）の地形図
+          </go_item>
+          <go_item number="二">
+            法<l>第三条第二項</l>の関係市町村長の意見を記載した書面
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="３">
+        <l>前二項</l>の規定は、法<l>第三条第四項</l>において準用する<l>同条第一項</l>の規定による水源地域の変更の申出について準用する。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（水源地域整備計画の公示）">
+      <article_item number="第二条">
+        法<l>第四条第四項</l>（<l>同条第五項</l>において準用する場合を含む。）の規定による水源地域整備計画の公示は、官報に掲載して行うものとする。
+      </article_item>
+    </articles>
+  </body>
 </law>

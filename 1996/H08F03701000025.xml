@@ -110,25 +110,25 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の保証人は、林業就業促進資金の貸付けを受けた者と連帯して債務を負担するものとする。
-        </article_item>
-      </articles>
-      <articles number="第四条" title="（一時償還）">
-        <article_item number="第四条">
-          センターは、法<l>第十六条</l>の規定により一時償還を請求するときは、期限を指定するものとする。
-        </article_item>
-      </articles>
-      <articles number="第五条" title="（業務規程の記載事項）">
-        <article_item number="第五条">
-          法<l>第十九条第二項</l>の業務規程に記載すべき事項は、次のとおりとする。
-          <go>
-            <go_item number="一">
-              林業就業促進資金の使途、償還期間、据置期間、林業就業促進資金の限度額、償還の方法、担保又は保証人に関する事項等林業就業促進資金の貸付けに関する業務の方法
-            </go_item>
-            <go_item number="二">
-              業務委託の基準
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-    </body>
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（一時償還）">
+      <article_item number="第四条">
+        センターは、法<l>第十六条</l>の規定により一時償還を請求するときは、期限を指定するものとする。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（業務規程の記載事項）">
+      <article_item number="第五条">
+        法<l>第十九条第二項</l>の業務規程に記載すべき事項は、次のとおりとする。
+        <go>
+          <go_item number="一">
+            林業就業促進資金の使途、償還期間、据置期間、林業就業促進資金の限度額、償還の方法、担保又は保証人に関する事項等林業就業促進資金の貸付けに関する業務の方法
+          </go_item>
+          <go_item number="二">
+            業務委託の基準
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

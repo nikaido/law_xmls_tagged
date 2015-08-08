@@ -36,26 +36,26 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の書面には、次に掲げる書類、図面又は写真を添えなければならない。
-          <go>
-            <go_item number="一">
-              管理につき技術的指導を求める場合は、管理計画の概要
-            </go_item>
-            <go_item number="二">
-              修理につき技術的指導を求める場合は、その設計仕様書又は計画書
-            </go_item>
-            <go_item number="三">
-              歴史的風致形成建造物の平面図
-            </go_item>
-            <go_item number="四">
-              現状の写真又は図面
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第二条" title="（書面等の経由）">
-        <article_item number="第二条">
-          <l>前条第一項</l>の書面及び<l>同条第二項</l>の書類、図面又は写真は、当該歴史的風致形成建造物の指定を行った市町村の教育委員会を経由して、文化庁長官に提出するものとする。
-          </article_item>
-        </articles>
-      </body>
+        <go>
+          <go_item number="一">
+            管理につき技術的指導を求める場合は、管理計画の概要
+          </go_item>
+          <go_item number="二">
+            修理につき技術的指導を求める場合は、その設計仕様書又は計画書
+          </go_item>
+          <go_item number="三">
+            歴史的風致形成建造物の平面図
+          </go_item>
+          <go_item number="四">
+            現状の写真又は図面
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（書面等の経由）">
+      <article_item number="第二条">
+        <l>前条第一項</l>の書面及び<l>同条第二項</l>の書類、図面又は写真は、当該歴史的風致形成建造物の指定を行った市町村の教育委員会を経由して、文化庁長官に提出するものとする。
+      </article_item>
+    </articles>
+  </body>
 </law>

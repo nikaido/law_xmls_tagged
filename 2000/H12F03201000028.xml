@@ -110,126 +110,126 @@
           </go_item>
           <go_item number="三">
             <l>前号</l>の料金の支払方法
-            </go_item>
-            <go_item number="四">
-              情報提供契約の約款
-            </go_item>
-            <go_item number="五">
-              登記情報提供業務に関して得られた情報の目的外使用の禁止その他管理に関する事項
-            </go_item>
-            <go_item number="六">
-              登記情報の安全性の確保に関する事項
-            </go_item>
-            <go_item number="七">
-              その他登記情報提供業務に関し必要な事項
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="２">
-          指定法人は、法<l>第五条第一項</l>前段の規定により業務規程の認可を受けようとするときは、その旨を記載した申請書に業務規程を添えて法務大臣に提出しなければならない。
-        </article_item>
-        <article_item number="３">
-          指定法人は、法<l>第五条第一項</l>後段の規定により業務規程の変更の認可を受けようとするときは、次に掲げる事項を記載した申請書を法務大臣に提出しなければならない。
-          <go>
-            <go_item number="一">
-              変更しようとする事項
-            </go_item>
-            <go_item number="二">
-              変更しようとする年月日
-            </go_item>
-            <go_item number="三">
-              変更の理由
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第五条" title="（事業計画等）">
-        <article_item number="第五条">
-          指定法人は、法<l>第六条第一項</l>前段の規定により事業計画及び収支予算の認可を受けようとするときは、その旨を記載した申請書に事業計画書及び収支予算書を添えて法務大臣に提出しなければならない。
-        </article_item>
-        <article_item number="２">
-          指定法人は、法<l>第六条第一項</l>後段の規定により事業計画又は収支予算の変更の認可を受けようとするときは、次に掲げる事項を記載した申請書を法務大臣に提出しなければならない。
-          <go>
-            <go_item number="一">
-              変更しようとする事項
-            </go_item>
-            <go_item number="二">
-              変更しようとする年月日
-            </go_item>
-            <go_item number="三">
-              変更の理由
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第六条" title="（業務の休廃止）">
-        <article_item number="第六条">
-          指定法人は、法<l>第七条</l>の許可を受けようとするときは、次に掲げる事項を記載した申請書を法務大臣に提出しなければならない。
-          <go>
-            <go_item number="一">
-              休止し、又は廃止しようとする登記情報提供業務の範囲
-            </go_item>
-            <go_item number="二">
-              休止し、又は廃止しようとする年月日
-            </go_item>
-            <go_item number="三">
-              休止しようとする場合にあっては、その期間
-            </go_item>
-            <go_item number="四">
-              休止又は廃止の理由
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第七条" title="（情報提供契約の締結の拒絶）">
-        <article_item number="第七条">
-          法<l>第八条第一項</l>の法務省令で定める正当な理由は、次のとおりとする。
-          <go>
-            <go_item number="一">
-              情報提供契約の申込者が、業務規程で定める料金の支払方法によって、当該料金を支払うことができないこと、又は当該料金を支払う資力を有することについて合理的な疑いが認められること。
-            </go_item>
-            <go_item number="二">
-              情報提供契約の申込者が法<l>第八条第二項</l>又は<l>次条</l>に規定する正当な理由により情報提供契約を解除され、その解除の日から起算して一年を経過しない者であること。
-            </go_item>
-            <go_item number="三">
-              情報提供契約の申込者がその申込みに関し偽りその他不正の行為を行ったこと。
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第八条" title="（情報提供契約の解除）">
-        <article_item number="第八条">
-          法<l>第八条第二項</l>の法務省令で定める正当な理由は、次のとおりとする。
-          <go>
-            <go_item number="一">
-              情報提供契約を締結した者の契約上の義務違反により契約関係を継続し難い重大な事由があると認められること。
-            </go_item>
-            <go_item number="二">
-              情報提供契約を締結した者が継続して一年間法<l>第四条第一項</l>の委託をしないこと。
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第九条" title="（役員の選任及び解任）">
-        <article_item number="第九条">
-          指定法人は、法<l>第十条第一項</l>の認可を受けようとするときは、次に掲げる事項を記載した申請書を法務大臣に提出しなければならない。
-          <go>
-            <go_item number="一">
-              選任又は解任に係る役員の氏名及び略歴
-            </go_item>
-            <go_item number="二">
-              選任又は解任の年月日
-            </go_item>
-            <go_item number="三">
-              選任又は解任の理由
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第十条" title="（身分を示す証明書）">
-        <article_item number="第十条">
-          法<l>第十二条第二項</l>の証明書は、別添様式によるものとする。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+          <go_item number="四">
+            情報提供契約の約款
+          </go_item>
+          <go_item number="五">
+            登記情報提供業務に関して得られた情報の目的外使用の禁止その他管理に関する事項
+          </go_item>
+          <go_item number="六">
+            登記情報の安全性の確保に関する事項
+          </go_item>
+          <go_item number="七">
+            その他登記情報提供業務に関し必要な事項
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        指定法人は、法<l>第五条第一項</l>前段の規定により業務規程の認可を受けようとするときは、その旨を記載した申請書に業務規程を添えて法務大臣に提出しなければならない。
+      </article_item>
+      <article_item number="３">
+        指定法人は、法<l>第五条第一項</l>後段の規定により業務規程の変更の認可を受けようとするときは、次に掲げる事項を記載した申請書を法務大臣に提出しなければならない。
+        <go>
+          <go_item number="一">
+            変更しようとする事項
+          </go_item>
+          <go_item number="二">
+            変更しようとする年月日
+          </go_item>
+          <go_item number="三">
+            変更の理由
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（事業計画等）">
+      <article_item number="第五条">
+        指定法人は、法<l>第六条第一項</l>前段の規定により事業計画及び収支予算の認可を受けようとするときは、その旨を記載した申請書に事業計画書及び収支予算書を添えて法務大臣に提出しなければならない。
+      </article_item>
+      <article_item number="２">
+        指定法人は、法<l>第六条第一項</l>後段の規定により事業計画又は収支予算の変更の認可を受けようとするときは、次に掲げる事項を記載した申請書を法務大臣に提出しなければならない。
+        <go>
+          <go_item number="一">
+            変更しようとする事項
+          </go_item>
+          <go_item number="二">
+            変更しようとする年月日
+          </go_item>
+          <go_item number="三">
+            変更の理由
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（業務の休廃止）">
+      <article_item number="第六条">
+        指定法人は、法<l>第七条</l>の許可を受けようとするときは、次に掲げる事項を記載した申請書を法務大臣に提出しなければならない。
+        <go>
+          <go_item number="一">
+            休止し、又は廃止しようとする登記情報提供業務の範囲
+          </go_item>
+          <go_item number="二">
+            休止し、又は廃止しようとする年月日
+          </go_item>
+          <go_item number="三">
+            休止しようとする場合にあっては、その期間
+          </go_item>
+          <go_item number="四">
+            休止又は廃止の理由
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（情報提供契約の締結の拒絶）">
+      <article_item number="第七条">
+        法<l>第八条第一項</l>の法務省令で定める正当な理由は、次のとおりとする。
+        <go>
+          <go_item number="一">
+            情報提供契約の申込者が、業務規程で定める料金の支払方法によって、当該料金を支払うことができないこと、又は当該料金を支払う資力を有することについて合理的な疑いが認められること。
+          </go_item>
+          <go_item number="二">
+            情報提供契約の申込者が法<l>第八条第二項</l>又は<l>次条</l>に規定する正当な理由により情報提供契約を解除され、その解除の日から起算して一年を経過しない者であること。
+          </go_item>
+          <go_item number="三">
+            情報提供契約の申込者がその申込みに関し偽りその他不正の行為を行ったこと。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（情報提供契約の解除）">
+      <article_item number="第八条">
+        法<l>第八条第二項</l>の法務省令で定める正当な理由は、次のとおりとする。
+        <go>
+          <go_item number="一">
+            情報提供契約を締結した者の契約上の義務違反により契約関係を継続し難い重大な事由があると認められること。
+          </go_item>
+          <go_item number="二">
+            情報提供契約を締結した者が継続して一年間法<l>第四条第一項</l>の委託をしないこと。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（役員の選任及び解任）">
+      <article_item number="第九条">
+        指定法人は、法<l>第十条第一項</l>の認可を受けようとするときは、次に掲げる事項を記載した申請書を法務大臣に提出しなければならない。
+        <go>
+          <go_item number="一">
+            選任又は解任に係る役員の氏名及び略歴
+          </go_item>
+          <go_item number="二">
+            選任又は解任の年月日
+          </go_item>
+          <go_item number="三">
+            選任又は解任の理由
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（身分を示す証明書）">
+      <article_item number="第十条">
+        法<l>第十二条第二項</l>の証明書は、別添様式によるものとする。
+      </article_item>
+    </articles>
+  </body>
 </law>

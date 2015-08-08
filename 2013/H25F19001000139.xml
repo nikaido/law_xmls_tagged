@@ -144,64 +144,64 @@
         </article_item>
         <article_item number="２">
           <l>前項</l>の記録は、移植に用いられた臍帯血に関係するものについては移植の実施後三十年間、それ以外のものについては、移植に用いる臍帯血の採取後十年間（ただし、調製等を実施するための設備の保守点検に関するものについては、保守点検の実施後三十年間）保存しなければならない。
-          </article_item>
-          <article_item number="３">
-            <l>前項</l>の規定による保存は、電磁的方法（電子的方法、磁気的方法その他の人の知覚によっては認識することができない方法をいう。）による記録に係る記録媒体により行うことができる。
-            </article_item>
-          </articles>
-          <articles number="第十七条" title="（情報管理体制の構築）">
-            <article_item number="第十七条">
-              臍帯血供給事業者は、移植に用いる臍帯血を識別するための番号を用いて移植に用いる臍帯血に関する情報を採取から引渡しまで一貫して管理できる体制の構築に努めなければならない。
-            </article_item>
-          </articles>
-          <articles number="第十八条" title="（記録の廃棄）">
-            <article_item number="第十八条">
-              臍帯血供給事業者は、適切な方法により<l>第十六条第一項</l>の記録の廃棄を行わなければならない。
-            </article_item>
-          </articles>
-          <articles number="第十九条" title="（臍帯血の調製等に関する標準作業手順書）">
-            <article_item number="第十九条">
-              臍帯血供給事業者は、次に掲げる事項について記載した標準作業手順書を作成し、臍帯血の調製等を行う事業所ごとに備え付けなければならない。
-              <go>
-                <go_item number="一">
-                  移植に用いる臍帯血の採取を行う場所から調製等を行う事業所への搬送の詳細に関すること。
-                </go_item>
-                <go_item number="二">
-                  移植に用いる臍帯血の調製等の手順の詳細に関すること。
-                </go_item>
-                <go_item number="三">
-                  移植に用いる臍帯血の調製等を行う者の教育訓練に関すること。
-                </go_item>
-                <go_item number="四">
-                  バリデーションの詳細に関すること。
-                </go_item>
-                <go_item number="五">
-                  移植に用いる臍帯血の調製等を実施する作業区域の詳細に関すること。
-                </go_item>
-                <go_item number="六">
-                  移植に用いる臍帯血の調製等を実施するための設備の保守点検に関すること。
-                </go_item>
-                <go_item number="七">
-                  移植に用いる臍帯血の調製等に用いる資材及び試薬の管理に関すること。
-                </go_item>
-                <go_item number="八">
-                  調製・保存の手順等からの逸脱が発生した場合の対応の詳細に関すること。
-                </go_item>
-                <go_item number="九">
-                  有害事象が臍帯血によるものと判明した場合の対応の詳細に関すること。
-                </go_item>
-                <go_item number="十">
-                  移植に用いる臍帯血の安全性に問題が生じ、その引渡しを中止する場合の対応の詳細に関すること。
-                </go_item>
-                <go_item number="十一">
-                  移植に用いる臍帯血の廃棄の手順の詳細に関すること。
-                </go_item>
-                <go_item number="十二">
-                  その他必要な事項
-                </go_item>
-              </go>
-            </article_item>
-          </articles>
-        </section>
-      </body>
+        </article_item>
+        <article_item number="３">
+          <l>前項</l>の規定による保存は、電磁的方法（電子的方法、磁気的方法その他の人の知覚によっては認識することができない方法をいう。）による記録に係る記録媒体により行うことができる。
+        </article_item>
+      </articles>
+      <articles number="第十七条" title="（情報管理体制の構築）">
+        <article_item number="第十七条">
+          臍帯血供給事業者は、移植に用いる臍帯血を識別するための番号を用いて移植に用いる臍帯血に関する情報を採取から引渡しまで一貫して管理できる体制の構築に努めなければならない。
+        </article_item>
+      </articles>
+      <articles number="第十八条" title="（記録の廃棄）">
+        <article_item number="第十八条">
+          臍帯血供給事業者は、適切な方法により<l>第十六条第一項</l>の記録の廃棄を行わなければならない。
+        </article_item>
+      </articles>
+      <articles number="第十九条" title="（臍帯血の調製等に関する標準作業手順書）">
+        <article_item number="第十九条">
+          臍帯血供給事業者は、次に掲げる事項について記載した標準作業手順書を作成し、臍帯血の調製等を行う事業所ごとに備え付けなければならない。
+          <go>
+            <go_item number="一">
+              移植に用いる臍帯血の採取を行う場所から調製等を行う事業所への搬送の詳細に関すること。
+            </go_item>
+            <go_item number="二">
+              移植に用いる臍帯血の調製等の手順の詳細に関すること。
+            </go_item>
+            <go_item number="三">
+              移植に用いる臍帯血の調製等を行う者の教育訓練に関すること。
+            </go_item>
+            <go_item number="四">
+              バリデーションの詳細に関すること。
+            </go_item>
+            <go_item number="五">
+              移植に用いる臍帯血の調製等を実施する作業区域の詳細に関すること。
+            </go_item>
+            <go_item number="六">
+              移植に用いる臍帯血の調製等を実施するための設備の保守点検に関すること。
+            </go_item>
+            <go_item number="七">
+              移植に用いる臍帯血の調製等に用いる資材及び試薬の管理に関すること。
+            </go_item>
+            <go_item number="八">
+              調製・保存の手順等からの逸脱が発生した場合の対応の詳細に関すること。
+            </go_item>
+            <go_item number="九">
+              有害事象が臍帯血によるものと判明した場合の対応の詳細に関すること。
+            </go_item>
+            <go_item number="十">
+              移植に用いる臍帯血の安全性に問題が生じ、その引渡しを中止する場合の対応の詳細に関すること。
+            </go_item>
+            <go_item number="十一">
+              移植に用いる臍帯血の廃棄の手順の詳細に関すること。
+            </go_item>
+            <go_item number="十二">
+              その他必要な事項
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </section>
+  </body>
 </law>

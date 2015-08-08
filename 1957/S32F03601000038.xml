@@ -17,28 +17,28 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の公衆浴場入浴料金の区分は、次のとおりとする。
-          <go>
-            <go_item number="一">
-              十二才以上の者についての入浴料金
-            </go_item>
-            <go_item number="二">
-              六才以上十二才未満の者一人についての入浴料金
-            </go_item>
-            <go_item number="三">
-              六才未満の者一人についての入浴料金
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第二条" title="（都道府県知事による統制額の指定）">
-        <article_item number="第二条">
-          都道府県知事は、物価統制令施行令（昭和二十七年政令第三百十九号）附則<l>第四項</l>の規定に基づき、<l>前条第一項</l>に規定する公衆浴場入浴料金につき、その統制額を指定するものとする。この場合においては、<l>前条第二項</l>の規定にかかわらず、<l>同項</l>に規定する公衆浴場入浴料金の区分として、年齢その他必要な事情を考慮して、入浴者の洗髪についての料金の区分を設けることができる。
-        </article_item>
-      </articles>
-      <articles number="第三条" title="（昭和三十年三月厚生省告示第五十八号の廃止）">
-        <article_item number="第三条">
-          昭和三十年三月厚生省告示<l>第五十八号</l>は、廃止する。
-        </article_item>
-      </articles>
-    </body>
+        <go>
+          <go_item number="一">
+            十二才以上の者についての入浴料金
+          </go_item>
+          <go_item number="二">
+            六才以上十二才未満の者一人についての入浴料金
+          </go_item>
+          <go_item number="三">
+            六才未満の者一人についての入浴料金
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（都道府県知事による統制額の指定）">
+      <article_item number="第二条">
+        都道府県知事は、物価統制令施行令（昭和二十七年政令第三百十九号）附則<l>第四項</l>の規定に基づき、<l>前条第一項</l>に規定する公衆浴場入浴料金につき、その統制額を指定するものとする。この場合においては、<l>前条第二項</l>の規定にかかわらず、<l>同項</l>に規定する公衆浴場入浴料金の区分として、年齢その他必要な事情を考慮して、入浴者の洗髪についての料金の区分を設けることができる。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（昭和三十年三月厚生省告示第五十八号の廃止）">
+      <article_item number="第三条">
+        昭和三十年三月厚生省告示<l>第五十八号</l>は、廃止する。
+      </article_item>
+    </articles>
+  </body>
 </law>

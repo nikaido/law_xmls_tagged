@@ -57,20 +57,20 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の職員としての在職期間の月数の計算については、次の各号に定めるところによる。
-          <go>
-            <go_item number="一">
-              月により期間を計算する場合は、民法（明治二十九年法律第八十九号）<l>第百四十三条</l>に定めるところによる。
-            </go_item>
-            <go_item number="二">
-              一月に満たない期間が二以上ある場合は、これらの期間を合算するものとし、これらの期間の計算については、三十日をもって一月とする。
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第七条" title="（雑則）">
-        <article_item number="第七条">
-          この省令に定めるもののほか、外務職員の留学費用の償還に関し必要な事項は、外務大臣が定める。
-        </article_item>
-      </articles>
-    </body>
+        <go>
+          <go_item number="一">
+            月により期間を計算する場合は、民法（明治二十九年法律第八十九号）<l>第百四十三条</l>に定めるところによる。
+          </go_item>
+          <go_item number="二">
+            一月に満たない期間が二以上ある場合は、これらの期間を合算するものとし、これらの期間の計算については、三十日をもって一月とする。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（雑則）">
+      <article_item number="第七条">
+        この省令に定めるもののほか、外務職員の留学費用の償還に関し必要な事項は、外務大臣が定める。
+      </article_item>
+    </articles>
+  </body>
 </law>

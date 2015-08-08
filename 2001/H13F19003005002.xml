@@ -89,14 +89,14 @@
           </go_item>
           <go_item number="三">
             <l>前条第四号</l>の書類に記載した当該施設が一年間に再資源化に必要な行為を実施することのできる使用済指定再資源化製品の最大数量に係る変更であって、当該変更によって当該最大数量が十パーセント以上変更されるに至るもの
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第五条" title="（変更の認定）">
-        <article_item number="第五条">
-          法<l>第二十八条第二項</l>において準用する法<l>第二十七条第二項</l>の主務省令で定める書類は、<l>第三条</l>各号に掲げる書類（当該変更に係るものに限る。）とする。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（変更の認定）">
+      <article_item number="第五条">
+        法<l>第二十八条第二項</l>において準用する法<l>第二十七条第二項</l>の主務省令で定める書類は、<l>第三条</l>各号に掲げる書類（当該変更に係るものに限る。）とする。
+      </article_item>
+    </articles>
+  </body>
 </law>

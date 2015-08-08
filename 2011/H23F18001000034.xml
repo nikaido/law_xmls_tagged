@@ -40,17 +40,17 @@
     <articles number="第三条" title="（除染特別地域の指定の要件）">
       <article_item number="第三条">
         <l>前条</l>の規定は、法<l>第二十五条第一項</l>の環境省令で定める要件について準用する。この場合において、<l>前条第二号</l>中「その区域内にある廃棄物（法<l>第十一条第一号</l>の規定による汚染廃棄物対策地域の指定後において対策地域内廃棄物に該当することとなるものに限る。）の収集、運搬、保管及び処分」とあるのは「その区域に係る除染等の措置等」と、「当該廃棄物の収集、運搬、保管及び処分」とあるのは「除染等の措置等」と読み替えるものとする。
-        </article_item>
-      </articles>
-      <articles number="第四条" title="（汚染状況重点調査地域の指定の要件）">
-        <article_item number="第四条">
-          法<l>第三十二条第一項</l>の環境省令で定める要件は、一時間当たり〇・二三マイクロシーベルト未満の放射線量とする。
-        </article_item>
-      </articles>
-      <articles number="第五条" title="（除染実施計画を定める区域の要件）">
-        <article_item number="第五条">
-          法<l>第三十六条第一項</l>の環境省令で定める要件は、一時間当たり〇・二三マイクロシーベルト未満の放射線量とする。
-        </article_item>
-      </articles>
-    </body>
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（汚染状況重点調査地域の指定の要件）">
+      <article_item number="第四条">
+        法<l>第三十二条第一項</l>の環境省令で定める要件は、一時間当たり〇・二三マイクロシーベルト未満の放射線量とする。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（除染実施計画を定める区域の要件）">
+      <article_item number="第五条">
+        法<l>第三十六条第一項</l>の環境省令で定める要件は、一時間当たり〇・二三マイクロシーベルト未満の放射線量とする。
+      </article_item>
+    </articles>
+  </body>
 </law>

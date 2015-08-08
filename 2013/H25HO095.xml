@@ -133,160 +133,160 @@
             </go_item>
             <go_item number="三">
               <l>前二号</l>に掲げるもののほか、国土強靱化に関する施策を総合的かつ計画的に推進するために必要な事項
-              </go_item>
-            </go>
-          </article_item>
-          <article_item number="３">
-            内閣総理大臣は、国土強靱化基本計画の案につき閣議の決定を求めなければならない。
-          </article_item>
-          <article_item number="４">
-            内閣総理大臣は、<l>前項</l>の規定による閣議の決定があったときは、遅滞なく、国土強靱化基本計画を公表しなければならない。
-          </article_item>
-          <article_item number="５">
-            政府は、国土強靱化に関する施策の実施状況を踏まえ、必要に応じて、国土強靱化基本計画の見直しを行い、必要な変更を加えるものとする。
-          </article_item>
-          <article_item number="６">
-            第三項及び<l>第四項</l>の規定は、国土強靱化基本計画の変更について準用する。
-          </article_item>
-        </articles>
-        <articles number="第十一条" title="（国土強靱化基本計画と国の他の計画との関係）">
-          <article_item number="第十一条">
-            国土強靱化基本計画以外の国の計画は、国土強靱化に関しては、国土強靱化基本計画を基本とするものとする。
-          </article_item>
-        </articles>
-        <articles number="第十二条" title="（国土強靱化基本計画の実施に関する勧告）">
-          <article_item number="第十二条">
-            内閣総理大臣は、国土強靱化基本計画の実施について調整を行うため必要があると認める場合においては、関係行政機関の長に対し、必要な勧告をすることができる。
-          </article_item>
-        </articles>
-        <articles number="第十三条" title="（国土強靱化地域計画）">
-          <article_item number="第十三条">
-            都道府県又は市町村は、国土強靱化に関する施策の総合的かつ計画的な推進を図るため、当該都道府県又は市町村の区域における国土強靱化に関する施策の推進に関する基本的な計画（以下「国土強靱化地域計画」という。）を、国土強靱化地域計画以外の国土強靱化に係る当該都道府県又は市町村の計画等の指針となるべきものとして定めることができる。
-          </article_item>
-        </articles>
-        <articles number="第十四条" title="（国土強靱化地域計画と国土強靱化基本計画との関係）">
-          <article_item number="第十四条">
-            国土強靱化地域計画は、国土強靱化基本計画との調和が保たれたものでなければならない。
-          </article_item>
-        </articles>
-      </section>
-      <section title="第四章　国土強靱化推進本部" type="Sho">
-        <articles number="第十五条" title="（設置）">
-          <article_item number="第十五条">
-            国土強靱化に関する施策を総合的かつ計画的に推進するため、内閣に、国土強靱化推進本部（以下「本部」という。）を置く。
-          </article_item>
-        </articles>
-        <articles number="第十六条" title="（所掌事務）">
-          <article_item number="第十六条">
-            本部は、次に掲げる事務をつかさどる。
-            <go>
-              <go_item number="一">
-                国土強靱化基本計画の案の作成及び実施の推進に関すること。
-              </go_item>
-              <go_item number="二">
-                関係行政機関が国土強靱化基本計画に基づいて実施する施策の総合調整に関すること。
-              </go_item>
-              <go_item number="三">
-                <l>前二号</l>に掲げるもののほか、国土強靱化に関する施策で重要なものの企画及び立案並びに総合調整に関すること。
-                </go_item>
-              </go>
-            </article_item>
-          </articles>
-          <articles number="第十七条" title="（国土強靱化基本計画の案の作成）">
-            <article_item number="第十七条">
-              本部は、国土強靱化の推進を図る上で必要な事項を明らかにするため、脆弱性評価の指針を定め、これに従って脆弱性評価を行い、その結果に基づき、国土強靱化基本計画の案を作成しなければならない。
-            </article_item>
-            <article_item number="２">
-              本部は、<l>前項</l>の指針を定めたときは、これを公表しなければならない。
-            </article_item>
-            <article_item number="３">
-              脆弱性評価は、起きてはならない最悪の事態を想定した上で、科学的知見に基づき、総合的かつ客観的に行うものとする。
-            </article_item>
-            <article_item number="４">
-              脆弱性評価は、国土強靱化基本計画の案に定めようとする国土強靱化に関する施策の分野ごとに行うものとする。
-            </article_item>
-            <article_item number="５">
-              脆弱性評価は、国土強靱化に関する施策の分野ごとに投入される人材その他の国土強靱化の推進に必要な資源についても行うものとする。
-            </article_item>
-            <article_item number="６">
-              本部は、国土強靱化基本計画の案の作成に当たっては、脆弱性評価の結果の検証を受け、作成手続における透明性を確保しつつ、公共性、客観性、公平性及び合理性を勘案して、実施されるべき国土強靱化に関する施策の優先順位を定め、その重点化を図らなければならない。
-            </article_item>
-            <article_item number="７">
-              本部は、国土強靱化基本計画の案を作成しようとするときは、あらかじめ、都道府県、市町村、学識経験を有する者及び国土強靱化に関する施策の推進に関し密接な関係を有する者の意見を聴かなければならない。
-            </article_item>
-            <article_item number="８">
-              前各項の規定は、国土強靱化基本計画の変更の案の作成について準用する。
-            </article_item>
-          </articles>
-          <articles number="第十八条" title="（組織）">
-            <article_item number="第十八条">
-              本部は、国土強靱化推進本部長、国土強靱化推進副本部長及び国土強靱化推進本部員をもって組織する。
-            </article_item>
-          </articles>
-          <articles number="第十九条" title="（国土強靱化推進本部長）">
-            <article_item number="第十九条">
-              本部の長は、国土強靱化推進本部長（以下「本部長」という。）とし、内閣総理大臣をもって充てる。
-            </article_item>
-            <article_item number="２">
-              本部長は、本部の事務を総括し、所部の職員を指揮監督する。
-            </article_item>
-          </articles>
-          <articles number="第二十条" title="（国土強靱化推進副本部長）">
-            <article_item number="第二十条">
-              本部に、国土強靱化推進副本部長（以下「副本部長」という。）を置き、内閣官房長官、国土強靱化担当大臣（内閣総理大臣の命を受けて、国土強靱化に関する施策の総合的かつ計画的な推進に関し内閣総理大臣を助けることをその職務とする国務大臣をいう。）及び国土交通大臣をもって充てる。
-            </article_item>
-            <article_item number="２">
-              副本部長は、本部長の職務を助ける。
-            </article_item>
-          </articles>
-          <articles number="第二十一条" title="（国土強靱化推進本部員）">
-            <article_item number="第二十一条">
-              本部に、国土強靱化推進本部員（以下「本部員」という。）を置く。
-            </article_item>
-            <article_item number="２">
-              本部員は、本部長及び副本部長以外の全ての国務大臣をもって充てる。
-            </article_item>
-          </articles>
-          <articles number="第二十二条" title="（資料の提出その他の協力）">
-            <article_item number="第二十二条">
-              本部は、その所掌事務を遂行するため必要があると認めるときは、関係行政機関、地方公共団体、独立行政法人（独立行政法人通則法（平成十一年法律第百三号）<l>第二条第一項</l>に規定する独立行政法人をいう。）及び地方独立行政法人（地方独立行政法人法（平成十五年法律第百十八号）<l>第二条第一項</l>に規定する地方独立行政法人をいう。）の長並びに特殊法人（法律により直接に設立された法人又は特別の法律により特別の設立行為をもって設立された法人であって、総務省設置法（平成十一年法律第九十一号）<l>第四条第十五号</l>の規定の適用を受けるものをいう。）の代表者に対して、資料の提出、意見の表明、説明その他必要な協力を求めることができる。
-            </article_item>
-            <article_item number="２">
-              本部は、その所掌事務を遂行するために特に必要があると認めるときは、<l>前項</l>に規定する者以外の者に対しても、必要な協力を依頼することができる。
-            </article_item>
-          </articles>
-          <articles number="第二十三条" title="（事務）">
-            <article_item number="第二十三条">
-              本部に関する事務は、内閣官房において処理し、命を受けて内閣官房副長官補が掌理する。
-            </article_item>
-          </articles>
-          <articles number="第二十四条" title="（主任の大臣）">
-            <article_item number="第二十四条">
-              本部に係る事項については、内閣法（昭和二十二年法律第五号）にいう主任の大臣は、内閣総理大臣とする。
-            </article_item>
-          </articles>
-          <articles number="第二十五条" title="（政令への委任）">
-            <article_item number="第二十五条">
-              この法律に定めるもののほか、本部に関し必要な事項は、政令で定める。
-            </article_item>
-          </articles>
-        </section>
-        <section title="第五章　雑則" type="Sho">
-          <articles number="第二十六条" title="（国土強靱化の推進を担う組織の在り方に関する検討）">
-            <article_item number="第二十六条">
-              政府は、大規模自然災害等への対処に係る事務の総括及び情報の集約に関する機能の強化の在り方その他の国土強靱化の推進を担う組織（本部を除く。）の在り方について、政府の行政改革の基本方針との整合性に配慮して検討を加え、その結果に基づいて必要な法制上の措置を講ずるものとする。
-            </article_item>
-          </articles>
-          <articles number="第二十七条" title="（国民の理解の増進）">
-            <article_item number="第二十七条">
-              国は、広報活動等を通じて国土強靱化に関する国民の理解を深めるよう努めなければならない。
-            </article_item>
-          </articles>
-          <articles number="第二十八条" title="（諸外国の理解の増進）">
-            <article_item number="第二十八条">
-              国は、国際社会における我が国の利益の増進に資するため、我が国の国土強靱化に対する諸外国の理解を深めるよう努めなければならない。
-            </article_item>
-          </articles>
-        </section>
-      </body>
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="３">
+          内閣総理大臣は、国土強靱化基本計画の案につき閣議の決定を求めなければならない。
+        </article_item>
+        <article_item number="４">
+          内閣総理大臣は、<l>前項</l>の規定による閣議の決定があったときは、遅滞なく、国土強靱化基本計画を公表しなければならない。
+        </article_item>
+        <article_item number="５">
+          政府は、国土強靱化に関する施策の実施状況を踏まえ、必要に応じて、国土強靱化基本計画の見直しを行い、必要な変更を加えるものとする。
+        </article_item>
+        <article_item number="６">
+          第三項及び<l>第四項</l>の規定は、国土強靱化基本計画の変更について準用する。
+        </article_item>
+      </articles>
+      <articles number="第十一条" title="（国土強靱化基本計画と国の他の計画との関係）">
+        <article_item number="第十一条">
+          国土強靱化基本計画以外の国の計画は、国土強靱化に関しては、国土強靱化基本計画を基本とするものとする。
+        </article_item>
+      </articles>
+      <articles number="第十二条" title="（国土強靱化基本計画の実施に関する勧告）">
+        <article_item number="第十二条">
+          内閣総理大臣は、国土強靱化基本計画の実施について調整を行うため必要があると認める場合においては、関係行政機関の長に対し、必要な勧告をすることができる。
+        </article_item>
+      </articles>
+      <articles number="第十三条" title="（国土強靱化地域計画）">
+        <article_item number="第十三条">
+          都道府県又は市町村は、国土強靱化に関する施策の総合的かつ計画的な推進を図るため、当該都道府県又は市町村の区域における国土強靱化に関する施策の推進に関する基本的な計画（以下「国土強靱化地域計画」という。）を、国土強靱化地域計画以外の国土強靱化に係る当該都道府県又は市町村の計画等の指針となるべきものとして定めることができる。
+        </article_item>
+      </articles>
+      <articles number="第十四条" title="（国土強靱化地域計画と国土強靱化基本計画との関係）">
+        <article_item number="第十四条">
+          国土強靱化地域計画は、国土強靱化基本計画との調和が保たれたものでなければならない。
+        </article_item>
+      </articles>
+    </section>
+    <section title="第四章　国土強靱化推進本部" type="Sho">
+      <articles number="第十五条" title="（設置）">
+        <article_item number="第十五条">
+          国土強靱化に関する施策を総合的かつ計画的に推進するため、内閣に、国土強靱化推進本部（以下「本部」という。）を置く。
+        </article_item>
+      </articles>
+      <articles number="第十六条" title="（所掌事務）">
+        <article_item number="第十六条">
+          本部は、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              国土強靱化基本計画の案の作成及び実施の推進に関すること。
+            </go_item>
+            <go_item number="二">
+              関係行政機関が国土強靱化基本計画に基づいて実施する施策の総合調整に関すること。
+            </go_item>
+            <go_item number="三">
+              <l>前二号</l>に掲げるもののほか、国土強靱化に関する施策で重要なものの企画及び立案並びに総合調整に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第十七条" title="（国土強靱化基本計画の案の作成）">
+        <article_item number="第十七条">
+          本部は、国土強靱化の推進を図る上で必要な事項を明らかにするため、脆弱性評価の指針を定め、これに従って脆弱性評価を行い、その結果に基づき、国土強靱化基本計画の案を作成しなければならない。
+        </article_item>
+        <article_item number="２">
+          本部は、<l>前項</l>の指針を定めたときは、これを公表しなければならない。
+        </article_item>
+        <article_item number="３">
+          脆弱性評価は、起きてはならない最悪の事態を想定した上で、科学的知見に基づき、総合的かつ客観的に行うものとする。
+        </article_item>
+        <article_item number="４">
+          脆弱性評価は、国土強靱化基本計画の案に定めようとする国土強靱化に関する施策の分野ごとに行うものとする。
+        </article_item>
+        <article_item number="５">
+          脆弱性評価は、国土強靱化に関する施策の分野ごとに投入される人材その他の国土強靱化の推進に必要な資源についても行うものとする。
+        </article_item>
+        <article_item number="６">
+          本部は、国土強靱化基本計画の案の作成に当たっては、脆弱性評価の結果の検証を受け、作成手続における透明性を確保しつつ、公共性、客観性、公平性及び合理性を勘案して、実施されるべき国土強靱化に関する施策の優先順位を定め、その重点化を図らなければならない。
+        </article_item>
+        <article_item number="７">
+          本部は、国土強靱化基本計画の案を作成しようとするときは、あらかじめ、都道府県、市町村、学識経験を有する者及び国土強靱化に関する施策の推進に関し密接な関係を有する者の意見を聴かなければならない。
+        </article_item>
+        <article_item number="８">
+          前各項の規定は、国土強靱化基本計画の変更の案の作成について準用する。
+        </article_item>
+      </articles>
+      <articles number="第十八条" title="（組織）">
+        <article_item number="第十八条">
+          本部は、国土強靱化推進本部長、国土強靱化推進副本部長及び国土強靱化推進本部員をもって組織する。
+        </article_item>
+      </articles>
+      <articles number="第十九条" title="（国土強靱化推進本部長）">
+        <article_item number="第十九条">
+          本部の長は、国土強靱化推進本部長（以下「本部長」という。）とし、内閣総理大臣をもって充てる。
+        </article_item>
+        <article_item number="２">
+          本部長は、本部の事務を総括し、所部の職員を指揮監督する。
+        </article_item>
+      </articles>
+      <articles number="第二十条" title="（国土強靱化推進副本部長）">
+        <article_item number="第二十条">
+          本部に、国土強靱化推進副本部長（以下「副本部長」という。）を置き、内閣官房長官、国土強靱化担当大臣（内閣総理大臣の命を受けて、国土強靱化に関する施策の総合的かつ計画的な推進に関し内閣総理大臣を助けることをその職務とする国務大臣をいう。）及び国土交通大臣をもって充てる。
+        </article_item>
+        <article_item number="２">
+          副本部長は、本部長の職務を助ける。
+        </article_item>
+      </articles>
+      <articles number="第二十一条" title="（国土強靱化推進本部員）">
+        <article_item number="第二十一条">
+          本部に、国土強靱化推進本部員（以下「本部員」という。）を置く。
+        </article_item>
+        <article_item number="２">
+          本部員は、本部長及び副本部長以外の全ての国務大臣をもって充てる。
+        </article_item>
+      </articles>
+      <articles number="第二十二条" title="（資料の提出その他の協力）">
+        <article_item number="第二十二条">
+          本部は、その所掌事務を遂行するため必要があると認めるときは、関係行政機関、地方公共団体、独立行政法人（独立行政法人通則法（平成十一年法律第百三号）<l>第二条第一項</l>に規定する独立行政法人をいう。）及び地方独立行政法人（地方独立行政法人法（平成十五年法律第百十八号）<l>第二条第一項</l>に規定する地方独立行政法人をいう。）の長並びに特殊法人（法律により直接に設立された法人又は特別の法律により特別の設立行為をもって設立された法人であって、総務省設置法（平成十一年法律第九十一号）<l>第四条第十五号</l>の規定の適用を受けるものをいう。）の代表者に対して、資料の提出、意見の表明、説明その他必要な協力を求めることができる。
+        </article_item>
+        <article_item number="２">
+          本部は、その所掌事務を遂行するために特に必要があると認めるときは、<l>前項</l>に規定する者以外の者に対しても、必要な協力を依頼することができる。
+        </article_item>
+      </articles>
+      <articles number="第二十三条" title="（事務）">
+        <article_item number="第二十三条">
+          本部に関する事務は、内閣官房において処理し、命を受けて内閣官房副長官補が掌理する。
+        </article_item>
+      </articles>
+      <articles number="第二十四条" title="（主任の大臣）">
+        <article_item number="第二十四条">
+          本部に係る事項については、内閣法（昭和二十二年法律第五号）にいう主任の大臣は、内閣総理大臣とする。
+        </article_item>
+      </articles>
+      <articles number="第二十五条" title="（政令への委任）">
+        <article_item number="第二十五条">
+          この法律に定めるもののほか、本部に関し必要な事項は、政令で定める。
+        </article_item>
+      </articles>
+    </section>
+    <section title="第五章　雑則" type="Sho">
+      <articles number="第二十六条" title="（国土強靱化の推進を担う組織の在り方に関する検討）">
+        <article_item number="第二十六条">
+          政府は、大規模自然災害等への対処に係る事務の総括及び情報の集約に関する機能の強化の在り方その他の国土強靱化の推進を担う組織（本部を除く。）の在り方について、政府の行政改革の基本方針との整合性に配慮して検討を加え、その結果に基づいて必要な法制上の措置を講ずるものとする。
+        </article_item>
+      </articles>
+      <articles number="第二十七条" title="（国民の理解の増進）">
+        <article_item number="第二十七条">
+          国は、広報活動等を通じて国土強靱化に関する国民の理解を深めるよう努めなければならない。
+        </article_item>
+      </articles>
+      <articles number="第二十八条" title="（諸外国の理解の増進）">
+        <article_item number="第二十八条">
+          国は、国際社会における我が国の利益の増進に資するため、我が国の国土強靱化に対する諸外国の理解を深めるよう努めなければならない。
+        </article_item>
+      </articles>
+    </section>
+  </body>
 </law>

@@ -25,73 +25,73 @@
           </go_item>
           <go_item number="二">
             <l>前号</l>に掲げるものによって汚染された物
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="４">
-          この法律において「原子核分裂等装置」とは、次に掲げるものをいう。
-          <go>
-            <go_item number="一">
-              放射性物質を装備している装置であって、次に掲げるもの
-              <go>
-                <go_item number="イ">
-                  核燃料物質の原子核分裂の連鎖反応を起こさせる装置
-                </go_item>
-                <go_item number="ロ">
-                  放射性物質の放射線を発散させる装置
-                </go_item>
-              </go>
-            </go_item>
-            <go_item number="二">
-              荷電粒子を加速することにより放射線を発生させる装置
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第三条" title="（罰則）">
-        <article_item number="第三条">
-          放射性物質をみだりに取り扱うこと若しくは原子核分裂等装置をみだりに操作することにより、又はその他不当な方法で、核燃料物質の原子核分裂の連鎖反応を引き起こし、又は放射線を発散させて、人の生命、身体又は財産に危険を生じさせた者は、無期又は二年以上の懲役に処する。
-        </article_item>
-        <article_item number="２">
-          <l>前項</l>の罪の未遂は、罰する。
-          </article_item>
-          <article_item number="３">
-            第一項の罪を犯す目的で、その予備をした者は、五年以下の懲役に処する。ただし、<l>同項</l>の罪の実行の着手前に自首した者は、その刑を減軽し、又は免除する。
-          </article_item>
-        </articles>
-        <articles number="第四条" title="（罰則）">
-          <article_item number="第四条">
-            <l>前条第一項</l>の犯罪の用に供する目的で、原子核分裂等装置を製造した者は、一年以上の有期懲役に処する。
-            </article_item>
-            <article_item number="２">
-              <l>前項</l>の罪の未遂は、罰する。
-              </article_item>
-            </articles>
-            <articles number="第五条" title="（罰則）">
-              <article_item number="第五条">
-                <l>第三条第一項</l>の犯罪の用に供する目的で、原子核分裂等装置を所持した者は、十年以下の懲役に処する。
-                </article_item>
-                <article_item number="２">
-                  <l>第三条第一項</l>の犯罪の用に供する目的で、放射性物質を所持した者は、七年以下の懲役に処する。
-                  </article_item>
-                  <article_item number="３">
-                    <l>前二項</l>の罪の未遂は、罰する。
-                    </article_item>
-                  </articles>
-                  <articles number="第六条" title="（罰則）">
-                    <article_item number="第六条">
-                      放射性物質又は原子核分裂等装置を用いて人の生命、身体又は財産に害を加えることを告知して、脅迫した者は、五年以下の懲役に処する。
-                    </article_item>
-                  </articles>
-                  <articles number="第七条" title="（罰則）">
-                    <article_item number="第七条">
-                      特定核燃料物質（核原料物質、核燃料物質及び原子炉の規制に関する法律<l>第二条第六項</l>に規定する特定核燃料物質をいう。）を窃取し、又は強取することを告知して脅迫し、義務のない行為をすること又は権利を行わないことを要求した者は、五年以下の懲役に処する。
-                    </article_item>
-                  </articles>
-                  <articles number="第八条" title="（罰則）">
-                    <article_item number="第八条">
-                      <l>第三条</l>から<l>前条</l>までの罪は、刑法（明治四十年法律第四十五号）<l>第四条の二</l>の例に従う。
-                      </article_item>
-                    </articles>
-                  </body>
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="４">
+        この法律において「原子核分裂等装置」とは、次に掲げるものをいう。
+        <go>
+          <go_item number="一">
+            放射性物質を装備している装置であって、次に掲げるもの
+            <go>
+              <go_item number="イ">
+                核燃料物質の原子核分裂の連鎖反応を起こさせる装置
+              </go_item>
+              <go_item number="ロ">
+                放射性物質の放射線を発散させる装置
+              </go_item>
+            </go>
+          </go_item>
+          <go_item number="二">
+            荷電粒子を加速することにより放射線を発生させる装置
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（罰則）">
+      <article_item number="第三条">
+        放射性物質をみだりに取り扱うこと若しくは原子核分裂等装置をみだりに操作することにより、又はその他不当な方法で、核燃料物質の原子核分裂の連鎖反応を引き起こし、又は放射線を発散させて、人の生命、身体又は財産に危険を生じさせた者は、無期又は二年以上の懲役に処する。
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の罪の未遂は、罰する。
+      </article_item>
+      <article_item number="３">
+        第一項の罪を犯す目的で、その予備をした者は、五年以下の懲役に処する。ただし、<l>同項</l>の罪の実行の着手前に自首した者は、その刑を減軽し、又は免除する。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（罰則）">
+      <article_item number="第四条">
+        <l>前条第一項</l>の犯罪の用に供する目的で、原子核分裂等装置を製造した者は、一年以上の有期懲役に処する。
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の罪の未遂は、罰する。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（罰則）">
+      <article_item number="第五条">
+        <l>第三条第一項</l>の犯罪の用に供する目的で、原子核分裂等装置を所持した者は、十年以下の懲役に処する。
+      </article_item>
+      <article_item number="２">
+        <l>第三条第一項</l>の犯罪の用に供する目的で、放射性物質を所持した者は、七年以下の懲役に処する。
+      </article_item>
+      <article_item number="３">
+        <l>前二項</l>の罪の未遂は、罰する。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（罰則）">
+      <article_item number="第六条">
+        放射性物質又は原子核分裂等装置を用いて人の生命、身体又は財産に害を加えることを告知して、脅迫した者は、五年以下の懲役に処する。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（罰則）">
+      <article_item number="第七条">
+        特定核燃料物質（核原料物質、核燃料物質及び原子炉の規制に関する法律<l>第二条第六項</l>に規定する特定核燃料物質をいう。）を窃取し、又は強取することを告知して脅迫し、義務のない行為をすること又は権利を行わないことを要求した者は、五年以下の懲役に処する。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（罰則）">
+      <article_item number="第八条">
+        <l>第三条</l>から<l>前条</l>までの罪は、刑法（明治四十年法律第四十五号）<l>第四条の二</l>の例に従う。
+      </article_item>
+    </articles>
+  </body>
 </law>

@@ -93,20 +93,20 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>に掲げる方法は、交付等の相手方がファイルへの記録を出力することによる書面を作成することができるものでなければならない。
-        </article_item>
-      </articles>
-      <articles number="第十二条" title="（電磁的方法による承諾）">
-        <article_item number="第十二条">
-          民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行令<l>第二条第一項</l>の規定により示すべき方法の種類及び内容は、次に掲げる事項とする。
-          <go>
-            <go_item number="一">
-              <l>前条第一項</l>に規定する方法のうち民間事業者等が使用するもの
-              </go_item>
-              <go_item number="二">
-                ファイルへの記録の方式
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-      </body>
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（電磁的方法による承諾）">
+      <article_item number="第十二条">
+        民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行令<l>第二条第一項</l>の規定により示すべき方法の種類及び内容は、次に掲げる事項とする。
+        <go>
+          <go_item number="一">
+            <l>前条第一項</l>に規定する方法のうち民間事業者等が使用するもの
+          </go_item>
+          <go_item number="二">
+            ファイルへの記録の方式
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

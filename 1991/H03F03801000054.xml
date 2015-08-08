@@ -55,17 +55,17 @@
           </go_item>
           <go_item number="四">
             <l>前三号</l>に掲げるもののほか、カレットの利用に関する事項
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="３">
-          事業者は、カレット利用計画の実施の状況について、記録を行うものとする。
-        </article_item>
-      </articles>
-      <articles number="第五条" title="（情報の提供）">
-        <article_item number="第五条">
-          事業者は、ガラス容器の需要者のカレットの利用に関する理解を深めるため、製造するガラス容器のカレット利用率及び品質その他の必要な情報の提供を行うものとする。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="３">
+        事業者は、カレット利用計画の実施の状況について、記録を行うものとする。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（情報の提供）">
+      <article_item number="第五条">
+        事業者は、ガラス容器の需要者のカレットの利用に関する理解を深めるため、製造するガラス容器のカレット利用率及び品質その他の必要な情報の提供を行うものとする。
+      </article_item>
+    </articles>
+  </body>
 </law>

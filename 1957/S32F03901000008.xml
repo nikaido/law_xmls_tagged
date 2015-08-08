@@ -74,84 +74,84 @@
           <tr>
             <td>
               <l>第三条第一号</l>に掲げる者
-              </td>
-              <td>
-                <l>第一号</l>調査
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <l>第三条第二号</l>に掲げる者
-                  </td>
-                  <td>
-                    <l>第二号</l>調査
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <l>第三条第三号</l>に掲げる者
-                      </td>
-                      <td>
-                        <l>第三号</l>調査
-                        </td>
-                      </tr>
-                    </table>
-                  </article_item>
-                </articles>
-                <articles number="第六条" title="（調査期間）">
-                  <article_item number="第六条">
-                    第一号調査は、毎年六月分につき行う。
-                  </article_item>
-                  <article_item number="２">
-                    第二号調査は、毎年一年分（一月から十二月までの分）につき行う。
-                  </article_item>
-                  <article_item number="３">
-                    第三号調査は、毎年六月分につき行う。
-                  </article_item>
-                </articles>
-                <articles number="第七条" title="（報告義務者の範囲）">
-                  <article_item number="第七条">
-                    調査は、<l>第三条</l>に規定する船舶の所有者（船舶共有の場合は船舶管理人、船舶賃借の場合は船舶借入人。以下「報告義務者」という。）に対して行う。
-                  </article_item>
-                </articles>
-                <articles number="第八条" title="（調査の方法）">
-                  <article_item number="第八条">
-                    地方運輸局長、運輸監理部長、運輸支局長又は海事事務所長（以下「地方運輸局長等」という。）は、その管轄区域に主たる事業所を置く報告義務者に対し、<l>第六条</l>の調査期間の前日までに国土交通大臣が告示で定める様式による調査票を配布しなければならない。
-                  </article_item>
-                  <article_item number="２">
-                    第二号調査又は<l>第三号</l>調査の報告義務者が<l>前項</l>に規定する期日までに調査票の配布を受けなかつたときは、地方運輸局長等にその旨を申し出て、その配布を受けなければならない。
-                  </article_item>
-                </articles>
-                <articles number="第九条" title="（報告）">
-                  <article_item number="第九条">
-                    <l>前条</l>の調査票の配布を受けた者は、調査票に所定の事項を記入し、調査期間経過後二月以内に当該調査票の配布を行つた地方運輸局長等に提出しなければならない。
-                    </article_item>
-                  </articles>
-                  <articles number="第十条" title="（集計の方法）">
-                    <article_item number="第十条">
-                      運輸支局長又は海事事務所長は、受理した調査票を審査整理し、地方運輸局長（運輸監理部長を含む。以下同じ。）に送付しなければならない。ただし、<l>前条</l>の規定による報告が行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号。<l>次条第一項</l>において「情報通信技術利用法」という。）<l>第三条第一項</l>の規定による電子情報処理組織を使用して行われた場合にあつては、運輸支局長又は海事事務所長が審査整理を終了したときに調査票が地方運輸局長に送付されたものとみなす。 
-                    </article_item>
-                  </articles>
-                  <articles number="第十一条" title="（集計の方法）">
-                    <article_item number="第十一条">
-                      地方運輸局長は、受理した調査票及び運輸支局長又は海事事務所長から送付を受けた調査票を審査整理し、国土交通大臣に送付しなければならない。ただし、<l>第九条</l>の規定による報告が情報通信技術利用法<l>第三条第一項</l>の規定による電子情報処理組織を使用して行われた場合にあつては、地方運輸局長が審査整理を終了したときに調査票が国土交通大臣に送付されたものとみなす。
-                    </article_item>
-                    <article_item number="２">
-                      国土交通大臣は、送付を受けた調査票を審査集計する。
-                    </article_item>
-                  </articles>
-                  <articles number="第十二条" title="（結果の公表）">
-                    <article_item number="第十二条">
-                      国土交通大臣は、調査期間経過後六月以内に集計の結果を公表する。
-                    </article_item>
-                  </articles>
-                  <articles number="第十三条" title="（調査票及び集計表の保存）">
-                    <article_item number="第十三条">
-                      国土交通大臣の保存する調査票の保存期間は、二年とする。
-                    </article_item>
-                    <article_item number="２">
-                      国土交通大臣の作成した集計表の保存期間は、二年とする。
-                    </article_item>
-                  </articles>
-                </body>
+            </td>
+            <td>
+              <l>第一号</l>調査
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <l>第三条第二号</l>に掲げる者
+            </td>
+            <td>
+              <l>第二号</l>調査
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <l>第三条第三号</l>に掲げる者
+            </td>
+            <td>
+              <l>第三号</l>調査
+            </td>
+          </tr>
+        </table>
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（調査期間）">
+      <article_item number="第六条">
+        第一号調査は、毎年六月分につき行う。
+      </article_item>
+      <article_item number="２">
+        第二号調査は、毎年一年分（一月から十二月までの分）につき行う。
+      </article_item>
+      <article_item number="３">
+        第三号調査は、毎年六月分につき行う。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（報告義務者の範囲）">
+      <article_item number="第七条">
+        調査は、<l>第三条</l>に規定する船舶の所有者（船舶共有の場合は船舶管理人、船舶賃借の場合は船舶借入人。以下「報告義務者」という。）に対して行う。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（調査の方法）">
+      <article_item number="第八条">
+        地方運輸局長、運輸監理部長、運輸支局長又は海事事務所長（以下「地方運輸局長等」という。）は、その管轄区域に主たる事業所を置く報告義務者に対し、<l>第六条</l>の調査期間の前日までに国土交通大臣が告示で定める様式による調査票を配布しなければならない。
+      </article_item>
+      <article_item number="２">
+        第二号調査又は<l>第三号</l>調査の報告義務者が<l>前項</l>に規定する期日までに調査票の配布を受けなかつたときは、地方運輸局長等にその旨を申し出て、その配布を受けなければならない。
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（報告）">
+      <article_item number="第九条">
+        <l>前条</l>の調査票の配布を受けた者は、調査票に所定の事項を記入し、調査期間経過後二月以内に当該調査票の配布を行つた地方運輸局長等に提出しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（集計の方法）">
+      <article_item number="第十条">
+        運輸支局長又は海事事務所長は、受理した調査票を審査整理し、地方運輸局長（運輸監理部長を含む。以下同じ。）に送付しなければならない。ただし、<l>前条</l>の規定による報告が行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号。<l>次条第一項</l>において「情報通信技術利用法」という。）<l>第三条第一項</l>の規定による電子情報処理組織を使用して行われた場合にあつては、運輸支局長又は海事事務所長が審査整理を終了したときに調査票が地方運輸局長に送付されたものとみなす。 
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（集計の方法）">
+      <article_item number="第十一条">
+        地方運輸局長は、受理した調査票及び運輸支局長又は海事事務所長から送付を受けた調査票を審査整理し、国土交通大臣に送付しなければならない。ただし、<l>第九条</l>の規定による報告が情報通信技術利用法<l>第三条第一項</l>の規定による電子情報処理組織を使用して行われた場合にあつては、地方運輸局長が審査整理を終了したときに調査票が国土交通大臣に送付されたものとみなす。
+      </article_item>
+      <article_item number="２">
+        国土交通大臣は、送付を受けた調査票を審査集計する。
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（結果の公表）">
+      <article_item number="第十二条">
+        国土交通大臣は、調査期間経過後六月以内に集計の結果を公表する。
+      </article_item>
+    </articles>
+    <articles number="第十三条" title="（調査票及び集計表の保存）">
+      <article_item number="第十三条">
+        国土交通大臣の保存する調査票の保存期間は、二年とする。
+      </article_item>
+      <article_item number="２">
+        国土交通大臣の作成した集計表の保存期間は、二年とする。
+      </article_item>
+    </articles>
+  </body>
 </law>

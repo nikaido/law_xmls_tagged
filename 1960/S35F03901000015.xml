@@ -110,26 +110,26 @@
     <articles number="第七条" title="（報告）">
       <article_item number="第七条">
         <l>前条</l>の規定による調査票の配布を受けた者は、これに所定の事項を記入し、<l>第四条</l>の調査の期間満了後十五日以内に、これを国土交通大臣に提出しなければならない。
-        </article_item>
-      </articles>
-      <articles number="第八条" title="（結果の公表）">
-        <article_item number="第八条">
-          国土交通大臣は、調査票を審査集計した結果を自動車輸送統計月報により、調査月経過後二月以内に公表する。
-        </article_item>
-        <article_item number="２">
-          国土交通大臣は、調査票を審査集計した結果に基づき、毎年四月から翌年三月までの期間に係る自動車輸送統計年報を作成し、当該期間終了後六月以内に公表する。
-        </article_item>
-      </articles>
-      <articles number="第九条" title="（調査票等の保存）">
-        <article_item number="第九条">
-          国土交通大臣の保存する調査票の保存期間は、二年とする。
-        </article_item>
-        <article_item number="２">
-          国土交通大臣の作成した集計表の保存期間は、五年とする。
-        </article_item>
-        <article_item number="３">
-          国土交通大臣は、調査票及び集計表を収録した電磁的記録（電子的方式、磁気的方式その他人の知覚によつては認識することができない方式で作られた記録をいう。）を作成し、これを永年保存する。
-        </article_item>
-      </articles>
-    </body>
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（結果の公表）">
+      <article_item number="第八条">
+        国土交通大臣は、調査票を審査集計した結果を自動車輸送統計月報により、調査月経過後二月以内に公表する。
+      </article_item>
+      <article_item number="２">
+        国土交通大臣は、調査票を審査集計した結果に基づき、毎年四月から翌年三月までの期間に係る自動車輸送統計年報を作成し、当該期間終了後六月以内に公表する。
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（調査票等の保存）">
+      <article_item number="第九条">
+        国土交通大臣の保存する調査票の保存期間は、二年とする。
+      </article_item>
+      <article_item number="２">
+        国土交通大臣の作成した集計表の保存期間は、五年とする。
+      </article_item>
+      <article_item number="３">
+        国土交通大臣は、調査票及び集計表を収録した電磁的記録（電子的方式、磁気的方式その他人の知覚によつては認識することができない方式で作られた記録をいう。）を作成し、これを永年保存する。
+      </article_item>
+    </articles>
+  </body>
 </law>

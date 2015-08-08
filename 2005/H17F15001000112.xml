@@ -64,219 +64,219 @@
           </go_item>
           <go_item number="五">
             <l>前条</l>に規定する評価に用いる放射性物質の種類毎の放射能濃度の値並びに<l>前条第二号</l>の規定に基づく割合及びその割合の和
-            </go_item>
-            <go_item number="六">
-              確認を受けようとする期日
-            </go_item>
-            <go_item number="七">
-              放射能濃度確認対象物の保管場所
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="２">
-          <l>前項</l>の申請書には、<l>同項第四号</l>に掲げる方法が法<l>第六十一条の二第二項</l>の規定に基づき認可を受けた放射能濃度の測定及び評価の方法に従って行われていることを説明した書類を添付しなければならない。
-          </article_item>
-          <article_item number="３">
-            第一項の申請書及び<l>前項</l>に係る書類の提出部数は、正本一通及び写し一通とする。
-          </article_item>
-        </articles>
-        <articles number="第三条の二" title="（放射能濃度に関する確認実施要領書）">
-          <article_item number="第三条の二">
-            原子力規制委員会は、<l>前条</l>の申請書の提出を受けた場合には、<l>第二条第一項</l>各号又は<l>第二項</l>各号に掲げる事項の確認の方法その他必要な事項を定めた当該申請に係る確認実施要領書を定めるものとする。
-          </article_item>
-        </articles>
-        <articles number="第四条" title="（確認証の交付）">
-          <article_item number="第四条">
-            原子力規制委員会は、法<l>第六十一条の二第一項</l>の規定により次に掲げる事項を確認したときは、当該確認に係る確認証を交付する。
+          </go_item>
+          <go_item number="六">
+            確認を受けようとする期日
+          </go_item>
+          <go_item number="七">
+            放射能濃度確認対象物の保管場所
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の申請書には、<l>同項第四号</l>に掲げる方法が法<l>第六十一条の二第二項</l>の規定に基づき認可を受けた放射能濃度の測定及び評価の方法に従って行われていることを説明した書類を添付しなければならない。
+      </article_item>
+      <article_item number="３">
+        第一項の申請書及び<l>前項</l>に係る書類の提出部数は、正本一通及び写し一通とする。
+      </article_item>
+    </articles>
+    <articles number="第三条の二" title="（放射能濃度に関する確認実施要領書）">
+      <article_item number="第三条の二">
+        原子力規制委員会は、<l>前条</l>の申請書の提出を受けた場合には、<l>第二条第一項</l>各号又は<l>第二項</l>各号に掲げる事項の確認の方法その他必要な事項を定めた当該申請に係る確認実施要領書を定めるものとする。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（確認証の交付）">
+      <article_item number="第四条">
+        原子力規制委員会は、法<l>第六十一条の二第一項</l>の規定により次に掲げる事項を確認したときは、当該確認に係る確認証を交付する。
+        <go>
+          <go_item number="一">
+            評価に用いる放射性物質の放射能濃度の値が<l>第二条</l>に規定する基準を満たしていること。
+          </go_item>
+          <go_item number="二">
+            放射能濃度確認対象物の放射能濃度の測定及び評価の方法が<l>第五条第一項</l>の規定に基づき認可を受けた方法に従って行われていること。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（放射能濃度の測定及び評価の方法の認可の申請）">
+      <article_item number="第五条">
+        法<l>第六十一条の二第二項</l>の規定により、放射能濃度の測定及び評価の方法の認可を受けようとする者は、次に掲げる事項を記載した申請書を原子力規制委員会に提出しなければならない。
+        <go>
+          <go_item number="一">
+            氏名又は名称及び住所並びに法人にあっては、その代表者の氏名
+          </go_item>
+          <go_item number="二">
+            放射能濃度確認対象物が生じる工場等の名称及び所在地
+          </go_item>
+          <go_item number="三">
+            放射能濃度確認対象物が生じる施設の名称
+          </go_item>
+          <go_item number="四">
+            放射能濃度確認対象物の種類
+          </go_item>
+          <go_item number="五">
+            評価に用いる放射性物質の種類
+          </go_item>
+          <go_item number="六">
+            放射能濃度の評価単位
+          </go_item>
+          <go_item number="七">
+            放射能濃度を決定する方法
+          </go_item>
+          <go_item number="八">
+            放射線測定装置の種類及び測定条件
+          </go_item>
+          <go_item number="九">
+            放射能濃度確認対象物の管理方法
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の申請書には、次に掲げる事項について説明した書類を添付しなければならない。
+        <go>
+          <go_item number="一">
+            放射能濃度確認対象物が生じる施設に関すること。
+          </go_item>
+          <go_item number="二">
+            放射能濃度確認対象物の発生状況、材質、汚染の状況及び推定量に関すること。
+          </go_item>
+          <go_item number="三">
+            評価に用いる放射性物質の選択に関すること。
+          </go_item>
+          <go_item number="四">
+            放射能濃度の評価単位に関すること。
+          </go_item>
+          <go_item number="五">
+            放射能濃度を決定する方法に関すること。
+          </go_item>
+          <go_item number="六">
+            放射線測定装置の選択及び測定条件等の設定に関すること。
+          </go_item>
+          <go_item number="七">
+            放射能濃度の測定及び評価のための品質保証に関すること。
+          </go_item>
+          <go_item number="八">
+            前各号に掲げる事項のほか、原子力規制委員会が必要と認める事項
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="３">
+        第一項の申請書及び<l>前項</l>に係る書類の提出部数は、正本一通及び写し一通とする。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（測定及び評価の方法の認可の基準）">
+      <article_item number="第六条">
+        法<l>第六十一条の二第二項</l>の規定に基づく放射性物質の放射能濃度の測定及び評価の方法の認可の基準は、次に掲げるとおりとする。
+        <go>
+          <go_item number="一">
+            評価に用いる放射性物質は、放射能濃度確認対象物中に含まれる放射性物質のうち、放射線量を評価する上で重要となるものであること。
+          </go_item>
+          <go_item number="二">
+            放射能濃度確認対象物中の放射性物質の放射能濃度の評価単位は、その評価単位内の放射能濃度の分布の均一性及び想定される放射能濃度を考慮し、適切な重量であること。
+          </go_item>
+          <go_item number="三">
+            放射能濃度確認対象物中の放射性物質の放射能濃度の決定が、放射能濃度確認対象物の汚染の性状を考慮し、放射線測定その他の適切な方法によるものであること。ただし、放射線測定装置によって測定することが困難である場合には、適切に設定された放射性物質の組成比、計算その他の方法により放射能濃度が決定されているものであること。
+          </go_item>
+          <go_item number="四">
+            放射能濃度確認対象物中の放射性物質の放射能濃度の測定に使用する放射線測定装置及び測定条件は、次によるものであること。
             <go>
-              <go_item number="一">
-                評価に用いる放射性物質の放射能濃度の値が<l>第二条</l>に規定する基準を満たしていること。
+              <go_item number="イ">
+                放射能濃度の測定に使用する放射線測定装置は、放射能濃度確認対象物の形状、材質、評価単位、汚染の性状等に応じた適切なものであること。
               </go_item>
-              <go_item number="二">
-                放射能濃度確認対象物の放射能濃度の測定及び評価の方法が<l>第五条第一項</l>の規定に基づき認可を受けた方法に従って行われていること。
+              <go_item number="ロ">
+                放射能濃度の測定条件は、<l>第二条</l>に規定する基準の放射能濃度以下であることを適切に判断できるものであること。
               </go_item>
             </go>
-          </article_item>
-        </articles>
-        <articles number="第五条" title="（放射能濃度の測定及び評価の方法の認可の申請）">
-          <article_item number="第五条">
-            法<l>第六十一条の二第二項</l>の規定により、放射能濃度の測定及び評価の方法の認可を受けようとする者は、次に掲げる事項を記載した申請書を原子力規制委員会に提出しなければならない。
+          </go_item>
+          <go_item number="五">
+            放射能濃度確認対象物について、次に掲げる事項を防止するための適切な措置が講じられていること。
             <go>
-              <go_item number="一">
-                氏名又は名称及び住所並びに法人にあっては、その代表者の氏名
+              <go_item number="イ">
+                異物の混入
               </go_item>
-              <go_item number="二">
-                放射能濃度確認対象物が生じる工場等の名称及び所在地
+              <go_item number="ロ">
+                放射性物質による汚染
               </go_item>
-              <go_item number="三">
-                放射能濃度確認対象物が生じる施設の名称
-              </go_item>
-              <go_item number="四">
-                放射能濃度確認対象物の種類
-              </go_item>
-              <go_item number="五">
-                評価に用いる放射性物質の種類
-              </go_item>
-              <go_item number="六">
-                放射能濃度の評価単位
-              </go_item>
-              <go_item number="七">
-                放射能濃度を決定する方法
-              </go_item>
-              <go_item number="八">
-                放射線測定装置の種類及び測定条件
-              </go_item>
-              <go_item number="九">
-                放射能濃度確認対象物の管理方法
+              <go_item number="ハ">
+                確認への支障を及ぼす経年変化
               </go_item>
             </go>
-          </article_item>
-          <article_item number="２">
-            <l>前項</l>の申請書には、次に掲げる事項について説明した書類を添付しなければならない。
-              <go>
-                <go_item number="一">
-                  放射能濃度確認対象物が生じる施設に関すること。
-                </go_item>
-                <go_item number="二">
-                  放射能濃度確認対象物の発生状況、材質、汚染の状況及び推定量に関すること。
-                </go_item>
-                <go_item number="三">
-                  評価に用いる放射性物質の選択に関すること。
-                </go_item>
-                <go_item number="四">
-                  放射能濃度の評価単位に関すること。
-                </go_item>
-                <go_item number="五">
-                  放射能濃度を決定する方法に関すること。
-                </go_item>
-                <go_item number="六">
-                  放射線測定装置の選択及び測定条件等の設定に関すること。
-                </go_item>
-                <go_item number="七">
-                  放射能濃度の測定及び評価のための品質保証に関すること。
-                </go_item>
-                <go_item number="八">
-                  前各号に掲げる事項のほか、原子力規制委員会が必要と認める事項
-                </go_item>
-              </go>
-            </article_item>
-            <article_item number="３">
-              第一項の申請書及び<l>前項</l>に係る書類の提出部数は、正本一通及び写し一通とする。
-            </article_item>
-          </articles>
-          <articles number="第六条" title="（測定及び評価の方法の認可の基準）">
-            <article_item number="第六条">
-              法<l>第六十一条の二第二項</l>の規定に基づく放射性物質の放射能濃度の測定及び評価の方法の認可の基準は、次に掲げるとおりとする。
-              <go>
-                <go_item number="一">
-                  評価に用いる放射性物質は、放射能濃度確認対象物中に含まれる放射性物質のうち、放射線量を評価する上で重要となるものであること。
-                </go_item>
-                <go_item number="二">
-                  放射能濃度確認対象物中の放射性物質の放射能濃度の評価単位は、その評価単位内の放射能濃度の分布の均一性及び想定される放射能濃度を考慮し、適切な重量であること。
-                </go_item>
-                <go_item number="三">
-                  放射能濃度確認対象物中の放射性物質の放射能濃度の決定が、放射能濃度確認対象物の汚染の性状を考慮し、放射線測定その他の適切な方法によるものであること。ただし、放射線測定装置によって測定することが困難である場合には、適切に設定された放射性物質の組成比、計算その他の方法により放射能濃度が決定されているものであること。
-                </go_item>
-                <go_item number="四">
-                  放射能濃度確認対象物中の放射性物質の放射能濃度の測定に使用する放射線測定装置及び測定条件は、次によるものであること。
-                  <go>
-                    <go_item number="イ">
-                      放射能濃度の測定に使用する放射線測定装置は、放射能濃度確認対象物の形状、材質、評価単位、汚染の性状等に応じた適切なものであること。
-                    </go_item>
-                    <go_item number="ロ">
-                      放射能濃度の測定条件は、<l>第二条</l>に規定する基準の放射能濃度以下であることを適切に判断できるものであること。
-                    </go_item>
-                  </go>
-                </go_item>
-                <go_item number="五">
-                  放射能濃度確認対象物について、次に掲げる事項を防止するための適切な措置が講じられていること。
-                  <go>
-                    <go_item number="イ">
-                      異物の混入
-                    </go_item>
-                    <go_item number="ロ">
-                      放射性物質による汚染
-                    </go_item>
-                    <go_item number="ハ">
-                      確認への支障を及ぼす経年変化
-                    </go_item>
-                  </go>
-                </go_item>
-              </go>
-            </article_item>
-          </articles>
-          <articles number="第七条">
-            <article_item number="第七条">
-              削除
-            </article_item>
-          </articles>
-          <articles number="第八条">
-            <article_item number="第八条">
-              削除
-            </article_item>
-          </articles>
-          <articles number="第九条">
-            <article_item number="第九条">
-              削除
-            </article_item>
-          </articles>
-          <articles number="第十条" title="（フレキシブルディスクによる手続）">
-            <article_item number="第十条">
-              次に掲げる書類の提出については、当該書類に記載すベきこととされている事項を記録したフレキシブルディスク及び別記様式のフレキシブルディスク提出票を提出することにより行うことができる。
-              <go>
-                <go_item number="一">
-                  <l>第三条第一項</l>の申請書
-                  </go_item>
-                  <go_item number="二">
-                    <l>第五条第一項</l>の申請書
-                    </go_item>
-                  </go>
-                </article_item>
-              </articles>
-              <articles number="第十一条" title="（フレキシブルディスクの構造）">
-                <article_item number="第十一条">
-                  <l>前条</l>のフレキシブルディスクは、次の各号のいずれかに該当するものでなければならない。
-                    <go>
-                      <go_item number="一">
-                        工業標準化法（昭和二十四年法律第百八十五号）に基づく日本工業規格（以下「日本工業規格」という。）Ｘ六二二一に適合する九十ミリメートルフレキシブルディスクカートリッジ
-                      </go_item>
-                      <go_item number="二">
-                        日本工業規格Ｘ六二二三に適合する九十ミリメートルフレキシブルディスクカートリッジ
-                      </go_item>
-                    </go>
-                  </article_item>
-                </articles>
-                <articles number="第十二条" title="（フレキシブルディスクの記録方式）">
-                  <article_item number="第十二条">
-                    <l>第十条</l>の規定によるフレキシブルディスクへの記録は、次に掲げる方式に従ってしなければならない。
-                      <go>
-                        <go_item number="一">
-                          トラックフォーマットについては、<l>前条第一号</l>のフレキシブルディスクに記録する場合にあっては日本工業規格Ｘ六二二二に、<l>同条第二号</l>のフレキシブルディスクに記録する場合にあっては日本工業規格Ｘ六二二五に規定する方式
-                        </go_item>
-                        <go_item number="二">
-                          ボリューム及びファイル構成については、日本工業規格Ｘ〇六〇五に規定する方式
-                        </go_item>
-                        <go_item number="三">
-                          文字の符号化表現については、日本工業規格Ｘ〇二〇八附属書一に規定する方式
-                        </go_item>
-                      </go>
-                    </article_item>
-                    <article_item number="２">
-                      <l>第十条</l>の規定によるフレキシブルディスクへの記録は、日本工業規格Ｘ〇二〇一及びＸ〇二〇八に規定する図形文字並びに日本工業規格Ｘ〇二一一に規定する制御文字のうち「復帰」及び「改行」を用いてしなければならない。
-                      </article_item>
-                    </articles>
-                    <articles number="第十三条" title="（フレキシブルディスクにはり付ける書面）">
-                      <article_item number="第十三条">
-                        <l>第十一条</l>のフレキシブルディスクには、日本工業規格Ｘ六二二一又はＸ六二二三に規定するラベル領域に、次に掲げる事項を記載した書面をはり付けなければならない。
-                          <go>
-                            <go_item number="一">
-                              提出者の氏名又は名称
-                            </go_item>
-                            <go_item number="二">
-                              提出年月日
-                            </go_item>
-                          </go>
-                        </article_item>
-                      </articles>
-                    </body>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第七条">
+      <article_item number="第七条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第八条">
+      <article_item number="第八条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第九条">
+      <article_item number="第九条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（フレキシブルディスクによる手続）">
+      <article_item number="第十条">
+        次に掲げる書類の提出については、当該書類に記載すベきこととされている事項を記録したフレキシブルディスク及び別記様式のフレキシブルディスク提出票を提出することにより行うことができる。
+        <go>
+          <go_item number="一">
+            <l>第三条第一項</l>の申請書
+          </go_item>
+          <go_item number="二">
+            <l>第五条第一項</l>の申請書
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（フレキシブルディスクの構造）">
+      <article_item number="第十一条">
+        <l>前条</l>のフレキシブルディスクは、次の各号のいずれかに該当するものでなければならない。
+        <go>
+          <go_item number="一">
+            工業標準化法（昭和二十四年法律第百八十五号）に基づく日本工業規格（以下「日本工業規格」という。）Ｘ六二二一に適合する九十ミリメートルフレキシブルディスクカートリッジ
+          </go_item>
+          <go_item number="二">
+            日本工業規格Ｘ六二二三に適合する九十ミリメートルフレキシブルディスクカートリッジ
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（フレキシブルディスクの記録方式）">
+      <article_item number="第十二条">
+        <l>第十条</l>の規定によるフレキシブルディスクへの記録は、次に掲げる方式に従ってしなければならない。
+        <go>
+          <go_item number="一">
+            トラックフォーマットについては、<l>前条第一号</l>のフレキシブルディスクに記録する場合にあっては日本工業規格Ｘ六二二二に、<l>同条第二号</l>のフレキシブルディスクに記録する場合にあっては日本工業規格Ｘ六二二五に規定する方式
+          </go_item>
+          <go_item number="二">
+            ボリューム及びファイル構成については、日本工業規格Ｘ〇六〇五に規定する方式
+          </go_item>
+          <go_item number="三">
+            文字の符号化表現については、日本工業規格Ｘ〇二〇八附属書一に規定する方式
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        <l>第十条</l>の規定によるフレキシブルディスクへの記録は、日本工業規格Ｘ〇二〇一及びＸ〇二〇八に規定する図形文字並びに日本工業規格Ｘ〇二一一に規定する制御文字のうち「復帰」及び「改行」を用いてしなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十三条" title="（フレキシブルディスクにはり付ける書面）">
+      <article_item number="第十三条">
+        <l>第十一条</l>のフレキシブルディスクには、日本工業規格Ｘ六二二一又はＸ六二二三に規定するラベル領域に、次に掲げる事項を記載した書面をはり付けなければならない。
+        <go>
+          <go_item number="一">
+            提出者の氏名又は名称
+          </go_item>
+          <go_item number="二">
+            提出年月日
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

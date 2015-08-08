@@ -116,106 +116,106 @@
           </go_item>
           <go_item number="二">
             <l>前号</l>に掲げる事務に関連する研修の実施に関すること。
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第九条" title="（国立水俣病総合研究センター所長）">
-        <article_item number="第九条">
-          国立水俣病総合研究センターに、国立水俣病総合研究センター所長を置く。
-        </article_item>
-        <article_item number="２">
-          国立水俣病総合研究センター所長は、国立水俣病総合研究センターの事務を掌理する。
-        </article_item>
-      </articles>
-      <articles number="第十条" title="（国立水俣病総合研究センターに置く部等）">
-        <article_item number="第十条">
-          国立水俣病総合研究センターに、総務課及び次の四部を置く。<br/>　国際・総合研究部<br/>　臨床部<br/>　基礎研究部<br/>　環境・疫学研究部
-        </article_item>
-      </articles>
-      <articles number="第十一条" title="（総務課の所掌事務）">
-        <article_item number="第十一条">
-          総務課は、次に掲げる事務をつかさどる。
-          <go>
-            <go_item number="一">
-              国立水俣病総合研究センターの職員の人事に関すること。
-            </go_item>
-            <go_item number="二">
-              国立水俣病総合研究センターの職員の福利厚生に関すること。
-            </go_item>
-            <go_item number="三">
-              公文書類の接受、発送、編集及び保存に関すること。
-            </go_item>
-            <go_item number="四">
-              国立水俣病総合研究センターの所掌に係る経費及び収入の予算、決算及び会計に関すること。
-            </go_item>
-            <go_item number="五">
-              国立水俣病総合研究センター所属の行政財産及び物品の管理に関すること。
-            </go_item>
-            <go_item number="六">
-              国立水俣病総合研究センター所属の建築物の営繕に関すること。
-            </go_item>
-            <go_item number="七">
-              国立水俣病総合研究センター所属の寄宿舎の運営に関すること。
-            </go_item>
-            <go_item number="八">
-              国立水俣病総合研究センターにおける研修の実施に関すること。
-            </go_item>
-            <go_item number="九">
-              前各号に掲げるもののほか、国立水俣病総合研究センターの所掌事務で他の所掌に属しないものに関すること。
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第十二条" title="（国際・総合研究部の所掌事務）">
-        <article_item number="第十二条">
-          国際・総合研究部は、次に掲げる事務をつかさどる。
-          <go>
-            <go_item number="一">
-              水俣病に関する国際的な調査及び研究の企画及び立案並びに調整に関すること。
-            </go_item>
-            <go_item number="二">
-              水俣病に関する社会科学的及び自然科学的な調査及び研究（水俣病発生地域における地域再生・振興及び環境と福祉との相互の関係に関する調査及び研究を含む。）に関すること（他の部の所掌に属するものを除く。）。
-            </go_item>
-            <go_item number="三">
-              水俣病に関する国内及び国外の情報の収集及び整理（環境・疫学研究部の所掌に属するものを除く。）並びに提供に関すること。
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第十三条" title="（臨床部の所掌事務）">
-        <article_item number="第十三条">
-          臨床部は、水俣病の臨床医学的調査及び研究並びにこれらに必要な範囲内の診療に関する事務をつかさどる。
-        </article_item>
-      </articles>
-      <articles number="第十四条" title="（基礎研究部の所掌事務）">
-        <article_item number="第十四条">
-          基礎研究部は、水俣病の基礎医学的調査及び研究に関する事務をつかさどる。
-        </article_item>
-      </articles>
-      <articles number="第十五条" title="（環境・疫学研究部の所掌事務）">
-        <article_item number="第十五条">
-          環境・疫学研究部は、次に掲げる事務をつかさどる。
-          <go>
-            <go_item number="一">
-              水俣病の自然科学的な調査及び研究に関すること（生態学の観点から行うもの並びに自然界における水銀の動態及び物質の化学的変化に関するものに限る。）。
-            </go_item>
-            <go_item number="二">
-              水俣病の疫学的調査及び研究に関すること。
-            </go_item>
-            <go_item number="三">
-              水俣病に関する医学的調査及び研究に必要な情報の収集及び整理に関すること。
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第十六条" title="（雑則）">
-        <article_item number="第十六条">
-          この規則に定めるもののほか、環境調査研修所に関し必要な事項は、所長が定める。
-        </article_item>
-        <article_item number="２">
-          所長は、<l>前項</l>の規定に基づき、事務分掌その他の組織細目を定めようとするときは、環境大臣の承認を受けなければならない。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（国立水俣病総合研究センター所長）">
+      <article_item number="第九条">
+        国立水俣病総合研究センターに、国立水俣病総合研究センター所長を置く。
+      </article_item>
+      <article_item number="２">
+        国立水俣病総合研究センター所長は、国立水俣病総合研究センターの事務を掌理する。
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（国立水俣病総合研究センターに置く部等）">
+      <article_item number="第十条">
+        国立水俣病総合研究センターに、総務課及び次の四部を置く。<br/>　国際・総合研究部<br/>　臨床部<br/>　基礎研究部<br/>　環境・疫学研究部
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（総務課の所掌事務）">
+      <article_item number="第十一条">
+        総務課は、次に掲げる事務をつかさどる。
+        <go>
+          <go_item number="一">
+            国立水俣病総合研究センターの職員の人事に関すること。
+          </go_item>
+          <go_item number="二">
+            国立水俣病総合研究センターの職員の福利厚生に関すること。
+          </go_item>
+          <go_item number="三">
+            公文書類の接受、発送、編集及び保存に関すること。
+          </go_item>
+          <go_item number="四">
+            国立水俣病総合研究センターの所掌に係る経費及び収入の予算、決算及び会計に関すること。
+          </go_item>
+          <go_item number="五">
+            国立水俣病総合研究センター所属の行政財産及び物品の管理に関すること。
+          </go_item>
+          <go_item number="六">
+            国立水俣病総合研究センター所属の建築物の営繕に関すること。
+          </go_item>
+          <go_item number="七">
+            国立水俣病総合研究センター所属の寄宿舎の運営に関すること。
+          </go_item>
+          <go_item number="八">
+            国立水俣病総合研究センターにおける研修の実施に関すること。
+          </go_item>
+          <go_item number="九">
+            前各号に掲げるもののほか、国立水俣病総合研究センターの所掌事務で他の所掌に属しないものに関すること。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（国際・総合研究部の所掌事務）">
+      <article_item number="第十二条">
+        国際・総合研究部は、次に掲げる事務をつかさどる。
+        <go>
+          <go_item number="一">
+            水俣病に関する国際的な調査及び研究の企画及び立案並びに調整に関すること。
+          </go_item>
+          <go_item number="二">
+            水俣病に関する社会科学的及び自然科学的な調査及び研究（水俣病発生地域における地域再生・振興及び環境と福祉との相互の関係に関する調査及び研究を含む。）に関すること（他の部の所掌に属するものを除く。）。
+          </go_item>
+          <go_item number="三">
+            水俣病に関する国内及び国外の情報の収集及び整理（環境・疫学研究部の所掌に属するものを除く。）並びに提供に関すること。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十三条" title="（臨床部の所掌事務）">
+      <article_item number="第十三条">
+        臨床部は、水俣病の臨床医学的調査及び研究並びにこれらに必要な範囲内の診療に関する事務をつかさどる。
+      </article_item>
+    </articles>
+    <articles number="第十四条" title="（基礎研究部の所掌事務）">
+      <article_item number="第十四条">
+        基礎研究部は、水俣病の基礎医学的調査及び研究に関する事務をつかさどる。
+      </article_item>
+    </articles>
+    <articles number="第十五条" title="（環境・疫学研究部の所掌事務）">
+      <article_item number="第十五条">
+        環境・疫学研究部は、次に掲げる事務をつかさどる。
+        <go>
+          <go_item number="一">
+            水俣病の自然科学的な調査及び研究に関すること（生態学の観点から行うもの並びに自然界における水銀の動態及び物質の化学的変化に関するものに限る。）。
+          </go_item>
+          <go_item number="二">
+            水俣病の疫学的調査及び研究に関すること。
+          </go_item>
+          <go_item number="三">
+            水俣病に関する医学的調査及び研究に必要な情報の収集及び整理に関すること。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十六条" title="（雑則）">
+      <article_item number="第十六条">
+        この規則に定めるもののほか、環境調査研修所に関し必要な事項は、所長が定める。
+      </article_item>
+      <article_item number="２">
+        所長は、<l>前項</l>の規定に基づき、事務分掌その他の組織細目を定めようとするときは、環境大臣の承認を受けなければならない。
+      </article_item>
+    </articles>
+  </body>
 </law>

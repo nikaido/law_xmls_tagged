@@ -96,50 +96,50 @@
           </go_item>
           <go_item number="二">
             <l>第三条第七号</l>又は<l>第八号</l>に掲げる事項に係る変更
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第六条" title="（変更の届出）">
-        <article_item number="第六条">
-          法<l>第十三条第七項</l>の規定による変更の届出は、当該変更の日から十日以内に、次に掲げる事項を記載した届出書を施設の所在地を管轄する都道府県知事に提出して行うものとする。この場合において、当該変更が<l>第二条</l>各号に掲げる書類の変更を伴うときは、当該変更後の書類を添付しなければならない。
-          <go>
-            <go_item number="一">
-              氏名又は名称及び住所並びに法人にあっては、その代表者の氏名
-            </go_item>
-            <go_item number="二">
-              特定認定の年月日
-            </go_item>
-            <go_item number="三">
-              変更の内容
-            </go_item>
-            <go_item number="四">
-              変更の理由
-            </go_item>
-            <go_item number="五">
-              変更の年月日
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第七条" title="（事業の廃止の届出）">
-        <article_item number="第七条">
-          認定事業者は、認定事業を廃止したときは、その日から十日以内に、次に掲げる事項を記載した届出書を施設の所在地を管轄する都道府県知事に提出しなければならない。
-          <go>
-            <go_item number="一">
-              氏名又は名称及び住所並びに法人にあっては、その代表者の氏名
-            </go_item>
-            <go_item number="二">
-              特定認定の年月日
-            </go_item>
-            <go_item number="三">
-              廃止の理由
-            </go_item>
-            <go_item number="四">
-              廃止の年月日
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（変更の届出）">
+      <article_item number="第六条">
+        法<l>第十三条第七項</l>の規定による変更の届出は、当該変更の日から十日以内に、次に掲げる事項を記載した届出書を施設の所在地を管轄する都道府県知事に提出して行うものとする。この場合において、当該変更が<l>第二条</l>各号に掲げる書類の変更を伴うときは、当該変更後の書類を添付しなければならない。
+        <go>
+          <go_item number="一">
+            氏名又は名称及び住所並びに法人にあっては、その代表者の氏名
+          </go_item>
+          <go_item number="二">
+            特定認定の年月日
+          </go_item>
+          <go_item number="三">
+            変更の内容
+          </go_item>
+          <go_item number="四">
+            変更の理由
+          </go_item>
+          <go_item number="五">
+            変更の年月日
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（事業の廃止の届出）">
+      <article_item number="第七条">
+        認定事業者は、認定事業を廃止したときは、その日から十日以内に、次に掲げる事項を記載した届出書を施設の所在地を管轄する都道府県知事に提出しなければならない。
+        <go>
+          <go_item number="一">
+            氏名又は名称及び住所並びに法人にあっては、その代表者の氏名
+          </go_item>
+          <go_item number="二">
+            特定認定の年月日
+          </go_item>
+          <go_item number="三">
+            廃止の理由
+          </go_item>
+          <go_item number="四">
+            廃止の年月日
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

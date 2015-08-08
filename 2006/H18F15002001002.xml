@@ -75,49 +75,49 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の規定により延期又は続行をする場合においては、議長は、次回の期日及び場所を定め、これを公告しなければならない。この場合において、その期日及び場所を不服申立人又はその代理人に通知するものとする。
-        </article_item>
-      </articles>
-      <articles number="第八条" title="（調書）">
-        <article_item number="第八条">
-          議長は、調書を作成し、当該事案の記録につづらなければならない。
-        </article_item>
-        <article_item number="２">
-          <l>前項</l>の調書には、次に掲げる事項を記載し、議長が記名押印しなければならない。
-            <go>
-              <go_item number="一">
-                事案の表示
-              </go_item>
-              <go_item number="二">
-                意見聴取会の期日及び場所
-              </go_item>
-              <go_item number="三">
-                議長の職名及び氏名
-              </go_item>
-              <go_item number="四">
-                不服申立人又は出席したその代理人の氏名又は名称及び住所
-              </go_item>
-              <go_item number="五">
-                出席した利害関係人又はその代理人の氏名又は名称及び住所
-              </go_item>
-              <go_item number="六">
-                出席した行政庁の職員及び学識経験のある者その他の参考人の氏名
-              </go_item>
-              <go_item number="七">
-                弁論、陳述又はこれらの要旨
-              </go_item>
-              <go_item number="八">
-                証拠が提示されたときは、その旨及び証拠の標目
-              </go_item>
-              <go_item number="九">
-                その他意見聴取会の経過に関する主要な事項
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-        <articles number="第九条" title="（記録の閲覧）">
-          <article_item number="第九条">
-            不服申立人又はその代理人は、当該事案の記録を閲覧することができる。参加人その他書面をもって当該事案について利害関係のあることを疎明した者又はこれらの代理人も同様とする。
-          </article_item>
-        </articles>
-      </body>
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（調書）">
+      <article_item number="第八条">
+        議長は、調書を作成し、当該事案の記録につづらなければならない。
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の調書には、次に掲げる事項を記載し、議長が記名押印しなければならない。
+        <go>
+          <go_item number="一">
+            事案の表示
+          </go_item>
+          <go_item number="二">
+            意見聴取会の期日及び場所
+          </go_item>
+          <go_item number="三">
+            議長の職名及び氏名
+          </go_item>
+          <go_item number="四">
+            不服申立人又は出席したその代理人の氏名又は名称及び住所
+          </go_item>
+          <go_item number="五">
+            出席した利害関係人又はその代理人の氏名又は名称及び住所
+          </go_item>
+          <go_item number="六">
+            出席した行政庁の職員及び学識経験のある者その他の参考人の氏名
+          </go_item>
+          <go_item number="七">
+            弁論、陳述又はこれらの要旨
+          </go_item>
+          <go_item number="八">
+            証拠が提示されたときは、その旨及び証拠の標目
+          </go_item>
+          <go_item number="九">
+            その他意見聴取会の経過に関する主要な事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（記録の閲覧）">
+      <article_item number="第九条">
+        不服申立人又はその代理人は、当該事案の記録を閲覧することができる。参加人その他書面をもって当該事案について利害関係のあることを疎明した者又はこれらの代理人も同様とする。
+      </article_item>
+    </articles>
+  </body>
 </law>

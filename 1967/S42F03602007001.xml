@@ -132,161 +132,161 @@
             <go>
               <go_item number="イ">
                 <l>前号</l>イ、ロ、ハ及びヘに掲げる事項
-                </go_item>
-                <go_item number="ロ">
-                  管渠の位置、形状、内のり寸法、勾配、区間距離及び管渠底高並びに下水の流れの方向
-                </go_item>
-                <go_item number="ハ">
-                  取付管渠の位置、形状、内のりの寸法及び延長
-                </go_item>
-                <go_item number="ニ">
-                  マンホールの位置、種類及び内のり寸法
-                </go_item>
-                <go_item number="ホ">
-                  汚水ます及び雨水ますの位置及び種類
-                </go_item>
-                <go_item number="ヘ">
-                  ランプホールの位置
-                </go_item>
-                <go_item number="ト">
-                  吐口の位置並びに下水の放流先の名称並びにその高水位、低水位及び平均水位
-                </go_item>
-                <go_item number="チ">
-                  排水施設に接続する道路の側溝、公共溝渠等（法<l>第十条第一項</l>の排水設備及びルに掲げる施設又は工作物その他の物件を除く。）の位置、形状、内のり寸法及び名称
-                </go_item>
-                <go_item number="リ">
-                  処理施設及びポンプ施設の名称及び敷地の境界線
-                </go_item>
-                <go_item number="ヌ">
-                  処理施設及びポンプ施設の敷地内の主要な施設の位置、形状、寸法、水位及び名称
-                </go_item>
-                <go_item number="ル">
-                  法<l>第二十四条第一項</l>の許可を受け、又は法<l>第四十一条</l>の協議に基づき設けられた施設又は工作物その他の物件の位置及び名称
-                </go_item>
-                <go_item number="ヲ">
-                  附近の道路、河川、鉄道等の位置
-                </go_item>
-              </go>
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="４">
-          調書及び図面の記載事項に変更があつたときは、すみやかに、これを訂正しなければならない。
-        </article_item>
-      </articles>
-      <articles number="第四条" title="（流域下水道台帳）">
-        <article_item number="第四条">
-          流域下水道台帳は、調書及び図面をもつて組成するものとする。
-        </article_item>
-        <article_item number="２">
-          調書には、流域下水道につき、少なくとも次の各号に掲げる事項を記載するものとする。
-          <go>
-            <go_item number="一">
-              流域関連公共下水道の排水区域の面積及び排水人口並びに排水区域内の地名
-            </go_item>
-            <go_item number="二">
-              流域関連公共下水道の処理区域の面積及び処理人口並びに処理区域内の地名
-            </go_item>
-            <go_item number="三">
-              供用の開始の年月日及び終末処理場による下水の処理の開始の年月日
-            </go_item>
-            <go_item number="四">
-              吐口の位置及び下水の放流先の名称
-            </go_item>
-            <go_item number="五">
-              管渠（流域関連公共下水道との接続管渠を除く。以下この条において同じ。）の延長及びマンホールの数
-            </go_item>
-            <go_item number="六">
-              処理施設の位置、敷地の面積、構造及び能力
-            </go_item>
-            <go_item number="七">
-              ポンプ施設の位置、敷地の面積、構造及び能力
-            </go_item>
-            <go_item number="八">
-              流域関連公共下水道が接続する位置及びその他法<l>第二十五条の九</l>の規定に基づき設けられた施設又は工作物その他の物件に関する次に掲げる事項
-              <go>
-                <go_item number="イ">
-                  名称、位置及び構造
-                </go_item>
-                <go_item number="ロ">
-                  設置者の氏名及び住所
-                </go_item>
-                <go_item number="ハ">
-                  設置の期間
-                </go_item>
-              </go>
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="３">
-          図面は、一般図及び施設平面図とし、流域下水道につき、次の各号により調製するものとする。
-          <go>
-            <go_item number="一">
-              一般図は、次に掲げる事項を記載した縮尺五万分の一以上の地形図とすること。
-              <go>
-                <go_item number="イ">
-                  市区町村名及びその境界線
-                </go_item>
-                <go_item number="ロ">
-                  流域関連公共下水道の予定処理区域の境界線並びに流域下水道処理区（流域下水道により排除される下水が二以上の終末処理場によつて処理される場合においてそれぞれの終末処理場により処理される下水を排除することができる地域で流域下水道管理者が定めるものをいう。）及び処理分区の境界線及び名称
-                </go_item>
-                <go_item number="ハ">
-                  流域関連公共下水道の排水区域及び処理区域の境界線
-                </go_item>
-                <go_item number="ニ">
-                  管渠及び吐口の位置並びに下水の放流先の名称
-                </go_item>
-                <go_item number="ホ">
-                  流域関連公共下水道が接続する位置
-                </go_item>
-                <go_item number="ヘ">
-                  処理施設及びポンプ施設の位置及び名称
-                </go_item>
-                <go_item number="ト">
-                  方位、縮尺、凡例及び調製の年月日
-                </go_item>
-              </go>
-            </go_item>
-            <go_item number="二">
-              施設平面図は、次に掲げる事項を記載した縮尺五百分の一以上の平面図とすること。
-              <go>
-                <go_item number="イ">
-                  <l>前号</l>イ、ロ、ハ及びトに掲げる事項
-                  </go_item>
-                  <go_item number="ロ">
-                    管渠の位置、形状、内のり寸法、勾配、区間距離及び管渠底高並びに下水の流れの方向
-                  </go_item>
-                  <go_item number="ハ">
-                    流域関連公共下水道との接続管渠の位置、形状、内のりの寸法及び勾配
-                  </go_item>
-                  <go_item number="ニ">
-                    マンホールの位置、種類及び内のり寸法
-                  </go_item>
-                  <go_item number="ホ">
-                    ランプホールの位置
-                  </go_item>
-                  <go_item number="ヘ">
-                    吐口の位置並びに下水の放流先の名称並びにその高水位、低水位及び平均水位
-                  </go_item>
-                  <go_item number="ト">
-                    処理施設及びポンプ施設の名称及び敷地の境界線
-                  </go_item>
-                  <go_item number="チ">
-                    処理施設及びポンプ施設の敷地内の主要な施設の位置、形状、寸法、水位及び名称
-                  </go_item>
-                  <go_item number="リ">
-                    法<l>第二十五条の九</l>の規定に基づき設けられた施設又は工作物その他の物件の位置及び名称
-                  </go_item>
-                  <go_item number="ヌ">
-                    附近の道路、河川、鉄道等の位置
-                  </go_item>
-                </go>
+              </go_item>
+              <go_item number="ロ">
+                管渠の位置、形状、内のり寸法、勾配、区間距離及び管渠底高並びに下水の流れの方向
+              </go_item>
+              <go_item number="ハ">
+                取付管渠の位置、形状、内のりの寸法及び延長
+              </go_item>
+              <go_item number="ニ">
+                マンホールの位置、種類及び内のり寸法
+              </go_item>
+              <go_item number="ホ">
+                汚水ます及び雨水ますの位置及び種類
+              </go_item>
+              <go_item number="ヘ">
+                ランプホールの位置
+              </go_item>
+              <go_item number="ト">
+                吐口の位置並びに下水の放流先の名称並びにその高水位、低水位及び平均水位
+              </go_item>
+              <go_item number="チ">
+                排水施設に接続する道路の側溝、公共溝渠等（法<l>第十条第一項</l>の排水設備及びルに掲げる施設又は工作物その他の物件を除く。）の位置、形状、内のり寸法及び名称
+              </go_item>
+              <go_item number="リ">
+                処理施設及びポンプ施設の名称及び敷地の境界線
+              </go_item>
+              <go_item number="ヌ">
+                処理施設及びポンプ施設の敷地内の主要な施設の位置、形状、寸法、水位及び名称
+              </go_item>
+              <go_item number="ル">
+                法<l>第二十四条第一項</l>の許可を受け、又は法<l>第四十一条</l>の協議に基づき設けられた施設又は工作物その他の物件の位置及び名称
+              </go_item>
+              <go_item number="ヲ">
+                附近の道路、河川、鉄道等の位置
               </go_item>
             </go>
-          </article_item>
-          <article_item number="４">
-            調書及び図面の記載事項に変更があつたときは、すみやかにこれを訂正しなければならない。
-          </article_item>
-        </articles>
-      </body>
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="４">
+        調書及び図面の記載事項に変更があつたときは、すみやかに、これを訂正しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（流域下水道台帳）">
+      <article_item number="第四条">
+        流域下水道台帳は、調書及び図面をもつて組成するものとする。
+      </article_item>
+      <article_item number="２">
+        調書には、流域下水道につき、少なくとも次の各号に掲げる事項を記載するものとする。
+        <go>
+          <go_item number="一">
+            流域関連公共下水道の排水区域の面積及び排水人口並びに排水区域内の地名
+          </go_item>
+          <go_item number="二">
+            流域関連公共下水道の処理区域の面積及び処理人口並びに処理区域内の地名
+          </go_item>
+          <go_item number="三">
+            供用の開始の年月日及び終末処理場による下水の処理の開始の年月日
+          </go_item>
+          <go_item number="四">
+            吐口の位置及び下水の放流先の名称
+          </go_item>
+          <go_item number="五">
+            管渠（流域関連公共下水道との接続管渠を除く。以下この条において同じ。）の延長及びマンホールの数
+          </go_item>
+          <go_item number="六">
+            処理施設の位置、敷地の面積、構造及び能力
+          </go_item>
+          <go_item number="七">
+            ポンプ施設の位置、敷地の面積、構造及び能力
+          </go_item>
+          <go_item number="八">
+            流域関連公共下水道が接続する位置及びその他法<l>第二十五条の九</l>の規定に基づき設けられた施設又は工作物その他の物件に関する次に掲げる事項
+            <go>
+              <go_item number="イ">
+                名称、位置及び構造
+              </go_item>
+              <go_item number="ロ">
+                設置者の氏名及び住所
+              </go_item>
+              <go_item number="ハ">
+                設置の期間
+              </go_item>
+            </go>
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="３">
+        図面は、一般図及び施設平面図とし、流域下水道につき、次の各号により調製するものとする。
+        <go>
+          <go_item number="一">
+            一般図は、次に掲げる事項を記載した縮尺五万分の一以上の地形図とすること。
+            <go>
+              <go_item number="イ">
+                市区町村名及びその境界線
+              </go_item>
+              <go_item number="ロ">
+                流域関連公共下水道の予定処理区域の境界線並びに流域下水道処理区（流域下水道により排除される下水が二以上の終末処理場によつて処理される場合においてそれぞれの終末処理場により処理される下水を排除することができる地域で流域下水道管理者が定めるものをいう。）及び処理分区の境界線及び名称
+              </go_item>
+              <go_item number="ハ">
+                流域関連公共下水道の排水区域及び処理区域の境界線
+              </go_item>
+              <go_item number="ニ">
+                管渠及び吐口の位置並びに下水の放流先の名称
+              </go_item>
+              <go_item number="ホ">
+                流域関連公共下水道が接続する位置
+              </go_item>
+              <go_item number="ヘ">
+                処理施設及びポンプ施設の位置及び名称
+              </go_item>
+              <go_item number="ト">
+                方位、縮尺、凡例及び調製の年月日
+              </go_item>
+            </go>
+          </go_item>
+          <go_item number="二">
+            施設平面図は、次に掲げる事項を記載した縮尺五百分の一以上の平面図とすること。
+            <go>
+              <go_item number="イ">
+                <l>前号</l>イ、ロ、ハ及びトに掲げる事項
+              </go_item>
+              <go_item number="ロ">
+                管渠の位置、形状、内のり寸法、勾配、区間距離及び管渠底高並びに下水の流れの方向
+              </go_item>
+              <go_item number="ハ">
+                流域関連公共下水道との接続管渠の位置、形状、内のりの寸法及び勾配
+              </go_item>
+              <go_item number="ニ">
+                マンホールの位置、種類及び内のり寸法
+              </go_item>
+              <go_item number="ホ">
+                ランプホールの位置
+              </go_item>
+              <go_item number="ヘ">
+                吐口の位置並びに下水の放流先の名称並びにその高水位、低水位及び平均水位
+              </go_item>
+              <go_item number="ト">
+                処理施設及びポンプ施設の名称及び敷地の境界線
+              </go_item>
+              <go_item number="チ">
+                処理施設及びポンプ施設の敷地内の主要な施設の位置、形状、寸法、水位及び名称
+              </go_item>
+              <go_item number="リ">
+                法<l>第二十五条の九</l>の規定に基づき設けられた施設又は工作物その他の物件の位置及び名称
+              </go_item>
+              <go_item number="ヌ">
+                附近の道路、河川、鉄道等の位置
+              </go_item>
+            </go>
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="４">
+        調書及び図面の記載事項に変更があつたときは、すみやかにこれを訂正しなければならない。
+      </article_item>
+    </articles>
+  </body>
 </law>

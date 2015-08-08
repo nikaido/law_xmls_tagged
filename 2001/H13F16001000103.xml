@@ -96,105 +96,105 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の疲労破壊輪数の測定は、実地に行うものとする。ただし、当該舗装道の区間の舗装と舗装構成が同一である舗装の供試体を作成した場合には、当該供試体について測定することをもって、実地に行う測定に代えることができる。
-        </article_item>
-        <article_item number="３">
-          当該舗装道の区間と舗装構成が同一である他の舗装道の区間の舗装が<l>第一項</l>の基準に適合することが明らかである場合は、当該舗装道の区間の舗装についても<l>同項</l>の基準に適合するものとみなす。
-        </article_item>
-      </articles>
-      <articles number="第四条" title="（塑性変形輪数）">
-        <article_item number="第四条">
-          塑性変形輪数は、道路の区分及び舗装計画交通量に応じ、次の表の下欄に掲げる値以上とするものとする。
-          <table>
-            <tr>
-              <td>
-                区分
-              </td>
-              <td>
-                舗装計画交通量（単位　一日につき台）
-              </td>
-              <td>
-                塑性変形輪数（単位　一ミリメートルにつき回）
-              </td>
-            </tr>
-            <tr>
-              <td rowspan="2">第一種、第二種、第三種第一級及び第二級並びに第四種第一級
-              </td>
-              <td>
-                三、〇〇〇以上
-              </td>
-              <td>
-                三、〇〇〇
-              </td>
-            </tr>
-            <tr>
-              <td>
-                三、〇〇〇未満
-              </td>
-              <td>
-                一、五〇〇
-              </td>
-            </tr>
-            <tr>
-              <td>
-                その他
-              </td>
-              <td>
-                　
-              </td>
-              <td>
-                五〇〇
-              </td>
-            </tr>
-          </table>
-        </article_item>
-        <article_item number="２">
-          <l>前項</l>の塑性変形輪数の測定は、実地に行うものとする。ただし、当該舗装道の区間の舗装と表層の厚さ及び材質が同一である舗装の供試体を作成した場合には、当該供試体について測定することをもって、実地に行う測定に代えることができる。
-          </article_item>
-          <article_item number="３">
-            当該舗装道の区間の舗装と表層の厚さ及び材質が同一である他の舗装道の区間の舗装が<l>第一項</l>の基準に適合することが明らかである場合は、当該舗装道の区間の舗装についても<l>同項</l>の基準に適合するものとみなす。
-          </article_item>
-        </articles>
-        <articles number="第五条" title="（平たん性）">
-          <article_item number="第五条">
-            平たん性は、二・四ミリメートル以下とするものとする。
-          </article_item>
-          <article_item number="２">
-            <l>前項</l>の平たん性の測定は、実地に行うものとする。
-            </article_item>
-          </articles>
-          <articles number="第六条" title="（浸透水量）">
-            <article_item number="第六条">
-              浸透水量は、道路の区分に応じ、次の表の下欄に掲げる値以上とするものとする。
-              <table>
-                <tr>
-                  <td>
-                    区分
-                  </td>
-                  <td>
-                    浸透水量（単位　十五秒につきミリリットル）
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    第一種、第二種、第三種第一級及び第二級並びに第四種第一級
-                  </td>
-                  <td>
-                    一、〇〇〇
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    その他
-                  </td>
-                  <td>
-                    三〇〇
-                  </td>
-                </tr>
-              </table>
-            </article_item>
-            <article_item number="２">
-              <l>前項</l>の浸透水量の測定は、実地に行うものとする。
-              </article_item>
-            </articles>
-          </body>
+      </article_item>
+      <article_item number="３">
+        当該舗装道の区間と舗装構成が同一である他の舗装道の区間の舗装が<l>第一項</l>の基準に適合することが明らかである場合は、当該舗装道の区間の舗装についても<l>同項</l>の基準に適合するものとみなす。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（塑性変形輪数）">
+      <article_item number="第四条">
+        塑性変形輪数は、道路の区分及び舗装計画交通量に応じ、次の表の下欄に掲げる値以上とするものとする。
+        <table>
+          <tr>
+            <td>
+              区分
+            </td>
+            <td>
+              舗装計画交通量（単位　一日につき台）
+            </td>
+            <td>
+              塑性変形輪数（単位　一ミリメートルにつき回）
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="2">第一種、第二種、第三種第一級及び第二級並びに第四種第一級
+            </td>
+            <td>
+              三、〇〇〇以上
+            </td>
+            <td>
+              三、〇〇〇
+            </td>
+          </tr>
+          <tr>
+            <td>
+              三、〇〇〇未満
+            </td>
+            <td>
+              一、五〇〇
+            </td>
+          </tr>
+          <tr>
+            <td>
+              その他
+            </td>
+            <td>
+              　
+            </td>
+            <td>
+              五〇〇
+            </td>
+          </tr>
+        </table>
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の塑性変形輪数の測定は、実地に行うものとする。ただし、当該舗装道の区間の舗装と表層の厚さ及び材質が同一である舗装の供試体を作成した場合には、当該供試体について測定することをもって、実地に行う測定に代えることができる。
+      </article_item>
+      <article_item number="３">
+        当該舗装道の区間の舗装と表層の厚さ及び材質が同一である他の舗装道の区間の舗装が<l>第一項</l>の基準に適合することが明らかである場合は、当該舗装道の区間の舗装についても<l>同項</l>の基準に適合するものとみなす。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（平たん性）">
+      <article_item number="第五条">
+        平たん性は、二・四ミリメートル以下とするものとする。
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の平たん性の測定は、実地に行うものとする。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（浸透水量）">
+      <article_item number="第六条">
+        浸透水量は、道路の区分に応じ、次の表の下欄に掲げる値以上とするものとする。
+        <table>
+          <tr>
+            <td>
+              区分
+            </td>
+            <td>
+              浸透水量（単位　十五秒につきミリリットル）
+            </td>
+          </tr>
+          <tr>
+            <td>
+              第一種、第二種、第三種第一級及び第二級並びに第四種第一級
+            </td>
+            <td>
+              一、〇〇〇
+            </td>
+          </tr>
+          <tr>
+            <td>
+              その他
+            </td>
+            <td>
+              三〇〇
+            </td>
+          </tr>
+        </table>
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の浸透水量の測定は、実地に行うものとする。
+      </article_item>
+    </articles>
+  </body>
 </law>

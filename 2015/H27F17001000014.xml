@@ -96,33 +96,33 @@
           </go_item>
           <go_item number="四">
             <l>前三号</l>に掲げる変更のほか、法<l>第七条第一項</l>に規定する事業計画の重要な変更
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第十条">
-        <article_item number="第十条">
-          法<l>第十条第一項</l>の規定により要請をしようとする者は、次に掲げる事項を記載した要請書を市町村長に提出しなければならない。
-          <go>
-            <go_item number="一">
-              要請者の氏名又は名称及び住所
-            </go_item>
-            <go_item number="二">
-              当該要請に係る農用地の所在、地番、地目、用途及び地積
-            </go_item>
-            <go_item number="三">
-              当該要請に係る農用地につき地上権、永小作権、質権、賃借権、使用貸借による権利若しくはその他の使用及び収益を目的とする権利、先取特権又は抵当権を有する者がある場合には、その者の氏名又は名称及び住所並びにその権利の表示
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="２">
-          <l>前項</l>の要請書には、法<l>第十条第一項</l>の同意を得たことを証する書類を添付しなければならない。
-          </article_item>
-        </articles>
-        <articles number="第十一条">
-          <article_item number="第十一条">
-            法<l>第十一条</l>の農林水産省令で定める要件は、<l>同条</l>の認定事業の実施期間が満了していることとする。
-          </article_item>
-        </articles>
-      </body>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十条">
+      <article_item number="第十条">
+        法<l>第十条第一項</l>の規定により要請をしようとする者は、次に掲げる事項を記載した要請書を市町村長に提出しなければならない。
+        <go>
+          <go_item number="一">
+            要請者の氏名又は名称及び住所
+          </go_item>
+          <go_item number="二">
+            当該要請に係る農用地の所在、地番、地目、用途及び地積
+          </go_item>
+          <go_item number="三">
+            当該要請に係る農用地につき地上権、永小作権、質権、賃借権、使用貸借による権利若しくはその他の使用及び収益を目的とする権利、先取特権又は抵当権を有する者がある場合には、その者の氏名又は名称及び住所並びにその権利の表示
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の要請書には、法<l>第十条第一項</l>の同意を得たことを証する書類を添付しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十一条">
+      <article_item number="第十一条">
+        法<l>第十一条</l>の農林水産省令で定める要件は、<l>同条</l>の認定事業の実施期間が満了していることとする。
+      </article_item>
+    </articles>
+  </body>
 </law>

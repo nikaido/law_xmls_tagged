@@ -144,68 +144,68 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の表の上欄に掲げる分科会に属すべき委員、臨時委員（<l>第三条第二項第二号</l>に掲げる者を除く。）及び専門委員は、財務大臣が指名する。
-        </article_item>
-        <article_item number="３">
-          <l>第三条第二項第二号</l>に掲げる臨時委員は、国家公務員共済組合分科会に属する。
-          </article_item>
-          <article_item number="４">
-            分科会に、分科会長を置き、当該分科会に属する委員の互選により選任する。
-          </article_item>
-          <article_item number="５">
-            分科会長は、当該分科会の事務を掌理する。
-          </article_item>
-          <article_item number="６">
-            分科会長に事故があるときは、当該分科会に属する委員及び臨時委員のうちから分科会長があらかじめ指名する者が、その職務を代理する。
-          </article_item>
-          <article_item number="７">
-            審議会は、その定めるところにより、分科会の議決をもって審議会の議決とすることができる。
-          </article_item>
-        </articles>
-        <articles number="第七条" title="（部会）">
-          <article_item number="第七条">
-            審議会及び分科会は、その定めるところにより、部会を置くことができる。
-          </article_item>
-          <article_item number="２">
-            部会に属すべき委員、臨時委員及び専門委員は、会長（分科会に置かれる部会にあっては、分科会長。<l>次項</l>において同じ。）が指名する。
-          </article_item>
-          <article_item number="３">
-            部会に、部会長を置き、当該部会に属する委員のうちから会長が指名する。
-          </article_item>
-          <article_item number="４">
-            部会長は、当該部会の事務を掌理する。
-          </article_item>
-          <article_item number="５">
-            部会長に事故があるときは、当該部会に属する委員及び臨時委員のうちから部会長があらかじめ指名する者が、その職務を代理する。
-          </article_item>
-          <article_item number="６">
-            審議会（分科会に置かれる部会にあっては、分科会。以下この項において同じ。）は、その定めるところにより、部会の議決をもって審議会の議決とすることができる。
-          </article_item>
-        </articles>
-        <articles number="第八条" title="（議事）">
-          <article_item number="第八条">
-            審議会は、委員及び議事に関係のある臨時委員の三分の一以上が出席しなければ、会議を開き、議決することができない。
-          </article_item>
-          <article_item number="２">
-            審議会の議事は、委員及び議事に関係のある臨時委員で会議に出席したものの過半数で決し、可否同数のときは、会長の決するところによる。
-          </article_item>
-          <article_item number="３">
-            <l>前二項</l>の規定は、分科会及び部会の議事について準用する。
-            </article_item>
-          </articles>
-          <articles number="第九条" title="（資料の提出等の要求）">
-            <article_item number="第九条">
-              審議会は、その所掌事務を遂行するため必要があると認めるときは、関係行政機関の長に対し、資料の提出、意見の開陳、説明その他必要な協力を求めることができる。
-            </article_item>
-          </articles>
-          <articles number="第十条" title="（庶務）">
-            <article_item number="第十条">
-              審議会の庶務は、財務省主計局調査課において総括し、及び処理する。ただし、各分科会の庶務は、財政制度分科会については財務省主計局調査課、国家公務員共済組合分科会については財務省主計局給与共済課、財政投融資分科会については財務省理財局財政投融資総括課、たばこ事業等分科会については財務省理財局総務課、国有財産分科会については財務省理財局国有財産企画課においてそれぞれ処理する。
-            </article_item>
-          </articles>
-          <articles number="第十一条" title="（雑則）　">
-            <article_item number="第十一条">
-              この政令に定めるもののほか、議事の手続その他審議会の運営に関し必要な事項は、会長が審議会に諮って定める。
-            </article_item>
-          </articles>
-        </body>
+      </article_item>
+      <article_item number="３">
+        <l>第三条第二項第二号</l>に掲げる臨時委員は、国家公務員共済組合分科会に属する。
+      </article_item>
+      <article_item number="４">
+        分科会に、分科会長を置き、当該分科会に属する委員の互選により選任する。
+      </article_item>
+      <article_item number="５">
+        分科会長は、当該分科会の事務を掌理する。
+      </article_item>
+      <article_item number="６">
+        分科会長に事故があるときは、当該分科会に属する委員及び臨時委員のうちから分科会長があらかじめ指名する者が、その職務を代理する。
+      </article_item>
+      <article_item number="７">
+        審議会は、その定めるところにより、分科会の議決をもって審議会の議決とすることができる。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（部会）">
+      <article_item number="第七条">
+        審議会及び分科会は、その定めるところにより、部会を置くことができる。
+      </article_item>
+      <article_item number="２">
+        部会に属すべき委員、臨時委員及び専門委員は、会長（分科会に置かれる部会にあっては、分科会長。<l>次項</l>において同じ。）が指名する。
+      </article_item>
+      <article_item number="３">
+        部会に、部会長を置き、当該部会に属する委員のうちから会長が指名する。
+      </article_item>
+      <article_item number="４">
+        部会長は、当該部会の事務を掌理する。
+      </article_item>
+      <article_item number="５">
+        部会長に事故があるときは、当該部会に属する委員及び臨時委員のうちから部会長があらかじめ指名する者が、その職務を代理する。
+      </article_item>
+      <article_item number="６">
+        審議会（分科会に置かれる部会にあっては、分科会。以下この項において同じ。）は、その定めるところにより、部会の議決をもって審議会の議決とすることができる。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（議事）">
+      <article_item number="第八条">
+        審議会は、委員及び議事に関係のある臨時委員の三分の一以上が出席しなければ、会議を開き、議決することができない。
+      </article_item>
+      <article_item number="２">
+        審議会の議事は、委員及び議事に関係のある臨時委員で会議に出席したものの過半数で決し、可否同数のときは、会長の決するところによる。
+      </article_item>
+      <article_item number="３">
+        <l>前二項</l>の規定は、分科会及び部会の議事について準用する。
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（資料の提出等の要求）">
+      <article_item number="第九条">
+        審議会は、その所掌事務を遂行するため必要があると認めるときは、関係行政機関の長に対し、資料の提出、意見の開陳、説明その他必要な協力を求めることができる。
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（庶務）">
+      <article_item number="第十条">
+        審議会の庶務は、財務省主計局調査課において総括し、及び処理する。ただし、各分科会の庶務は、財政制度分科会については財務省主計局調査課、国家公務員共済組合分科会については財務省主計局給与共済課、財政投融資分科会については財務省理財局財政投融資総括課、たばこ事業等分科会については財務省理財局総務課、国有財産分科会については財務省理財局国有財産企画課においてそれぞれ処理する。
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（雑則）　">
+      <article_item number="第十一条">
+        この政令に定めるもののほか、議事の手続その他審議会の運営に関し必要な事項は、会長が審議会に諮って定める。
+      </article_item>
+    </articles>
+  </body>
 </law>

@@ -27,39 +27,39 @@
         <go>
           <go_item number="一">
             <l>第一条</l>に規定する法人でその地区が一の都道府県の区域を超えないもの
-            </go_item>
-            <go_item number="二">
-              <l>前号</l>に掲げる法人が主たる出資者となつている法人で農林水産省令で定めるもの
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-        <articles number="第四条" title="（補助金の額）">
-          <article_item number="第四条">
-            法<l>第五条</l>又は<l>第八条第二項</l>の規定により交付する補助金の額は、それぞれ法<l>第五条</l>又は<l>第八条第二項</l>に規定する経費の二分の一以内とする。
-          </article_item>
-        </articles>
-        <articles number="第五条" title="（裁定の申請）">
-          <article_item number="第五条">
-            法<l>第九条第二項</l>の裁定を申請しようとする者は、次に掲げる事項を記載した申請書に<l>同項</l>の農林水産大臣の認定を受けたことを証する書面を添え、その申請に係る発電施設又は送電配電施設の所在地を管轄する経済産業局長に提出しなければならない。
-            <go>
-              <go_item number="一">
-                申請者の名称及び住所並びに代表者の氏名
-              </go_item>
-              <go_item number="二">
-                法<l>第六条第一号</l>、<l>第三号</l>及び<l>第四号</l>に掲げる事項
-              </go_item>
-              <go_item number="三">
-                電気事業者との協議の経過
-              </go_item>
-              <go_item number="四">
-                裁定を受けようとする事項
-              </go_item>
-              <go_item number="五">
-                その他経済産業省令で定める事項
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-      </body>
+          </go_item>
+          <go_item number="二">
+            <l>前号</l>に掲げる法人が主たる出資者となつている法人で農林水産省令で定めるもの
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（補助金の額）">
+      <article_item number="第四条">
+        法<l>第五条</l>又は<l>第八条第二項</l>の規定により交付する補助金の額は、それぞれ法<l>第五条</l>又は<l>第八条第二項</l>に規定する経費の二分の一以内とする。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（裁定の申請）">
+      <article_item number="第五条">
+        法<l>第九条第二項</l>の裁定を申請しようとする者は、次に掲げる事項を記載した申請書に<l>同項</l>の農林水産大臣の認定を受けたことを証する書面を添え、その申請に係る発電施設又は送電配電施設の所在地を管轄する経済産業局長に提出しなければならない。
+        <go>
+          <go_item number="一">
+            申請者の名称及び住所並びに代表者の氏名
+          </go_item>
+          <go_item number="二">
+            法<l>第六条第一号</l>、<l>第三号</l>及び<l>第四号</l>に掲げる事項
+          </go_item>
+          <go_item number="三">
+            電気事業者との協議の経過
+          </go_item>
+          <go_item number="四">
+            裁定を受けようとする事項
+          </go_item>
+          <go_item number="五">
+            その他経済産業省令で定める事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

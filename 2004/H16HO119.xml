@@ -22,33 +22,33 @@
           </go_item>
           <go_item number="三">
             <l>前二号</l>に掲げるもののほか、主要な争点の審理に知的財産に関する専門的な知見を要する事件
-            </go_item>
-            <go_item number="四">
-              第一号若しくは<l>第二号</l>に掲げる訴訟事件又は<l>前号</l>に掲げる事件で訴訟事件であるものと口頭弁論を併合して審理されるべき訴訟事件
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第三条" title="（知的財産高等裁判所に勤務する裁判官等）">
-        <article_item number="第三条">
-          最高裁判所は、知的財産高等裁判所に勤務する裁判官を定める。
-        </article_item>
-        <article_item number="２">
-          最高裁判所は、知的財産高等裁判所に勤務する裁判官のうち一人に知的財産高等裁判所長を命ずる。
-        </article_item>
-      </articles>
-      <articles number="第四条" title="（知的財産高等裁判所の司法行政事務）">
-        <article_item number="第四条">
-          知的財産高等裁判所が知的財産高等裁判所における裁判事務の分配その他の司法行政事務を行うのは、知的財産高等裁判所に勤務する裁判官の会議の議によるものとし、知的財産高等裁判所長が、これを総括する。
-        </article_item>
-        <article_item number="２">
-          <l>前項</l>の会議は、知的財産高等裁判所に勤務する全員の裁判官でこれを組織し、知的財産高等裁判所長が、その議長となる。
-          </article_item>
-        </articles>
-        <articles number="第五条" title="（知的財産高等裁判所事務局）">
-          <article_item number="第五条">
-            知的財産高等裁判所の庶務をつかさどらせるため、知的財産高等裁判所に知的財産高等裁判所事務局を置く。
-          </article_item>
-        </articles>
-      </body>
+          </go_item>
+          <go_item number="四">
+            第一号若しくは<l>第二号</l>に掲げる訴訟事件又は<l>前号</l>に掲げる事件で訴訟事件であるものと口頭弁論を併合して審理されるべき訴訟事件
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（知的財産高等裁判所に勤務する裁判官等）">
+      <article_item number="第三条">
+        最高裁判所は、知的財産高等裁判所に勤務する裁判官を定める。
+      </article_item>
+      <article_item number="２">
+        最高裁判所は、知的財産高等裁判所に勤務する裁判官のうち一人に知的財産高等裁判所長を命ずる。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（知的財産高等裁判所の司法行政事務）">
+      <article_item number="第四条">
+        知的財産高等裁判所が知的財産高等裁判所における裁判事務の分配その他の司法行政事務を行うのは、知的財産高等裁判所に勤務する裁判官の会議の議によるものとし、知的財産高等裁判所長が、これを総括する。
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の会議は、知的財産高等裁判所に勤務する全員の裁判官でこれを組織し、知的財産高等裁判所長が、その議長となる。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（知的財産高等裁判所事務局）">
+      <article_item number="第五条">
+        知的財産高等裁判所の庶務をつかさどらせるため、知的財産高等裁判所に知的財産高等裁判所事務局を置く。
+      </article_item>
+    </articles>
+  </body>
 </law>

@@ -185,88 +185,88 @@
         <go>
           <go_item number="一">
             <l>第五条第二号</l>ルからソまでに掲げる事項　調査を実施する年の六月一日から六月三十日までの期間（給与締切日の定めがある場合には、当該期間における最終給与締切日以前一月間）について行う。
-            </go_item>
-            <go_item number="二">
-              <l>第五条第二号</l>ツに掲げる事項　調査を実施する年の前年の一月一日から十二月三十一日までの期間について行う。ただし、調査を実施する年の前年の一月二日以降に雇用された調査労働者のうち、七月一日以前に雇用されたものについては雇用の日から一年間、七月二日以降に雇用されたものについては雇用の日から調査を実施する年の六月三十日までの期間について行う。
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-        <articles number="第七条" title="（調査票）">
-          <article_item number="第七条">
-            調査に用いる調査票は、調査事業所に関する事項を調査する事業所票（様式<l>第一号</l>）及び調査労働者に関する事項を調査する個人票（様式<l>第二号</l>）とする。
-          </article_item>
-        </articles>
-        <articles number="第八条" title="（報告義務）">
-          <article_item number="第八条">
-            調査事業所の事業主に対しては、<l>前条</l>の調査票を配付するものとする。
-          </article_item>
-          <article_item number="２">
-            <l>前項</l>の規定により調査票の配付をうけた事業主は、<l>第五条</l>に規定する事項をその調査票を用いて報告しなければならない。
-            </article_item>
-            <article_item number="３">
-              <l>前項</l>の報告は、調査を実施する年の七月三十一日までに、当該調査事業所の所在地を管轄する都道府県労働局長に対して<l>前条</l>の事業所票を三部、個人票を二部提出することによつて行わなければならない。
-              </article_item>
-            </articles>
-            <articles number="第九条" title="（調査票の審査等）">
-              <article_item number="第九条">
-                都道府県労働局長は、<l>前条</l>の規定により提出された調査票を審査し、事業所票及び個人票のうちそれぞれ一部を保管し、事業所票の二部及び個人票の一部を、調査を実施する年の八月二十日までに、厚生労働大臣に提出しなければならない。
-              </article_item>
-            </articles>
-            <articles number="第十条" title="（調査の実施）">
-              <article_item number="第十条">
-                厚生労働大臣は、調査事業所の事業主に対する必要な指導、調査票の配付その他調査の実施に伴う事務の一部を都道府県労働局長に行なわせることができる。
-              </article_item>
-              <article_item number="２">
-                都道府県労働局長は、労働基準監督署長に<l>前項</l>の事務の一部を行なわせることができる。
-              </article_item>
-            </articles>
-            <articles number="第十一条">
-              <article_item number="第十一条">
-                削除
-              </article_item>
-            </articles>
-            <articles number="第十二条" title="（統計調査員）">
-              <article_item number="第十二条">
-                調査の事務に従事させるため必要があるときは、法<l>第十四条</l>の規定により、統計調査員を置くことができる。
-              </article_item>
-              <article_item number="２">
-                統計調査員は、都道府県労働局長が任命する。
-              </article_item>
-              <article_item number="３">
-                統計調査員は、都道府県労働局長の指揮監督を受けて、調査票の配付、調査票の取りまとめその他調査の実施に伴う事務に従事する。
-              </article_item>
-            </articles>
-            <articles number="第十三条" title="（立入検査等）">
-              <article_item number="第十三条">
-                <l>前条</l>に規定する統計調査員その他の調査の事務に従事する職員は、法<l>第十五条第一項</l>の規定により、必要な場所に立ち入り、<l>第五条</l>各号に掲げる事項について、帳簿、書類その他の物件を検査し、又は関係者に質問することができる。
-                </article_item>
-                <article_item number="２">
-                  <l>前項</l>の規定により立入検査をする統計調査員その他の調査の事務に従事する職員は、法<l>第十五条第二項</l>の規定により、その身分を示す証明書を携帯し、関係者の請求があつたときは、これを提示しなければならない。
-                  </article_item>
-                </articles>
-                <articles number="第十四条" title="（国の行なう事業の調査）">
-                  <article_item number="第十四条">
-                    厚生労働大臣は、国の行なう事業に係る調査の実施については、当該主務大臣に対して、その協力を求めるものとする。
-                  </article_item>
-                </articles>
-                <articles number="第十五条" title="（結果の公表）">
-                  <article_item number="第十五条">
-                    厚生労働大臣は、調査の結果を速やかに公表するものとする。
-                  </article_item>
-                </articles>
-                <articles number="第十六条">
-                  <article_item number="第十六条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第十七条" title="（関係書類の保存）">
-                  <article_item number="第十七条">
-                    厚生労働大臣は、<l>第九条</l>の規定により提出された調査票を調査を実施した年の六月三十日から二年間保存し、調査の結果の原表を永久に保存しなければならない。
-                  </article_item>
-                  <article_item number="２">
-                    都道府県労働局長は、<l>第九条</l>の規定により保管する調査票を調査を実施した年の六月三十日から一年間保存しなければならない。
-                  </article_item>
-                </articles>
-              </body>
+          </go_item>
+          <go_item number="二">
+            <l>第五条第二号</l>ツに掲げる事項　調査を実施する年の前年の一月一日から十二月三十一日までの期間について行う。ただし、調査を実施する年の前年の一月二日以降に雇用された調査労働者のうち、七月一日以前に雇用されたものについては雇用の日から一年間、七月二日以降に雇用されたものについては雇用の日から調査を実施する年の六月三十日までの期間について行う。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（調査票）">
+      <article_item number="第七条">
+        調査に用いる調査票は、調査事業所に関する事項を調査する事業所票（様式<l>第一号</l>）及び調査労働者に関する事項を調査する個人票（様式<l>第二号</l>）とする。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（報告義務）">
+      <article_item number="第八条">
+        調査事業所の事業主に対しては、<l>前条</l>の調査票を配付するものとする。
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の規定により調査票の配付をうけた事業主は、<l>第五条</l>に規定する事項をその調査票を用いて報告しなければならない。
+      </article_item>
+      <article_item number="３">
+        <l>前項</l>の報告は、調査を実施する年の七月三十一日までに、当該調査事業所の所在地を管轄する都道府県労働局長に対して<l>前条</l>の事業所票を三部、個人票を二部提出することによつて行わなければならない。
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（調査票の審査等）">
+      <article_item number="第九条">
+        都道府県労働局長は、<l>前条</l>の規定により提出された調査票を審査し、事業所票及び個人票のうちそれぞれ一部を保管し、事業所票の二部及び個人票の一部を、調査を実施する年の八月二十日までに、厚生労働大臣に提出しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（調査の実施）">
+      <article_item number="第十条">
+        厚生労働大臣は、調査事業所の事業主に対する必要な指導、調査票の配付その他調査の実施に伴う事務の一部を都道府県労働局長に行なわせることができる。
+      </article_item>
+      <article_item number="２">
+        都道府県労働局長は、労働基準監督署長に<l>前項</l>の事務の一部を行なわせることができる。
+      </article_item>
+    </articles>
+    <articles number="第十一条">
+      <article_item number="第十一条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（統計調査員）">
+      <article_item number="第十二条">
+        調査の事務に従事させるため必要があるときは、法<l>第十四条</l>の規定により、統計調査員を置くことができる。
+      </article_item>
+      <article_item number="２">
+        統計調査員は、都道府県労働局長が任命する。
+      </article_item>
+      <article_item number="３">
+        統計調査員は、都道府県労働局長の指揮監督を受けて、調査票の配付、調査票の取りまとめその他調査の実施に伴う事務に従事する。
+      </article_item>
+    </articles>
+    <articles number="第十三条" title="（立入検査等）">
+      <article_item number="第十三条">
+        <l>前条</l>に規定する統計調査員その他の調査の事務に従事する職員は、法<l>第十五条第一項</l>の規定により、必要な場所に立ち入り、<l>第五条</l>各号に掲げる事項について、帳簿、書類その他の物件を検査し、又は関係者に質問することができる。
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の規定により立入検査をする統計調査員その他の調査の事務に従事する職員は、法<l>第十五条第二項</l>の規定により、その身分を示す証明書を携帯し、関係者の請求があつたときは、これを提示しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十四条" title="（国の行なう事業の調査）">
+      <article_item number="第十四条">
+        厚生労働大臣は、国の行なう事業に係る調査の実施については、当該主務大臣に対して、その協力を求めるものとする。
+      </article_item>
+    </articles>
+    <articles number="第十五条" title="（結果の公表）">
+      <article_item number="第十五条">
+        厚生労働大臣は、調査の結果を速やかに公表するものとする。
+      </article_item>
+    </articles>
+    <articles number="第十六条">
+      <article_item number="第十六条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第十七条" title="（関係書類の保存）">
+      <article_item number="第十七条">
+        厚生労働大臣は、<l>第九条</l>の規定により提出された調査票を調査を実施した年の六月三十日から二年間保存し、調査の結果の原表を永久に保存しなければならない。
+      </article_item>
+      <article_item number="２">
+        都道府県労働局長は、<l>第九条</l>の規定により保管する調査票を調査を実施した年の六月三十日から一年間保存しなければならない。
+      </article_item>
+    </articles>
+  </body>
 </law>

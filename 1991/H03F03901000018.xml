@@ -41,31 +41,31 @@
           </go_item>
           <go_item number="三">
             <l>前二号</l>の資産以外の資産について、機構の会計における帳簿価額により算定した額
-            </go_item>
-            <go_item number="四">
-              東北新幹線以外の新幹線鉄道にあっては、建設関連利子額から、当該建設関連利子額を二十五で除して得た額に当該新幹線鉄道に係る資産の使用の開始後の期間（資産の価額の増加に係る建設関連利子額にあっては、当該価額の増加後の期間）に相当する年数を乗じて得た額を減じて得た額
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第三条" title="（再調達価額）">
-        <article_item number="第三条">
-          機構は、<l>前条</l>の再調達価額を決定したときは、遅滞なく、当該再調達価額及びその算定の根拠を記載した書類を運輸大臣に提出しなければならない。
-        </article_item>
-      </articles>
-      <articles number="第四条" title="（審議会の会議）">
-        <article_item number="第四条">
-          法<l>第四条第一項</l>の新幹線鉄道施設評価審議会（以下「審議会」という。）に会長一人を置き、委員の互選により選任する。
-        </article_item>
-        <article_item number="２">
-          審議会は、委員の過半数の出席がなければ、会議を開き、議決をすることができない。
-        </article_item>
-        <article_item number="３">
-          審議会の議事は、出席した委員の過半数をもって決し、可否同数のときは、会長の決するところによる。
-        </article_item>
-        <article_item number="４">
-          <l>前三項</l>に定めるもののほか、審議会の議事及び運営に関し必要な事項は、会長が定める。
-          </article_item>
-        </articles>
-      </body>
+          </go_item>
+          <go_item number="四">
+            東北新幹線以外の新幹線鉄道にあっては、建設関連利子額から、当該建設関連利子額を二十五で除して得た額に当該新幹線鉄道に係る資産の使用の開始後の期間（資産の価額の増加に係る建設関連利子額にあっては、当該価額の増加後の期間）に相当する年数を乗じて得た額を減じて得た額
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（再調達価額）">
+      <article_item number="第三条">
+        機構は、<l>前条</l>の再調達価額を決定したときは、遅滞なく、当該再調達価額及びその算定の根拠を記載した書類を運輸大臣に提出しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（審議会の会議）">
+      <article_item number="第四条">
+        法<l>第四条第一項</l>の新幹線鉄道施設評価審議会（以下「審議会」という。）に会長一人を置き、委員の互選により選任する。
+      </article_item>
+      <article_item number="２">
+        審議会は、委員の過半数の出席がなければ、会議を開き、議決をすることができない。
+      </article_item>
+      <article_item number="３">
+        審議会の議事は、出席した委員の過半数をもって決し、可否同数のときは、会長の決するところによる。
+      </article_item>
+      <article_item number="４">
+        <l>前三項</l>に定めるもののほか、審議会の議事及び運営に関し必要な事項は、会長が定める。
+      </article_item>
+    </articles>
+  </body>
 </law>

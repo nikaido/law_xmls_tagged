@@ -37,27 +37,27 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の申請書には、次に掲げる書類を添附しなければならない。
-          <go>
-            <go_item number="一">
-              使用者の履歴書及び資産に関する調書
-            </go_item>
-            <go_item number="二">
-              法人にあつては、定款又は寄附行為、最近の事業年度における財産目録、貸借対照表及び損益計算書、事業を行うことに関する意思の決定を証する書類並びに役員の履歴書
-            </go_item>
-            <go_item number="三">
-              事業開始後一年間の事業計画書及び収支予算書
-            </go_item>
-            <go_item number="四">
-              使用させようとする場所の関係図面及び使用計画書
-            </go_item>
-            <go_item number="五">
-              使用契約書の案
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="３">
-          <l>前二項</l>の承認申請書類には、副本一通をそれぞれ添附するものとする。
-          </article_item>
-        </articles>
-      </body>
+        <go>
+          <go_item number="一">
+            使用者の履歴書及び資産に関する調書
+          </go_item>
+          <go_item number="二">
+            法人にあつては、定款又は寄附行為、最近の事業年度における財産目録、貸借対照表及び損益計算書、事業を行うことに関する意思の決定を証する書類並びに役員の履歴書
+          </go_item>
+          <go_item number="三">
+            事業開始後一年間の事業計画書及び収支予算書
+          </go_item>
+          <go_item number="四">
+            使用させようとする場所の関係図面及び使用計画書
+          </go_item>
+          <go_item number="五">
+            使用契約書の案
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="３">
+        <l>前二項</l>の承認申請書類には、副本一通をそれぞれ添附するものとする。
+      </article_item>
+    </articles>
+  </body>
 </law>

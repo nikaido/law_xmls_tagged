@@ -484,15 +484,15 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の規定にかかわらず、次に掲げる様式により調製した用紙は、平成十三年四月三十日までの間は、これを使用することができる。
-          <go>
-            <go_item number="一">
-              <l>第七条</l>の規定による改正前の建築動態統計調査規則別記<l>第一号</l>、<l>第二号</l>及び<l>第四号</l>様式
-              </go_item>
-              <go_item number="二">
-                <l>第十七条</l>の規定による改正前の建設工事統計調査規則別記様式<l>第一号</l>
-                </go_item>
-              </go>
-            </article_item>
-          </articles>
-        </body>
+        <go>
+          <go_item number="一">
+            <l>第七条</l>の規定による改正前の建築動態統計調査規則別記<l>第一号</l>、<l>第二号</l>及び<l>第四号</l>様式
+          </go_item>
+          <go_item number="二">
+            <l>第十七条</l>の規定による改正前の建設工事統計調査規則別記様式<l>第一号</l>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

@@ -33,31 +33,31 @@
           </go_item>
           <go_item number="三">
             <l>次条</l>の規定に基づき機構が整備する通信・放送融合技術開発システムの内容に関する事項
-            </go_item>
-            <go_item number="四">
-              その他通信・放送融合技術の開発の促進に関する重要事項
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="３">
-          総務大臣は、基本方針を定め、又はこれを変更したときは、遅滞なく、これを公表しなければならない。
-        </article_item>
-      </articles>
-      <articles number="第四条" title="（機構による通信・放送融合技術の開発の支援）">
-        <article_item number="第四条">
-          機構は、この法律の目的を達成するため、基本方針に従って、次の業務を行う。
-          <go>
-            <go_item number="一">
-              通信・放送融合技術の開発を行う者に対する助成金を交付すること。
-            </go_item>
-            <go_item number="二">
-              通信・放送融合技術開発システムを整備し、通信・放送融合技術の開発を行う者の共用に供すること。
-            </go_item>
-            <go_item number="三">
-              <l>前二号</l>に掲げる業務に附帯する業務を行うこと。
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-      </body>
+          </go_item>
+          <go_item number="四">
+            その他通信・放送融合技術の開発の促進に関する重要事項
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="３">
+        総務大臣は、基本方針を定め、又はこれを変更したときは、遅滞なく、これを公表しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（機構による通信・放送融合技術の開発の支援）">
+      <article_item number="第四条">
+        機構は、この法律の目的を達成するため、基本方針に従って、次の業務を行う。
+        <go>
+          <go_item number="一">
+            通信・放送融合技術の開発を行う者に対する助成金を交付すること。
+          </go_item>
+          <go_item number="二">
+            通信・放送融合技術開発システムを整備し、通信・放送融合技術の開発を行う者の共用に供すること。
+          </go_item>
+          <go_item number="三">
+            <l>前二号</l>に掲げる業務に附帯する業務を行うこと。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

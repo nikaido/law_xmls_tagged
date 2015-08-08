@@ -90,18 +90,18 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の標識を設置する場合には、あらかじめ、当該標識を設置する土地の所有者又は管理者の承諾を得るものとする。
-        </article_item>
-        <article_item number="３">
-          第一項の与点及び新設する基準点については、点の記を作成するものとする。
-        </article_item>
-      </articles>
-      <articles number="第十三条" title="（観測、測定及び計算）">
-        <article_item number="第十三条">
-          基準点測量における観測及び測定は、地図及び簿冊に令で定める限度以上の誤差が生じないように行うものとする。
-        </article_item>
-        <article_item number="２">
-          基準点の座標値及び標高は、<l>前項</l>の観測及び測定の結果に基づいて求めるものとし、その結果は、基準点網図及び基準点測量成果簿に取りまとめるものとする。
-        </article_item>
-      </articles>
-    </body>
+      </article_item>
+      <article_item number="３">
+        第一項の与点及び新設する基準点については、点の記を作成するものとする。
+      </article_item>
+    </articles>
+    <articles number="第十三条" title="（観測、測定及び計算）">
+      <article_item number="第十三条">
+        基準点測量における観測及び測定は、地図及び簿冊に令で定める限度以上の誤差が生じないように行うものとする。
+      </article_item>
+      <article_item number="２">
+        基準点の座標値及び標高は、<l>前項</l>の観測及び測定の結果に基づいて求めるものとし、その結果は、基準点網図及び基準点測量成果簿に取りまとめるものとする。
+      </article_item>
+    </articles>
+  </body>
 </law>

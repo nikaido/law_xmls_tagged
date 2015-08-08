@@ -147,136 +147,136 @@
         </article_item>
         <article_item number="２">
           <l>前項</l>の規定による短期借入金は、当該年度内に償還しなければならない。ただし、資金の不足のため償還することができないときは、その償還することができない金額に限り、これを借り換えることができる。
-          </article_item>
-          <article_item number="３">
-            <l>前項</l>ただし書の規定により借り換えた短期借入金は、一年以内に償還しなければならない。
-            </article_item>
-          </articles>
-          <articles number="第十四条" title="（商業証券による取引の禁止）">
-            <article_item number="第十四条">
-              基金は、手形その他の商業証券をもつて取引をしてはならない。
-            </article_item>
-          </articles>
-          <articles number="第十五条" title="（先日附小切手の振出の禁止）">
-            <article_item number="第十五条">
-              基金は、先日附の小切手を振り出すことができない。
-            </article_item>
-          </articles>
-          <articles number="第十六条" title="（支払方法）">
-            <article_item number="第十六条">
-              出納主任は、支払をしようとするときは、債権者を受取人とする小切手を振り出して交付しなければならない。ただし、次の各号の一に該当するときは、小切手による支払にかえ、現金をもつて支払をすることができる。
-              <go>
-                <go_item number="一">
-                  債権者が小切手による受領を拒んだとき。
-                </go_item>
-                <go_item number="二">
-                  常用の雑費で一件の金額が一万円をこえないものの支払をするとき。
-                </go_item>
-                <go_item number="三">
-                  給与及び旅費の支払をするとき。
-                </go_item>
-              </go>
-            </article_item>
-          </articles>
-          <articles number="第十七条" title="（口座振替の方法による支払）">
-            <article_item number="第十七条">
-              出納主任は、取引金融機関その他基金が定める金融機関に預金口座を設けている債権者から申出があつたときは、取引金融機関に通知して、口座振替の方法により支払をすることができる。
-            </article_item>
-          </articles>
-          <articles number="第十八条" title="（隔地払等）">
-            <article_item number="第十八条">
-              出納主任は、次の各号の一に該当するときは、必要な資金を取引金融機関に交付して当該金融機関に支払をさせることができる。
-              <go>
-                <go_item number="一">
-                  隔地の債権者に対し支払をする場合
-                </go_item>
-                <go_item number="二">
-                  <l>前号</l>に掲げる場合を除くほか、債権者の預金口座への振込の方法により支払をする場合
-                  </go_item>
-                </go>
-              </article_item>
-              <article_item number="２">
-                消防団員等公務災害補償等責任共済等に関する法律施行令（昭和三十一年政令第三百四十六号）<l>第二条</l>の総務省令で定める方法は、<l>第十七条</l>及び<l>前項</l>に規定する方法とする。
-              </article_item>
-              <article_item number="３">
-                出納主任は、<l>第一項第一号</l>の規定により必要な資金を取引金融機関に交付した場合には、その旨を債権者に通知しなければならない。
-              </article_item>
-            </articles>
-            <articles number="第十九条" title="（前金払）">
-              <article_item number="第十九条">
-                次の各号に掲げる経費については、前金払をすることができる。
-                <go>
-                  <go_item number="一">
-                    定期刊行物の代価及び日本放送協会に対し支払う受信料
-                  </go_item>
-                  <go_item number="二">
-                    土地、家屋その他の物件の賃借料及び保険料
-                  </go_item>
-                  <go_item number="三">
-                    運賃
-                  </go_item>
-                  <go_item number="四">
-                    委託費
-                  </go_item>
-                  <go_item number="五">
-                    諸謝金
-                  </go_item>
-                  <go_item number="六">
-                    官公署に対し支払う経費
-                  </go_item>
-                  <go_item number="七">
-                    電話、電気、ガス及び水道の引込み工事費及び料金
-                  </go_item>
-                  <go_item number="八">
-                    前各号に掲げるもののほか、理事長が総務大臣の承認を受けて指定した経費
-                  </go_item>
-                </go>
-              </article_item>
-            </articles>
-            <articles number="第二十条" title="（概算払）">
-              <article_item number="第二十条">
-                次の各号に掲げる経費については、概算払をすることができる。
-                <go>
-                  <go_item number="一">
-                    旅費
-                  </go_item>
-                  <go_item number="二">
-                    官公署に対し支払う経費
-                  </go_item>
-                  <go_item number="三">
-                    前各号に掲げるもののほか、理事長が総務大臣の承認を受けて指定した経費
-                  </go_item>
-                </go>
-              </article_item>
-            </articles>
-          </section>
-          <section title="第五章　雑則" type="Sho">
-            <articles number="第二十一条" title="（決算報告書）">
-              <article_item number="第二十一条">
-                法<l>第三十二条第一項</l>の規定による決算報告書は、業務ごとに、貸借対照表及び損益計算書とする。
-              </article_item>
-            </articles>
-            <articles number="第二十二条" title="（責任準備金）">
-              <article_item number="第二十二条">
-                基金は、毎事業年度の末日において、次の各号に掲げる額の合計額を翌事業年度以後の消防団員等公務災害補償に要する経費に充てるべき責任準備金として積み立てなければならない。
-                <go>
-                  <go_item number="一">
-                    当該事業年度における療養補償、休業補償、障害補償一時金、介護補償、遺族補償一時金及び葬祭補償に要する経費の支払額に百分の四十を乗じて得た額
-                  </go_item>
-                  <go_item number="二">
-                    当該事業年度の末日以前に基金との間に消防団員等公務災害補償責任共済契約を締結している市町村又は水害予防組合が支給すべき事由が生じた傷病補償年金、障害補償年金及び遺族補償年金で翌事業年度以後の期間について支給すべきものの予想額の現価を基準として、総務大臣の定める方法により算定した額
-                  </go_item>
-                </go>
-              </article_item>
-            </articles>
-            <articles number="第二十三条" title="（会計規程）">
-              <article_item number="第二十三条">
-                基金は、その会計及び資産の運用その他財務に関し、法及びこの規則に定めるもののほか、その会計規程を定めなければならない。
-              </article_item>
-              <article_item number="２">
-                基金は、会計規程を定め、又は変更したときは、遅滞なく、これを総務大臣に報告しなければならない。
-              </article_item>
-            </articles>
-          </section>
-        </body>
+        </article_item>
+        <article_item number="３">
+          <l>前項</l>ただし書の規定により借り換えた短期借入金は、一年以内に償還しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第十四条" title="（商業証券による取引の禁止）">
+        <article_item number="第十四条">
+          基金は、手形その他の商業証券をもつて取引をしてはならない。
+        </article_item>
+      </articles>
+      <articles number="第十五条" title="（先日附小切手の振出の禁止）">
+        <article_item number="第十五条">
+          基金は、先日附の小切手を振り出すことができない。
+        </article_item>
+      </articles>
+      <articles number="第十六条" title="（支払方法）">
+        <article_item number="第十六条">
+          出納主任は、支払をしようとするときは、債権者を受取人とする小切手を振り出して交付しなければならない。ただし、次の各号の一に該当するときは、小切手による支払にかえ、現金をもつて支払をすることができる。
+          <go>
+            <go_item number="一">
+              債権者が小切手による受領を拒んだとき。
+            </go_item>
+            <go_item number="二">
+              常用の雑費で一件の金額が一万円をこえないものの支払をするとき。
+            </go_item>
+            <go_item number="三">
+              給与及び旅費の支払をするとき。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第十七条" title="（口座振替の方法による支払）">
+        <article_item number="第十七条">
+          出納主任は、取引金融機関その他基金が定める金融機関に預金口座を設けている債権者から申出があつたときは、取引金融機関に通知して、口座振替の方法により支払をすることができる。
+        </article_item>
+      </articles>
+      <articles number="第十八条" title="（隔地払等）">
+        <article_item number="第十八条">
+          出納主任は、次の各号の一に該当するときは、必要な資金を取引金融機関に交付して当該金融機関に支払をさせることができる。
+          <go>
+            <go_item number="一">
+              隔地の債権者に対し支払をする場合
+            </go_item>
+            <go_item number="二">
+              <l>前号</l>に掲げる場合を除くほか、債権者の預金口座への振込の方法により支払をする場合
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          消防団員等公務災害補償等責任共済等に関する法律施行令（昭和三十一年政令第三百四十六号）<l>第二条</l>の総務省令で定める方法は、<l>第十七条</l>及び<l>前項</l>に規定する方法とする。
+        </article_item>
+        <article_item number="３">
+          出納主任は、<l>第一項第一号</l>の規定により必要な資金を取引金融機関に交付した場合には、その旨を債権者に通知しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第十九条" title="（前金払）">
+        <article_item number="第十九条">
+          次の各号に掲げる経費については、前金払をすることができる。
+          <go>
+            <go_item number="一">
+              定期刊行物の代価及び日本放送協会に対し支払う受信料
+            </go_item>
+            <go_item number="二">
+              土地、家屋その他の物件の賃借料及び保険料
+            </go_item>
+            <go_item number="三">
+              運賃
+            </go_item>
+            <go_item number="四">
+              委託費
+            </go_item>
+            <go_item number="五">
+              諸謝金
+            </go_item>
+            <go_item number="六">
+              官公署に対し支払う経費
+            </go_item>
+            <go_item number="七">
+              電話、電気、ガス及び水道の引込み工事費及び料金
+            </go_item>
+            <go_item number="八">
+              前各号に掲げるもののほか、理事長が総務大臣の承認を受けて指定した経費
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第二十条" title="（概算払）">
+        <article_item number="第二十条">
+          次の各号に掲げる経費については、概算払をすることができる。
+          <go>
+            <go_item number="一">
+              旅費
+            </go_item>
+            <go_item number="二">
+              官公署に対し支払う経費
+            </go_item>
+            <go_item number="三">
+              前各号に掲げるもののほか、理事長が総務大臣の承認を受けて指定した経費
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </section>
+    <section title="第五章　雑則" type="Sho">
+      <articles number="第二十一条" title="（決算報告書）">
+        <article_item number="第二十一条">
+          法<l>第三十二条第一項</l>の規定による決算報告書は、業務ごとに、貸借対照表及び損益計算書とする。
+        </article_item>
+      </articles>
+      <articles number="第二十二条" title="（責任準備金）">
+        <article_item number="第二十二条">
+          基金は、毎事業年度の末日において、次の各号に掲げる額の合計額を翌事業年度以後の消防団員等公務災害補償に要する経費に充てるべき責任準備金として積み立てなければならない。
+          <go>
+            <go_item number="一">
+              当該事業年度における療養補償、休業補償、障害補償一時金、介護補償、遺族補償一時金及び葬祭補償に要する経費の支払額に百分の四十を乗じて得た額
+            </go_item>
+            <go_item number="二">
+              当該事業年度の末日以前に基金との間に消防団員等公務災害補償責任共済契約を締結している市町村又は水害予防組合が支給すべき事由が生じた傷病補償年金、障害補償年金及び遺族補償年金で翌事業年度以後の期間について支給すべきものの予想額の現価を基準として、総務大臣の定める方法により算定した額
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第二十三条" title="（会計規程）">
+        <article_item number="第二十三条">
+          基金は、その会計及び資産の運用その他財務に関し、法及びこの規則に定めるもののほか、その会計規程を定めなければならない。
+        </article_item>
+        <article_item number="２">
+          基金は、会計規程を定め、又は変更したときは、遅滞なく、これを総務大臣に報告しなければならない。
+        </article_item>
+      </articles>
+    </section>
+  </body>
 </law>

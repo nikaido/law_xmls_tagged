@@ -34,135 +34,135 @@
         <go>
           <go_item number="一">
             <l>第七条</l>の規定による債務を負担する行為について、事項ごとにその負担する債務の限度額、その行為に基づいて支出すべき年限及びその必要な理由
-            </go_item>
-            <go_item number="二">
-              <l>第八条第二項</l>の規定による経費の指定
+          </go_item>
+          <go_item number="二">
+            <l>第八条第二項</l>の規定による経費の指定
+          </go_item>
+          <go_item number="三">
+            その他予算の実施に関し必要な事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（収入支出予算）">
+      <article_item number="第五条">
+        収入支出予算は、<l>第二条第二項</l>の規定により経理を区分した場合には当該経理ごとに勘定を設け、収入にあってはその性質、支出にあってはその目的に従って区分するものとする。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（予備費）">
+      <article_item number="第六条">
+        推進機関は、予見することができない理由による支出予算の不足を補うため、収入支出予算に予備費を設けることができる。
+      </article_item>
+      <article_item number="２">
+        推進機関は、予備費を使用したときは、速やかに、使用の理由、金額及び積算の基礎を明らかにした書類を経済産業大臣に提出しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（債務を負担する行為）">
+      <article_item number="第七条">
+        推進機関は、支出予算の金額の範囲内におけるもののほか、その業務を行うため必要があるときは、毎事業年度、予算をもって経済産業大臣の認可を受けた金額の範囲内において、債務を負担する行為をすることができる。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（支出予算の流用等）">
+      <article_item number="第八条">
+        推進機関は、支出予算については、当該予算に定める目的のほかに使用してはならない。ただし、予算の実施上適当かつ必要であるときは、<l>第五条</l>の規定による区分にかかわらず、相互流用することができる。
+      </article_item>
+      <article_item number="２">
+        推進機関は、予算総則で指定する経費の金額については、経済産業大臣の承認を受けなければ、それらの経費の間若しくは他の経費との間に相互流用し、又はこれに予備費を使用することができない。
+      </article_item>
+      <article_item number="３">
+        推進機関は、<l>前項</l>の規定による承認を受けようとするときは、その理由、金額及び積算の基礎を明らかにした書類を経済産業大臣に提出しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（支出予算の繰越し）">
+      <article_item number="第九条">
+        推進機関は、毎事業年度、剰余金を生じたときは、前事業年度から繰り越した損失をうめ、なお残余があるときは、その残余の額は、翌事業年度に繰り越さなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（事業計画）">
+      <article_item number="第十条">
+        電気事業法（以下「法」という。）<l>第二十八条の四十八</l>の事業計画には、法<l>第二十八条の四十</l>各号に掲げる業務に関する計画を記載しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（収入支出等の報告）">
+      <article_item number="第十一条">
+        推進機関は、事業年度の各四半期ごとに、収入及び支出については合計残高試算表により、<l>第七条</l>の規定により負担した債務については事項ごとに金額を明らかにした報告書により、当該四半期経過後一月以内に経済産業大臣に報告しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（事業報告書）">
+      <article_item number="第十二条">
+        法<l>第二十八条の四十九第一項</l>の事業報告書には、<l>第十条</l>の事業計画の実施の結果を記載しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十三条" title="（決算報告書）">
+      <article_item number="第十三条">
+        法<l>第二十八条の四十九第一項</l>の決算報告書は、収入支出決算書及び債務に関する計算書とする。
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の決算報告書には、<l>第四条</l>の規定により予算総則に規定した事項に係る予算の実施の結果を示さなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十四条" title="（収入支出決算書）">
+      <article_item number="第十四条">
+        <l>前条第一項</l>の収入支出決算書は、収入支出予算と同一の区分により作成し、かつ、これに次の事項を記載しなければならない。
+        <go>
+          <go_item number="一">
+            収入
+            <go>
+              <go_item number="イ">
+                収入予算額
               </go_item>
-              <go_item number="三">
-                その他予算の実施に関し必要な事項
+              <go_item number="ロ">
+                収入決定済額
+              </go_item>
+              <go_item number="ハ">
+                収入予算額と収入決定済額との差額
               </go_item>
             </go>
-          </article_item>
-        </articles>
-        <articles number="第五条" title="（収入支出予算）">
-          <article_item number="第五条">
-            収入支出予算は、<l>第二条第二項</l>の規定により経理を区分した場合には当該経理ごとに勘定を設け、収入にあってはその性質、支出にあってはその目的に従って区分するものとする。
-          </article_item>
-        </articles>
-        <articles number="第六条" title="（予備費）">
-          <article_item number="第六条">
-            推進機関は、予見することができない理由による支出予算の不足を補うため、収入支出予算に予備費を設けることができる。
-          </article_item>
-          <article_item number="２">
-            推進機関は、予備費を使用したときは、速やかに、使用の理由、金額及び積算の基礎を明らかにした書類を経済産業大臣に提出しなければならない。
-          </article_item>
-        </articles>
-        <articles number="第七条" title="（債務を負担する行為）">
-          <article_item number="第七条">
-            推進機関は、支出予算の金額の範囲内におけるもののほか、その業務を行うため必要があるときは、毎事業年度、予算をもって経済産業大臣の認可を受けた金額の範囲内において、債務を負担する行為をすることができる。
-          </article_item>
-        </articles>
-        <articles number="第八条" title="（支出予算の流用等）">
-          <article_item number="第八条">
-            推進機関は、支出予算については、当該予算に定める目的のほかに使用してはならない。ただし、予算の実施上適当かつ必要であるときは、<l>第五条</l>の規定による区分にかかわらず、相互流用することができる。
-          </article_item>
-          <article_item number="２">
-            推進機関は、予算総則で指定する経費の金額については、経済産業大臣の承認を受けなければ、それらの経費の間若しくは他の経費との間に相互流用し、又はこれに予備費を使用することができない。
-          </article_item>
-          <article_item number="３">
-            推進機関は、<l>前項</l>の規定による承認を受けようとするときは、その理由、金額及び積算の基礎を明らかにした書類を経済産業大臣に提出しなければならない。
-          </article_item>
-        </articles>
-        <articles number="第九条" title="（支出予算の繰越し）">
-          <article_item number="第九条">
-            推進機関は、毎事業年度、剰余金を生じたときは、前事業年度から繰り越した損失をうめ、なお残余があるときは、その残余の額は、翌事業年度に繰り越さなければならない。
-          </article_item>
-        </articles>
-        <articles number="第十条" title="（事業計画）">
-          <article_item number="第十条">
-            電気事業法（以下「法」という。）<l>第二十八条の四十八</l>の事業計画には、法<l>第二十八条の四十</l>各号に掲げる業務に関する計画を記載しなければならない。
-          </article_item>
-        </articles>
-        <articles number="第十一条" title="（収入支出等の報告）">
-          <article_item number="第十一条">
-            推進機関は、事業年度の各四半期ごとに、収入及び支出については合計残高試算表により、<l>第七条</l>の規定により負担した債務については事項ごとに金額を明らかにした報告書により、当該四半期経過後一月以内に経済産業大臣に報告しなければならない。
-          </article_item>
-        </articles>
-        <articles number="第十二条" title="（事業報告書）">
-          <article_item number="第十二条">
-            法<l>第二十八条の四十九第一項</l>の事業報告書には、<l>第十条</l>の事業計画の実施の結果を記載しなければならない。
-          </article_item>
-        </articles>
-        <articles number="第十三条" title="（決算報告書）">
-          <article_item number="第十三条">
-            法<l>第二十八条の四十九第一項</l>の決算報告書は、収入支出決算書及び債務に関する計算書とする。
-          </article_item>
-          <article_item number="２">
-            <l>前項</l>の決算報告書には、<l>第四条</l>の規定により予算総則に規定した事項に係る予算の実施の結果を示さなければならない。
-            </article_item>
-          </articles>
-          <articles number="第十四条" title="（収入支出決算書）">
-            <article_item number="第十四条">
-              <l>前条第一項</l>の収入支出決算書は、収入支出予算と同一の区分により作成し、かつ、これに次の事項を記載しなければならない。
-                <go>
-                  <go_item number="一">
-                    収入
-                    <go>
-                      <go_item number="イ">
-                        収入予算額
-                      </go_item>
-                      <go_item number="ロ">
-                        収入決定済額
-                      </go_item>
-                      <go_item number="ハ">
-                        収入予算額と収入決定済額との差額
-                      </go_item>
-                    </go>
-                  </go_item>
-                  <go_item number="二">
-                    支出
-                    <go>
-                      <go_item number="イ">
-                        支出予算額
-                      </go_item>
-                      <go_item number="ロ">
-                        前事業年度からの繰越額
-                      </go_item>
-                      <go_item number="ハ">
-                        予備費の使用の金額及びその理由
-                      </go_item>
-                      <go_item number="ニ">
-                        流用の金額及びその理由
-                      </go_item>
-                      <go_item number="ホ">
-                        支出予算現額
-                      </go_item>
-                      <go_item number="ヘ">
-                        支出決定済額
-                      </go_item>
-                      <go_item number="ト">
-                        翌事業年度への繰越額
-                      </go_item>
-                      <go_item number="チ">
-                        不用額
-                      </go_item>
-                    </go>
-                  </go_item>
-                </go>
-              </article_item>
-            </articles>
-            <articles number="第十五条" title="（債務に関する計算書）">
-              <article_item number="第十五条">
-                <l>第十三条第一項</l>の債務に関する計算書には、<l>第七条</l>の規定により負担した債務の金額を事項ごとに示さなければならない。
-                </article_item>
-              </articles>
-              <articles number="第十六条" title="（会計規程）">
-                <article_item number="第十六条">
-                  推進機関は、その財務及び会計に関し、会計規程を定めなければならない。
-                </article_item>
-                <article_item number="２">
-                  推進機関は、<l>前項</l>の会計規程を定めようとするときは、経済産業大臣の承認を受けなければならない。これを変更しようとするときも、同様とする。
-                </article_item>
-              </articles>
-            </body>
+          </go_item>
+          <go_item number="二">
+            支出
+            <go>
+              <go_item number="イ">
+                支出予算額
+              </go_item>
+              <go_item number="ロ">
+                前事業年度からの繰越額
+              </go_item>
+              <go_item number="ハ">
+                予備費の使用の金額及びその理由
+              </go_item>
+              <go_item number="ニ">
+                流用の金額及びその理由
+              </go_item>
+              <go_item number="ホ">
+                支出予算現額
+              </go_item>
+              <go_item number="ヘ">
+                支出決定済額
+              </go_item>
+              <go_item number="ト">
+                翌事業年度への繰越額
+              </go_item>
+              <go_item number="チ">
+                不用額
+              </go_item>
+            </go>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十五条" title="（債務に関する計算書）">
+      <article_item number="第十五条">
+        <l>第十三条第一項</l>の債務に関する計算書には、<l>第七条</l>の規定により負担した債務の金額を事項ごとに示さなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十六条" title="（会計規程）">
+      <article_item number="第十六条">
+        推進機関は、その財務及び会計に関し、会計規程を定めなければならない。
+      </article_item>
+      <article_item number="２">
+        推進機関は、<l>前項</l>の会計規程を定めようとするときは、経済産業大臣の承認を受けなければならない。これを変更しようとするときも、同様とする。
+      </article_item>
+    </articles>
+  </body>
 </law>

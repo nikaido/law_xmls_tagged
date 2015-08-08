@@ -46,62 +46,62 @@
           </go_item>
           <go_item number="三">
             <l>前号</l>の税額のうち未納の金額
-            </go_item>
-            <go_item number="四">
-              当該自動車の次に掲げる区分に応じそれぞれ次に掲げる事項
-              <go>
-                <go_item number="イ">
-                  登録を受けている自動車　自動車登録番号
-                </go_item>
-                <go_item number="ロ">
-                  道路運送車両法（昭和二十六年法律第百八十五号）<l>第六十条第一項</l>後段（検査対象軽自動車及び二輪小型自動車の車両番号の指定）の規定により車両番号が指定されている軽自動車及び二輪の小型自動車　当該車両番号
-                </go_item>
-                <go_item number="ハ">
-                  その他の自動車　車台番号
-                </go_item>
-              </go>
-            </go_item>
-            <go_item number="五">
-              法<l>第七条第一項</l>の区分及び当該自動車が次に掲げる自動車である場合にはそれぞれ次に掲げる事項
-              <go>
-                <go_item number="イ">
-                  法<l>第七条第一項第一号</l>イ、<l>第二号</l>イ又は<l>第三号</l>イに掲げる自動車　車両重量
-                </go_item>
-                <go_item number="ロ">
-                  法<l>第七条第一項第二号</l>ロ又は<l>第三号</l>ロに掲げる自動車　車両総重量
-                </go_item>
-              </go>
-            </go_item>
-            <go_item number="六">
-              その他参考となるべき事項
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第五条" title="（納付不足額の通知事項）">
-        <article_item number="第五条">
-          法<l>第十三条第一項</l>に規定する財務省令で定める事項は、次に掲げる事項とする。
-          <go>
-            <go_item number="一">
-              当該自動車の使用者の住所及び氏名又は名称
-            </go_item>
-            <go_item number="二">
-              当該自動車に係る自動車重量税の額
-            </go_item>
-            <go_item number="三">
-              <l>前号</l>の税額のうち未納の金額
+          </go_item>
+          <go_item number="四">
+            当該自動車の次に掲げる区分に応じそれぞれ次に掲げる事項
+            <go>
+              <go_item number="イ">
+                登録を受けている自動車　自動車登録番号
               </go_item>
-              <go_item number="四">
-                第二号の自動車重量税の納期限
+              <go_item number="ロ">
+                道路運送車両法（昭和二十六年法律第百八十五号）<l>第六十条第一項</l>後段（検査対象軽自動車及び二輪小型自動車の車両番号の指定）の規定により車両番号が指定されている軽自動車及び二輪の小型自動車　当該車両番号
               </go_item>
-              <go_item number="五">
-                当該自動車についての<l>前条第四号</l>及び<l>第五号</l>に掲げる事項
-              </go_item>
-              <go_item number="六">
-                その他参考となるべき事項
+              <go_item number="ハ">
+                その他の自動車　車台番号
               </go_item>
             </go>
-          </article_item>
-        </articles>
-      </body>
+          </go_item>
+          <go_item number="五">
+            法<l>第七条第一項</l>の区分及び当該自動車が次に掲げる自動車である場合にはそれぞれ次に掲げる事項
+            <go>
+              <go_item number="イ">
+                法<l>第七条第一項第一号</l>イ、<l>第二号</l>イ又は<l>第三号</l>イに掲げる自動車　車両重量
+              </go_item>
+              <go_item number="ロ">
+                法<l>第七条第一項第二号</l>ロ又は<l>第三号</l>ロに掲げる自動車　車両総重量
+              </go_item>
+            </go>
+          </go_item>
+          <go_item number="六">
+            その他参考となるべき事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（納付不足額の通知事項）">
+      <article_item number="第五条">
+        法<l>第十三条第一項</l>に規定する財務省令で定める事項は、次に掲げる事項とする。
+        <go>
+          <go_item number="一">
+            当該自動車の使用者の住所及び氏名又は名称
+          </go_item>
+          <go_item number="二">
+            当該自動車に係る自動車重量税の額
+          </go_item>
+          <go_item number="三">
+            <l>前号</l>の税額のうち未納の金額
+          </go_item>
+          <go_item number="四">
+            第二号の自動車重量税の納期限
+          </go_item>
+          <go_item number="五">
+            当該自動車についての<l>前条第四号</l>及び<l>第五号</l>に掲げる事項
+          </go_item>
+          <go_item number="六">
+            その他参考となるべき事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

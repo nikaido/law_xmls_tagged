@@ -90,219 +90,219 @@
             </go_item>
             <go_item number="二">
               <l>前号</l>に掲げるもののほか、軽微なものとして委員会が認めたもの
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          <l>前項</l>ただし書に規定する場合にあっては、原因関係者は、事故等調査に関する報告書の案を、<l>同項</l>ただし書の委員会が公示する場所において閲覧することができ、当該報告書の案について意見がある場合においては、<l>同項</l>ただし書の委員会が公示する期限までに、委員会にその旨を申し出ることができる。
+        </article_item>
+      </articles>
+      <articles number="第六条" title="（意見の聴取）">
+        <article_item number="第六条">
+          法<l>第二十四条第一項</l>の規定により、原因関係者に対し、意見を述べる機会を与える場合には、期日を定め、出頭を求めて行うものとする。
+        </article_item>
+        <article_item number="２">
+          原因関係者が指定した期日に出頭できない場合には、その期日までに文書又は口頭により意見を述べることができる。
+        </article_item>
+        <article_item number="３">
+          原因関係者が正当な理由がないのに指定した期日に出頭しなかったときは、意見を述べる機会を与えたものとみなす。
+        </article_item>
+        <article_item number="４">
+          原因関係者が病気その他やむを得ない事由により出頭することができない場合には、委員会の許可を受けて代理人を出頭させることができる。
+        </article_item>
+      </articles>
+      <articles number="第七条" title="（補佐する者の出頭）">
+        <article_item number="第七条">
+          船舶事故等に関する調査に係る意見の聴取の場合にあっては、原因関係者は、委員会の許可を得て、自らの意見の陳述を補佐する者と共に出頭することができる。
+        </article_item>
+      </articles>
+      <articles number="第八条" title="（意見の聴取の公開等）">
+        <article_item number="第八条">
+          意見の聴取は、非公開で行う。
+        </article_item>
+        <article_item number="２">
+          船舶事故等に関する調査に係る意見の聴取の場合にあっては、<l>前項</l>の規定にかかわらず、原因関係者の求めに応じ、公開で行うことができる。
+        </article_item>
+      </articles>
+      <articles number="第九条" title="（主宰者）">
+        <article_item number="第九条">
+          意見の聴取は、委員会が指名するところにより、委員長、委員又は事務局の職員が主宰する。
+        </article_item>
+      </articles>
+    </section>
+    <section title="第四章　意見聴取会" type="Sho">
+      <section title="第一節　開催手続" type="Setsu">
+        <articles number="第十条" title="（意見聴取会開催の公示及び告知）">
+          <article_item number="第十条">
+            委員会は、法<l>第二十四条第二項</l>に規定する意見聴取会（以下「意見聴取会」という。）を開こうとするときは、少なくとも意見聴取会開催の十四日前に、事案の件名及び発生日、意見聴取会の日時及び場所、<l>次条第二項</l>の規定による報告書の案の閲覧場所並びに公述申込書を提出すべき場所及び期限を公示しなければならない。
+          </article_item>
+          <article_item number="２">
+            意見聴取会において、意見の聴取が<l>前項</l>の日時内に終らず、意見の聴取を継続する必要があるときは、<l>前項</l>の規定にかかわらず、次回の開催の日時及び場所を意見聴取会において口頭で告知することをもって足りる。
+          </article_item>
+        </articles>
+        <articles number="第十一条" title="（事故等調査に関する報告書案の作成及び閲覧）">
+          <article_item number="第十一条">
+            意見聴取会を開催する場合には、委員会は、事故等調査に関する報告書の案（法<l>第二十五条第一項第二号</l>に掲げる事項に限る。<l>次項</l>において同じ。）を作成するものとする。
+          </article_item>
+          <article_item number="２">
+            意見聴取会において公述しようとする者は、意見聴取会開催前に、<l>前項</l>に規定する事故等調査に関する報告書の案を、<l>前条第一項</l>の委員会が公示する場所において閲覧することができる。
+          </article_item>
+        </articles>
+        <articles number="第十二条" title="（公述の申出）">
+          <article_item number="第十二条">
+            意見聴取会において公述しようとする者は、<l>第十条第一項</l>の委員会が公示する期限までに、公述書を添付して公述申込書を委員会に提出しなければならない。
+          </article_item>
+        </articles>
+        <articles number="第十三条" title="（公述申込書等）">
+          <article_item number="第十三条">
+            公述申込書には、公述しようとする者の氏名、住所、職業及び年令を記載しなければならない。
+          </article_item>
+          <article_item number="２">
+            公述書には、公述しようとする者の氏名及び公述しようとする内容を具体的に記載しなければならない。
+          </article_item>
+          <article_item number="３">
+            <l>前項</l>の公述書には、当該事案に関する証拠資料を添付することができる。
+          </article_item>
+        </articles>
+        <articles number="第十四条" title="（公述人の選定等）">
+          <article_item number="第十四条">
+            委員会は、<l>前二条</l>の規定により提出された文書等を審査して、当該事故等の原因の究明に役立つと認めるときは、公述申込書を提出した者のうちから公述人を選定するものとする。
+          </article_item>
+          <article_item number="２">
+            <l>前項</l>の規定により選定されなかった者の公述書は、原因の究明のための参考とするものとする。
+          </article_item>
+        </articles>
+        <articles number="第十五条" title="（公述の要請）">
+          <article_item number="第十五条">
+            委員会は、<l>前条</l>の規定により選定した公述人のほか、事案の性質上関係者又は学識経験のある者の意見を聴く必要があると認めるときは、これらの者に対し、意見聴取会に出頭を求めて、意見を述べさせることができる。
+          </article_item>
+          <article_item number="２">
+            <l>第十一条第二項</l>並びに<l>第十三条第二項</l>及び<l>第三項</l>の規定は、<l>前項</l>の場合について準用する。
+          </article_item>
+        </articles>
+        <articles number="第十六条" title="（意見聴取会開催日時の変更等）">
+          <article_item number="第十六条">
+            委員会は、緊急やむを得ない事由により、<l>第十条</l>の規定による公示又は告知の日時に意見聴取会を開くことができないと認めた場合には、速やかにその旨を公示するとともに、適当な方法で<l>前二条</l>に規定する者に通知することにより、意見聴取会の開催日時を変更することができる。
+          </article_item>
+        </articles>
+      </section>
+      <section title="第二節　運営" type="Setsu">
+        <articles number="第十七条" title="（公開の原則）">
+          <article_item number="第十七条">
+            意見聴取会は、公開で行うものとする。ただし、公述人が非公開を希望する旨を申し出た場合又は委員会が必要と認める場合には、当該事案に係る全部又は一部を非公開とすることができる。
+          </article_item>
+        </articles>
+        <articles number="第十八条" title="（主宰者）">
+          <article_item number="第十八条">
+            意見聴取会は、委員会が指名するところにより委員長、委員又は事務局の職員が主宰する。
+          </article_item>
+        </articles>
+        <articles number="第十九条" title="（公述時間の制限）">
+          <article_item number="第十九条">
+            主宰者は、議事の整理上必要があると認めるときは、あらかじめ公述人の公述の時間を制限することができる。
+          </article_item>
+        </articles>
+        <articles number="第二十条" title="（公述）">
+          <article_item number="第二十条">
+            公述人の公述は、公述書に記載されたところに従って行わなければならない。ただし、<l>次条</l>の質問に答える場合又は主宰者の許可を受けた場合は、この限りでない。
+          </article_item>
+        </articles>
+        <articles number="第二十一条" title="（質問）">
+          <article_item number="第二十一条">
+            委員長、委員、専門委員又は事務局の職員は、意見聴取会において、公述人に対し公述書の内容について質問することができる。
+          </article_item>
+        </articles>
+        <articles number="第二十二条" title="（公述の中止等）">
+          <article_item number="第二十二条">
+            主宰者は、公述人の公述が次の各号のいずれかに該当すると認めるときは、その公述を中止させることができる。
+            <go>
+              <go_item number="一">
+                <l>第十九条</l>の規定により主宰者が指示した時間を超えたとき
+              </go_item>
+              <go_item number="二">
+                <l>第二十条</l>の規定に著しく反するとき
+              </go_item>
+              <go_item number="三">
+                事案の範囲外にあるとき
               </go_item>
             </go>
           </article_item>
           <article_item number="２">
-            <l>前項</l>ただし書に規定する場合にあっては、原因関係者は、事故等調査に関する報告書の案を、<l>同項</l>ただし書の委員会が公示する場所において閲覧することができ、当該報告書の案について意見がある場合においては、<l>同項</l>ただし書の委員会が公示する期限までに、委員会にその旨を申し出ることができる。
-            </article_item>
-          </articles>
-          <articles number="第六条" title="（意見の聴取）">
-            <article_item number="第六条">
-              法<l>第二十四条第一項</l>の規定により、原因関係者に対し、意見を述べる機会を与える場合には、期日を定め、出頭を求めて行うものとする。
-            </article_item>
-            <article_item number="２">
-              原因関係者が指定した期日に出頭できない場合には、その期日までに文書又は口頭により意見を述べることができる。
-            </article_item>
-            <article_item number="３">
-              原因関係者が正当な理由がないのに指定した期日に出頭しなかったときは、意見を述べる機会を与えたものとみなす。
-            </article_item>
-            <article_item number="４">
-              原因関係者が病気その他やむを得ない事由により出頭することができない場合には、委員会の許可を受けて代理人を出頭させることができる。
-            </article_item>
-          </articles>
-          <articles number="第七条" title="（補佐する者の出頭）">
-            <article_item number="第七条">
-              船舶事故等に関する調査に係る意見の聴取の場合にあっては、原因関係者は、委員会の許可を得て、自らの意見の陳述を補佐する者と共に出頭することができる。
-            </article_item>
-          </articles>
-          <articles number="第八条" title="（意見の聴取の公開等）">
-            <article_item number="第八条">
-              意見の聴取は、非公開で行う。
-            </article_item>
-            <article_item number="２">
-              船舶事故等に関する調査に係る意見の聴取の場合にあっては、<l>前項</l>の規定にかかわらず、原因関係者の求めに応じ、公開で行うことができる。
-            </article_item>
-          </articles>
-          <articles number="第九条" title="（主宰者）">
-            <article_item number="第九条">
-              意見の聴取は、委員会が指名するところにより、委員長、委員又は事務局の職員が主宰する。
-            </article_item>
-          </articles>
-        </section>
-        <section title="第四章　意見聴取会" type="Sho">
-          <section title="第一節　開催手続" type="Setsu">
-            <articles number="第十条" title="（意見聴取会開催の公示及び告知）">
-              <article_item number="第十条">
-                委員会は、法<l>第二十四条第二項</l>に規定する意見聴取会（以下「意見聴取会」という。）を開こうとするときは、少なくとも意見聴取会開催の十四日前に、事案の件名及び発生日、意見聴取会の日時及び場所、<l>次条第二項</l>の規定による報告書の案の閲覧場所並びに公述申込書を提出すべき場所及び期限を公示しなければならない。
-              </article_item>
-              <article_item number="２">
-                意見聴取会において、意見の聴取が<l>前項</l>の日時内に終らず、意見の聴取を継続する必要があるときは、<l>前項</l>の規定にかかわらず、次回の開催の日時及び場所を意見聴取会において口頭で告知することをもって足りる。
-              </article_item>
-            </articles>
-            <articles number="第十一条" title="（事故等調査に関する報告書案の作成及び閲覧）">
-              <article_item number="第十一条">
-                意見聴取会を開催する場合には、委員会は、事故等調査に関する報告書の案（法<l>第二十五条第一項第二号</l>に掲げる事項に限る。<l>次項</l>において同じ。）を作成するものとする。
-              </article_item>
-              <article_item number="２">
-                意見聴取会において公述しようとする者は、意見聴取会開催前に、<l>前項</l>に規定する事故等調査に関する報告書の案を、<l>前条第一項</l>の委員会が公示する場所において閲覧することができる。
-              </article_item>
-            </articles>
-            <articles number="第十二条" title="（公述の申出）">
-              <article_item number="第十二条">
-                意見聴取会において公述しようとする者は、<l>第十条第一項</l>の委員会が公示する期限までに、公述書を添付して公述申込書を委員会に提出しなければならない。
-              </article_item>
-            </articles>
-            <articles number="第十三条" title="（公述申込書等）">
-              <article_item number="第十三条">
-                公述申込書には、公述しようとする者の氏名、住所、職業及び年令を記載しなければならない。
-              </article_item>
-              <article_item number="２">
-                公述書には、公述しようとする者の氏名及び公述しようとする内容を具体的に記載しなければならない。
-              </article_item>
-              <article_item number="３">
-                <l>前項</l>の公述書には、当該事案に関する証拠資料を添付することができる。
-                </article_item>
-              </articles>
-              <articles number="第十四条" title="（公述人の選定等）">
-                <article_item number="第十四条">
-                  委員会は、<l>前二条</l>の規定により提出された文書等を審査して、当該事故等の原因の究明に役立つと認めるときは、公述申込書を提出した者のうちから公述人を選定するものとする。
-                </article_item>
-                <article_item number="２">
-                  <l>前項</l>の規定により選定されなかった者の公述書は、原因の究明のための参考とするものとする。
-                  </article_item>
-                </articles>
-                <articles number="第十五条" title="（公述の要請）">
-                  <article_item number="第十五条">
-                    委員会は、<l>前条</l>の規定により選定した公述人のほか、事案の性質上関係者又は学識経験のある者の意見を聴く必要があると認めるときは、これらの者に対し、意見聴取会に出頭を求めて、意見を述べさせることができる。
-                  </article_item>
-                  <article_item number="２">
-                    <l>第十一条第二項</l>並びに<l>第十三条第二項</l>及び<l>第三項</l>の規定は、<l>前項</l>の場合について準用する。
-                    </article_item>
-                  </articles>
-                  <articles number="第十六条" title="（意見聴取会開催日時の変更等）">
-                    <article_item number="第十六条">
-                      委員会は、緊急やむを得ない事由により、<l>第十条</l>の規定による公示又は告知の日時に意見聴取会を開くことができないと認めた場合には、速やかにその旨を公示するとともに、適当な方法で<l>前二条</l>に規定する者に通知することにより、意見聴取会の開催日時を変更することができる。
-                    </article_item>
-                  </articles>
-                </section>
-                <section title="第二節　運営" type="Setsu">
-                  <articles number="第十七条" title="（公開の原則）">
-                    <article_item number="第十七条">
-                      意見聴取会は、公開で行うものとする。ただし、公述人が非公開を希望する旨を申し出た場合又は委員会が必要と認める場合には、当該事案に係る全部又は一部を非公開とすることができる。
-                    </article_item>
-                  </articles>
-                  <articles number="第十八条" title="（主宰者）">
-                    <article_item number="第十八条">
-                      意見聴取会は、委員会が指名するところにより委員長、委員又は事務局の職員が主宰する。
-                    </article_item>
-                  </articles>
-                  <articles number="第十九条" title="（公述時間の制限）">
-                    <article_item number="第十九条">
-                      主宰者は、議事の整理上必要があると認めるときは、あらかじめ公述人の公述の時間を制限することができる。
-                    </article_item>
-                  </articles>
-                  <articles number="第二十条" title="（公述）">
-                    <article_item number="第二十条">
-                      公述人の公述は、公述書に記載されたところに従って行わなければならない。ただし、<l>次条</l>の質問に答える場合又は主宰者の許可を受けた場合は、この限りでない。
-                    </article_item>
-                  </articles>
-                  <articles number="第二十一条" title="（質問）">
-                    <article_item number="第二十一条">
-                      委員長、委員、専門委員又は事務局の職員は、意見聴取会において、公述人に対し公述書の内容について質問することができる。
-                    </article_item>
-                  </articles>
-                  <articles number="第二十二条" title="（公述の中止等）">
-                    <article_item number="第二十二条">
-                      主宰者は、公述人の公述が次の各号のいずれかに該当すると認めるときは、その公述を中止させることができる。
-                      <go>
-                        <go_item number="一">
-                          <l>第十九条</l>の規定により主宰者が指示した時間を超えたとき
-                          </go_item>
-                          <go_item number="二">
-                            <l>第二十条</l>の規定に著しく反するとき
-                            </go_item>
-                            <go_item number="三">
-                              事案の範囲外にあるとき
-                            </go_item>
-                          </go>
-                        </article_item>
-                        <article_item number="２">
-                          主宰者は、公述人が<l>前項</l>の規定による中止の指示に従わないときは、その公述人を退場させることができる。
-                        </article_item>
-                      </articles>
-                      <articles number="第二十三条" title="（公述書の代読）">
-                        <article_item number="第二十三条">
-                          公述人が、病気その他やむを得ない事由により意見聴取会に出頭できなかったときは、主宰者の指名した者による公述書の朗読をもって公述に代えることができる。
-                        </article_item>
-                      </articles>
-                      <articles number="第二十四条" title="（証拠書類等）">
-                        <article_item number="第二十四条">
-                          主宰者は、必要があると認めるときは、公述人に対し提出すべき期日を指定して、公述した事項に関する証拠資料を提出すべきことを要求することができる。
-                        </article_item>
-                      </articles>
-                      <articles number="第二十五条" title="（記録）">
-                        <article_item number="第二十五条">
-                          公述された事項は、速記その他の方法で記録しなければならない。
-                        </article_item>
-                        <article_item number="２">
-                          <l>前項</l>の記録は、一般からの申出があったときは、閲覧に供しなければならない。ただし、意見聴取会が非公開で行われた場合は、この限りでない。
-                          </article_item>
-                        </articles>
-                        <articles number="第二十六条" title="（傍聴券の発行）">
-                          <article_item number="第二十六条">
-                            委員会は、必要があると認めるときは、傍聴券を発行し、その所持者に限り意見聴取会を傍聴させることができる。
-                          </article_item>
-                        </articles>
-                        <articles number="第二十七条" title="（遵守事項）">
-                          <article_item number="第二十七条">
-                            傍聴人は、意見聴取会の会場への入場若しくは退場に際し、又は意見聴取会の会場において、主宰者又はその命を受けた関係職員の指示に従わなければならない。
-                          </article_item>
-                          <article_item number="２">
-                            主宰者は、<l>前項</l>の規定による指示に従わない傍聴人を退場させることができる。
-                          </article_item>
-                          <article_item number="３">
-                            <l>前二項</l>の規定は、公述中でない公述人について準用する。
-                            </article_item>
-                          </articles>
-                        </section>
-                      </section>
-                      <section title="第五章　被害者等への情報提供" type="Sho">
-                        <articles number="第二十八条" title="（被害の発生状況に関する情報の提供）">
-                          <article_item number="第二十八条">
-                            委員会は、旅客の死亡を伴う事故その他重大な被害が生じたと委員会が認める事故が発生した場合は、報告書の公表前においても、当該事故に伴う被害の発生状況に関し明らかになった情報については、可能な限り、速やかにインターネットを利用して被害者及びその家族又は遺族（以下「被害者等」という。）に提供するものとする。
-                          </article_item>
-                        </articles>
-                        <articles number="第二十九条" title="（意見聴取会の傍聴）">
-                          <article_item number="第二十九条">
-                            委員会は、意見聴取会を開く場合にあっては、被害者等の求めに応じ、可能な限り、当該被害者等に意見聴取会を傍聴させるものとする。
-                          </article_item>
-                        </articles>
-                        <articles number="第三十条" title="（報告書の作成）">
-                          <article_item number="第三十条">
-                            委員会は、法<l>第二十五条第一項</l>の規定による報告書の作成に当たっては、被害者等が当該報告書を閲覧することにも配慮し、その記述はできる限り平易な表現で具体的に行うものとする。
-                          </article_item>
-                        </articles>
-                        <articles number="第三十一条" title="（説明会の開催）">
-                          <article_item number="第三十一条">
-                            委員会は、多数の旅客の死亡を伴う事故その他特に重大な被害が生じたと委員会が認める事故に関する調査に係る経過及び報告書の公表に際しては、被害者等の求めに応じ説明会を開き、当該被害者等に対しその内容について説明を行うものとする。
-                          </article_item>
-                          <article_item number="２">
-                            <l>前項</l>の説明会を開く場合にあっては、委員会は、可能な限り、その内容を被害者等が容易に理解することができるよう努めるものとする。
-                            </article_item>
-                          </articles>
-                        </section>
-                        <section title="第六章　雑則" type="Sho">
-                          <articles number="第三十二条" title="（公示の方法）">
-                            <article_item number="第三十二条">
-                              この規則の規定による公示は、当該公示の日付及び内容を、インターネットを利用して公衆の閲覧に供する方法により行うものとする。ただし、<l>第五条第一項</l>ただし書の規定による公示は、当該事案の発生した地点を考慮して委員会が定める場所に掲示する方法により行うことができる。
-                            </article_item>
-                          </articles>
-                          <articles number="第三十三条" title="（細則）">
-                            <article_item number="第三十三条">
-                              委員会は、この規則に定めるもののほか、委員会の事務の処理に関し必要な事項について細則を定めることができる。
-                            </article_item>
-                          </articles>
-                        </section>
-                      </body>
+            主宰者は、公述人が<l>前項</l>の規定による中止の指示に従わないときは、その公述人を退場させることができる。
+          </article_item>
+        </articles>
+        <articles number="第二十三条" title="（公述書の代読）">
+          <article_item number="第二十三条">
+            公述人が、病気その他やむを得ない事由により意見聴取会に出頭できなかったときは、主宰者の指名した者による公述書の朗読をもって公述に代えることができる。
+          </article_item>
+        </articles>
+        <articles number="第二十四条" title="（証拠書類等）">
+          <article_item number="第二十四条">
+            主宰者は、必要があると認めるときは、公述人に対し提出すべき期日を指定して、公述した事項に関する証拠資料を提出すべきことを要求することができる。
+          </article_item>
+        </articles>
+        <articles number="第二十五条" title="（記録）">
+          <article_item number="第二十五条">
+            公述された事項は、速記その他の方法で記録しなければならない。
+          </article_item>
+          <article_item number="２">
+            <l>前項</l>の記録は、一般からの申出があったときは、閲覧に供しなければならない。ただし、意見聴取会が非公開で行われた場合は、この限りでない。
+          </article_item>
+        </articles>
+        <articles number="第二十六条" title="（傍聴券の発行）">
+          <article_item number="第二十六条">
+            委員会は、必要があると認めるときは、傍聴券を発行し、その所持者に限り意見聴取会を傍聴させることができる。
+          </article_item>
+        </articles>
+        <articles number="第二十七条" title="（遵守事項）">
+          <article_item number="第二十七条">
+            傍聴人は、意見聴取会の会場への入場若しくは退場に際し、又は意見聴取会の会場において、主宰者又はその命を受けた関係職員の指示に従わなければならない。
+          </article_item>
+          <article_item number="２">
+            主宰者は、<l>前項</l>の規定による指示に従わない傍聴人を退場させることができる。
+          </article_item>
+          <article_item number="３">
+            <l>前二項</l>の規定は、公述中でない公述人について準用する。
+          </article_item>
+        </articles>
+      </section>
+    </section>
+    <section title="第五章　被害者等への情報提供" type="Sho">
+      <articles number="第二十八条" title="（被害の発生状況に関する情報の提供）">
+        <article_item number="第二十八条">
+          委員会は、旅客の死亡を伴う事故その他重大な被害が生じたと委員会が認める事故が発生した場合は、報告書の公表前においても、当該事故に伴う被害の発生状況に関し明らかになった情報については、可能な限り、速やかにインターネットを利用して被害者及びその家族又は遺族（以下「被害者等」という。）に提供するものとする。
+        </article_item>
+      </articles>
+      <articles number="第二十九条" title="（意見聴取会の傍聴）">
+        <article_item number="第二十九条">
+          委員会は、意見聴取会を開く場合にあっては、被害者等の求めに応じ、可能な限り、当該被害者等に意見聴取会を傍聴させるものとする。
+        </article_item>
+      </articles>
+      <articles number="第三十条" title="（報告書の作成）">
+        <article_item number="第三十条">
+          委員会は、法<l>第二十五条第一項</l>の規定による報告書の作成に当たっては、被害者等が当該報告書を閲覧することにも配慮し、その記述はできる限り平易な表現で具体的に行うものとする。
+        </article_item>
+      </articles>
+      <articles number="第三十一条" title="（説明会の開催）">
+        <article_item number="第三十一条">
+          委員会は、多数の旅客の死亡を伴う事故その他特に重大な被害が生じたと委員会が認める事故に関する調査に係る経過及び報告書の公表に際しては、被害者等の求めに応じ説明会を開き、当該被害者等に対しその内容について説明を行うものとする。
+        </article_item>
+        <article_item number="２">
+          <l>前項</l>の説明会を開く場合にあっては、委員会は、可能な限り、その内容を被害者等が容易に理解することができるよう努めるものとする。
+        </article_item>
+      </articles>
+    </section>
+    <section title="第六章　雑則" type="Sho">
+      <articles number="第三十二条" title="（公示の方法）">
+        <article_item number="第三十二条">
+          この規則の規定による公示は、当該公示の日付及び内容を、インターネットを利用して公衆の閲覧に供する方法により行うものとする。ただし、<l>第五条第一項</l>ただし書の規定による公示は、当該事案の発生した地点を考慮して委員会が定める場所に掲示する方法により行うことができる。
+        </article_item>
+      </articles>
+      <articles number="第三十三条" title="（細則）">
+        <article_item number="第三十三条">
+          委員会は、この規則に定めるもののほか、委員会の事務の処理に関し必要な事項について細則を定めることができる。
+        </article_item>
+      </articles>
+    </section>
+  </body>
 </law>

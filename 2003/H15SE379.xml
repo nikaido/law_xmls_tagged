@@ -46,31 +46,31 @@
           </go_item>
           <go_item number="三">
             <l>前二号</l>に掲げるもののほか、緊急消防援助隊の活動のために要した燃料費、消耗品費、賃借料その他の物件費
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第六条" title="（施設整備に係る国庫補助）">
-        <article_item number="第六条">
-          法<l>第四十九条第二項</l>の政令で定める施設は、次に掲げる施設とする。
-          <go>
-            <go_item number="一">
-              消防ポンプ自動車、救助工作車、救急自動車その他の消防用自動車
-            </go_item>
-            <go_item number="二">
-              航空機及び消防艇
-            </go_item>
-            <go_item number="三">
-              救助用資機材、救急用資機材その他の消防用資機材
-            </go_item>
-            <go_item number="四">
-              消防救急デジタル無線設備（消防活動に係るデジタル信号による通信を行うための無線設備をいう。）その他の消防に関する情報通信を行うための施設
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="２">
-          法<l>第四十九条第二項</l>の規定により国が行う補助の割合は、<l>前項</l>に掲げる施設の種類及び規格ごとに総務大臣が定める基準額の二分の一とする。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（施設整備に係る国庫補助）">
+      <article_item number="第六条">
+        法<l>第四十九条第二項</l>の政令で定める施設は、次に掲げる施設とする。
+        <go>
+          <go_item number="一">
+            消防ポンプ自動車、救助工作車、救急自動車その他の消防用自動車
+          </go_item>
+          <go_item number="二">
+            航空機及び消防艇
+          </go_item>
+          <go_item number="三">
+            救助用資機材、救急用資機材その他の消防用資機材
+          </go_item>
+          <go_item number="四">
+            消防救急デジタル無線設備（消防活動に係るデジタル信号による通信を行うための無線設備をいう。）その他の消防に関する情報通信を行うための施設
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        法<l>第四十九条第二項</l>の規定により国が行う補助の割合は、<l>前項</l>に掲げる施設の種類及び規格ごとに総務大臣が定める基準額の二分の一とする。
+      </article_item>
+    </articles>
+  </body>
 </law>

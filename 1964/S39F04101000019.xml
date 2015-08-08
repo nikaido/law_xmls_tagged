@@ -139,22 +139,22 @@
           </go_item>
           <go_item number="二">
             <l>前号</l>に掲げる者がない場合には、当該労働災害防止規程に係る労働者を代表する者として適当であると認められる者
-            </go_item>
-            <go_item number="三">
-              当該労働災害防止規程に係る事項に関し学識経験がある者
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第十一条" title="（法第四十三条第二項の厚生労働省令で定める率）">
-        <article_item number="第十一条">
-          法<l>第四十三条第二項</l>の厚生労働省令で定める率は、三分の一とする。
-        </article_item>
-      </articles>
-      <articles number="第十二条" title="（証票）">
-        <article_item number="第十二条">
-          法<l>第五十二条第二項</l>の証票は、労働安全衛生規則（昭和四十七年労働省令第三十二号）様式<l>第二十一号の二の二</l>によるものとする。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+          <go_item number="三">
+            当該労働災害防止規程に係る事項に関し学識経験がある者
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（法第四十三条第二項の厚生労働省令で定める率）">
+      <article_item number="第十一条">
+        法<l>第四十三条第二項</l>の厚生労働省令で定める率は、三分の一とする。
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（証票）">
+      <article_item number="第十二条">
+        法<l>第五十二条第二項</l>の証票は、労働安全衛生規則（昭和四十七年労働省令第三十二号）様式<l>第二十一号の二の二</l>によるものとする。
+      </article_item>
+    </articles>
+  </body>
 </law>

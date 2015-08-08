@@ -35,21 +35,21 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>に定める加圧防排煙設備の設置及び維持に関する技術上の基準は、次のとおりとする。
-          <go>
-            <go_item number="一">
-              加圧防排煙設備には、手動起動装置を設けること。
-            </go_item>
-            <go_item number="二">
-              加圧防排煙設備の排煙口、排煙用の風道その他煙に接する部分は、煙の熱及び成分によりその機能に支障を生ずるおそれのない材料で造ること。
-            </go_item>
-            <go_item number="三">
-              加圧防排煙設備には、非常電源を附置すること。
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="３">
-          <l>前項</l>に定めるもののほか、加圧防排煙設備は、消防庁長官が定める設置及び維持に関する技術上の基準に適合するものでなければならない。
-          </article_item>
-        </articles>
-      </body>
+        <go>
+          <go_item number="一">
+            加圧防排煙設備には、手動起動装置を設けること。
+          </go_item>
+          <go_item number="二">
+            加圧防排煙設備の排煙口、排煙用の風道その他煙に接する部分は、煙の熱及び成分によりその機能に支障を生ずるおそれのない材料で造ること。
+          </go_item>
+          <go_item number="三">
+            加圧防排煙設備には、非常電源を附置すること。
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="３">
+        <l>前項</l>に定めるもののほか、加圧防排煙設備は、消防庁長官が定める設置及び維持に関する技術上の基準に適合するものでなければならない。
+      </article_item>
+    </articles>
+  </body>
 </law>

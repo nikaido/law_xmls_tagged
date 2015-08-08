@@ -85,35 +85,35 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>に規定する方法により審理を行う場合には、当事者又はその代理人の意見を聴いて、当事者又はその代理人を当該審理に必要な装置の設置された場所であつて審査会が相当と認める場所に出頭させてこれを行う。
-        </article_item>
-        <article_item number="３">
-          第一項に規定する方法により審理を行う場合には、文書の写しを送信してこれを提示することその他の審理の実施に必要な処置を行うため、ファクシミリを利用することができる。
-        </article_item>
-        <article_item number="４">
-          第一項に規定する方法により審理を行つたときは、その旨及び当事者又はその代理人が出頭した場所を調書に記載しなければならない。
-        </article_item>
-      </articles>
-      <articles number="第十一条" title="（調書の閲覧）">
-        <article_item number="第十一条">
-          法<l>第四十七条第二項</l>の規定により調書を閲覧する者は、審査会に、次に掲げる事項を記載した様式<l>第十三号</l>による文書を提出し、又はこれらの事項を陳述しなければならない。
-          <go>
-            <go_item number="一">
-              事件の表示
-            </go_item>
-            <go_item number="二">
-              閲覧請求の理由
-            </go_item>
-            <go_item number="三">
-              閲覧請求の年月日
-            </go_item>
-            <go_item number="四">
-              閲覧請求人の氏名又は名称及び住所
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="２">
-          <l>前項</l>の規定により調書を閲覧する者は、<l>前項</l>に規定するもののほか、場所、時間その他閲覧に関し審査会の定めるところにより、閲覧しなければならない。
-          </article_item>
-        </articles>
-      </body>
+      </article_item>
+      <article_item number="３">
+        第一項に規定する方法により審理を行う場合には、文書の写しを送信してこれを提示することその他の審理の実施に必要な処置を行うため、ファクシミリを利用することができる。
+      </article_item>
+      <article_item number="４">
+        第一項に規定する方法により審理を行つたときは、その旨及び当事者又はその代理人が出頭した場所を調書に記載しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（調書の閲覧）">
+      <article_item number="第十一条">
+        法<l>第四十七条第二項</l>の規定により調書を閲覧する者は、審査会に、次に掲げる事項を記載した様式<l>第十三号</l>による文書を提出し、又はこれらの事項を陳述しなければならない。
+        <go>
+          <go_item number="一">
+            事件の表示
+          </go_item>
+          <go_item number="二">
+            閲覧請求の理由
+          </go_item>
+          <go_item number="三">
+            閲覧請求の年月日
+          </go_item>
+          <go_item number="四">
+            閲覧請求人の氏名又は名称及び住所
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の規定により調書を閲覧する者は、<l>前項</l>に規定するもののほか、場所、時間その他閲覧に関し審査会の定めるところにより、閲覧しなければならない。
+      </article_item>
+    </articles>
+  </body>
 </law>

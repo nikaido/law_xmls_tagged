@@ -195,67 +195,67 @@
           </go_item>
           <go_item number="二">
             <l>前条第二号</l>から<l>第九号</l>までに掲げる基準に適合していること。
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第七条" title="（特殊整備工場に係る基準）">
-        <article_item number="第七条">
-          特殊整備工場に係る国土交通省令で定める基準は、次のとおりとする。
-          <go>
-            <go_item number="一">
-              別表に定める作業区分に従い、当該作業区分に係る同表作業内容の欄に定める作業のすべてが実施できること。
-            </go_item>
-            <go_item number="二">
-              <l>第五条第二号</l>から<l>第九号</l>までに掲げる基準に適合していること。
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-        <articles number="第八条" title="（標識）">
-          <article_item number="第八条">
-            法<l>第九十四条第二項</l>の様式は、<l>第二号</l>様式による。
-          </article_item>
-        </articles>
-        <articles number="第九条" title="（変更届）">
-          <article_item number="第九条">
-            認定を受けた者は、次に掲げる事項について変更が生じたときは、その日から三十日以内に、変更事項及びその事由を記載した届出書を、地方運輸局長に提出しなければならない。
-            <go>
-              <go_item number="一">
-                認定を受けた者の氏名又は名称
-              </go_item>
-              <go_item number="二">
-                事業場の名称又は所在地
-              </go_item>
-              <go_item number="三">
-                整備用又は検査用の主要な設備又は機器
-              </go_item>
-              <go_item number="四">
-                事業場の建家又は敷地
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-        <articles number="第十条" title="（認定の失効）">
-          <article_item number="第十条">
-            認定は、次の各号の場合に、その効力を失う。
-            <go>
-              <go_item number="一">
-                認定を受けた者が、死亡し又は解散したとき。
-              </go_item>
-              <go_item number="二">
-                事業を廃止したとき。
-              </go_item>
-              <go_item number="三">
-                認定を辞退したとき。
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-        <articles number="第十一条" title="（書類の経由）">
-          <article_item number="第十一条">
-            <l>第三条第一項</l>の申請書及び<l>第九条</l>の届出書は、事業場の所在地を管轄する運輸監理部長又は運輸支局長を経由して、地方運輸局長に提出しなければならない。
-            </article_item>
-          </articles>
-        </body>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（特殊整備工場に係る基準）">
+      <article_item number="第七条">
+        特殊整備工場に係る国土交通省令で定める基準は、次のとおりとする。
+        <go>
+          <go_item number="一">
+            別表に定める作業区分に従い、当該作業区分に係る同表作業内容の欄に定める作業のすべてが実施できること。
+          </go_item>
+          <go_item number="二">
+            <l>第五条第二号</l>から<l>第九号</l>までに掲げる基準に適合していること。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（標識）">
+      <article_item number="第八条">
+        法<l>第九十四条第二項</l>の様式は、<l>第二号</l>様式による。
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（変更届）">
+      <article_item number="第九条">
+        認定を受けた者は、次に掲げる事項について変更が生じたときは、その日から三十日以内に、変更事項及びその事由を記載した届出書を、地方運輸局長に提出しなければならない。
+        <go>
+          <go_item number="一">
+            認定を受けた者の氏名又は名称
+          </go_item>
+          <go_item number="二">
+            事業場の名称又は所在地
+          </go_item>
+          <go_item number="三">
+            整備用又は検査用の主要な設備又は機器
+          </go_item>
+          <go_item number="四">
+            事業場の建家又は敷地
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（認定の失効）">
+      <article_item number="第十条">
+        認定は、次の各号の場合に、その効力を失う。
+        <go>
+          <go_item number="一">
+            認定を受けた者が、死亡し又は解散したとき。
+          </go_item>
+          <go_item number="二">
+            事業を廃止したとき。
+          </go_item>
+          <go_item number="三">
+            認定を辞退したとき。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（書類の経由）">
+      <article_item number="第十一条">
+        <l>第三条第一項</l>の申請書及び<l>第九条</l>の届出書は、事業場の所在地を管轄する運輸監理部長又は運輸支局長を経由して、地方運輸局長に提出しなければならない。
+      </article_item>
+    </articles>
+  </body>
 </law>

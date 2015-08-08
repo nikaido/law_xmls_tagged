@@ -49,28 +49,28 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の申請書には、次に掲げる事項を記載した書類を添付しなければならない。
-          <go>
-            <go_item number="一">
-              配分団体ごとの配分すべき額の算出方法
-            </go_item>
-            <go_item number="二">
-              お年玉付郵便葉書等に関する法律（昭和二十四年法律第二百二十四号。以下「法」という。）<l>第七条第二項</l>の規定により寄附金の額から控除した費用の額及びその内訳
-            </go_item>
-            <go_item number="三">
-              法<l>第九条第二項</l>の規定により寄附金に充てられた金額
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第三条" title="（配分団体が守らなければならない事項に係る認可申請）">
-        <article_item number="第三条">
-          法<l>第七条第五項</l>に規定する<l>同条第四項</l>の配分団体が守らなければならない事項に係る認可の申請は、当該事項を記載した申請書を提出して行わなければならない。
-        </article_item>
-      </articles>
-      <articles number="第四条" title="（配分金の使途についての監査に関する事項に係る認可申請）">
-        <article_item number="第四条">
-          法<l>第七条第五項</l>に規定する<l>同条第四項</l>の配分金の使途についての監査に関する事項に係る認可の申請は、当該事項を記載した申請書を提出して行わなければならない。
-        </article_item>
-      </articles>
-    </body>
+        <go>
+          <go_item number="一">
+            配分団体ごとの配分すべき額の算出方法
+          </go_item>
+          <go_item number="二">
+            お年玉付郵便葉書等に関する法律（昭和二十四年法律第二百二十四号。以下「法」という。）<l>第七条第二項</l>の規定により寄附金の額から控除した費用の額及びその内訳
+          </go_item>
+          <go_item number="三">
+            法<l>第九条第二項</l>の規定により寄附金に充てられた金額
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（配分団体が守らなければならない事項に係る認可申請）">
+      <article_item number="第三条">
+        法<l>第七条第五項</l>に規定する<l>同条第四項</l>の配分団体が守らなければならない事項に係る認可の申請は、当該事項を記載した申請書を提出して行わなければならない。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（配分金の使途についての監査に関する事項に係る認可申請）">
+      <article_item number="第四条">
+        法<l>第七条第五項</l>に規定する<l>同条第四項</l>の配分金の使途についての監査に関する事項に係る認可の申請は、当該事項を記載した申請書を提出して行わなければならない。
+      </article_item>
+    </articles>
+  </body>
 </law>

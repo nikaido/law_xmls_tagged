@@ -71,115 +71,115 @@
           </go_item>
           <go_item number="九">
             <l>前号</l>の規定により外務大臣等が特に必要があると認めて貸付期間満了の前に返還を命じた場合において、異議を申し立てないこと。
-            </go_item>
-            <go_item number="十">
-              貸付物品を亡失し、又は損傷したときは、直ちにその旨及び理由についての詳細な報告書を当該物品を貸し付けた外務大臣等に提出して、その指示に従うこと。
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="２">
-          外務大臣等は、<l>前項</l>各号に掲げる条件のほか、必要と認める条件を付することができる。
-        </article_item>
-      </articles>
-      <articles number="第六条" title="（無償貸付の申請）">
-        <article_item number="第六条">
-          外務大臣等は、<l>第二条</l>の規定による物品の貸付けを受けようとするものから次の各号に掲げる事項を記載した申請書を提出させなければならない。
-          <go>
-            <go_item number="一">
-              申請者の氏名又は名称及び住所
-            </go_item>
-            <go_item number="二">
-              借り受けようとする物品の品名及び数量
-            </go_item>
-            <go_item number="三">
-              使用目的及び使用場所
-            </go_item>
-            <go_item number="四">
-              借受けを必要とする理由
-            </go_item>
-            <go_item number="五">
-              借受希望期間
-            </go_item>
-            <go_item number="六">
-              使用計画
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第七条" title="（借受書）">
-        <article_item number="第七条">
-          外務大臣等は、<l>第二条</l>の規定による物品の貸付けをしようとするときは、当該物品の借受人から、次の各号に掲げる事項を記載した借受書を提出させなければならない。
-          <go>
-            <go_item number="一">
-              借受物品の品名及び数量
-            </go_item>
-            <go_item number="二">
-              借受期間
-            </go_item>
-            <go_item number="三">
-              返納場所
-            </go_item>
-            <go_item number="四">
-              借り受けた旨及び借受物品を借受期間満了の日（<l>第五条第八号</l>の規定による外務大臣等の指示があつた場合には、返還について指定された日）までに返納する旨
-            </go_item>
-            <go_item number="五">
-              <l>第五条</l>の規定により付された貸付条件に従う旨
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-        <articles number="第八条" title="（貸付物品の亡失又は損傷）">
-          <article_item number="第八条">
-            外務大臣等は、借受人が貸付物品を亡失し、又は損傷した場合において、その亡失又は損傷が借受人の責に帰すべき理由によるものであるときは、借受人に、その負担においてこれを補てんさせ、若しくは修理させ、又は弁償させなければならない。
-          </article_item>
-        </articles>
-        <articles number="第九条" title="（譲与）">
-          <article_item number="第九条">
-            外務大臣等は、次の各号に掲げる場合には、当該各号に掲げる物品を譲与することができる。
-            <go>
-              <go_item number="一">
-                外交に関する施策の普及又は宣伝を目的として印刷物、写真その他これらに準ずる物品を配布するとき。
-              </go_item>
-              <go_item number="二">
-                外務大臣等の委託する教育、研究又は調査のため必要な印刷物、写真、地図その他これらに準ずる物品をその教育、研究又は調査を行なうものに譲与するとき。
-              </go_item>
-              <go_item number="三">
-                予算に定める交際費又は報償費をもつて購入した物品を記念又は報償のため贈与するとき。
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-        <articles number="第十条" title="（譲与条件）">
-          <article_item number="第十条">
-            外務大臣等は、<l>前条第二号</l>の規定により物品を譲与する場合には、次の各号に掲げる条件を付けなければならない。
-            <go>
-              <go_item number="一">
-                譲与物品は、譲与の目的に従つて使用すること。
-              </go_item>
-              <go_item number="二">
-                <l>前号</l>の条件に違反したときは、譲与物品の返還を命ずることができること。
-                </go_item>
-              </go>
-            </article_item>
-          </articles>
-          <articles number="第十一条" title="（贈与の報告）">
-            <article_item number="第十一条">
-              <l>第二条</l>に規定する外務大臣の委任を受けた者は、<l>第九条第三号</l>の規定による物品の贈与をしたときは、四半期ごとにとりまとめて、次の各号に掲げる事項を記載した報告書を外務大臣に提出しなければならない。
-                <go>
-                  <go_item number="一">
-                    贈与の年月日
-                  </go_item>
-                  <go_item number="二">
-                    贈与の相手方
-                  </go_item>
-                  <go_item number="三">
-                    贈与した物品の品名、数量及び価格
-                  </go_item>
-                  <go_item number="四">
-                    贈与の理由
-                  </go_item>
-                </go>
-              </article_item>
-            </articles>
-          </body>
+          </go_item>
+          <go_item number="十">
+            貸付物品を亡失し、又は損傷したときは、直ちにその旨及び理由についての詳細な報告書を当該物品を貸し付けた外務大臣等に提出して、その指示に従うこと。
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        外務大臣等は、<l>前項</l>各号に掲げる条件のほか、必要と認める条件を付することができる。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（無償貸付の申請）">
+      <article_item number="第六条">
+        外務大臣等は、<l>第二条</l>の規定による物品の貸付けを受けようとするものから次の各号に掲げる事項を記載した申請書を提出させなければならない。
+        <go>
+          <go_item number="一">
+            申請者の氏名又は名称及び住所
+          </go_item>
+          <go_item number="二">
+            借り受けようとする物品の品名及び数量
+          </go_item>
+          <go_item number="三">
+            使用目的及び使用場所
+          </go_item>
+          <go_item number="四">
+            借受けを必要とする理由
+          </go_item>
+          <go_item number="五">
+            借受希望期間
+          </go_item>
+          <go_item number="六">
+            使用計画
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（借受書）">
+      <article_item number="第七条">
+        外務大臣等は、<l>第二条</l>の規定による物品の貸付けをしようとするときは、当該物品の借受人から、次の各号に掲げる事項を記載した借受書を提出させなければならない。
+        <go>
+          <go_item number="一">
+            借受物品の品名及び数量
+          </go_item>
+          <go_item number="二">
+            借受期間
+          </go_item>
+          <go_item number="三">
+            返納場所
+          </go_item>
+          <go_item number="四">
+            借り受けた旨及び借受物品を借受期間満了の日（<l>第五条第八号</l>の規定による外務大臣等の指示があつた場合には、返還について指定された日）までに返納する旨
+          </go_item>
+          <go_item number="五">
+            <l>第五条</l>の規定により付された貸付条件に従う旨
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（貸付物品の亡失又は損傷）">
+      <article_item number="第八条">
+        外務大臣等は、借受人が貸付物品を亡失し、又は損傷した場合において、その亡失又は損傷が借受人の責に帰すべき理由によるものであるときは、借受人に、その負担においてこれを補てんさせ、若しくは修理させ、又は弁償させなければならない。
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（譲与）">
+      <article_item number="第九条">
+        外務大臣等は、次の各号に掲げる場合には、当該各号に掲げる物品を譲与することができる。
+        <go>
+          <go_item number="一">
+            外交に関する施策の普及又は宣伝を目的として印刷物、写真その他これらに準ずる物品を配布するとき。
+          </go_item>
+          <go_item number="二">
+            外務大臣等の委託する教育、研究又は調査のため必要な印刷物、写真、地図その他これらに準ずる物品をその教育、研究又は調査を行なうものに譲与するとき。
+          </go_item>
+          <go_item number="三">
+            予算に定める交際費又は報償費をもつて購入した物品を記念又は報償のため贈与するとき。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（譲与条件）">
+      <article_item number="第十条">
+        外務大臣等は、<l>前条第二号</l>の規定により物品を譲与する場合には、次の各号に掲げる条件を付けなければならない。
+        <go>
+          <go_item number="一">
+            譲与物品は、譲与の目的に従つて使用すること。
+          </go_item>
+          <go_item number="二">
+            <l>前号</l>の条件に違反したときは、譲与物品の返還を命ずることができること。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（贈与の報告）">
+      <article_item number="第十一条">
+        <l>第二条</l>に規定する外務大臣の委任を受けた者は、<l>第九条第三号</l>の規定による物品の贈与をしたときは、四半期ごとにとりまとめて、次の各号に掲げる事項を記載した報告書を外務大臣に提出しなければならない。
+        <go>
+          <go_item number="一">
+            贈与の年月日
+          </go_item>
+          <go_item number="二">
+            贈与の相手方
+          </go_item>
+          <go_item number="三">
+            贈与した物品の品名、数量及び価格
+          </go_item>
+          <go_item number="四">
+            贈与の理由
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

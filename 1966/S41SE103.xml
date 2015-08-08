@@ -79,14 +79,14 @@
           </go_item>
           <go_item number="二">
             <l>前号</l>に掲げるもののほか、児童又は幼児が小学校等に通うため通行する道路の区間で、小学校等の敷地の出入口から一キロメートル以内の区域に存し、かつ、児童又は幼児の通行の安全を特に確保する必要があるもの
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第五条" title="（権限の委任）">
-        <article_item number="第五条">
-          法<l>第五条第一項</l>（<l>同条第三項</l>において準用する場合を含む。）に規定する道路管理者である国土交通大臣の権限は、地方整備局長及び北海道開発局長に委任する。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（権限の委任）">
+      <article_item number="第五条">
+        法<l>第五条第一項</l>（<l>同条第三項</l>において準用する場合を含む。）に規定する道路管理者である国土交通大臣の権限は、地方整備局長及び北海道開発局長に委任する。
+      </article_item>
+    </articles>
+  </body>
 </law>

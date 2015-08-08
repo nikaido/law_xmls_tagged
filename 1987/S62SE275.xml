@@ -158,104 +158,104 @@
     <articles number="第九条" title="（機構債券の引受け）">
       <article_item number="第九条">
         <l>前条</l>の規定は、機構債券の募集の委託を受けた会社が自ら機構債券を引き受ける場合においては、その引き受ける部分については、適用しない。
-        </article_item>
-        <article_item number="２">
-          <l>前項</l>の場合において、振替機構債券の募集の委託を受けた会社は、その引受けの際に、振替口座を機構に示さなければならない。
-          </article_item>
-        </articles>
-        <articles number="第十条" title="（機構債券の成立の特則）">
-          <article_item number="第十条">
-            機構債券の応募総額が機構債券の総額に達しないときでも、機構債券を成立させる旨を申込証に記載したときは、その応募額をもつて機構債券の総額とする。
-          </article_item>
-        </articles>
-        <articles number="第十一条" title="（機構債券の払込み）">
-          <article_item number="第十一条">
-            機構債券の募集が完了したときは、機構は、遅滞なく、各機構債券につきその全額の払込みをさせなければならない。
-          </article_item>
-        </articles>
-        <articles number="第十二条" title="（債券の発行）">
-          <article_item number="第十二条">
-            機構は、<l>前条</l>の払込みがあつたときは、遅滞なく、債券を発行しなければならない。ただし、機構債券につき社債等振替法の規定の適用があるときは、この限りでない。
-          </article_item>
-          <article_item number="２">
-            各債券には、<l>第八条第三項</l>各号（<l>第七号</l>及び<l>第八号</l>を除く。）に掲げる事項及び番号を記載し、機構の理事がこれに記名押印しなければならない。
-          </article_item>
-        </articles>
-        <articles number="第十三条" title="（機構債券の原簿）">
-          <article_item number="第十三条">
-            機構は、主たる事務所に機構債券の原簿（以下「原簿」という。）を備えて置かなければならない。
-          </article_item>
-          <article_item number="２">
-            原簿には、次に掲げる事項を記載しなければならない。
-            <go>
-              <go_item number="一">
-                債券の発行の年月日
-              </go_item>
-              <go_item number="二">
-                債券の数（社債等振替法の規定の適用がないときは、債券の数及び番号）
-              </go_item>
-              <go_item number="三">
-                <l>第八条第三項第一号</l>から<l>第六号</l>まで、<l>第八号</l>及び<l>第十号</l>に掲げる事項
-                </go_item>
-                <go_item number="四">
-                  元利金の支払に関する事項
-                </go_item>
-              </go>
-            </article_item>
-          </articles>
-          <articles number="第十四条" title="（利札が欠けている場合）">
-            <article_item number="第十四条">
-              機構債券を償還する場合において、欠けている利札があるときは、これに相当する金額を償還額から控除する。ただし、既に支払期が到来した利札については、この限りでない。
-            </article_item>
-            <article_item number="２">
-              <l>前項</l>の利札の所持人がこれと引換えに控除金額の支払を請求したときは、機構は、これに応じなければならない。
-              </article_item>
-            </articles>
-            <articles number="第十五条" title="（機構債券の発行の認可）">
-              <article_item number="第十五条">
-                機構は、法<l>第八条第三項</l>の規定により機構債券の発行の認可を受けようとするときは、機構債券の募集の日の二十日前までに次に掲げる事項を記載した申請書を国土交通大臣に提出しなければならない。
-                <go>
-                  <go_item number="一">
-                    機構債券の発行を必要とする理由
-                  </go_item>
-                  <go_item number="二">
-                    <l>第八条第三項第一号</l>から<l>第八号</l>までに掲げる事項
-                    </go_item>
-                    <go_item number="三">
-                      機構債券の募集の方法
-                    </go_item>
-                    <go_item number="四">
-                      機構債券の発行に要する費用の概算額
-                    </go_item>
-                    <go_item number="五">
-                      第二号に掲げるもののほか、債券に記載しようとする事項
-                    </go_item>
-                  </go>
-                </article_item>
-                <article_item number="２">
-                  <l>前項</l>の申請書には、次に掲げる書類を添付しなければならない。
-                    <go>
-                      <go_item number="一">
-                        作成しようとする申込証
-                      </go_item>
-                      <go_item number="二">
-                        機構債券の発行により調達する資金の使途を記載した書面
-                      </go_item>
-                      <go_item number="三">
-                        機構債券の引受けの見込みを記載した書面
-                      </go_item>
-                    </go>
-                  </article_item>
-                </articles>
-                <articles number="第十六条" title="（法第十四条の三第一号ロ(4)の政令で定める都市）">
-                  <article_item number="第十六条">
-                    法<l>第十四条の三第一号</l>ロ(4)の政令で定める都市は、人口十万以上の市とする。
-                  </article_item>
-                </articles>
-                <articles number="第十七条" title="（法第十四条の三第一号ハの政令で定める規模）">
-                  <article_item number="第十七条">
-                    法<l>第十四条の三第一号</l>ハの政令で定める規模は、五百平方メートルとする。
-                  </article_item>
-                </articles>
-              </body>
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の場合において、振替機構債券の募集の委託を受けた会社は、その引受けの際に、振替口座を機構に示さなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（機構債券の成立の特則）">
+      <article_item number="第十条">
+        機構債券の応募総額が機構債券の総額に達しないときでも、機構債券を成立させる旨を申込証に記載したときは、その応募額をもつて機構債券の総額とする。
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（機構債券の払込み）">
+      <article_item number="第十一条">
+        機構債券の募集が完了したときは、機構は、遅滞なく、各機構債券につきその全額の払込みをさせなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（債券の発行）">
+      <article_item number="第十二条">
+        機構は、<l>前条</l>の払込みがあつたときは、遅滞なく、債券を発行しなければならない。ただし、機構債券につき社債等振替法の規定の適用があるときは、この限りでない。
+      </article_item>
+      <article_item number="２">
+        各債券には、<l>第八条第三項</l>各号（<l>第七号</l>及び<l>第八号</l>を除く。）に掲げる事項及び番号を記載し、機構の理事がこれに記名押印しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十三条" title="（機構債券の原簿）">
+      <article_item number="第十三条">
+        機構は、主たる事務所に機構債券の原簿（以下「原簿」という。）を備えて置かなければならない。
+      </article_item>
+      <article_item number="２">
+        原簿には、次に掲げる事項を記載しなければならない。
+        <go>
+          <go_item number="一">
+            債券の発行の年月日
+          </go_item>
+          <go_item number="二">
+            債券の数（社債等振替法の規定の適用がないときは、債券の数及び番号）
+          </go_item>
+          <go_item number="三">
+            <l>第八条第三項第一号</l>から<l>第六号</l>まで、<l>第八号</l>及び<l>第十号</l>に掲げる事項
+          </go_item>
+          <go_item number="四">
+            元利金の支払に関する事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十四条" title="（利札が欠けている場合）">
+      <article_item number="第十四条">
+        機構債券を償還する場合において、欠けている利札があるときは、これに相当する金額を償還額から控除する。ただし、既に支払期が到来した利札については、この限りでない。
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の利札の所持人がこれと引換えに控除金額の支払を請求したときは、機構は、これに応じなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十五条" title="（機構債券の発行の認可）">
+      <article_item number="第十五条">
+        機構は、法<l>第八条第三項</l>の規定により機構債券の発行の認可を受けようとするときは、機構債券の募集の日の二十日前までに次に掲げる事項を記載した申請書を国土交通大臣に提出しなければならない。
+        <go>
+          <go_item number="一">
+            機構債券の発行を必要とする理由
+          </go_item>
+          <go_item number="二">
+            <l>第八条第三項第一号</l>から<l>第八号</l>までに掲げる事項
+          </go_item>
+          <go_item number="三">
+            機構債券の募集の方法
+          </go_item>
+          <go_item number="四">
+            機構債券の発行に要する費用の概算額
+          </go_item>
+          <go_item number="五">
+            第二号に掲げるもののほか、債券に記載しようとする事項
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の申請書には、次に掲げる書類を添付しなければならない。
+        <go>
+          <go_item number="一">
+            作成しようとする申込証
+          </go_item>
+          <go_item number="二">
+            機構債券の発行により調達する資金の使途を記載した書面
+          </go_item>
+          <go_item number="三">
+            機構債券の引受けの見込みを記載した書面
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十六条" title="（法第十四条の三第一号ロ(4)の政令で定める都市）">
+      <article_item number="第十六条">
+        法<l>第十四条の三第一号</l>ロ(4)の政令で定める都市は、人口十万以上の市とする。
+      </article_item>
+    </articles>
+    <articles number="第十七条" title="（法第十四条の三第一号ハの政令で定める規模）">
+      <article_item number="第十七条">
+        法<l>第十四条の三第一号</l>ハの政令で定める規模は、五百平方メートルとする。
+      </article_item>
+    </articles>
+  </body>
 </law>

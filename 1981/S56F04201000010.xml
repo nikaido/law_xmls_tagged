@@ -27,35 +27,35 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の設計説明書には一団の住宅地等及び一団の営農地等の区域の面積を記載し、設計図は縮尺千二百分の一以上とするものとする。
-        </article_item>
-        <article_item number="３">
-          第一項の設計図及び<l>第一条</l>前段の規定により適用される土地区画整理法施行規則<l>第六条第一項</l>の設計図は、併せて一葉の図面とするものとする。
-        </article_item>
-      </articles>
-      <articles number="第四条" title="（生産緑地地区に関する都市計画についての要請）">
-        <article_item number="第四条">
-          法<l>第八十八条第一項</l>の申出は、別記様式第一の申出書を提出してするものとする。
-        </article_item>
-        <article_item number="２">
-          <l>前項</l>の申出書には、法<l>第八十八条第一項</l>の規定による同意を得たことを証する書類を添付しなければならない。
-          </article_item>
-          <article_item number="３">
-            法<l>第八十八条第二項</l>の規定による要請は、別記様式第二の要請書を提出してするものとする。
-          </article_item>
-          <article_item number="４">
-            <l>前項</l>の要請書には、次に掲げる書類を添付しなければならない。
-              <go>
-                <go_item number="一">
-                  要請に係る土地の位置及び区域を表示した図面
-                </go_item>
-                <go_item number="二">
-                  交換分合計画に関する図書の写し又は当該区域に係る仮換地指定通知書若しくは換地処分通知書の写し
-                </go_item>
-                <go_item number="三">
-                  第一項の申出書及び<l>第二項</l>の書類の写し
-                </go_item>
-              </go>
-            </article_item>
-          </articles>
-        </body>
+      </article_item>
+      <article_item number="３">
+        第一項の設計図及び<l>第一条</l>前段の規定により適用される土地区画整理法施行規則<l>第六条第一項</l>の設計図は、併せて一葉の図面とするものとする。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（生産緑地地区に関する都市計画についての要請）">
+      <article_item number="第四条">
+        法<l>第八十八条第一項</l>の申出は、別記様式第一の申出書を提出してするものとする。
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の申出書には、法<l>第八十八条第一項</l>の規定による同意を得たことを証する書類を添付しなければならない。
+      </article_item>
+      <article_item number="３">
+        法<l>第八十八条第二項</l>の規定による要請は、別記様式第二の要請書を提出してするものとする。
+      </article_item>
+      <article_item number="４">
+        <l>前項</l>の要請書には、次に掲げる書類を添付しなければならない。
+        <go>
+          <go_item number="一">
+            要請に係る土地の位置及び区域を表示した図面
+          </go_item>
+          <go_item number="二">
+            交換分合計画に関する図書の写し又は当該区域に係る仮換地指定通知書若しくは換地処分通知書の写し
+          </go_item>
+          <go_item number="三">
+            第一項の申出書及び<l>第二項</l>の書類の写し
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

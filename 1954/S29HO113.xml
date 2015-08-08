@@ -81,69 +81,69 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の手続が終つた後、裁判長は、被告人に対し、被告事件について陳述する機会を与えなければならない。
-        </article_item>
-        <article_item number="３">
-          裁判所は、必要と認めるときは、適当と認める方法により被告人又は参考人の陳述を聴き、書類及び証拠物を取り調べ、その他事実の取調をすることができる。
-        </article_item>
-        <article_item number="４">
-          検察官及び弁護人は、意見を述べることができる。
-        </article_item>
-      </articles>
-      <articles number="第十一条" title="（証拠）">
-        <article_item number="第十一条">
-          即決裁判手続においては、被告人の憲法上の権利を侵さない限り、検察官が差し出した書類及び証拠物並びに期日において取調をしたすべての資料に基いて、裁判することができる。
-        </article_item>
-      </articles>
-      <articles number="第十二条" title="（裁判の宣告）">
-        <article_item number="第十二条">
-          即決裁判の宣告をする場合には、罪となるべき事実、適用した法令、科すべき刑及び附随の処分並びに宣告があつた日から十四日以内に刑事訴訟法の定める通常の規定による審判（以下「正式裁判」という。）の請求ができる旨を告げなければならない。
-        </article_item>
-        <article_item number="２">
-          即決裁判の宣告をしたときは、その内容を記録に明らかにしておかなければならない。
-        </article_item>
-      </articles>
-      <articles number="第十三条" title="（正式裁判の請求）">
-        <article_item number="第十三条">
-          即決裁判の宣告があつたときは、被告人又は検察官は、その宣告があつた日から十四日以内に、正式裁判の請求をすることができる。
-        </article_item>
-        <article_item number="２">
-          正式裁判の請求は、即決裁判をした裁判所に、書面でしなければならない。
-        </article_item>
-        <article_item number="３">
-          正式裁判の請求があつたときは、裁判所は、すみやかに、その旨を検察官又は被告人に通知しなければならない。
-        </article_item>
-        <article_item number="４">
-          刑事訴訟法<l>第四百六十六条</l>から<l>第四百六十八条</l>までの規定は、正式裁判の請求又はその取下について準用する。この場合において、同法<l>第四百六十八条第三項</l>中「略式命令」とあるのは、「即決裁判」と読み替えるものとする。
-        </article_item>
-      </articles>
-      <articles number="第十四条" title="（即決裁判の効力）">
-        <article_item number="第十四条">
-          即決裁判は、正式裁判の請求による判決があつたときは、その効力を失う。
-        </article_item>
-        <article_item number="２">
-          即決裁判は、正式裁判の請求期間の経過又はその請求の取下により、確定判決と同一の効力を生ずる。正式裁判の請求を棄却する裁判が確定したときも、同様である。
-        </article_item>
-      </articles>
-      <articles number="第十五条" title="（仮納付）">
-        <article_item number="第十五条">
-          裁判所は、即決裁判の宣告をする場合において相当と認めるときは、附随の処分として、被告人に対し、仮に罰金又は科料に相当する金額を納付すべきことを命ずることができる。
-        </article_item>
-        <article_item number="２">
-          <l>前項</l>の仮納付の裁判は、直ちに執行することができる。但し、正式裁判の請求があつたときは、この限りでない。
-          </article_item>
-          <article_item number="３">
-            刑事訴訟法<l>第四百九十条</l>、<l>第四百九十三条</l>及び<l>第四百九十四条</l>の規定は、<l>第一項</l>の仮納付の裁判の執行について準用する。この場合において、同法<l>第四百九十三条</l>中「第一審」とあるのは「即決裁判手続」と、「第二審」とあるのは「第一審又は第二審」と読み替えるものとする。
-          </article_item>
-        </articles>
-        <articles number="第十六条" title="（裁判官の除斥）">
-          <article_item number="第十六条">
-            裁判官は、事件について前に即決裁判をしたときは、職務の執行から除斥される。
-          </article_item>
-        </articles>
-        <articles number="第十七条" title="（刑事訴訟法との関係）">
-          <article_item number="第十七条">
-            交通に関する刑事事件の即決裁判手続については、この法律に特別の規定があるものの外、その性質に反しない限り、刑事訴訟法による。
-          </article_item>
-        </articles>
-      </body>
+      </article_item>
+      <article_item number="３">
+        裁判所は、必要と認めるときは、適当と認める方法により被告人又は参考人の陳述を聴き、書類及び証拠物を取り調べ、その他事実の取調をすることができる。
+      </article_item>
+      <article_item number="４">
+        検察官及び弁護人は、意見を述べることができる。
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（証拠）">
+      <article_item number="第十一条">
+        即決裁判手続においては、被告人の憲法上の権利を侵さない限り、検察官が差し出した書類及び証拠物並びに期日において取調をしたすべての資料に基いて、裁判することができる。
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（裁判の宣告）">
+      <article_item number="第十二条">
+        即決裁判の宣告をする場合には、罪となるべき事実、適用した法令、科すべき刑及び附随の処分並びに宣告があつた日から十四日以内に刑事訴訟法の定める通常の規定による審判（以下「正式裁判」という。）の請求ができる旨を告げなければならない。
+      </article_item>
+      <article_item number="２">
+        即決裁判の宣告をしたときは、その内容を記録に明らかにしておかなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十三条" title="（正式裁判の請求）">
+      <article_item number="第十三条">
+        即決裁判の宣告があつたときは、被告人又は検察官は、その宣告があつた日から十四日以内に、正式裁判の請求をすることができる。
+      </article_item>
+      <article_item number="２">
+        正式裁判の請求は、即決裁判をした裁判所に、書面でしなければならない。
+      </article_item>
+      <article_item number="３">
+        正式裁判の請求があつたときは、裁判所は、すみやかに、その旨を検察官又は被告人に通知しなければならない。
+      </article_item>
+      <article_item number="４">
+        刑事訴訟法<l>第四百六十六条</l>から<l>第四百六十八条</l>までの規定は、正式裁判の請求又はその取下について準用する。この場合において、同法<l>第四百六十八条第三項</l>中「略式命令」とあるのは、「即決裁判」と読み替えるものとする。
+      </article_item>
+    </articles>
+    <articles number="第十四条" title="（即決裁判の効力）">
+      <article_item number="第十四条">
+        即決裁判は、正式裁判の請求による判決があつたときは、その効力を失う。
+      </article_item>
+      <article_item number="２">
+        即決裁判は、正式裁判の請求期間の経過又はその請求の取下により、確定判決と同一の効力を生ずる。正式裁判の請求を棄却する裁判が確定したときも、同様である。
+      </article_item>
+    </articles>
+    <articles number="第十五条" title="（仮納付）">
+      <article_item number="第十五条">
+        裁判所は、即決裁判の宣告をする場合において相当と認めるときは、附随の処分として、被告人に対し、仮に罰金又は科料に相当する金額を納付すべきことを命ずることができる。
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の仮納付の裁判は、直ちに執行することができる。但し、正式裁判の請求があつたときは、この限りでない。
+      </article_item>
+      <article_item number="３">
+        刑事訴訟法<l>第四百九十条</l>、<l>第四百九十三条</l>及び<l>第四百九十四条</l>の規定は、<l>第一項</l>の仮納付の裁判の執行について準用する。この場合において、同法<l>第四百九十三条</l>中「第一審」とあるのは「即決裁判手続」と、「第二審」とあるのは「第一審又は第二審」と読み替えるものとする。
+      </article_item>
+    </articles>
+    <articles number="第十六条" title="（裁判官の除斥）">
+      <article_item number="第十六条">
+        裁判官は、事件について前に即決裁判をしたときは、職務の執行から除斥される。
+      </article_item>
+    </articles>
+    <articles number="第十七条" title="（刑事訴訟法との関係）">
+      <article_item number="第十七条">
+        交通に関する刑事事件の即決裁判手続については、この法律に特別の規定があるものの外、その性質に反しない限り、刑事訴訟法による。
+      </article_item>
+    </articles>
+  </body>
 </law>

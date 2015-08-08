@@ -47,28 +47,28 @@
     <articles number="第三条" title="（附書）">
       <article_item number="第三条">
         <l>前条第一号</l>の員数に細目がある場合には、その細目及び<l>同条第三号</l>又は<l>第四号</l>に掲げる事項は、指定書の附書に記載するものとする。この場合において、附書は、当該指定書の一部分として取り扱うものとする。
-        </article_item>
-        <article_item number="２">
-          <l>前項</l>の附書には、当該指定書の裏面に掛けて割印を押すものとする。
-          </article_item>
-        </articles>
-        <articles number="第四条" title="（形式及び記載上の注意）">
-          <article_item number="第四条">
-            国宝の指定書及びその附書並びに重要文化財の指定書及びその附書の形式及び記載上の注意は、それぞれ別表第一から別表第四までの通りとする。
-          </article_item>
-        </articles>
-        <articles number="第五条" title="（再交付）">
-          <article_item number="第五条">
-            指定書を亡失し、若しくは盗み取られ、又はこれが滅失し、若しくは破損した場合には、その再交付を申請することができる。この場合においては、これらの事実を証明するに足りる書類又は破損した指定書を添えなければならない。
-          </article_item>
-        </articles>
-        <articles number="第六条" title="（原簿）">
-          <article_item number="第六条">
-            文化庁に指定書の原簿を備え、<l>第二条</l>各号に掲げる事項を記載する。
-          </article_item>
-          <article_item number="２">
-            指定書の交付又は再交付をしようとする場合には、<l>前項</l>の原簿に交付又は再交付の年月日及び再交付のときは、その理由を記載し、且つ、この原簿に掛けて当該指定書に割印を押すものとする。
-          </article_item>
-        </articles>
-      </body>
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の附書には、当該指定書の裏面に掛けて割印を押すものとする。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（形式及び記載上の注意）">
+      <article_item number="第四条">
+        国宝の指定書及びその附書並びに重要文化財の指定書及びその附書の形式及び記載上の注意は、それぞれ別表第一から別表第四までの通りとする。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（再交付）">
+      <article_item number="第五条">
+        指定書を亡失し、若しくは盗み取られ、又はこれが滅失し、若しくは破損した場合には、その再交付を申請することができる。この場合においては、これらの事実を証明するに足りる書類又は破損した指定書を添えなければならない。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（原簿）">
+      <article_item number="第六条">
+        文化庁に指定書の原簿を備え、<l>第二条</l>各号に掲げる事項を記載する。
+      </article_item>
+      <article_item number="２">
+        指定書の交付又は再交付をしようとする場合には、<l>前項</l>の原簿に交付又は再交付の年月日及び再交付のときは、その理由を記載し、且つ、この原簿に掛けて当該指定書に割印を押すものとする。
+      </article_item>
+    </articles>
+  </body>
 </law>

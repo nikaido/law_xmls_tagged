@@ -31,23 +31,23 @@
           </go_item>
           <go_item number="六">
             <l>前号</l>に規定する関係機関等ごとの法<l>第十五条第一項</l>に規定する次のいずれに該当するかの別
-              <go>
-                <go_item number="イ">
-                  国及び地方公共団体の機関
-                </go_item>
-                <go_item number="ロ">
-                  公益社団法人及び公益財団法人
-                </go_item>
-                <go_item number="ハ">
-                  特定非営利活動促進法（平成十年法律第七号）<l>第二条第二項</l>に規定する特定非営利活動法人その他の団体
-                </go_item>
-                <go_item number="ニ">
-                  学識経験者その他の者
-                </go_item>
-              </go>
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-    </body>
+            <go>
+              <go_item number="イ">
+                国及び地方公共団体の機関
+              </go_item>
+              <go_item number="ロ">
+                公益社団法人及び公益財団法人
+              </go_item>
+              <go_item number="ハ">
+                特定非営利活動促進法（平成十年法律第七号）<l>第二条第二項</l>に規定する特定非営利活動法人その他の団体
+              </go_item>
+              <go_item number="ニ">
+                学識経験者その他の者
+              </go_item>
+            </go>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

@@ -139,39 +139,39 @@
           <go>
             <go_item number="一">
               <l>第七条</l>の大綱の案を作成すること。
-              </go_item>
-              <go_item number="二">
-                少子化社会において講ぜられる施策について必要な関係行政機関相互の調整をすること。
-              </go_item>
-              <go_item number="三">
-                <l>前二号</l>に掲げるもののほか、少子化社会において講ぜられる施策に関する重要事項について審議し、及び少子化に対処するための施策の実施を推進すること。
-                </go_item>
-              </go>
-            </article_item>
-          </articles>
-          <articles number="第十九条" title="（組織等）">
-            <article_item number="第十九条">
-              会議は、会長及び委員をもって組織する。
-            </article_item>
-            <article_item number="２">
-              会長は、内閣総理大臣をもって充てる。
-            </article_item>
-            <article_item number="３">
-              委員は、内閣官房長官、関係行政機関の長及び内閣府設置法（平成十一年法律第八十九号）<l>第九条第一項</l>に規定する特命担当大臣のうちから、内閣総理大臣が任命する。
-            </article_item>
-            <article_item number="４">
-              会議に、幹事を置く。
-            </article_item>
-            <article_item number="５">
-              幹事は、関係行政機関の職員のうちから、内閣総理大臣が任命する。
-            </article_item>
-            <article_item number="６">
-              幹事は、会議の所掌事務について、会長及び委員を助ける。
-            </article_item>
-            <article_item number="７">
-              前各項に定めるもののほか、会議の組織及び運営に関し必要な事項は、政令で定める。
-            </article_item>
-          </articles>
-        </section>
-      </body>
+            </go_item>
+            <go_item number="二">
+              少子化社会において講ぜられる施策について必要な関係行政機関相互の調整をすること。
+            </go_item>
+            <go_item number="三">
+              <l>前二号</l>に掲げるもののほか、少子化社会において講ぜられる施策に関する重要事項について審議し、及び少子化に対処するための施策の実施を推進すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第十九条" title="（組織等）">
+        <article_item number="第十九条">
+          会議は、会長及び委員をもって組織する。
+        </article_item>
+        <article_item number="２">
+          会長は、内閣総理大臣をもって充てる。
+        </article_item>
+        <article_item number="３">
+          委員は、内閣官房長官、関係行政機関の長及び内閣府設置法（平成十一年法律第八十九号）<l>第九条第一項</l>に規定する特命担当大臣のうちから、内閣総理大臣が任命する。
+        </article_item>
+        <article_item number="４">
+          会議に、幹事を置く。
+        </article_item>
+        <article_item number="５">
+          幹事は、関係行政機関の職員のうちから、内閣総理大臣が任命する。
+        </article_item>
+        <article_item number="６">
+          幹事は、会議の所掌事務について、会長及び委員を助ける。
+        </article_item>
+        <article_item number="７">
+          前各項に定めるもののほか、会議の組織及び運営に関し必要な事項は、政令で定める。
+        </article_item>
+      </articles>
+    </section>
+  </body>
 </law>

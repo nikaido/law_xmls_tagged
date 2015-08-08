@@ -140,27 +140,27 @@
           </go_item>
           <go_item number="五">
             <l>第五条</l>の規定により通知した場合には、当該通知に関する事項
-            </go_item>
-            <go_item number="六">
-              その他必要な事項
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第九条" title="（随意契約に関する記録）">
-        <article_item number="第九条">
-          契約担当官等は、特定調達契約につき随意契約によつた場合には、当該随意契約の内容及び随意契約によることとした理由について、記録を作成し、保管するものとする。
-        </article_item>
-      </articles>
-      <articles number="第十条" title="（苦情の処理）">
-        <article_item number="第十条">
-          各省各庁の長又はその委任を受けた職員は、特定調達契約につき落札者とされなかつた入札者からの苦情その他特定調達契約に係る苦情の処理に当たる職員を指定するものとする。
-        </article_item>
-      </articles>
-      <articles number="第十一条" title="（特定調達契約に関する統計）">
-        <article_item number="第十一条">
-          各省各庁の長は、財務大臣の定めるところにより、特定調達契約に関する統計を作成し、財務大臣に送付するものとする。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+          <go_item number="六">
+            その他必要な事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（随意契約に関する記録）">
+      <article_item number="第九条">
+        契約担当官等は、特定調達契約につき随意契約によつた場合には、当該随意契約の内容及び随意契約によることとした理由について、記録を作成し、保管するものとする。
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（苦情の処理）">
+      <article_item number="第十条">
+        各省各庁の長又はその委任を受けた職員は、特定調達契約につき落札者とされなかつた入札者からの苦情その他特定調達契約に係る苦情の処理に当たる職員を指定するものとする。
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（特定調達契約に関する統計）">
+      <article_item number="第十一条">
+        各省各庁の長は、財務大臣の定めるところにより、特定調達契約に関する統計を作成し、財務大臣に送付するものとする。
+      </article_item>
+    </articles>
+  </body>
 </law>

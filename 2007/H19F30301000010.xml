@@ -59,15 +59,15 @@
           </go_item>
           <go_item number="二">
             <l>前条</l>の規定により届出をしたとき（<l>前条第二号</l>に規定するときを除く。）。
-            </go_item>
-            <go_item number="三">
-              身分証明書を亡失して再発行を受けた場合において、当該亡失した身分証明書を発見し、又は回復したとき。
-            </go_item>
-            <go_item number="四">
-              身分証明書の有効期間が満了したとき。
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+          <go_item number="三">
+            身分証明書を亡失して再発行を受けた場合において、当該亡失した身分証明書を発見し、又は回復したとき。
+          </go_item>
+          <go_item number="四">
+            身分証明書の有効期間が満了したとき。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

@@ -139,67 +139,67 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の確認申請書には、次に掲げる図書を添付しなければならない。
-          <go>
-            <go_item number="一">
-              都市計画法<l>第三十六条第二項</l>に規定する検査済証又はこれに準ずる書面
-            </go_item>
-            <go_item number="二">
-              確認を受けようとする区域内の土地の現況を明らかにした縮尺千分の一以上の図面に造成宅地の規模及び形状を表示したもの
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="３">
-          法<l>第九条</l>の規定による確認の申請は、事業区域の全部又は一部について宅地の造成及び公共施設の整備に関する工事を完了した場合において、速やかに行うものとする。
-        </article_item>
-      </articles>
-      <articles number="第十条" title="（造成宅地の処分の届出）">
-        <article_item number="第十条">
-          法<l>第十一条</l>の国土交通省令で定める事項は、次に掲げるものとする。
-          <go>
-            <go_item number="一">
-              処分しようとする造成宅地の規模
-            </go_item>
-            <go_item number="二">
-              処分の時期
-            </go_item>
-            <go_item number="三">
-              処分の方法
-            </go_item>
-            <go_item number="四">
-              処分しようとする造成宅地のうち住宅の用に供するものの数及び当該住宅の用に供する造成宅地に建築される予定の住宅の戸数
-            </go_item>
-            <go_item number="五">
-              処分しようとする造成宅地のうち住宅の用に供するものの処分価額
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="２">
-          法<l>第十一条</l>の規定による届出は、別記様式第二の造成宅地処分届出書を提出して行うものとする。
-        </article_item>
-        <article_item number="３">
-          <l>前項</l>の造成宅地処分届出書には、次に掲げる図書（認定事業者が令<l>第七条</l>に規定する者である場合にあつては、<l>第三号</l>に掲げるものを除く。）を添付しなければならない。
-            <go>
-              <go_item number="一">
-                良質な住宅地の保全のための措置が講じられていることを明らかにする書面
-              </go_item>
-              <go_item number="二">
-                処分しようとする造成宅地の規模及び形状を表示した縮尺千分の一以上の図面
-              </go_item>
-              <go_item number="三">
-                国土利用計画法施行令（昭和四十九年政令第三百八十七号）<l>第十七条の二第一項第三号</l>から<l>第五号</l>までの規定による確認を受けたことを証する書面その他の造成宅地の処分価額が近傍同種の宅地の価額と均衡を失しないことを証する書面
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-        <articles number="第十一条" title="（実施状況の報告）">
-          <article_item number="第十一条">
-            法<l>第十二条第一項</l>の規定による実施状況の報告は、別記様式第三の宅地開発事業実施状況報告書を提出して行うものとする。
-          </article_item>
-        </articles>
-        <articles number="第十二条" title="（権限の委任）">
-          <article_item number="第十二条">
-            法に規定する国土交通大臣の権限のうち、日本勤労者住宅協会が施行する宅地開発事業に係るもの以外のものは、地方整備局長に委任する。
-          </article_item>
-        </articles>
-      </body>
+        <go>
+          <go_item number="一">
+            都市計画法<l>第三十六条第二項</l>に規定する検査済証又はこれに準ずる書面
+          </go_item>
+          <go_item number="二">
+            確認を受けようとする区域内の土地の現況を明らかにした縮尺千分の一以上の図面に造成宅地の規模及び形状を表示したもの
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="３">
+        法<l>第九条</l>の規定による確認の申請は、事業区域の全部又は一部について宅地の造成及び公共施設の整備に関する工事を完了した場合において、速やかに行うものとする。
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（造成宅地の処分の届出）">
+      <article_item number="第十条">
+        法<l>第十一条</l>の国土交通省令で定める事項は、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            処分しようとする造成宅地の規模
+          </go_item>
+          <go_item number="二">
+            処分の時期
+          </go_item>
+          <go_item number="三">
+            処分の方法
+          </go_item>
+          <go_item number="四">
+            処分しようとする造成宅地のうち住宅の用に供するものの数及び当該住宅の用に供する造成宅地に建築される予定の住宅の戸数
+          </go_item>
+          <go_item number="五">
+            処分しようとする造成宅地のうち住宅の用に供するものの処分価額
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        法<l>第十一条</l>の規定による届出は、別記様式第二の造成宅地処分届出書を提出して行うものとする。
+      </article_item>
+      <article_item number="３">
+        <l>前項</l>の造成宅地処分届出書には、次に掲げる図書（認定事業者が令<l>第七条</l>に規定する者である場合にあつては、<l>第三号</l>に掲げるものを除く。）を添付しなければならない。
+        <go>
+          <go_item number="一">
+            良質な住宅地の保全のための措置が講じられていることを明らかにする書面
+          </go_item>
+          <go_item number="二">
+            処分しようとする造成宅地の規模及び形状を表示した縮尺千分の一以上の図面
+          </go_item>
+          <go_item number="三">
+            国土利用計画法施行令（昭和四十九年政令第三百八十七号）<l>第十七条の二第一項第三号</l>から<l>第五号</l>までの規定による確認を受けたことを証する書面その他の造成宅地の処分価額が近傍同種の宅地の価額と均衡を失しないことを証する書面
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（実施状況の報告）">
+      <article_item number="第十一条">
+        法<l>第十二条第一項</l>の規定による実施状況の報告は、別記様式第三の宅地開発事業実施状況報告書を提出して行うものとする。
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（権限の委任）">
+      <article_item number="第十二条">
+        法に規定する国土交通大臣の権限のうち、日本勤労者住宅協会が施行する宅地開発事業に係るもの以外のものは、地方整備局長に委任する。
+      </article_item>
+    </articles>
+  </body>
 </law>

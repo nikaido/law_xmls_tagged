@@ -61,128 +61,128 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の届出の書面には、次に掲げる書類、図面又は写真を添えなければならない。
-          <go>
-            <go_item number="一">
-              現状変更等の設計仕様書、設計図又は計画書
-            </go_item>
-            <go_item number="二">
-              現状変更等をしようとする箇所の写真又は見取図
-            </go_item>
-            <go_item number="三">
-              現状変更等を必要とする理由を証するに足りる資料があるときは、その資料
-            </go_item>
-            <go_item number="四">
-              届出者が所有者以外の者であるときは、所有者の意見書
-            </go_item>
-            <go_item number="五">
-              管理責任者がある場合において、届出者が管理責任者以外の者であるときは、管理責任者の意見書
-            </go_item>
-            <go_item number="六">
-              管理団体がある場合において、届出者が管理団体以外の者であるときは、管理団体の意見書
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第二条" title="（記載事項等の変更）">
-        <article_item number="第二条">
-          <l>前条</l>の届出の書面又は書類、図面若しくは写真に記載し、又は表示した事項を変更しようとするときは、あらかじめ、文化庁長官にその旨を届け出なければならない。
-          </article_item>
-        </articles>
-        <articles number="第三条" title="（終了の報告）">
-          <article_item number="第三条">
-            法<l>第八十一条第一項</l>の規定による現状変更等の届出を行つた者は、当該届出に係る現状変更等が終了したときは、遅滞なく文化庁長官にその旨を報告するものとする。
-          </article_item>
-        </articles>
-        <articles number="第四条" title="（届出を要しない場合）">
-          <article_item number="第四条">
-            法<l>第八十一条第一項</l>ただし書の規定により届出を要しない場合は、現状変更等に関し次の各号のいずれかに該当する場合とする。
-            <go>
-              <go_item number="一">
-                重要有形民俗文化財がき損している場合において、その価値に影響を及ぼすことなく当該重要有形民俗文化財を原状に復するとき。
-              </go_item>
-              <go_item number="二">
-                重要有形民俗文化財がき損している場合において、当該き損の拡大を防止するため応急の措置を執るとき。
-              </go_item>
-              <go_item number="三">
-                法<l>第八十三条</l>において準用する法<l>第三十五条第一項</l>の規定による補助金の交付を受けて行う管理又は修理のために現状変更等を行うとき。
-              </go_item>
-              <go_item number="四">
-                法<l>第八十三条</l>において準用する法<l>第三十六条第一項</l>又は法<l>第三十七条第二項</l>の規定による命令又は勧告を受けて行う措置又は修理のために現状変更等を行うとき。
-              </go_item>
-              <go_item number="五">
-                非常災害のために必要な応急措置を執るとき。
-              </go_item>
-              <go_item number="六">
-                重要有形民俗文化財の保存に影響を及ぼす行為をする場合において、その影響が軽微であるとき。
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-        <articles number="第五条" title="（国の所有に属する重要有形民俗文化財の現状変更等の通知）">
-          <article_item number="第五条">
-            法<l>第百六十七条第一項第六号</l>の場合に係る重要有形民俗文化財の現状変更等の通知については、<l>第一条</l>から<l>第三条</l>までの規定を準用する。
-          </article_item>
-          <article_item number="２">
-            法<l>第百六十七条第二項</l>において準用する法<l>第八十一条第一項</l>ただし書の規定による通知を要しない場合については、<l>前条</l>の規定を準用する。
-          </article_item>
-        </articles>
-        <articles number="第六条" title="（公開の事前の届出）">
-          <article_item number="第六条">
-            法<l>第八十四条第一項</l>の規定による所有者及び管理団体以外の者が主催する展覧会その他の催しにおける公開の事前の届出の書面には、次に掲げる事項を記載するものとする。
-            <go>
-              <go_item number="一">
-                <l>第一条第一項第一号</l>から<l>第七号</l>まで及び<l>第十号</l>に掲げる事項
-                </go_item>
-                <go_item number="二">
-                  公開を行おうとする施設及びその所在地
-                </go_item>
-                <go_item number="三">
-                  公開の期間
-                </go_item>
-                <go_item number="四">
-                  公開の方法及び公開の期間中における管理の方法
-                </go_item>
-                <go_item number="五">
-                  その他参考となるべき事項
-                </go_item>
-              </go>
-            </article_item>
-            <article_item number="２">
-              <l>前項</l>の届出の書面には、次に掲げる書類、図面又は写真を添えなければならない。
-                <go>
-                  <go_item number="一">
-                    公開を行おうとする施設及び陳列、防災等の設備の概要を示す図面又は写真
-                  </go_item>
-                  <go_item number="二">
-                    所有者の意見書及び管理責任者又は管理団体がある場合は、その者の意見書
-                  </go_item>
-                </go>
-              </article_item>
-            </articles>
-            <articles number="第七条" title="（公開事前届出免除施設における公開の届出）">
-              <article_item number="第七条">
-                法<l>第八十四条第一項</l>ただし書の規定による公開事前届出免除施設における公開の届出の書面には、次に掲げる事項を記載するものとする。
-                <go>
-                  <go_item number="一">
-                    <l>第一条第一項第一号</l>から<l>第五号</l>までに掲げる事項
-                    </go_item>
-                    <go_item number="二">
-                      文化庁長官から事前の届出の免除を受けた博物館その他の施設の名称及び所在地並びに当該施設が文化庁長官から事前の届出の免除を受けた年月日
-                    </go_item>
-                    <go_item number="三">
-                      展覧会その他の催しの名称及び主催者の氏名
-                    </go_item>
-                    <go_item number="四">
-                      公開の期間
-                    </go_item>
-                    <go_item number="五">
-                      公開の期間中における管理の状況
-                    </go_item>
-                    <go_item number="六">
-                      その他参考となるべき事項
-                    </go_item>
-                  </go>
-                </article_item>
-              </articles>
-            </body>
+        <go>
+          <go_item number="一">
+            現状変更等の設計仕様書、設計図又は計画書
+          </go_item>
+          <go_item number="二">
+            現状変更等をしようとする箇所の写真又は見取図
+          </go_item>
+          <go_item number="三">
+            現状変更等を必要とする理由を証するに足りる資料があるときは、その資料
+          </go_item>
+          <go_item number="四">
+            届出者が所有者以外の者であるときは、所有者の意見書
+          </go_item>
+          <go_item number="五">
+            管理責任者がある場合において、届出者が管理責任者以外の者であるときは、管理責任者の意見書
+          </go_item>
+          <go_item number="六">
+            管理団体がある場合において、届出者が管理団体以外の者であるときは、管理団体の意見書
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（記載事項等の変更）">
+      <article_item number="第二条">
+        <l>前条</l>の届出の書面又は書類、図面若しくは写真に記載し、又は表示した事項を変更しようとするときは、あらかじめ、文化庁長官にその旨を届け出なければならない。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（終了の報告）">
+      <article_item number="第三条">
+        法<l>第八十一条第一項</l>の規定による現状変更等の届出を行つた者は、当該届出に係る現状変更等が終了したときは、遅滞なく文化庁長官にその旨を報告するものとする。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（届出を要しない場合）">
+      <article_item number="第四条">
+        法<l>第八十一条第一項</l>ただし書の規定により届出を要しない場合は、現状変更等に関し次の各号のいずれかに該当する場合とする。
+        <go>
+          <go_item number="一">
+            重要有形民俗文化財がき損している場合において、その価値に影響を及ぼすことなく当該重要有形民俗文化財を原状に復するとき。
+          </go_item>
+          <go_item number="二">
+            重要有形民俗文化財がき損している場合において、当該き損の拡大を防止するため応急の措置を執るとき。
+          </go_item>
+          <go_item number="三">
+            法<l>第八十三条</l>において準用する法<l>第三十五条第一項</l>の規定による補助金の交付を受けて行う管理又は修理のために現状変更等を行うとき。
+          </go_item>
+          <go_item number="四">
+            法<l>第八十三条</l>において準用する法<l>第三十六条第一項</l>又は法<l>第三十七条第二項</l>の規定による命令又は勧告を受けて行う措置又は修理のために現状変更等を行うとき。
+          </go_item>
+          <go_item number="五">
+            非常災害のために必要な応急措置を執るとき。
+          </go_item>
+          <go_item number="六">
+            重要有形民俗文化財の保存に影響を及ぼす行為をする場合において、その影響が軽微であるとき。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（国の所有に属する重要有形民俗文化財の現状変更等の通知）">
+      <article_item number="第五条">
+        法<l>第百六十七条第一項第六号</l>の場合に係る重要有形民俗文化財の現状変更等の通知については、<l>第一条</l>から<l>第三条</l>までの規定を準用する。
+      </article_item>
+      <article_item number="２">
+        法<l>第百六十七条第二項</l>において準用する法<l>第八十一条第一項</l>ただし書の規定による通知を要しない場合については、<l>前条</l>の規定を準用する。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（公開の事前の届出）">
+      <article_item number="第六条">
+        法<l>第八十四条第一項</l>の規定による所有者及び管理団体以外の者が主催する展覧会その他の催しにおける公開の事前の届出の書面には、次に掲げる事項を記載するものとする。
+        <go>
+          <go_item number="一">
+            <l>第一条第一項第一号</l>から<l>第七号</l>まで及び<l>第十号</l>に掲げる事項
+          </go_item>
+          <go_item number="二">
+            公開を行おうとする施設及びその所在地
+          </go_item>
+          <go_item number="三">
+            公開の期間
+          </go_item>
+          <go_item number="四">
+            公開の方法及び公開の期間中における管理の方法
+          </go_item>
+          <go_item number="五">
+            その他参考となるべき事項
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の届出の書面には、次に掲げる書類、図面又は写真を添えなければならない。
+        <go>
+          <go_item number="一">
+            公開を行おうとする施設及び陳列、防災等の設備の概要を示す図面又は写真
+          </go_item>
+          <go_item number="二">
+            所有者の意見書及び管理責任者又は管理団体がある場合は、その者の意見書
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（公開事前届出免除施設における公開の届出）">
+      <article_item number="第七条">
+        法<l>第八十四条第一項</l>ただし書の規定による公開事前届出免除施設における公開の届出の書面には、次に掲げる事項を記載するものとする。
+        <go>
+          <go_item number="一">
+            <l>第一条第一項第一号</l>から<l>第五号</l>までに掲げる事項
+          </go_item>
+          <go_item number="二">
+            文化庁長官から事前の届出の免除を受けた博物館その他の施設の名称及び所在地並びに当該施設が文化庁長官から事前の届出の免除を受けた年月日
+          </go_item>
+          <go_item number="三">
+            展覧会その他の催しの名称及び主催者の氏名
+          </go_item>
+          <go_item number="四">
+            公開の期間
+          </go_item>
+          <go_item number="五">
+            公開の期間中における管理の状況
+          </go_item>
+          <go_item number="六">
+            その他参考となるべき事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

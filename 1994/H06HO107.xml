@@ -41,51 +41,51 @@
           </go_item>
           <go_item number="三">
             <l>前二号</l>に掲げるもののほか、音楽学習の機会の提供に関し必要な事業を行うこと。
-            </go_item>
-            <go_item number="四">
-              当該地方公共団体の設置する学校の教育に支障のない限り、その学校の施設を音楽学習のための住民の利用に供すること。
-            </go_item>
-            <go_item number="五">
-              音楽学習に関する情報を収集し、整理し、及び提供すること。
-            </go_item>
-            <go_item number="六">
-              音楽学習に関する指導者及び助言者に対する研修を行うこと。
-            </go_item>
-            <go_item number="七">
-              音楽文化に関する調査研究を推進すること。
-            </go_item>
-            <go_item number="八">
-              音楽を通じた国際文化交流事業を行うこと。
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="２">
-          地方公共団体は、<l>前項</l>に規定する事業を行うに当たっては、我が国の伝統音楽及び地域の特色ある音楽文化並びにこれらに関する音楽学習を振興するよう配慮するものとする。
-        </article_item>
-        <article_item number="３">
-          国は、地方公共団体が<l>第一項</l>に規定する事業を行うに当たっては、必要な助言及び協力を行うよう努めるものとする。
-        </article_item>
-      </articles>
-      <articles number="第五条" title="（民間団体の行う事業の振興）">
-        <article_item number="第五条">
-          国は、音楽文化及び音楽学習の振興に資する事業を行う民間団体に対し、照会及び相談に応じ、並びに助言を行うことにより、当該事業の振興に努めるものとする。
-        </article_item>
-      </articles>
-      <articles number="第六条" title="（顕彰）">
-        <article_item number="第六条">
-          国及び地方公共団体は、音楽文化及び音楽学習の振興に寄与した者の顕彰に努めるものとする。
-        </article_item>
-      </articles>
-      <articles number="第七条" title="（国際音楽の日）">
-        <article_item number="第七条">
-          国民の間に広く音楽についての関心と理解を深め、積極的に音楽学習を行う意欲を高揚するとともに、国際連合教育科学文化機関憲章（昭和二十六年条約<l>第四号</l>）の精神にのっとり音楽を通じた国際相互理解の促進に資する活動が行われるようにするため、国際音楽の日を設ける。
-        </article_item>
-        <article_item number="２">
-          国際音楽の日は、十月一日とする。
-        </article_item>
-        <article_item number="３">
-          国及び地方公共団体は、国際音楽の日の趣旨の普及に努めるものとする。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+          <go_item number="四">
+            当該地方公共団体の設置する学校の教育に支障のない限り、その学校の施設を音楽学習のための住民の利用に供すること。
+          </go_item>
+          <go_item number="五">
+            音楽学習に関する情報を収集し、整理し、及び提供すること。
+          </go_item>
+          <go_item number="六">
+            音楽学習に関する指導者及び助言者に対する研修を行うこと。
+          </go_item>
+          <go_item number="七">
+            音楽文化に関する調査研究を推進すること。
+          </go_item>
+          <go_item number="八">
+            音楽を通じた国際文化交流事業を行うこと。
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        地方公共団体は、<l>前項</l>に規定する事業を行うに当たっては、我が国の伝統音楽及び地域の特色ある音楽文化並びにこれらに関する音楽学習を振興するよう配慮するものとする。
+      </article_item>
+      <article_item number="３">
+        国は、地方公共団体が<l>第一項</l>に規定する事業を行うに当たっては、必要な助言及び協力を行うよう努めるものとする。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（民間団体の行う事業の振興）">
+      <article_item number="第五条">
+        国は、音楽文化及び音楽学習の振興に資する事業を行う民間団体に対し、照会及び相談に応じ、並びに助言を行うことにより、当該事業の振興に努めるものとする。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（顕彰）">
+      <article_item number="第六条">
+        国及び地方公共団体は、音楽文化及び音楽学習の振興に寄与した者の顕彰に努めるものとする。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（国際音楽の日）">
+      <article_item number="第七条">
+        国民の間に広く音楽についての関心と理解を深め、積極的に音楽学習を行う意欲を高揚するとともに、国際連合教育科学文化機関憲章（昭和二十六年条約<l>第四号</l>）の精神にのっとり音楽を通じた国際相互理解の促進に資する活動が行われるようにするため、国際音楽の日を設ける。
+      </article_item>
+      <article_item number="２">
+        国際音楽の日は、十月一日とする。
+      </article_item>
+      <article_item number="３">
+        国及び地方公共団体は、国際音楽の日の趣旨の普及に努めるものとする。
+      </article_item>
+    </articles>
+  </body>
 </law>

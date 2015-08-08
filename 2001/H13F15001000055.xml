@@ -72,27 +72,27 @@
           </go_item>
           <go_item number="四">
             <l>前三号</l>に掲げる製品以外に加工する場合にあっては、事業者と鉄鋼スラグを利用する者が協議して、用途に応じて定めた仕様
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第七条" title="（販売又は加工の委託）">
-        <article_item number="第七条">
-          事業者は、鉄鋼スラグの利用を促進するため、自ら鉄鋼スラグの利用のための加工を行い得ない場合にあっては、当該加工を行い得る者に販売し、又は加工の委託をするものとする。
-        </article_item>
-      </articles>
-      <articles number="第八条" title="（計測及び記録）">
-        <article_item number="第八条">
-          事業者は、鉄鋼スラグの品質及び重量その他の鉄鋼スラグの発生抑制等に必要な事項について管理標準を設定するとともに、これらの事項を定期的に計測し、及びその結果を記録するものとする。
-        </article_item>
-      </articles>
-      <articles number="第九条" title="（情報の提供等）">
-        <article_item number="第九条">
-          事業者は、鉄鋼スラグを利用する者に対し、当該鉄鋼スラグの品質及び組成その他の必要な情報の提供を行うものとする。
-        </article_item>
-        <article_item number="２">
-          事業者は、資源の有効な利用の促進に関する法律<l>第十二条</l>に規定する計画を作成した場合にあっては、これを公表するよう努めるものとする。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（販売又は加工の委託）">
+      <article_item number="第七条">
+        事業者は、鉄鋼スラグの利用を促進するため、自ら鉄鋼スラグの利用のための加工を行い得ない場合にあっては、当該加工を行い得る者に販売し、又は加工の委託をするものとする。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（計測及び記録）">
+      <article_item number="第八条">
+        事業者は、鉄鋼スラグの品質及び重量その他の鉄鋼スラグの発生抑制等に必要な事項について管理標準を設定するとともに、これらの事項を定期的に計測し、及びその結果を記録するものとする。
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（情報の提供等）">
+      <article_item number="第九条">
+        事業者は、鉄鋼スラグを利用する者に対し、当該鉄鋼スラグの品質及び組成その他の必要な情報の提供を行うものとする。
+      </article_item>
+      <article_item number="２">
+        事業者は、資源の有効な利用の促進に関する法律<l>第十二条</l>に規定する計画を作成した場合にあっては、これを公表するよう努めるものとする。
+      </article_item>
+    </articles>
+  </body>
 </law>

@@ -26,14 +26,14 @@
           </go_item>
           <go_item number="四">
             <l>前三号</l>に掲げるもののほか、法人税法（昭和四十年法律第三十四号）別表第一に掲げる法人（地方公共団体を除く。）
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第二条" title="（法第十条第一項の政令で定める数）">
-        <article_item number="第二条">
-          法<l>第十条第一項</l>の政令で定める数は、五十人とする。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（法第十条第一項の政令で定める数）">
+      <article_item number="第二条">
+        法<l>第十条第一項</l>の政令で定める数は、五十人とする。
+      </article_item>
+    </articles>
+  </body>
 </law>

@@ -27,26 +27,26 @@
     <articles number="第四条" title="（罰則）">
       <article_item number="第四条">
         <l>前条</l>の規定に違反した者は、一年以下の懲役又は三万円以下の罰金に処する。
-        </article_item>
-      </articles>
-      <articles number="第五条" title="（処罰の請求）">
-        <article_item number="第五条">
-          <l>前条</l>の罪は、当該教育職員が勤務する義務教育諸学校の設置者の区別に応じ、次に掲げるものの請求がなければ公訴を提起することができない。
-            <go>
-              <go_item number="一">
-                国立大学法人法（平成十五年法律第百十二号）<l>第二十三条</l>の規定により国立大学に附属して設置される義務教育諸学校にあつては、当該国立大学の学長
-              </go_item>
-              <go_item number="二">
-                公立の義務教育諸学校にあつては、当該学校を設置する地方公共団体の教育委員会
-              </go_item>
-              <go_item number="三">
-                私立の義務教育諸学校にあつては、当該学校を所轄する都道府県知事
-              </go_item>
-            </go>
-          </article_item>
-          <article_item number="２">
-            <l>前項</l>の請求の手続は、政令で定める。
-            </article_item>
-          </articles>
-        </body>
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（処罰の請求）">
+      <article_item number="第五条">
+        <l>前条</l>の罪は、当該教育職員が勤務する義務教育諸学校の設置者の区別に応じ、次に掲げるものの請求がなければ公訴を提起することができない。
+        <go>
+          <go_item number="一">
+            国立大学法人法（平成十五年法律第百十二号）<l>第二十三条</l>の規定により国立大学に附属して設置される義務教育諸学校にあつては、当該国立大学の学長
+          </go_item>
+          <go_item number="二">
+            公立の義務教育諸学校にあつては、当該学校を設置する地方公共団体の教育委員会
+          </go_item>
+          <go_item number="三">
+            私立の義務教育諸学校にあつては、当該学校を所轄する都道府県知事
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の請求の手続は、政令で定める。
+      </article_item>
+    </articles>
+  </body>
 </law>

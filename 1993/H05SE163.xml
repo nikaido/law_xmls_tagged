@@ -56,12 +56,12 @@
     <articles number="第二条" title="（発行枚数）">
       <article_item number="第二条">
         <l>前条</l>に規定する貨幣の発行枚数は、二百万枚とする。
-        </article_item>
-      </articles>
-      <articles number="第三条" title="（販売価格）">
-        <article_item number="第三条">
-          <l>第一条</l>に規定する貨幣並びに通貨の単位及び貨幣の発行等に関する法律施行令（昭和六十三年政令第五十号）別表第一第十二号及び<l>第三十七号</l>に掲げる貨幣のうち、特殊な技術を用いて製造し表面に光沢を持たせたもので、それぞれ一枚を容器に組み入れたものの販売価格は、七万円とする。
-          </article_item>
-        </articles>
-      </body>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（販売価格）">
+      <article_item number="第三条">
+        <l>第一条</l>に規定する貨幣並びに通貨の単位及び貨幣の発行等に関する法律施行令（昭和六十三年政令第五十号）別表第一第十二号及び<l>第三十七号</l>に掲げる貨幣のうち、特殊な技術を用いて製造し表面に光沢を持たせたもので、それぞれ一枚を容器に組み入れたものの販売価格は、七万円とする。
+      </article_item>
+    </articles>
+  </body>
 </law>

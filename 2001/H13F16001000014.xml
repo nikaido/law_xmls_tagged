@@ -343,14 +343,14 @@
           </go_item>
           <go_item number="四">
             <l>前三号</l>に掲げるもののほか、研修の実施に関すること（研修指導官の所掌に属するものを除く。）。
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第三十七条" title="（雑則）">
-        <article_item number="第三十七条">
-          この省令に定めるもののほか、国土交通大学校に関し必要な事項は、校長が定める。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三十七条" title="（雑則）">
+      <article_item number="第三十七条">
+        この省令に定めるもののほか、国土交通大学校に関し必要な事項は、校長が定める。
+      </article_item>
+    </articles>
+  </body>
 </law>

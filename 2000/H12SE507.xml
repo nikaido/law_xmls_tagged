@@ -109,38 +109,38 @@
           <go>
             <go_item number="一">
               <l>前条第一号</l>の規定により指定された土地等
-              </go_item>
-              <go_item number="二">
-                <l>前条第三号</l>の規定により指定された権利に係る財産のうち文部科学大臣が指定するもの
-                </go_item>
-              </go>
-            </article_item>
-          </articles>
-          <articles number="第十五条" title="（出資があったものとされる財産に係る評価委員の任命等）">
-            <article_item number="第十五条">
-              法附則<l>第七条第三項</l>の評価委員は、次に掲げる者につき文部科学大臣が任命する。
-              <go>
-                <go_item number="一">
-                  財務省の職員　一人
-                </go_item>
-                <go_item number="二">
-                  文部科学省の職員　一人
-                </go_item>
-                <go_item number="三">
-                  独立行政法人教員研修センターの役員（独立行政法人教員研修センターが成立するまでの間は、独立行政法人教員研修センターに係る独立行政法人通則法（平成十一年法律第百三号）<l>第十五条第一項</l>の設立委員）　一人
-                </go_item>
-                <go_item number="四">
-                  学識経験のある者　二人
-                </go_item>
-              </go>
-            </article_item>
-            <article_item number="２">
-              法附則<l>第七条第三項</l>の規定による評価は、<l>同項</l>の評価委員の過半数の一致によるものとする。
-            </article_item>
-            <article_item number="３">
-              法附則<l>第七条第三項</l>の規定による評価に関する庶務は、文部科学省初等中等教育局教職員課において処理する。
-            </article_item>
-          </articles>
-        </section>
-      </body>
+            </go_item>
+            <go_item number="二">
+              <l>前条第三号</l>の規定により指定された権利に係る財産のうち文部科学大臣が指定するもの
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第十五条" title="（出資があったものとされる財産に係る評価委員の任命等）">
+        <article_item number="第十五条">
+          法附則<l>第七条第三項</l>の評価委員は、次に掲げる者につき文部科学大臣が任命する。
+          <go>
+            <go_item number="一">
+              財務省の職員　一人
+            </go_item>
+            <go_item number="二">
+              文部科学省の職員　一人
+            </go_item>
+            <go_item number="三">
+              独立行政法人教員研修センターの役員（独立行政法人教員研修センターが成立するまでの間は、独立行政法人教員研修センターに係る独立行政法人通則法（平成十一年法律第百三号）<l>第十五条第一項</l>の設立委員）　一人
+            </go_item>
+            <go_item number="四">
+              学識経験のある者　二人
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          法附則<l>第七条第三項</l>の規定による評価は、<l>同項</l>の評価委員の過半数の一致によるものとする。
+        </article_item>
+        <article_item number="３">
+          法附則<l>第七条第三項</l>の規定による評価に関する庶務は、文部科学省初等中等教育局教職員課において処理する。
+        </article_item>
+      </articles>
+    </section>
+  </body>
 </law>

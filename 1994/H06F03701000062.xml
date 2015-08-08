@@ -123,20 +123,20 @@
           </go_item>
           <go_item number="二">
             <l>前号</l>の主張に理由があるか否かについての主宰者の意見
-            </go_item>
-            <go_item number="三">
-              <l>前号</l>の意見についての理由
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-        <articles number="第十二条" title="（聴聞調書及び報告書の閲覧の手続）">
-          <article_item number="第十二条">
-            法<l>第二十四条第四項</l>の規定による閲覧の請求は、請求者の氏名及び住所並びに閲覧をしようとする聴聞調書又は報告書の件名を記載した書面を、聴聞の終結前にあっては主宰者に、聴聞の終結後にあっては農林水産大臣等に提出してするものとする。
-          </article_item>
-          <article_item number="２">
-            主宰者又は農林水産大臣等は、聴聞調書又は報告書の閲覧を認めたときは、その場で閲覧させる場合を除き、閲覧の日時及び場所を当該当事者等に通知するものとする。
-          </article_item>
-        </articles>
-      </body>
+          </go_item>
+          <go_item number="三">
+            <l>前号</l>の意見についての理由
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（聴聞調書及び報告書の閲覧の手続）">
+      <article_item number="第十二条">
+        法<l>第二十四条第四項</l>の規定による閲覧の請求は、請求者の氏名及び住所並びに閲覧をしようとする聴聞調書又は報告書の件名を記載した書面を、聴聞の終結前にあっては主宰者に、聴聞の終結後にあっては農林水産大臣等に提出してするものとする。
+      </article_item>
+      <article_item number="２">
+        主宰者又は農林水産大臣等は、聴聞調書又は報告書の閲覧を認めたときは、その場で閲覧させる場合を除き、閲覧の日時及び場所を当該当事者等に通知するものとする。
+      </article_item>
+    </articles>
+  </body>
 </law>

@@ -80,45 +80,45 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>に掲げるもののほか、国税不服審判所沖縄事務所以外の各支部に、管理課を置く。
-        </article_item>
-      </articles>
-      <articles number="第六条" title="（支部の管理課の事務）">
-        <article_item number="第六条">
-          支部の管理課においては、次の事務をつかさどる。
-          <go>
-            <go_item number="一">
-              首席国税審判官の官印を保管すること。
-            </go_item>
-            <go_item number="二">
-              人事及び機密に関すること。
-            </go_item>
-            <go_item number="三">
-              公文書類の審査及び進達を行うこと。
-            </go_item>
-            <go_item number="四">
-              文書の接受、発送、編集及び保存を行うこと。
-            </go_item>
-            <go_item number="五">
-              経費、会計事務、物品の管理及び庁内の取締りに関すること。
-            </go_item>
-            <go_item number="六">
-              支部の事務の運営に関し必要な事項の企画及び立案をすること。
-            </go_item>
-            <go_item number="七">
-              前各号に掲げるもののほか、支部の事務で他の所掌に属しないものを行うこと。
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第七条" title="（次席国税審判官を置く支部）">
-        <article_item number="第七条">
-          国税不服審判所組織令<l>第二条第一項</l>で規定する財務省令で定める支部は、東京国税不服審判所、名古屋国税不服審判所及び大阪国税不服審判所とする。
-        </article_item>
-      </articles>
-      <articles number="第八条" title="（次席国税審判官を置く支部）">
-        <article_item number="第八条">
-          この省令で定めるもののほか、事務分掌その他国税不服審判所の組織の細目は、国税庁長官が定める。
-        </article_item>
-      </articles>
-    </body>
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（支部の管理課の事務）">
+      <article_item number="第六条">
+        支部の管理課においては、次の事務をつかさどる。
+        <go>
+          <go_item number="一">
+            首席国税審判官の官印を保管すること。
+          </go_item>
+          <go_item number="二">
+            人事及び機密に関すること。
+          </go_item>
+          <go_item number="三">
+            公文書類の審査及び進達を行うこと。
+          </go_item>
+          <go_item number="四">
+            文書の接受、発送、編集及び保存を行うこと。
+          </go_item>
+          <go_item number="五">
+            経費、会計事務、物品の管理及び庁内の取締りに関すること。
+          </go_item>
+          <go_item number="六">
+            支部の事務の運営に関し必要な事項の企画及び立案をすること。
+          </go_item>
+          <go_item number="七">
+            前各号に掲げるもののほか、支部の事務で他の所掌に属しないものを行うこと。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（次席国税審判官を置く支部）">
+      <article_item number="第七条">
+        国税不服審判所組織令<l>第二条第一項</l>で規定する財務省令で定める支部は、東京国税不服審判所、名古屋国税不服審判所及び大阪国税不服審判所とする。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（次席国税審判官を置く支部）">
+      <article_item number="第八条">
+        この省令で定めるもののほか、事務分掌その他国税不服審判所の組織の細目は、国税庁長官が定める。
+      </article_item>
+    </articles>
+  </body>
 </law>

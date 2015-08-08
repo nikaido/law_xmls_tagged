@@ -756,84 +756,84 @@
         </article_item>
         <article_item number="２">
           <l>第四条</l>から<l>第十二条</l>までの規定（<l>第五条第三号</l>ロの規定を除く。）による試験は、別段の定めがあるほか、温度が五度以上三十五度以下の状態において行わなければならない。
-          </article_item>
-        </articles>
-        <articles number="第十七条" title="（表示）">
-          <article_item number="第十七条">
-            消防用吸管には、次の各号に掲げる事項を容易に消えないように表示しなければならない。
-            <go>
-              <go_item number="一">
-                製造者名
-              </go_item>
-              <go_item number="二">
-                製造年
-              </go_item>
-              <go_item number="三">
-                呼称及び長さ
-              </go_item>
-              <go_item number="四">
-                使用温度範囲
-              </go_item>
-              <go_item number="五">
-                届出番号
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-      </section>
-      <section title="第三章　大容量泡放水砲用吸管" type="Sho">
-        <articles number="第十八条" title="（内径）">
-          <article_item number="第十八条">
-            大容量泡放水砲用吸管の内径は、<l>第四条</l>に定める方法により測定した場合において、当該大容量泡放水砲用吸管に表示された呼び径からその呼び径の百三パーセントの内径までの範囲内のものでなければならない。
-          </article_item>
-        </articles>
-        <articles number="第十九条" title="（耐圧力）">
-          <article_item number="第十九条">
-            長さが一メートル以上の大容量泡放水砲用吸管の一端をふさぎ、まつすぐにした状態で、〇・三メガパスカルの水圧力を五分間加えた場合において、き裂、漏れ、変形等が生じないものでなければならない。
-          </article_item>
-        </articles>
-        <articles number="第二十条" title="（伸び）">
-          <article_item number="第二十条">
-            大容量泡放水砲用吸管は、<l>前条</l>の水圧力を五分間加えた場合において、伸びが、十パーセント以下であり、かつ、水圧力を除いた後十分以内にその伸びが二パーセント以下となるものでなければならない。
-          </article_item>
-        </articles>
-        <articles number="第二十一条" title="（表示）">
-          <article_item number="第二十一条">
-            大容量泡放水砲用吸管には、次の各号に掲げる事項を容易に消えないように表示しなければならない。
-            <go>
-              <go_item number="一">
-                製造者名
-              </go_item>
-              <go_item number="二">
-                製造年
-              </go_item>
-              <go_item number="三">
-                呼び径及び長さ
-              </go_item>
-              <go_item number="四">
-                使用温度範囲
-              </go_item>
-              <go_item number="五">
-                届出番号
-              </go_item>
-              <go_item number="六">
-                大容量泡放水砲用である旨
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-        <articles number="第二十二条" title="（準用）">
-          <article_item number="第二十二条">
-            <l>第三条</l>、<l>第五条</l>から<l>第七条</l>まで、<l>第十一条</l>、<l>第十四条</l>及び<l>第十六条</l>の規定は大容量泡放水砲用吸管について準用する。この場合において、<l>第五条第三号</l>ロの規定中「その呼称に応じ、次の表に掲げる数値の荷重」とあるのは「使用時にかかる荷重」と、<l>第十一条</l>の規定中「呼称が百五十から五十までのものにあつては十パーセント以上、呼称が四十及び二十五のものにあつては二十パーセント」とあるのは「十パーセント」と、<l>第十四条</l>の規定中「その呼称に応じ、次の表一に掲げる長さの」とあるのは「設計された」と、「その呼称に応じ、次の表二に掲げる」とあるのは「使用時にかかる」と、<l>第十六条第一項</l>の規定中「<l>第十三条</l>から<l>第十五条</l>まで」とあるのは「<l>第二十一条</l>において準用する<l>第十四条</l>」と、<l>同条第二項</l>の規定中「<l>第四条</l>から<l>第十二条</l>まで」とあるのは「<l>第五条</l>（<l>第三号</l>ロを除く。）<l>第六条</l>、<l>第七条</l>、<l>第十八条</l>から<l>第二十条</l>まで並びに<l>第二十二条</l>において準用する<l>第五条第三号</l>ロ及び<l>第十一条</l>」と読み替えるものとする。
-            </article_item>
-          </articles>
-        </section>
-        <section title="第四章　雑則" type="Sho">
-          <articles number="第二十三条" title="（基準の特例）">
-            <article_item number="第二十三条">
-              新たな技術開発に係る消防用吸管について、その形状、構造、材質及び性能から判断して、この省令の規定に適合するものと同等以上の性能があると総務大臣が認めた場合は、この省令の規定にかかわらず、総務大臣が定める技術上の規格によることができる。
-            </article_item>
-          </articles>
-        </section>
-      </body>
+        </article_item>
+      </articles>
+      <articles number="第十七条" title="（表示）">
+        <article_item number="第十七条">
+          消防用吸管には、次の各号に掲げる事項を容易に消えないように表示しなければならない。
+          <go>
+            <go_item number="一">
+              製造者名
+            </go_item>
+            <go_item number="二">
+              製造年
+            </go_item>
+            <go_item number="三">
+              呼称及び長さ
+            </go_item>
+            <go_item number="四">
+              使用温度範囲
+            </go_item>
+            <go_item number="五">
+              届出番号
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </section>
+    <section title="第三章　大容量泡放水砲用吸管" type="Sho">
+      <articles number="第十八条" title="（内径）">
+        <article_item number="第十八条">
+          大容量泡放水砲用吸管の内径は、<l>第四条</l>に定める方法により測定した場合において、当該大容量泡放水砲用吸管に表示された呼び径からその呼び径の百三パーセントの内径までの範囲内のものでなければならない。
+        </article_item>
+      </articles>
+      <articles number="第十九条" title="（耐圧力）">
+        <article_item number="第十九条">
+          長さが一メートル以上の大容量泡放水砲用吸管の一端をふさぎ、まつすぐにした状態で、〇・三メガパスカルの水圧力を五分間加えた場合において、き裂、漏れ、変形等が生じないものでなければならない。
+        </article_item>
+      </articles>
+      <articles number="第二十条" title="（伸び）">
+        <article_item number="第二十条">
+          大容量泡放水砲用吸管は、<l>前条</l>の水圧力を五分間加えた場合において、伸びが、十パーセント以下であり、かつ、水圧力を除いた後十分以内にその伸びが二パーセント以下となるものでなければならない。
+        </article_item>
+      </articles>
+      <articles number="第二十一条" title="（表示）">
+        <article_item number="第二十一条">
+          大容量泡放水砲用吸管には、次の各号に掲げる事項を容易に消えないように表示しなければならない。
+          <go>
+            <go_item number="一">
+              製造者名
+            </go_item>
+            <go_item number="二">
+              製造年
+            </go_item>
+            <go_item number="三">
+              呼び径及び長さ
+            </go_item>
+            <go_item number="四">
+              使用温度範囲
+            </go_item>
+            <go_item number="五">
+              届出番号
+            </go_item>
+            <go_item number="六">
+              大容量泡放水砲用である旨
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第二十二条" title="（準用）">
+        <article_item number="第二十二条">
+          <l>第三条</l>、<l>第五条</l>から<l>第七条</l>まで、<l>第十一条</l>、<l>第十四条</l>及び<l>第十六条</l>の規定は大容量泡放水砲用吸管について準用する。この場合において、<l>第五条第三号</l>ロの規定中「その呼称に応じ、次の表に掲げる数値の荷重」とあるのは「使用時にかかる荷重」と、<l>第十一条</l>の規定中「呼称が百五十から五十までのものにあつては十パーセント以上、呼称が四十及び二十五のものにあつては二十パーセント」とあるのは「十パーセント」と、<l>第十四条</l>の規定中「その呼称に応じ、次の表一に掲げる長さの」とあるのは「設計された」と、「その呼称に応じ、次の表二に掲げる」とあるのは「使用時にかかる」と、<l>第十六条第一項</l>の規定中「<l>第十三条</l>から<l>第十五条</l>まで」とあるのは「<l>第二十一条</l>において準用する<l>第十四条</l>」と、<l>同条第二項</l>の規定中「<l>第四条</l>から<l>第十二条</l>まで」とあるのは「<l>第五条</l>（<l>第三号</l>ロを除く。）<l>第六条</l>、<l>第七条</l>、<l>第十八条</l>から<l>第二十条</l>まで並びに<l>第二十二条</l>において準用する<l>第五条第三号</l>ロ及び<l>第十一条</l>」と読み替えるものとする。
+        </article_item>
+      </articles>
+    </section>
+    <section title="第四章　雑則" type="Sho">
+      <articles number="第二十三条" title="（基準の特例）">
+        <article_item number="第二十三条">
+          新たな技術開発に係る消防用吸管について、その形状、構造、材質及び性能から判断して、この省令の規定に適合するものと同等以上の性能があると総務大臣が認めた場合は、この省令の規定にかかわらず、総務大臣が定める技術上の規格によることができる。
+        </article_item>
+      </articles>
+    </section>
+  </body>
 </law>

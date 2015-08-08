@@ -33,54 +33,54 @@
     <articles number="第二条" title="（登録の実施）">
       <article_item number="第二条">
         <l>前条</l>の申請に係る選手等の登録は、機構が<l>前条</l>各号に掲げる事項及び登録年月日を登録簿に記載してするものとする。
-        </article_item>
-      </articles>
-      <articles number="第三条" title="（登録の拒否）">
-        <article_item number="第三条">
-          機構は、次の各号のいずれかに該当するときは、その選手等の登録を拒否することができる。
-          <go>
-            <go_item number="一">
-              <l>第一条</l>に規定する申請書に虚偽の記載があるとき。
-              </go_item>
-              <go_item number="二">
-                <l>第一条</l>の申請に係る選手等が法の規定に違反した者であるとき。
-                </go_item>
-                <go_item number="三">
-                  <l>第一条</l>の申請に係る選手等が対象試合の結果に影響を与える不正行為をした者その他の公正な対象試合を行うに不適切な者であると機構が認めるとき。
-                  </go_item>
-                </go>
-              </article_item>
-            </articles>
-            <articles number="第四条" title="（登録の変更）">
-              <article_item number="第四条">
-                機構の社員又は公益財団法人日本サッカー協会（以下「社員等」という。）は、<l>第一条</l>各号に掲げる事項に変更があったときは、速やかにその旨を機構に届け出なければならない。
-              </article_item>
-            </articles>
-            <articles number="第五条" title="（登録の取消し）">
-              <article_item number="第五条">
-                機構は、次の各号のいずれかに該当するときは、その選手等の登録を取り消さなければならない。
-                <go>
-                  <go_item number="一">
-                    社員等から登録の抹消の申請があったとき。
-                  </go_item>
-                  <go_item number="二">
-                    登録を受けた選手等が死亡し、又は失踪の宣告を受けたとき。
-                  </go_item>
-                </go>
-              </article_item>
-              <article_item number="２">
-                機構は、<l>第三条</l>各号のいずれかに該当するときは、その選手等の登録を取り消すことができる。
-              </article_item>
-            </articles>
-            <articles number="第六条" title="（登録の抹消）">
-              <article_item number="第六条">
-                機構は、登録を受けた選手等が<l>前条</l>の規定により登録を取り消されたときは、その登録を抹消しなければならない。
-              </article_item>
-            </articles>
-            <articles number="第七条" title="（社員等への通知）">
-              <article_item number="第七条">
-                機構は、選手等を登録し、若しくは登録を抹消し、又は登録簿の記載事項を変更したときは、速やかにその旨を社員等及び独立行政法人日本スポーツ振興センターに通知しなければならない。
-              </article_item>
-            </articles>
-          </body>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（登録の拒否）">
+      <article_item number="第三条">
+        機構は、次の各号のいずれかに該当するときは、その選手等の登録を拒否することができる。
+        <go>
+          <go_item number="一">
+            <l>第一条</l>に規定する申請書に虚偽の記載があるとき。
+          </go_item>
+          <go_item number="二">
+            <l>第一条</l>の申請に係る選手等が法の規定に違反した者であるとき。
+          </go_item>
+          <go_item number="三">
+            <l>第一条</l>の申請に係る選手等が対象試合の結果に影響を与える不正行為をした者その他の公正な対象試合を行うに不適切な者であると機構が認めるとき。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（登録の変更）">
+      <article_item number="第四条">
+        機構の社員又は公益財団法人日本サッカー協会（以下「社員等」という。）は、<l>第一条</l>各号に掲げる事項に変更があったときは、速やかにその旨を機構に届け出なければならない。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（登録の取消し）">
+      <article_item number="第五条">
+        機構は、次の各号のいずれかに該当するときは、その選手等の登録を取り消さなければならない。
+        <go>
+          <go_item number="一">
+            社員等から登録の抹消の申請があったとき。
+          </go_item>
+          <go_item number="二">
+            登録を受けた選手等が死亡し、又は失踪の宣告を受けたとき。
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        機構は、<l>第三条</l>各号のいずれかに該当するときは、その選手等の登録を取り消すことができる。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（登録の抹消）">
+      <article_item number="第六条">
+        機構は、登録を受けた選手等が<l>前条</l>の規定により登録を取り消されたときは、その登録を抹消しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（社員等への通知）">
+      <article_item number="第七条">
+        機構は、選手等を登録し、若しくは登録を抹消し、又は登録簿の記載事項を変更したときは、速やかにその旨を社員等及び独立行政法人日本スポーツ振興センターに通知しなければならない。
+      </article_item>
+    </articles>
+  </body>
 </law>

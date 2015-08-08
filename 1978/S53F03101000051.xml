@@ -122,87 +122,87 @@
     <articles number="第十条" title="（認定の申請）">
       <article_item number="第十条">
         <l>前条</l>の規定により課程の認定を受けようとする大学の設置者は、認定を受けようとする課程について、別記様式第五による申請書に次の各号に掲げる事項を記載した書類を添えて、原子力規制委員会に提出しなければならない。
-          <go>
-            <go_item number="一">
-              教員組織に関する事項
-            </go_item>
-            <go_item number="二">
-              授業科目及び授業の方法に関する事項
-            </go_item>
-            <go_item number="三">
-              成績評価基準に関する事項
-            </go_item>
-            <go_item number="四">
-              <l>前三号</l>に係る教育研究活動の状況について自ら行う点検及び評価に関する事項
-              </go_item>
-              <go_item number="五">
-                前各号に掲げる事項のほか、原子力規制委員会が必要と認める事項
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-        <articles number="第十一条" title="（認定基準）">
-          <article_item number="第十一条">
-            原子力規制委員会は、<l>前条</l>の規定による認定の申請があつた課程が原子力規制委員会が別に定める基準（以下「認定基準」という。）に適合すると認めるときは、その認定をするものとする。
-          </article_item>
-          <article_item number="２">
-            認定基準においては、次に掲げる事項を定めるものとする。
-            <go>
-              <go_item number="一">
-                教員組織に関する事項
-              </go_item>
-              <go_item number="二">
-                授業科目及び授業の方法に関する事項
-              </go_item>
-              <go_item number="三">
-                成績評価基準に関する事項
-              </go_item>
-              <go_item number="四">
-                <l>前三号</l>に係る教育研究活動の状況について自ら行う点検及び評価に関する事項
-                </go_item>
-                <go_item number="五">
-                  前各号に掲げる事項のほか、原子力規制委員会が必要と認める事項
-                </go_item>
-              </go>
-            </article_item>
-          </articles>
-          <articles number="第十二条" title="（変更の届出）">
-            <article_item number="第十二条">
-              <l>第九条</l>の規定による認定を受けた大学の設置者（以下「認定課程設置者」という。）は、<l>第十条</l>の申請書及び書類の記載事項に変更があつたときは、変更の日から三十日以内に、別記様式第六による届出書を原子力規制委員会に提出しなければならない。
-              </article_item>
-            </articles>
-            <articles number="第十三条" title="（報告の徴収）">
-              <article_item number="第十三条">
-                原子力規制委員会は、認定課程が認定基準に適合しているかどうかを調査するため必要があると認めるときは、認定課程設置者に対し報告又は資料の提出を求めることができる。
-              </article_item>
-            </articles>
-            <articles number="第十四条" title="（認定に係る確認）">
-              <article_item number="第十四条">
-                認定課程設置者は、その認定課程が認定基準に適合しているかどうかについて、五年ごとに、原子力規制委員会の確認を受けなければならない。
-              </article_item>
-            </articles>
-            <articles number="第十五条" title="（認定の取消し）">
-              <article_item number="第十五条">
-                原子力規制委員会は、認定課程が認定基準に適合しなくなつたと認めるときは、その認定を取り消すことができる。
-              </article_item>
-            </articles>
-            <articles number="第十六条" title="（認定等の公示）">
-              <article_item number="第十六条">
-                原子力規制委員会は、次の場合には、その旨を官報に公示しなければならない。
-                <go>
-                  <go_item number="一">
-                    <l>第九条</l>の規定による認定をしたとき。
-                    </go_item>
-                    <go_item number="二">
-                      <l>前条</l>の規定により認定を取り消したとき。
-                      </go_item>
-                    </go>
-                  </article_item>
-                </articles>
-                <articles number="第十七条" title="（委任規定）">
-                  <article_item number="第十七条">
-                    この規則に定めるもののほか、原子炉主任技術者試験の実施等に関し必要な事項は原子力規制委員会が定める。
-                  </article_item>
-                </articles>
-              </body>
+        <go>
+          <go_item number="一">
+            教員組織に関する事項
+          </go_item>
+          <go_item number="二">
+            授業科目及び授業の方法に関する事項
+          </go_item>
+          <go_item number="三">
+            成績評価基準に関する事項
+          </go_item>
+          <go_item number="四">
+            <l>前三号</l>に係る教育研究活動の状況について自ら行う点検及び評価に関する事項
+          </go_item>
+          <go_item number="五">
+            前各号に掲げる事項のほか、原子力規制委員会が必要と認める事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（認定基準）">
+      <article_item number="第十一条">
+        原子力規制委員会は、<l>前条</l>の規定による認定の申請があつた課程が原子力規制委員会が別に定める基準（以下「認定基準」という。）に適合すると認めるときは、その認定をするものとする。
+      </article_item>
+      <article_item number="２">
+        認定基準においては、次に掲げる事項を定めるものとする。
+        <go>
+          <go_item number="一">
+            教員組織に関する事項
+          </go_item>
+          <go_item number="二">
+            授業科目及び授業の方法に関する事項
+          </go_item>
+          <go_item number="三">
+            成績評価基準に関する事項
+          </go_item>
+          <go_item number="四">
+            <l>前三号</l>に係る教育研究活動の状況について自ら行う点検及び評価に関する事項
+          </go_item>
+          <go_item number="五">
+            前各号に掲げる事項のほか、原子力規制委員会が必要と認める事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（変更の届出）">
+      <article_item number="第十二条">
+        <l>第九条</l>の規定による認定を受けた大学の設置者（以下「認定課程設置者」という。）は、<l>第十条</l>の申請書及び書類の記載事項に変更があつたときは、変更の日から三十日以内に、別記様式第六による届出書を原子力規制委員会に提出しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十三条" title="（報告の徴収）">
+      <article_item number="第十三条">
+        原子力規制委員会は、認定課程が認定基準に適合しているかどうかを調査するため必要があると認めるときは、認定課程設置者に対し報告又は資料の提出を求めることができる。
+      </article_item>
+    </articles>
+    <articles number="第十四条" title="（認定に係る確認）">
+      <article_item number="第十四条">
+        認定課程設置者は、その認定課程が認定基準に適合しているかどうかについて、五年ごとに、原子力規制委員会の確認を受けなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十五条" title="（認定の取消し）">
+      <article_item number="第十五条">
+        原子力規制委員会は、認定課程が認定基準に適合しなくなつたと認めるときは、その認定を取り消すことができる。
+      </article_item>
+    </articles>
+    <articles number="第十六条" title="（認定等の公示）">
+      <article_item number="第十六条">
+        原子力規制委員会は、次の場合には、その旨を官報に公示しなければならない。
+        <go>
+          <go_item number="一">
+            <l>第九条</l>の規定による認定をしたとき。
+          </go_item>
+          <go_item number="二">
+            <l>前条</l>の規定により認定を取り消したとき。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十七条" title="（委任規定）">
+      <article_item number="第十七条">
+        この規則に定めるもののほか、原子炉主任技術者試験の実施等に関し必要な事項は原子力規制委員会が定める。
+      </article_item>
+    </articles>
+  </body>
 </law>

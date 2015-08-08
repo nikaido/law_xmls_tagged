@@ -19,52 +19,52 @@
           </go_item>
           <go_item number="二">
             <l>前号</l>に掲げる製品以外に加工する場合にあっては、事業者と石炭灰を利用する者が協議して、用途に応じて定めた仕様
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第二条" title="（設備の整備）">
-        <article_item number="第二条">
-          事業者は、別表の上欄に掲げる石炭灰の種類ごとに、それぞれ下欄の設備その他の石炭灰の利用の促進のために必要な設備を整備するものとする。
-        </article_item>
-      </articles>
-      <articles number="第三条" title="（技術の向上）">
-        <article_item number="第三条">
-          事業者は、石炭灰の利用を促進するため、石炭灰の用途の拡大及び品質の向上のための技術を向上させるものとする。
-        </article_item>
-      </articles>
-      <articles number="第四条" title="（石炭灰利用促進計画）">
-        <article_item number="第四条">
-          事業者は、石炭灰の利用の促進を計画的に行うため、毎事業年度開始前に、その事業年度の石炭灰の利用の促進に関する計画（以下「石炭灰利用促進計画」という。）を作成するものとする。
-        </article_item>
-        <article_item number="２">
-          石炭灰利用促進計画には、次に掲げる事項を記載するものとする。
-          <go>
-            <go_item number="一">
-              石炭灰の発生予定数量
-            </go_item>
-            <go_item number="二">
-              石炭灰の利用予定数量
-            </go_item>
-            <go_item number="三">
-              石炭灰の利用の促進のために必要な設備の整備に関する事項
-            </go_item>
-            <go_item number="四">
-              石炭灰の利用の促進のために必要な技術の向上に関する事項
-            </go_item>
-            <go_item number="五">
-              前各号に掲げるもののほか、石炭灰の利用の促進に関する事項
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="３">
-          事業者は、石炭灰利用促進計画の実施の状況について、記録を行うものとする。
-        </article_item>
-      </articles>
-      <articles number="第五条" title="（情報の提供）">
-        <article_item number="第五条">
-          事業者は、石炭灰を利用する者に対し、当該石炭灰の品質及び組成その他の必要な情報の提供を行うこととする。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（設備の整備）">
+      <article_item number="第二条">
+        事業者は、別表の上欄に掲げる石炭灰の種類ごとに、それぞれ下欄の設備その他の石炭灰の利用の促進のために必要な設備を整備するものとする。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（技術の向上）">
+      <article_item number="第三条">
+        事業者は、石炭灰の利用を促進するため、石炭灰の用途の拡大及び品質の向上のための技術を向上させるものとする。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（石炭灰利用促進計画）">
+      <article_item number="第四条">
+        事業者は、石炭灰の利用の促進を計画的に行うため、毎事業年度開始前に、その事業年度の石炭灰の利用の促進に関する計画（以下「石炭灰利用促進計画」という。）を作成するものとする。
+      </article_item>
+      <article_item number="２">
+        石炭灰利用促進計画には、次に掲げる事項を記載するものとする。
+        <go>
+          <go_item number="一">
+            石炭灰の発生予定数量
+          </go_item>
+          <go_item number="二">
+            石炭灰の利用予定数量
+          </go_item>
+          <go_item number="三">
+            石炭灰の利用の促進のために必要な設備の整備に関する事項
+          </go_item>
+          <go_item number="四">
+            石炭灰の利用の促進のために必要な技術の向上に関する事項
+          </go_item>
+          <go_item number="五">
+            前各号に掲げるもののほか、石炭灰の利用の促進に関する事項
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="３">
+        事業者は、石炭灰利用促進計画の実施の状況について、記録を行うものとする。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（情報の提供）">
+      <article_item number="第五条">
+        事業者は、石炭灰を利用する者に対し、当該石炭灰の品質及び組成その他の必要な情報の提供を行うこととする。
+      </article_item>
+    </articles>
+  </body>
 </law>

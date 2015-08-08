@@ -30,91 +30,91 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>各号に掲げる者を除く外、左の各号に掲げる者は、当分の間、国外居住外国人とみなす。
-          <go>
-            <go_item number="一">
-              日本の国籍を有し、且つ、本邦に本籍を有しない者で本邦に住所又は居所を有しないもの
-            </go_item>
-            <go_item number="二">
-              本邦に本店、支店若しくは事務所を有しない法人又はこれに準ずる団体
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第三条" title="（債務の認定）">
-        <article_item number="第三条">
-          国外居住外国人に対する債務の弁済のために金銭又は有価証券の供託をしようとする者は、当該債務がこの政令の適用を受ける債務であることの主務大臣の認定を受けなければならない。
-        </article_item>
-        <article_item number="２">
-          <l>前項</l>の認定を受けた債務の履行地は、供託に関しては、他の法令の規定又は定款若しくは契約の定にかかわらず、東京都千代田区とする。
-          </article_item>
-        </articles>
-        <articles number="第四条" title="（供託の手続）">
-          <article_item number="第四条">
-            <l>前条第一項</l>の供託の供託書には、法務省令、財務省令で定めるところにより、当該供託に係る債務に関する明細書を添附しなければならない。
-            </article_item>
-            <article_item number="２">
-              <l>前条第一項</l>の供託をしようとする者は、二人以上の債権者のために同一の手続により一括して供託することができる。
-              </article_item>
-            </articles>
-            <articles number="第五条" title="（供託書等の保管の委託）">
-              <article_item number="第五条">
-                <l>第三条第一項</l>の供託をした者（以下「供託者」という。）は、解散等やむを得ない事由があるときは、供託書及び供託に係る債務に関する書類の保管を主務大臣に委託することができる。
-                </article_item>
-                <article_item number="２">
-                  主務大臣は、<l>前項</l>の委託を受けたときは、当該供託に関するこの政令その他の法令の適用については、供託者とみなす。
-                </article_item>
-              </articles>
-              <articles number="第六条">
-                <article_item number="第六条">
-                  削除
-                </article_item>
-              </articles>
-              <articles number="第七条" title="（消滅時効の特例）">
-                <article_item number="第七条">
-                  この政令の規定により供託された供託物に対する還付請求権の消滅時効は、民法（明治二十九年法律第八十九号）<l>第百六十七条第一項</l>の規定にかかわらず、政令をもつて定める日まで完成しない。
-                </article_item>
-              </articles>
-              <articles number="第八条" title="（供託物の保管整理）">
-                <article_item number="第八条">
-                  日本銀行は、この政令により供託された供託物を他の供託物と区分して保管しなければならない。
-                </article_item>
-                <article_item number="２">
-                  <l>前項</l>の規定により保管する供託物は、「外国債権者円及び有価証券預託勘定」として整理しなければならない。
-                  </article_item>
-                  <article_item number="３">
-                    日本銀行は、<l>第一項</l>の規定により保管する供託物については、法務省令、財務省令で定めるところにより、財務大臣に報告書を提出しなければならない。
-                  </article_item>
-                </articles>
-                <articles number="第九条">
-                  <article_item number="第九条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第十条" title="（還付の手続）">
-                  <article_item number="第十条">
-                    供託者は、供託が<l>第四条第二項</l>の規定によりされた場合においては、供託物の還付を受ける権利を有する者に対し、供託書の引渡に代え、還付を承諾する旨の承諾書（以下「承諾書」という。）を交付することができる。
-                  </article_item>
-                  <article_item number="２">
-                    <l>前項</l>の規定により承諾書の交付を受けた者は、供託書の添附に代え、承諾書を添附して供託物の還付を請求することができる。 
-                    </article_item>
-                    <article_item number="３">
-                      供託所は、<l>前項</l>の規定による請求に基き供託物を還付した場合においては、当該供託物の供託者に対し、供託書の提出又は呈示を求めることができる。
-                    </article_item>
-                  </articles>
-                  <articles number="第十一条" title="（供託通知の特例）">
-                    <article_item number="第十一条">
-                      この政令の規定による供託に関しては、民法<l>第四百九十五条第三項</l>の規定は、適用しない。
-                    </article_item>
-                  </articles>
-                  <articles number="第十二条">
-                    <article_item number="第十二条">
-                      削除
-                    </article_item>
-                  </articles>
-                  <articles number="第十三条" title="（主務大臣）">
-                    <article_item number="第十三条">
-                      この政令の規定における主務大臣は、債務者が国又は地方公共団体である場合において、この政令の規定による供託により弁済しようとする債務が国の行政事務の処理に伴い生じたものであるときは、当該行政事務の主任大臣とし、債務者が旧日本占領地域に本店を有する会社の本邦内にある財産の整理に関する政令第二条第一項第一号に規定する在外会社である場合においては、その業務に関する行政の所管大臣及び財務大臣とし、債務者がその他の法人（地方公共団体を除く。）又はこれに準ずる団体である場合においては、その業務に関する行政の所管大臣とし、その他の場合においては、財務大臣とする。
-                    </article_item>
-                  </articles>
-                </body>
+        <go>
+          <go_item number="一">
+            日本の国籍を有し、且つ、本邦に本籍を有しない者で本邦に住所又は居所を有しないもの
+          </go_item>
+          <go_item number="二">
+            本邦に本店、支店若しくは事務所を有しない法人又はこれに準ずる団体
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（債務の認定）">
+      <article_item number="第三条">
+        国外居住外国人に対する債務の弁済のために金銭又は有価証券の供託をしようとする者は、当該債務がこの政令の適用を受ける債務であることの主務大臣の認定を受けなければならない。
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の認定を受けた債務の履行地は、供託に関しては、他の法令の規定又は定款若しくは契約の定にかかわらず、東京都千代田区とする。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（供託の手続）">
+      <article_item number="第四条">
+        <l>前条第一項</l>の供託の供託書には、法務省令、財務省令で定めるところにより、当該供託に係る債務に関する明細書を添附しなければならない。
+      </article_item>
+      <article_item number="２">
+        <l>前条第一項</l>の供託をしようとする者は、二人以上の債権者のために同一の手続により一括して供託することができる。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（供託書等の保管の委託）">
+      <article_item number="第五条">
+        <l>第三条第一項</l>の供託をした者（以下「供託者」という。）は、解散等やむを得ない事由があるときは、供託書及び供託に係る債務に関する書類の保管を主務大臣に委託することができる。
+      </article_item>
+      <article_item number="２">
+        主務大臣は、<l>前項</l>の委託を受けたときは、当該供託に関するこの政令その他の法令の適用については、供託者とみなす。
+      </article_item>
+    </articles>
+    <articles number="第六条">
+      <article_item number="第六条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（消滅時効の特例）">
+      <article_item number="第七条">
+        この政令の規定により供託された供託物に対する還付請求権の消滅時効は、民法（明治二十九年法律第八十九号）<l>第百六十七条第一項</l>の規定にかかわらず、政令をもつて定める日まで完成しない。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（供託物の保管整理）">
+      <article_item number="第八条">
+        日本銀行は、この政令により供託された供託物を他の供託物と区分して保管しなければならない。
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の規定により保管する供託物は、「外国債権者円及び有価証券預託勘定」として整理しなければならない。
+      </article_item>
+      <article_item number="３">
+        日本銀行は、<l>第一項</l>の規定により保管する供託物については、法務省令、財務省令で定めるところにより、財務大臣に報告書を提出しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第九条">
+      <article_item number="第九条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（還付の手続）">
+      <article_item number="第十条">
+        供託者は、供託が<l>第四条第二項</l>の規定によりされた場合においては、供託物の還付を受ける権利を有する者に対し、供託書の引渡に代え、還付を承諾する旨の承諾書（以下「承諾書」という。）を交付することができる。
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の規定により承諾書の交付を受けた者は、供託書の添附に代え、承諾書を添附して供託物の還付を請求することができる。 
+      </article_item>
+      <article_item number="３">
+        供託所は、<l>前項</l>の規定による請求に基き供託物を還付した場合においては、当該供託物の供託者に対し、供託書の提出又は呈示を求めることができる。
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（供託通知の特例）">
+      <article_item number="第十一条">
+        この政令の規定による供託に関しては、民法<l>第四百九十五条第三項</l>の規定は、適用しない。
+      </article_item>
+    </articles>
+    <articles number="第十二条">
+      <article_item number="第十二条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第十三条" title="（主務大臣）">
+      <article_item number="第十三条">
+        この政令の規定における主務大臣は、債務者が国又は地方公共団体である場合において、この政令の規定による供託により弁済しようとする債務が国の行政事務の処理に伴い生じたものであるときは、当該行政事務の主任大臣とし、債務者が旧日本占領地域に本店を有する会社の本邦内にある財産の整理に関する政令第二条第一項第一号に規定する在外会社である場合においては、その業務に関する行政の所管大臣及び財務大臣とし、債務者がその他の法人（地方公共団体を除く。）又はこれに準ずる団体である場合においては、その業務に関する行政の所管大臣とし、その他の場合においては、財務大臣とする。
+      </article_item>
+    </articles>
+  </body>
 </law>

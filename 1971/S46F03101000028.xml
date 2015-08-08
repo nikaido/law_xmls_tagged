@@ -123,63 +123,63 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の調査事項の細目については、内閣総理大臣が定める調査票による。
-        </article_item>
-      </articles>
-      <articles number="第十四条" title="（調査票の使用）">
-        <article_item number="第十四条">
-          調査票は、統計法<l>第十五条第一項</l>の規定により、統計上の目的以外には使用してはならない。
-        </article_item>
-      </articles>
-      <articles number="第十五条" title="（関係書類の保存）">
-        <article_item number="第十五条">
-          個人企業資産調査の関係書類は、次の区分によつて保存しなければならない。<br/>
-          <table>
-            <tr>
-              <td>
-                関係書類名
-              </td>
-              <td>
-                保存期間
-              </td>
-              <td>
-                保存責任者
-              </td>
-            </tr>
-            <tr>
-              <td>
-                調査票
-              </td>
-              <td>
-                次回調査の実施まで
-              </td>
-              <td>
-                内閣総理大臣
-              </td>
-            </tr>
-            <tr>
-              <td>
-                調査票を集録した磁気テープ
-              </td>
-              <td>
-                永久
-              </td>
-              <td>
-                内閣総理大臣
-              </td>
-            </tr>
-            <tr>
-              <td>
-                結果表
-              </td>
-              <td>
-                永久
-              </td>
-              <td>
-                内閣総理大臣
-              </td>
-            </tr>
-          </table>
-        </article_item>
-      </articles>
-    </body>
+      </article_item>
+    </articles>
+    <articles number="第十四条" title="（調査票の使用）">
+      <article_item number="第十四条">
+        調査票は、統計法<l>第十五条第一項</l>の規定により、統計上の目的以外には使用してはならない。
+      </article_item>
+    </articles>
+    <articles number="第十五条" title="（関係書類の保存）">
+      <article_item number="第十五条">
+        個人企業資産調査の関係書類は、次の区分によつて保存しなければならない。<br/>
+        <table>
+          <tr>
+            <td>
+              関係書類名
+            </td>
+            <td>
+              保存期間
+            </td>
+            <td>
+              保存責任者
+            </td>
+          </tr>
+          <tr>
+            <td>
+              調査票
+            </td>
+            <td>
+              次回調査の実施まで
+            </td>
+            <td>
+              内閣総理大臣
+            </td>
+          </tr>
+          <tr>
+            <td>
+              調査票を集録した磁気テープ
+            </td>
+            <td>
+              永久
+            </td>
+            <td>
+              内閣総理大臣
+            </td>
+          </tr>
+          <tr>
+            <td>
+              結果表
+            </td>
+            <td>
+              永久
+            </td>
+            <td>
+              内閣総理大臣
+            </td>
+          </tr>
+        </table>
+      </article_item>
+    </articles>
+  </body>
 </law>

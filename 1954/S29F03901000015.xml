@@ -91,42 +91,42 @@
     <articles number="第九条" title="（調査票）">
       <article_item number="第九条">
         <l>前条</l>の調査票は、国土交通大臣が<l>第五条</l>に規定する事業所の管理責任者（以下「管理責任者」という。）に対して配布する。
-        </article_item>
-        <article_item number="２">
-          管理責任者は、調査票の配布を受けなかつたときは、国土交通大臣にその旨を申し出て、調査票の配布を受けなければならない。
-        </article_item>
-      </articles>
-      <articles number="第十条" title="（報告）">
-        <article_item number="第十条">
-          管理責任者は、配布された調査票に掲げる事項について報告しなければならない。
-        </article_item>
-        <article_item number="２">
-          管理責任者は、配布された調査票に所定の事項を記入し、記名した上、鉄道車両生産（新造）調査にあつては調査月の翌月十五日までに、鉄道車両生産（改造・修理）調査、鉄道車両部品及び鉄道信号保安装置生産調査及び索道搬器運行装置生産調査にあつては調査四半期の最終月の翌月十五日までに、国土交通大臣に提出しなければならない。
-        </article_item>
-      </articles>
-      <articles number="第十一条" title="（審査集計）">
-        <article_item number="第十一条">
-          国土交通大臣は、<l>前条第二項</l>の規定により受理した調査票を審査集計する。
-        </article_item>
-      </articles>
-      <articles number="第十二条" title="（公表）">
-        <article_item number="第十二条">
-          国土交通大臣は、<l>前条</l>の規定による集計の結果を、鉄道車両生産（新造）調査にあつては調査月の翌月末日までに月報により、鉄道車両生産（改造・修理）調査、鉄道車両部品及び鉄道信号保安装置生産調査及び索道搬器運行装置生産調査にあつては調査四半期の最終月の翌々月末日までに四半期報により公表する。
-        </article_item>
-        <article_item number="２">
-          国土交通大臣は、<l>前条</l>の規定による集計の結果に基づいて、当年四月から翌年三月までの鉄道車両等生産動態統計年報を作成して、翌年の九月末日までに公表する。
-        </article_item>
-      </articles>
-      <articles number="第十三条" title="（調査票等の保存）">
-        <article_item number="第十三条">
-          国土交通大臣の保存する調査票の保存期間は、二年とする。
-        </article_item>
-        <article_item number="２">
-          国土交通大臣の作成した集計表の保存期間は、五年とする。
-        </article_item>
-        <article_item number="３">
-          国土交通大臣は、調査票及び集計表を収録した電磁的記録（電子的方式、磁気的方式その他人の知覚によつては認識することができない方式で作られた記録をいう。）を作成し、これを永年保存する。
-        </article_item>
-      </articles>
-    </body>
+      </article_item>
+      <article_item number="２">
+        管理責任者は、調査票の配布を受けなかつたときは、国土交通大臣にその旨を申し出て、調査票の配布を受けなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（報告）">
+      <article_item number="第十条">
+        管理責任者は、配布された調査票に掲げる事項について報告しなければならない。
+      </article_item>
+      <article_item number="２">
+        管理責任者は、配布された調査票に所定の事項を記入し、記名した上、鉄道車両生産（新造）調査にあつては調査月の翌月十五日までに、鉄道車両生産（改造・修理）調査、鉄道車両部品及び鉄道信号保安装置生産調査及び索道搬器運行装置生産調査にあつては調査四半期の最終月の翌月十五日までに、国土交通大臣に提出しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（審査集計）">
+      <article_item number="第十一条">
+        国土交通大臣は、<l>前条第二項</l>の規定により受理した調査票を審査集計する。
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（公表）">
+      <article_item number="第十二条">
+        国土交通大臣は、<l>前条</l>の規定による集計の結果を、鉄道車両生産（新造）調査にあつては調査月の翌月末日までに月報により、鉄道車両生産（改造・修理）調査、鉄道車両部品及び鉄道信号保安装置生産調査及び索道搬器運行装置生産調査にあつては調査四半期の最終月の翌々月末日までに四半期報により公表する。
+      </article_item>
+      <article_item number="２">
+        国土交通大臣は、<l>前条</l>の規定による集計の結果に基づいて、当年四月から翌年三月までの鉄道車両等生産動態統計年報を作成して、翌年の九月末日までに公表する。
+      </article_item>
+    </articles>
+    <articles number="第十三条" title="（調査票等の保存）">
+      <article_item number="第十三条">
+        国土交通大臣の保存する調査票の保存期間は、二年とする。
+      </article_item>
+      <article_item number="２">
+        国土交通大臣の作成した集計表の保存期間は、五年とする。
+      </article_item>
+      <article_item number="３">
+        国土交通大臣は、調査票及び集計表を収録した電磁的記録（電子的方式、磁気的方式その他人の知覚によつては認識することができない方式で作られた記録をいう。）を作成し、これを永年保存する。
+      </article_item>
+    </articles>
+  </body>
 </law>

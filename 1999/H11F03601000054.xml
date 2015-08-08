@@ -39,24 +39,24 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の場合において、請求者が<l>第一号</l>被保険者であった者の相続人であるときは、次の各号に掲げる書類を添えなければならない。
-          <go>
-            <go_item number="一">
-              第一号被保険者であった者の死亡を明らかにすることができる書類
-            </go_item>
-            <go_item number="二">
-              先順位の相続人であることを明らかにすることができる書類
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="３">
-          第一項の規定によって提出する請求書には、請求者の氏名及び請求の年月日を記載し、押印しなければならない。
-        </article_item>
-        <article_item number="４">
-          第一項の規定によって請求書を厚生労働大臣の指定する当該職員に提出しようとする者は、その住所地の市町村長を経由して提出しなければならない。
-        </article_item>
-        <article_item number="５">
-          第一項の規定による厚生労働大臣の権限に係る事務は、日本年金機構に行わせるものとする。
-        </article_item>
-      </articles>
-    </body>
+        <go>
+          <go_item number="一">
+            第一号被保険者であった者の死亡を明らかにすることができる書類
+          </go_item>
+          <go_item number="二">
+            先順位の相続人であることを明らかにすることができる書類
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="３">
+        第一項の規定によって提出する請求書には、請求者の氏名及び請求の年月日を記載し、押印しなければならない。
+      </article_item>
+      <article_item number="４">
+        第一項の規定によって請求書を厚生労働大臣の指定する当該職員に提出しようとする者は、その住所地の市町村長を経由して提出しなければならない。
+      </article_item>
+      <article_item number="５">
+        第一項の規定による厚生労働大臣の権限に係る事務は、日本年金機構に行わせるものとする。
+      </article_item>
+    </articles>
+  </body>
 </law>

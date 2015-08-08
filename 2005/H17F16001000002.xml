@@ -45,31 +45,31 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の財務諸表は、貸借対照表、損益計算書及び次に掲げる財務計算に関する明細表とする。
-          <go>
-            <go_item number="一">
-              内航海運業損益明細表（<l>第二号</l>様式）
-            </go_item>
-            <go_item number="二">
-              固定資産明細表（<l>第三号</l>様式）
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第四条" title="（臨時の報告）">
-        <article_item number="第四条">
-          内航海運業者又は法<l>第三条第二項</l>の届出をした者は、<l>前条</l>に定める報告書のほか、国土交通大臣又は地方運輸局長（運輸監理部長を含む。以下同じ。）からその事業に関し報告を求められたときは、報告書を提出しなければならない。
-        </article_item>
-        <article_item number="２">
-          国土交通大臣又は地方運輸局長は、<l>前項</l>の報告を求めるときは、報告書の様式、報告書の提出期限その他必要な事項を明示するものとする。
-        </article_item>
-      </articles>
-      <articles number="第五条" title="（報告書の経由）">
-        <article_item number="第五条">
-          この省令の規定により国土交通大臣に報告書を提出するときは、主たる営業所の所在地を管轄する地方運輸局長を経由しなければならない。
-        </article_item>
-        <article_item number="２">
-          この省令の規定により国土交通大臣又は地方運輸局長に報告書を提出するときは、主たる営業所の所在地を管轄する運輸支局長又は海事事務所長を経由することができる。
-        </article_item>
-      </articles>
-    </body>
+        <go>
+          <go_item number="一">
+            内航海運業損益明細表（<l>第二号</l>様式）
+          </go_item>
+          <go_item number="二">
+            固定資産明細表（<l>第三号</l>様式）
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（臨時の報告）">
+      <article_item number="第四条">
+        内航海運業者又は法<l>第三条第二項</l>の届出をした者は、<l>前条</l>に定める報告書のほか、国土交通大臣又は地方運輸局長（運輸監理部長を含む。以下同じ。）からその事業に関し報告を求められたときは、報告書を提出しなければならない。
+      </article_item>
+      <article_item number="２">
+        国土交通大臣又は地方運輸局長は、<l>前項</l>の報告を求めるときは、報告書の様式、報告書の提出期限その他必要な事項を明示するものとする。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（報告書の経由）">
+      <article_item number="第五条">
+        この省令の規定により国土交通大臣に報告書を提出するときは、主たる営業所の所在地を管轄する地方運輸局長を経由しなければならない。
+      </article_item>
+      <article_item number="２">
+        この省令の規定により国土交通大臣又は地方運輸局長に報告書を提出するときは、主たる営業所の所在地を管轄する運輸支局長又は海事事務所長を経由することができる。
+      </article_item>
+    </articles>
+  </body>
 </law>

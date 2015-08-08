@@ -97,78 +97,78 @@
       </article_item>
       <article_item number="３">
         <l>前項第三号</l>の線路予測図は次の二種とする。
-          <go>
-            <go_item number="一">
-              平面図　縮尺は、五千分の一以上とし、次に掲げる事項を記載しなければならない。
-              <go>
-                <go_item number="イ">
-                  鉄道線路が敷設される道路の区間並びに当該道路の種類及び路線名
-                </go_item>
-                <go_item number="ロ">
-                  駅を設置する場合には、その位置及び名称
-                </go_item>
-                <go_item number="ハ">
-                  鉄道線路の中心線及びその二百メートルごとの逓加距離
-                </go_item>
-                <go_item number="ニ">
-                  地形及び主要な地物
-                </go_item>
-                <go_item number="ホ">
-                  付近の道路、鉄道及び軌道（計画中のものを含む。）並びにこれらの路線名又は線名
-                </go_item>
-                <go_item number="ヘ">
-                  縮尺及び方位
-                </go_item>
-              </go>
-            </go_item>
-            <go_item number="二">
-              縦断面図　縮尺は、横を五千分の一以上、縦を五百分の一以上とし、次に掲げる事項を記載しなければならない。
-              <go>
-                <go_item number="イ">
-                  鉄道線路の中心線に係る地面及び施工基面の二百メートルごとの地点の高さ
-                </go_item>
-                <go_item number="ロ">
-                  鉄道線路の中心線のこう配
-                </go_item>
-                <go_item number="ハ">
-                  駅を設置する場合には、その位置及び名称
-                </go_item>
-                <go_item number="ニ">
-                  主要なトンネル及び橋りようの位置及び長さ
-                </go_item>
-                <go_item number="ホ">
-                  縮尺
-                </go_item>
-              </go>
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="４">
-          第二項第四号の線路予測平面図は、縮尺を二万五千分の一以上とし、<l>前項第一号</l>ニからヘまでに掲げる事項を記載しなければならない。
-        </article_item>
-      </articles>
-      <articles number="第二条" title="（申請の時期）">
-        <article_item number="第二条">
-          鉄道事業法（昭和六十一年法律第九十二号。以下「法」という。）<l>第六十一条第一項</l>ただし書の許可の申請は、道路に鉄道線路を敷設する必要があると認めたときは、速やかに行うものとする。
-        </article_item>
-      </articles>
-      <articles number="第三条" title="（提出すべき申請書等の部数）">
-        <article_item number="第三条">
-          法<l>第六十一条第一項</l>ただし書の規定による許可を受けようとする者が令<l>第一条第一項</l>の規定により提出すべき申請書並びに添付すべき書類及び図面の部数は、正本一通並びに関係都道府県知事及び関係道路管理者の数と同一の部数のその写しとする。
-        </article_item>
-      </articles>
-      <articles number="第四条" title="（道路管理者の意見の聴取）">
-        <article_item number="第四条">
-          都道府県知事は、令<l>第二条</l>の規定により道路管理者の意見を聴こうとするときは、道路管理者が意見を提出すべき期限を指定することができる。
-        </article_item>
-        <article_item number="２">
-          都道府県知事は、<l>前項</l>の規定により指定した期限までに道路管理者の意見が提出されないときは、当該鉄道線路の道路への敷設について支障がない旨の道路管理者の意見の提出を受けたものとみなすことができる。
-        </article_item>
-      </articles>
-      <articles number="第五条" title="（処分の通知）">
-        <article_item number="第五条">
-          国土交通大臣は、法<l>第六十一条第一項</l>ただし書の規定による許可の申請について処分したときは、遅滞なく、これを当該申請を経由した都道府県知事及び関係道路管理者に通知しなければならない。
-        </article_item>
-      </articles>
-    </body>
+        <go>
+          <go_item number="一">
+            平面図　縮尺は、五千分の一以上とし、次に掲げる事項を記載しなければならない。
+            <go>
+              <go_item number="イ">
+                鉄道線路が敷設される道路の区間並びに当該道路の種類及び路線名
+              </go_item>
+              <go_item number="ロ">
+                駅を設置する場合には、その位置及び名称
+              </go_item>
+              <go_item number="ハ">
+                鉄道線路の中心線及びその二百メートルごとの逓加距離
+              </go_item>
+              <go_item number="ニ">
+                地形及び主要な地物
+              </go_item>
+              <go_item number="ホ">
+                付近の道路、鉄道及び軌道（計画中のものを含む。）並びにこれらの路線名又は線名
+              </go_item>
+              <go_item number="ヘ">
+                縮尺及び方位
+              </go_item>
+            </go>
+          </go_item>
+          <go_item number="二">
+            縦断面図　縮尺は、横を五千分の一以上、縦を五百分の一以上とし、次に掲げる事項を記載しなければならない。
+            <go>
+              <go_item number="イ">
+                鉄道線路の中心線に係る地面及び施工基面の二百メートルごとの地点の高さ
+              </go_item>
+              <go_item number="ロ">
+                鉄道線路の中心線のこう配
+              </go_item>
+              <go_item number="ハ">
+                駅を設置する場合には、その位置及び名称
+              </go_item>
+              <go_item number="ニ">
+                主要なトンネル及び橋りようの位置及び長さ
+              </go_item>
+              <go_item number="ホ">
+                縮尺
+              </go_item>
+            </go>
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="４">
+        第二項第四号の線路予測平面図は、縮尺を二万五千分の一以上とし、<l>前項第一号</l>ニからヘまでに掲げる事項を記載しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（申請の時期）">
+      <article_item number="第二条">
+        鉄道事業法（昭和六十一年法律第九十二号。以下「法」という。）<l>第六十一条第一項</l>ただし書の許可の申請は、道路に鉄道線路を敷設する必要があると認めたときは、速やかに行うものとする。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（提出すべき申請書等の部数）">
+      <article_item number="第三条">
+        法<l>第六十一条第一項</l>ただし書の規定による許可を受けようとする者が令<l>第一条第一項</l>の規定により提出すべき申請書並びに添付すべき書類及び図面の部数は、正本一通並びに関係都道府県知事及び関係道路管理者の数と同一の部数のその写しとする。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（道路管理者の意見の聴取）">
+      <article_item number="第四条">
+        都道府県知事は、令<l>第二条</l>の規定により道路管理者の意見を聴こうとするときは、道路管理者が意見を提出すべき期限を指定することができる。
+      </article_item>
+      <article_item number="２">
+        都道府県知事は、<l>前項</l>の規定により指定した期限までに道路管理者の意見が提出されないときは、当該鉄道線路の道路への敷設について支障がない旨の道路管理者の意見の提出を受けたものとみなすことができる。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（処分の通知）">
+      <article_item number="第五条">
+        国土交通大臣は、法<l>第六十一条第一項</l>ただし書の規定による許可の申請について処分したときは、遅滞なく、これを当該申請を経由した都道府県知事及び関係道路管理者に通知しなければならない。
+      </article_item>
+    </articles>
+  </body>
 </law>

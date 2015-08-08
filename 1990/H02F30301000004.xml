@@ -28,27 +28,27 @@
           </go_item>
           <go_item number="三">
             <l>前二号</l>に掲げるもののほか、他の研究室の所掌に属しないこと。
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第三条" title="（応用第一研究室）">
-        <article_item number="第三条">
-          応用第一研究室においては、警察に関する情報通信に関する研究に関する事務のうち、技術の応用及び開発に関する研究に関する事務（応用第二研究室の所掌に属するものを除く。）をつかさどる。
-        </article_item>
-      </articles>
-      <articles number="第四条" title="（応用第二研究室）">
-        <article_item number="第四条">
-          応用第二研究室においては、警察に関する情報通信に関する研究に関する事務のうち、情報の管理に関する技術の応用及び開発に関する研究に関する事務をつかさどる。
-        </article_item>
-      </articles>
-      <articles number="第五条" title="（研究室長）">
-        <article_item number="第五条">
-          研究室に、研究室長を置き、教授をもって充てる。
-        </article_item>
-        <article_item number="２">
-          研究室長は、命を受け、研究室の事務を掌理する。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（応用第一研究室）">
+      <article_item number="第三条">
+        応用第一研究室においては、警察に関する情報通信に関する研究に関する事務のうち、技術の応用及び開発に関する研究に関する事務（応用第二研究室の所掌に属するものを除く。）をつかさどる。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（応用第二研究室）">
+      <article_item number="第四条">
+        応用第二研究室においては、警察に関する情報通信に関する研究に関する事務のうち、情報の管理に関する技術の応用及び開発に関する研究に関する事務をつかさどる。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（研究室長）">
+      <article_item number="第五条">
+        研究室に、研究室長を置き、教授をもって充てる。
+      </article_item>
+      <article_item number="２">
+        研究室長は、命を受け、研究室の事務を掌理する。
+      </article_item>
+    </articles>
+  </body>
 </law>

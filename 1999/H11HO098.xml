@@ -317,444 +317,444 @@
           </article_item>
           <article_item number="２">
             <l>前項</l>に定めるもののほか、別に法律で定めるところにより農林水産省に置かれる審議会等で本省に置かれるものは、次の表の上欄に掲げるものとし、それぞれ同表の下欄に掲げる法律（これらに基づく命令を含む。）の定めるところによる。
-              <table>
-                <tr>
-                  <td>
-                    審議会等
-                  </td>
-                  <td>
-                    法律
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    食料・農業・農村政策審議会
-                  </td>
-                  <td>
-                    食料・農業・農村基本法
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    獣医事審議会
-                  </td>
-                  <td>
-                    獣医師法（昭和二十四年法律第百八十六号）
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    農漁業保険審査会
-                  </td>
-                  <td>
-                    農業災害補償法（昭和二十二年法律第百八十五号）
-                  </td>
-                </tr>
-              </table>
+            <table>
+              <tr>
+                <td>
+                  審議会等
+                </td>
+                <td>
+                  法律
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  食料・農業・農村政策審議会
+                </td>
+                <td>
+                  食料・農業・農村基本法
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  獣医事審議会
+                </td>
+                <td>
+                  獣医師法（昭和二十四年法律第百八十六号）
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  農漁業保険審査会
+                </td>
+                <td>
+                  農業災害補償法（昭和二十二年法律第百八十五号）
+                </td>
+              </tr>
+            </table>
+          </article_item>
+        </articles>
+        <articles number="第七条" title="（農業資材審議会）">
+          <article_item number="第七条">
+            農業資材審議会は、農薬取締法（昭和二十三年法律第八十二号）、飼料の安全性の確保及び品質の改善に関する法律（昭和二十八年法律第三十五号）、農業機械化促進法（昭和二十八年法律第二百五十二号）、種苗法（平成十年法律第八十三号）及び愛がん動物用飼料の安全性の確保に関する法律（平成二十年法律第八十三号）の規定によりその権限に属させられた事項を処理する。
+          </article_item>
+          <article_item number="２">
+            農業資材審議会の組織、所掌事務及び委員その他の職員その他農業資材審議会に関し必要な事項については、政令で定める。
+          </article_item>
+        </articles>
+      </section>
+      <section title="第三節　施設等機関" type="Setsu">
+        <articles number="第八条" title="（設置）">
+          <article_item number="第八条">
+            本省に、次の施設等機関を置く。<br/>　　　植物防疫所<br/>動物検疫所
+          </article_item>
+          <article_item number="２">
+            <l>前項</l>に定めるもののほか、当分の間、本省に那覇植物防疫事務所を置く。
+          </article_item>
+        </articles>
+        <articles number="第九条" title="（植物防疫所）">
+          <article_item number="第九条">
+            植物防疫所は、次に掲げる事務をつかさどる。
+            <go>
+              <go_item number="一">
+                輸出入植物又は輸入病菌害虫の検査及び取締り並びに病菌害虫の調査及び研究
+              </go_item>
+              <go_item number="二">
+                植物防疫法（昭和二十五年法律第百五十一号）<l>第二十三条第一項</l>の規定による発生予察事業の実施
+              </go_item>
+              <go_item number="三">
+                植物防疫法<l>第二十二条</l>に規定する指定有害動植物の防除に必要な薬剤（薬剤として用いることができる物を含む。）及び防除用器具の保管
+              </go_item>
+            </go>
+          </article_item>
+          <article_item number="２">
+            農林水産大臣は、植物防疫所の所掌事務の全部又は一部を分掌させるため、所要の地に、植物防疫所の支所又は出張所を設けることができる。
+          </article_item>
+          <article_item number="３">
+            植物防疫所の名称、位置、管轄区域及び内部組織並びに支所又は出張所の名称、位置、所掌事務及び内部組織は、農林水産省令で定める。
+          </article_item>
+        </articles>
+        <articles number="第十条" title="（那覇植物防疫事務所）">
+          <article_item number="第十条">
+            那覇植物防疫事務所は、<l>前条第一項</l>各号に掲げる事務をつかさどる。
+          </article_item>
+          <article_item number="２">
+            農林水産大臣は、那覇植物防疫事務所の所掌事務の一部を分掌させるため、所要の地に、那覇植物防疫事務所の出張所を設けることができる。
+          </article_item>
+          <article_item number="３">
+            那覇植物防疫事務所の位置、管轄区域及び内部組織並びに出張所の名称、位置、所掌事務及び内部組織は、農林水産省令で定める。
+          </article_item>
+        </articles>
+        <articles number="第十一条" title="（動物検疫所）">
+          <article_item number="第十一条">
+            動物検疫所は、次に掲げる事務をつかさどる。
+            <go>
+              <go_item number="一">
+                家畜伝染病予防法（昭和二十六年法律第百六十六号）の規定による輸出入動物その他の物に対する輸出入検査その他の措置
+              </go_item>
+              <go_item number="二">
+                輸出入動物に対する狂犬病予防法（昭和二十五年法律第二百四十七号）の規定に基づく検査
+              </go_item>
+              <go_item number="三">
+                感染症の予防及び感染症の患者に対する医療に関する法律（平成十年法律第百十四号）の規定による輸入動物に対する検査及びこれに基づく措置
+              </go_item>
+              <go_item number="四">
+                輸出入動物の健康検査
+              </go_item>
+              <go_item number="五">
+                動物用生物学的製剤及び予防用器具の保管、配布、譲与及び貸付け
+              </go_item>
+              <go_item number="六">
+                委託を受けて動物その他の物に対する検査又は消毒を行うこと。
+              </go_item>
+            </go>
+          </article_item>
+          <article_item number="２">
+            農林水産大臣は、動物検疫所の所掌事務の全部又は一部を分掌させるため、所要の地に、動物検疫所の支所又は出張所を設けることができる。
+          </article_item>
+          <article_item number="３">
+            動物検疫所の位置及び内部組織並びに支所又は出張所の名称、位置、所掌事務及び内部組織は、農林水産省令で定める。
+          </article_item>
+        </articles>
+      </section>
+      <section title="第四節　特別の機関" type="Setsu">
+        <articles number="第十二条" title="（農林水産技術会議）">
+          <article_item number="第十二条">
+            本省に、農林水産技術会議（<l>次条</l>から<l>第十六条</l>までにおいて「会議」という。）を置く。
+          </article_item>
+        </articles>
+        <articles number="第十三条" title="（農林水産技術会議）">
+          <article_item number="第十三条">
+            会議は、次に掲げる事務をつかさどる。
+            <go>
+              <go_item number="一">
+                農林水産業及び食品産業その他の所掌に係る事業並びに農林漁業従事者の生活に関する試験及び研究の基本的な計画の企画及び立案に関すること。
+              </go_item>
+              <go_item number="二">
+                農林水産省の試験研究機関及び農林水産省の所管する独立行政法人の行う試験及び研究に関する事務の調整に関すること。
+              </go_item>
+              <go_item number="三">
+                農林水産省の所管する独立行政法人の行う試験及び研究と農林水産省の所掌事務のうち本省及び外局の内部部局に係るものとの連絡調整に関すること。
+              </go_item>
+              <go_item number="四">
+                農林水産省の試験研究機関及び農林水産省の所管する独立行政法人の行う試験及び研究の状況及び成果の調査に関すること。
+              </go_item>
+              <go_item number="五">
+                次に掲げる国立研究開発法人に関すること。
+                <go>
+                  <go_item number="イ">
+                    国立研究開発法人農業・食品産業技術総合研究機構
+                  </go_item>
+                  <go_item number="ロ">
+                    国立研究開発法人農業生物資源研究所
+                  </go_item>
+                  <go_item number="ハ">
+                    国立研究開発法人農業環境技術研究所
+                  </go_item>
+                  <go_item number="ニ">
+                    国立研究開発法人国際農林水産業研究センター
+                  </go_item>
+                </go>
+              </go_item>
+              <go_item number="六">
+                都道府県その他の者の行う農林水産業及び食品産業その他の所掌に係る事業並びに農林漁業従事者の生活に関する試験及び研究の助成に関すること。
+              </go_item>
+              <go_item number="七">
+                農林水産業及び食品産業その他の所掌に係る事業並びに農林漁業従事者の生活に関する試験及び研究を行う者の資質の向上に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第十四条" title="（農林水産技術会議）">
+          <article_item number="第十四条">
+            会議は、会長及び委員六人をもって組織する。
+          </article_item>
+          <article_item number="２">
+            会長及び委員は、農林水産業及び食品産業その他の所掌に係る事業並びに農林漁業従事者の生活に関する試験及び研究に関し学識経験のある者又は農林水産省の職員のうちから、農林水産大臣が任命する。
+          </article_item>
+          <article_item number="３">
+            会長及び委員の任期は、四年とする。
+          </article_item>
+          <article_item number="４">
+            会長及び委員は、再任されることができる。
+          </article_item>
+        </articles>
+        <articles number="第十五条" title="（農林水産技術会議）">
+          <article_item number="第十五条">
+            会議の事務を処理させるため、会議に事務局を置く。
+          </article_item>
+          <article_item number="２">
+            事務局に事務局長を置く。
+          </article_item>
+        </articles>
+        <articles number="第十六条" title="（農林水産技術会議）">
+          <article_item number="第十六条">
+            <l>第十二条</l>から<l>前条</l>までに規定するもののほか、会議の組織及び運営に関し必要な事項は、政令で定める。
+          </article_item>
+        </articles>
+      </section>
+      <section title="第五節　地方支分部局" type="Setsu">
+        <articles number="第十七条" title="（設置）">
+          <article_item number="第十七条">
+            本省に、次の地方支分部局を置く。<br/>地方農政局<br/>北海道農政事務所
+          </article_item>
+        </articles>
+        <articles number="第十八条" title="（地方農政局）">
+          <article_item number="第十八条">
+            地方農政局は、農林水産省の所掌事務のうち、次に掲げる事務を分掌する。
+            <go>
+              <go_item number="一">
+                <l>第四条第三号</l>から<l>第十号</l>まで、<l>第十三号</l>から<l>第十五号</l>まで、<l>第十七号</l>から<l>第十九号</l>まで、<l>第二十号</l>（病虫害の防除及び家畜の衛生に係るものに限る。）、<l>第二十一号</l>（獣医療に係るものに限る。）、<l>第二十二号</l>、<l>第二十三号</l>、<l>第二十五号</l>から<l>第二十八号</l>まで、<l>第三十号</l>、<l>第三十一号</l>、<l>第三十四号</l>（助成に係るものに限る。）、<l>第三十五号</l>（農業信用基金協会の業務の監督に係るものに限る。）、<l>第三十七号</l>、<l>第四十号</l>から<l>第五十一号</l>まで、<l>第五十二号</l>（納付金の徴収に係るものに限る。）、<l>第五十四号</l>、<l>第五十五号</l>及び<l>第八十七号</l>に掲げる事務
+              </go_item>
+              <go_item number="二">
+                農林水産業及びこれに従事する者に関する統計その他農林水産省の所掌事務に係る統計の作成及び提供並びにその作成に必要な調査に関すること。
+              </go_item>
+              <go_item number="三">
+                農林水産省の所掌事務に係る情報の収集、整理、分析及び提供に関すること。
+              </go_item>
+            </go>
+          </article_item>
+          <article_item number="２">
+            地方農政局の名称、位置、管轄区域及び内部組織は、政令で定める。
+          </article_item>
+        </articles>
+        <articles number="第十九条" title="（地方農政局の地域センター）">
+          <article_item number="第十九条">
+            地方農政局の所掌事務（<l>第四条第四十六号</l>から<l>第四十八号</l>までに掲げる事務を除く。）の一部を分掌させるため、所要の地に、地方農政局の地域センターを置く。 
+          </article_item>
+          <article_item number="２">
+            地方農政局の地域センターの名称、位置、管轄区域、所掌事務及び内部組織は、農林水産省令で定める。
+          </article_item>
+        </articles>
+        <articles number="第二十条" title="（事務所若しくは事業所又はこれらの支所）">
+          <article_item number="第二十条">
+            農林水産大臣は、地方農政局の所掌事務のうち、<l>第四条第四十六号</l>から<l>第四十八号</l>までに掲げる事務の一部を分掌させるため、所要の地に、地方農政局の事務所若しくは事業所又はこれらの支所を置くことができる。
+          </article_item>
+          <article_item number="２">
+            地方農政局の事務所若しくは事業所又はこれらの支所の名称、位置、管轄区域、所掌事務及び内部組織は、農林水産省令で定める。
+          </article_item>
+        </articles>
+        <articles number="第二十一条" title="（北海道農政事務所）">
+          <article_item number="第二十一条">
+            北海道農政事務所は、農林水産省の所掌事務のうち、次に掲げる事務を分掌する。
+            <go>
+              <go_item number="一">
+                <l>第四条第四号</l>から<l>第六号</l>まで、<l>第九号</l>、<l>第十号</l>、<l>第十三号</l>、<l>第十四号</l>、<l>第二十五号</l>、<l>第五十一号</l>、<l>第五十二号</l>（納付金の徴収に係るものに限る。）、<l>第五十四号</l>、<l>第五十五号</l>及び<l>第八十七号</l>に掲げる事務
+              </go_item>
+              <go_item number="二">
+                農林水産業及びこれに従事する者に関する統計その他農林水産省の所掌事務に係る統計の作成及び提供並びにその作成に必要な調査に関すること。
+              </go_item>
+              <go_item number="三">
+                農林水産省の所掌事務に係る情報の収集、整理、分析及び提供に関すること。
+              </go_item>
+            </go>
+          </article_item>
+          <article_item number="２">
+            北海道農政事務所の位置及び管轄区域は、政令で定める。
+          </article_item>
+          <article_item number="３">
+            北海道農政事務所の内部組織は、農林水産省令で定める。
+          </article_item>
+        </articles>
+        <articles number="第二十二条" title="（北海道農政事務所の地域センター）">
+          <article_item number="第二十二条">
+            北海道農政事務所の所掌事務の一部を分掌させるため、所要の地に、北海道農政事務所の地域センターを置く。 
+          </article_item>
+          <article_item number="２">
+            北海道農政事務所の地域センターの名称、位置、管轄区域、所掌事務及び内部組織は、農林水産省令で定める。
+          </article_item>
+        </articles>
+      </section>
+    </section>
+    <section title="第四章　外局" type="Sho">
+      <section title="第一節　設置" type="Setsu">
+        <articles number="第二十三条">
+          <article_item number="第二十三条">
+            国家行政組織法<l>第三条第二項</l>の規定に基づいて、農林水産省に、次の外局を置く。<br/>　　　<br/>林野庁<br/>水産庁
+          </article_item>
+        </articles>
+      </section>
+      <section title="第二節　削除" type="Setsu">
+        <articles number="第二十四条">
+          <article_item number="第二十四条">
+            削除
+          </article_item>
+        </articles>
+        <articles number="第二十五条">
+          <article_item number="第二十五条">
+            削除
+          </article_item>
+        </articles>
+        <articles number="第二十六条">
+          <article_item number="第二十六条">
+            削除
+          </article_item>
+        </articles>
+        <articles number="第二十七条">
+          <article_item number="第二十七条">
+            削除
+          </article_item>
+        </articles>
+        <articles number="第二十八条">
+          <article_item number="第二十八条">
+            削除
+          </article_item>
+        </articles>
+      </section>
+      <section title="第三節　林野庁" type="Setsu">
+        <section title="第一款　任務及び所掌事務" type="Kan">
+          <articles number="第二十九条" title="（長官）">
+            <article_item number="第二十九条">
+              林野庁の長は、林野庁長官とする。
             </article_item>
           </articles>
-          <articles number="第七条" title="（農業資材審議会）">
-            <article_item number="第七条">
-              農業資材審議会は、農薬取締法（昭和二十三年法律第八十二号）、飼料の安全性の確保及び品質の改善に関する法律（昭和二十八年法律第三十五号）、農業機械化促進法（昭和二十八年法律第二百五十二号）、種苗法（平成十年法律第八十三号）及び愛がん動物用飼料の安全性の確保に関する法律（平成二十年法律第八十三号）の規定によりその権限に属させられた事項を処理する。
+          <articles number="第三十条" title="（任務）">
+            <article_item number="第三十条">
+              林野庁は、森林の保続培養、林産物の安定供給の確保、林業の発展、林業者の福祉の増進及び国有林野事業の適切な運営を図ることを任務とする。
             </article_item>
-            <article_item number="２">
-              農業資材審議会の組織、所掌事務及び委員その他の職員その他農業資材審議会に関し必要な事項については、政令で定める。
+          </articles>
+          <articles number="第三十一条" title="（所掌事務）">
+            <article_item number="第三十一条">
+              林野庁は、<l>前条</l>の任務を達成するため、<l>第四条第二号</l>、<l>第三号</l>（業務及び会計の検査に係るものを除く。）、<l>第四号</l>、<l>第五号</l>、<l>第九号</l>から<l>第十二号</l>まで、<l>第三十三号</l>、<l>第三十四号</l>、<l>第四十号</l>、<l>第四十九号</l>、<l>第五十六号</l>から<l>第六十七号</l>まで及び<l>第八十四号</l>から<l>第八十七号</l>までに掲げる事務をつかさどる。
             </article_item>
           </articles>
         </section>
-        <section title="第三節　施設等機関" type="Setsu">
-          <articles number="第八条" title="（設置）">
-            <article_item number="第八条">
-              本省に、次の施設等機関を置く。<br/>　　　植物防疫所<br/>動物検疫所
+        <section title="第二款　審議会等" type="Kan">
+          <articles number="第三十二条" title="（林政審議会）">
+            <article_item number="第三十二条">
+              別に法律で定めるところにより農林水産省に置かれる審議会等で林野庁に置かれるものは、林政審議会とする。
             </article_item>
             <article_item number="２">
-              <l>前項</l>に定めるもののほか、当分の間、本省に那覇植物防疫事務所を置く。
-              </article_item>
-            </articles>
-            <articles number="第九条" title="（植物防疫所）">
-              <article_item number="第九条">
-                植物防疫所は、次に掲げる事務をつかさどる。
-                <go>
-                  <go_item number="一">
-                    輸出入植物又は輸入病菌害虫の検査及び取締り並びに病菌害虫の調査及び研究
-                  </go_item>
-                  <go_item number="二">
-                    植物防疫法（昭和二十五年法律第百五十一号）<l>第二十三条第一項</l>の規定による発生予察事業の実施
-                  </go_item>
-                  <go_item number="三">
-                    植物防疫法<l>第二十二条</l>に規定する指定有害動植物の防除に必要な薬剤（薬剤として用いることができる物を含む。）及び防除用器具の保管
-                  </go_item>
-                </go>
-              </article_item>
-              <article_item number="２">
-                農林水産大臣は、植物防疫所の所掌事務の全部又は一部を分掌させるため、所要の地に、植物防疫所の支所又は出張所を設けることができる。
-              </article_item>
-              <article_item number="３">
-                植物防疫所の名称、位置、管轄区域及び内部組織並びに支所又は出張所の名称、位置、所掌事務及び内部組織は、農林水産省令で定める。
-              </article_item>
-            </articles>
-            <articles number="第十条" title="（那覇植物防疫事務所）">
-              <article_item number="第十条">
-                那覇植物防疫事務所は、<l>前条第一項</l>各号に掲げる事務をつかさどる。
-              </article_item>
-              <article_item number="２">
-                農林水産大臣は、那覇植物防疫事務所の所掌事務の一部を分掌させるため、所要の地に、那覇植物防疫事務所の出張所を設けることができる。
-              </article_item>
-              <article_item number="３">
-                那覇植物防疫事務所の位置、管轄区域及び内部組織並びに出張所の名称、位置、所掌事務及び内部組織は、農林水産省令で定める。
-              </article_item>
-            </articles>
-            <articles number="第十一条" title="（動物検疫所）">
-              <article_item number="第十一条">
-                動物検疫所は、次に掲げる事務をつかさどる。
-                <go>
-                  <go_item number="一">
-                    家畜伝染病予防法（昭和二十六年法律第百六十六号）の規定による輸出入動物その他の物に対する輸出入検査その他の措置
-                  </go_item>
-                  <go_item number="二">
-                    輸出入動物に対する狂犬病予防法（昭和二十五年法律第二百四十七号）の規定に基づく検査
-                  </go_item>
-                  <go_item number="三">
-                    感染症の予防及び感染症の患者に対する医療に関する法律（平成十年法律第百十四号）の規定による輸入動物に対する検査及びこれに基づく措置
-                  </go_item>
-                  <go_item number="四">
-                    輸出入動物の健康検査
-                  </go_item>
-                  <go_item number="五">
-                    動物用生物学的製剤及び予防用器具の保管、配布、譲与及び貸付け
-                  </go_item>
-                  <go_item number="六">
-                    委託を受けて動物その他の物に対する検査又は消毒を行うこと。
-                  </go_item>
-                </go>
-              </article_item>
-              <article_item number="２">
-                農林水産大臣は、動物検疫所の所掌事務の全部又は一部を分掌させるため、所要の地に、動物検疫所の支所又は出張所を設けることができる。
-              </article_item>
-              <article_item number="３">
-                動物検疫所の位置及び内部組織並びに支所又は出張所の名称、位置、所掌事務及び内部組織は、農林水産省令で定める。
-              </article_item>
-            </articles>
-          </section>
-          <section title="第四節　特別の機関" type="Setsu">
-            <articles number="第十二条" title="（農林水産技術会議）">
-              <article_item number="第十二条">
-                本省に、農林水産技術会議（<l>次条</l>から<l>第十六条</l>までにおいて「会議」という。）を置く。
-              </article_item>
-            </articles>
-            <articles number="第十三条" title="（農林水産技術会議）">
-              <article_item number="第十三条">
-                会議は、次に掲げる事務をつかさどる。
-                <go>
-                  <go_item number="一">
-                    農林水産業及び食品産業その他の所掌に係る事業並びに農林漁業従事者の生活に関する試験及び研究の基本的な計画の企画及び立案に関すること。
-                  </go_item>
-                  <go_item number="二">
-                    農林水産省の試験研究機関及び農林水産省の所管する独立行政法人の行う試験及び研究に関する事務の調整に関すること。
-                  </go_item>
-                  <go_item number="三">
-                    農林水産省の所管する独立行政法人の行う試験及び研究と農林水産省の所掌事務のうち本省及び外局の内部部局に係るものとの連絡調整に関すること。
-                  </go_item>
-                  <go_item number="四">
-                    農林水産省の試験研究機関及び農林水産省の所管する独立行政法人の行う試験及び研究の状況及び成果の調査に関すること。
-                  </go_item>
-                  <go_item number="五">
-                    次に掲げる国立研究開発法人に関すること。
-                    <go>
-                      <go_item number="イ">
-                        国立研究開発法人農業・食品産業技術総合研究機構
-                      </go_item>
-                      <go_item number="ロ">
-                        国立研究開発法人農業生物資源研究所
-                      </go_item>
-                      <go_item number="ハ">
-                        国立研究開発法人農業環境技術研究所
-                      </go_item>
-                      <go_item number="ニ">
-                        国立研究開発法人国際農林水産業研究センター
-                      </go_item>
-                    </go>
-                  </go_item>
-                  <go_item number="六">
-                    都道府県その他の者の行う農林水産業及び食品産業その他の所掌に係る事業並びに農林漁業従事者の生活に関する試験及び研究の助成に関すること。
-                  </go_item>
-                  <go_item number="七">
-                    農林水産業及び食品産業その他の所掌に係る事業並びに農林漁業従事者の生活に関する試験及び研究を行う者の資質の向上に関すること。
-                  </go_item>
-                </go>
-              </article_item>
-            </articles>
-            <articles number="第十四条" title="（農林水産技術会議）">
-              <article_item number="第十四条">
-                会議は、会長及び委員六人をもって組織する。
-              </article_item>
-              <article_item number="２">
-                会長及び委員は、農林水産業及び食品産業その他の所掌に係る事業並びに農林漁業従事者の生活に関する試験及び研究に関し学識経験のある者又は農林水産省の職員のうちから、農林水産大臣が任命する。
-              </article_item>
-              <article_item number="３">
-                会長及び委員の任期は、四年とする。
-              </article_item>
-              <article_item number="４">
-                会長及び委員は、再任されることができる。
-              </article_item>
-            </articles>
-            <articles number="第十五条" title="（農林水産技術会議）">
-              <article_item number="第十五条">
-                会議の事務を処理させるため、会議に事務局を置く。
-              </article_item>
-              <article_item number="２">
-                事務局に事務局長を置く。
-              </article_item>
-            </articles>
-            <articles number="第十六条" title="（農林水産技術会議）">
-              <article_item number="第十六条">
-                <l>第十二条</l>から<l>前条</l>までに規定するもののほか、会議の組織及び運営に関し必要な事項は、政令で定める。
-                </article_item>
-              </articles>
-            </section>
-            <section title="第五節　地方支分部局" type="Setsu">
-              <articles number="第十七条" title="（設置）">
-                <article_item number="第十七条">
-                  本省に、次の地方支分部局を置く。<br/>地方農政局<br/>北海道農政事務所
-                </article_item>
-              </articles>
-              <articles number="第十八条" title="（地方農政局）">
-                <article_item number="第十八条">
-                  地方農政局は、農林水産省の所掌事務のうち、次に掲げる事務を分掌する。
-                  <go>
-                    <go_item number="一">
-                      <l>第四条第三号</l>から<l>第十号</l>まで、<l>第十三号</l>から<l>第十五号</l>まで、<l>第十七号</l>から<l>第十九号</l>まで、<l>第二十号</l>（病虫害の防除及び家畜の衛生に係るものに限る。）、<l>第二十一号</l>（獣医療に係るものに限る。）、<l>第二十二号</l>、<l>第二十三号</l>、<l>第二十五号</l>から<l>第二十八号</l>まで、<l>第三十号</l>、<l>第三十一号</l>、<l>第三十四号</l>（助成に係るものに限る。）、<l>第三十五号</l>（農業信用基金協会の業務の監督に係るものに限る。）、<l>第三十七号</l>、<l>第四十号</l>から<l>第五十一号</l>まで、<l>第五十二号</l>（納付金の徴収に係るものに限る。）、<l>第五十四号</l>、<l>第五十五号</l>及び<l>第八十七号</l>に掲げる事務
-                      </go_item>
-                      <go_item number="二">
-                        農林水産業及びこれに従事する者に関する統計その他農林水産省の所掌事務に係る統計の作成及び提供並びにその作成に必要な調査に関すること。
-                      </go_item>
-                      <go_item number="三">
-                        農林水産省の所掌事務に係る情報の収集、整理、分析及び提供に関すること。
-                      </go_item>
-                    </go>
-                  </article_item>
-                  <article_item number="２">
-                    地方農政局の名称、位置、管轄区域及び内部組織は、政令で定める。
-                  </article_item>
-                </articles>
-                <articles number="第十九条" title="（地方農政局の地域センター）">
-                  <article_item number="第十九条">
-                    地方農政局の所掌事務（<l>第四条第四十六号</l>から<l>第四十八号</l>までに掲げる事務を除く。）の一部を分掌させるため、所要の地に、地方農政局の地域センターを置く。 
-                  </article_item>
-                  <article_item number="２">
-                    地方農政局の地域センターの名称、位置、管轄区域、所掌事務及び内部組織は、農林水産省令で定める。
-                  </article_item>
-                </articles>
-                <articles number="第二十条" title="（事務所若しくは事業所又はこれらの支所）">
-                  <article_item number="第二十条">
-                    農林水産大臣は、地方農政局の所掌事務のうち、<l>第四条第四十六号</l>から<l>第四十八号</l>までに掲げる事務の一部を分掌させるため、所要の地に、地方農政局の事務所若しくは事業所又はこれらの支所を置くことができる。
-                  </article_item>
-                  <article_item number="２">
-                    地方農政局の事務所若しくは事業所又はこれらの支所の名称、位置、管轄区域、所掌事務及び内部組織は、農林水産省令で定める。
-                  </article_item>
-                </articles>
-                <articles number="第二十一条" title="（北海道農政事務所）">
-                  <article_item number="第二十一条">
-                    北海道農政事務所は、農林水産省の所掌事務のうち、次に掲げる事務を分掌する。
-                    <go>
-                      <go_item number="一">
-                        <l>第四条第四号</l>から<l>第六号</l>まで、<l>第九号</l>、<l>第十号</l>、<l>第十三号</l>、<l>第十四号</l>、<l>第二十五号</l>、<l>第五十一号</l>、<l>第五十二号</l>（納付金の徴収に係るものに限る。）、<l>第五十四号</l>、<l>第五十五号</l>及び<l>第八十七号</l>に掲げる事務
-                        </go_item>
-                        <go_item number="二">
-                          農林水産業及びこれに従事する者に関する統計その他農林水産省の所掌事務に係る統計の作成及び提供並びにその作成に必要な調査に関すること。
-                        </go_item>
-                        <go_item number="三">
-                          農林水産省の所掌事務に係る情報の収集、整理、分析及び提供に関すること。
-                        </go_item>
-                      </go>
-                    </article_item>
-                    <article_item number="２">
-                      北海道農政事務所の位置及び管轄区域は、政令で定める。
-                    </article_item>
-                    <article_item number="３">
-                      北海道農政事務所の内部組織は、農林水産省令で定める。
-                    </article_item>
-                  </articles>
-                  <articles number="第二十二条" title="（北海道農政事務所の地域センター）">
-                    <article_item number="第二十二条">
-                      北海道農政事務所の所掌事務の一部を分掌させるため、所要の地に、北海道農政事務所の地域センターを置く。 
-                    </article_item>
-                    <article_item number="２">
-                      北海道農政事務所の地域センターの名称、位置、管轄区域、所掌事務及び内部組織は、農林水産省令で定める。
-                    </article_item>
-                  </articles>
-                </section>
-              </section>
-              <section title="第四章　外局" type="Sho">
-                <section title="第一節　設置" type="Setsu">
-                  <articles number="第二十三条">
-                    <article_item number="第二十三条">
-                      国家行政組織法<l>第三条第二項</l>の規定に基づいて、農林水産省に、次の外局を置く。<br/>　　　<br/>林野庁<br/>水産庁
-                    </article_item>
-                  </articles>
-                </section>
-                <section title="第二節　削除" type="Setsu">
-                  <articles number="第二十四条">
-                    <article_item number="第二十四条">
-                      削除
-                    </article_item>
-                  </articles>
-                  <articles number="第二十五条">
-                    <article_item number="第二十五条">
-                      削除
-                    </article_item>
-                  </articles>
-                  <articles number="第二十六条">
-                    <article_item number="第二十六条">
-                      削除
-                    </article_item>
-                  </articles>
-                  <articles number="第二十七条">
-                    <article_item number="第二十七条">
-                      削除
-                    </article_item>
-                  </articles>
-                  <articles number="第二十八条">
-                    <article_item number="第二十八条">
-                      削除
-                    </article_item>
-                  </articles>
-                </section>
-                <section title="第三節　林野庁" type="Setsu">
-                  <section title="第一款　任務及び所掌事務" type="Kan">
-                    <articles number="第二十九条" title="（長官）">
-                      <article_item number="第二十九条">
-                        林野庁の長は、林野庁長官とする。
-                      </article_item>
-                    </articles>
-                    <articles number="第三十条" title="（任務）">
-                      <article_item number="第三十条">
-                        林野庁は、森林の保続培養、林産物の安定供給の確保、林業の発展、林業者の福祉の増進及び国有林野事業の適切な運営を図ることを任務とする。
-                      </article_item>
-                    </articles>
-                    <articles number="第三十一条" title="（所掌事務）">
-                      <article_item number="第三十一条">
-                        林野庁は、<l>前条</l>の任務を達成するため、<l>第四条第二号</l>、<l>第三号</l>（業務及び会計の検査に係るものを除く。）、<l>第四号</l>、<l>第五号</l>、<l>第九号</l>から<l>第十二号</l>まで、<l>第三十三号</l>、<l>第三十四号</l>、<l>第四十号</l>、<l>第四十九号</l>、<l>第五十六号</l>から<l>第六十七号</l>まで及び<l>第八十四号</l>から<l>第八十七号</l>までに掲げる事務をつかさどる。
-                      </article_item>
-                    </articles>
-                  </section>
-                  <section title="第二款　審議会等" type="Kan">
-                    <articles number="第三十二条" title="（林政審議会）">
-                      <article_item number="第三十二条">
-                        別に法律で定めるところにより農林水産省に置かれる審議会等で林野庁に置かれるものは、林政審議会とする。
-                      </article_item>
-                      <article_item number="２">
-                        林政審議会については、森林・林業基本法（昭和三十九年法律第百六十一号。これに基づく命令を含む。）の定めるところによる。
-                      </article_item>
-                    </articles>
-                  </section>
-                  <section title="第三款　地方支分部局" type="Kan">
-                    <articles number="第三十三条" title="（森林管理局）">
-                      <article_item number="第三十三条">
-                        林野庁に、地方支分部局として、森林管理局を置く。
-                      </article_item>
-                      <article_item number="２">
-                        森林管理局は、林野庁の所掌事務のうち、次に掲げる事務を分掌する。
-                        <go>
-                          <go_item number="一">
-                            管理経営計画の樹立その他の国有林野の管理経営を行うこと（国有林野と一体として民有林野の整備及び保全を行うことを含む。）。
-                          </go_item>
-                          <go_item number="二">
-                            民有林野の造林及び森林の経営の指導並びに森林治水事業の実施に関すること。
-                          </go_item>
-                          <go_item number="三">
-                            林野の保全に係る地すべり防止に関する事業の実施に関すること。
-                          </go_item>
-                        </go>
-                      </article_item>
-                      <article_item number="３">
-                        森林管理局の名称、位置、管轄区域及び組織は、政令で定める。
-                      </article_item>
-                      <article_item number="４">
-                        森林管理局の職員の服制は、農林水産省令で定める。
-                      </article_item>
-                    </articles>
-                    <articles number="第三十四条" title="（森林管理局の所掌事務の特例）">
-                      <article_item number="第三十四条">
-                        森林管理局の所掌事務のうち沖縄県の区域に係るものについての<l>前条第二項</l>の規定の適用については、<l>同項第二号</l>中「森林の経営の指導並びに森林治水事業の実施に関すること」とあるのは、「森林の経営についての技術相談並びに森林治水事業を実施すること」とする。
-                      </article_item>
-                    </articles>
-                    <articles number="第三十五条" title="（森林管理署及び支署）">
-                      <article_item number="第三十五条">
-                        森林管理局の所掌事務の一部を分掌させるため、所要の地に、森林管理署を置く。
-                      </article_item>
-                      <article_item number="２">
-                        森林管理署の名称、位置、管轄区域、所掌事務及び内部組織並びに職員の服制は、農林水産省令で定める。
-                      </article_item>
-                      <article_item number="３">
-                        農林水産大臣は、森林管理署の所掌事務を分掌させるため、所要の地に、森林管理署の支署を置くことができる。
-                      </article_item>
-                      <article_item number="４">
-                        森林管理署の支署の名称、位置、管轄区域及び内部組織は、農林水産省令で定める。
-                      </article_item>
-                    </articles>
-                  </section>
-                </section>
-                <section title="第四節　水産庁" type="Setsu">
-                  <section title="第一款　任務及び所掌事務" type="Kan">
-                    <articles number="第三十六条" title="（長官）">
-                      <article_item number="第三十六条">
-                        水産庁の長は、水産庁長官とする。
-                      </article_item>
-                    </articles>
-                    <articles number="第三十七条" title="（任務）">
-                      <article_item number="第三十七条">
-                        水産庁は、水産資源の適切な保存及び管理、水産物の安定供給の確保、水産業の発展並びに漁業者の福祉の増進を図ることを任務とする。
-                      </article_item>
-                    </articles>
-                    <articles number="第三十八条" title="（所掌事務）">
-                      <article_item number="第三十八条">
-                        水産庁は、<l>前条</l>の任務を達成するため、<l>第四条第二号</l>、<l>第三号</l>（業務及び会計の検査に係るものを除く。）、<l>第四号</l>、<l>第五号</l>、<l>第九号</l>から<l>第十二号</l>まで、<l>第三十三号</l>、<l>第三十四号</l>、<l>第三十五号</l>（漁業信用基金協会の業務の監督（業務及び会計の検査を除く。）に係るものに限る。）、<l>第四十号</l>、<l>第四十九号</l>、<l>第六十八号</l>から<l>第八十四号</l>まで、<l>第八十六号</l>及び<l>第八十七号</l>に掲げる事務をつかさどる。
-                      </article_item>
-                    </articles>
-                  </section>
-                  <section title="第二款　審議会等" type="Kan">
-                    <articles number="第三十九条" title="（水産政策審議会）">
-                      <article_item number="第三十九条">
-                        別に法律で定めるところにより農林水産省に置かれる審議会等で水産庁に置かれるものは、水産政策審議会とする。
-                      </article_item>
-                      <article_item number="２">
-                        水産政策審議会については、水産基本法（平成十三年法律第八十九号。これに基づく命令を含む。）の定めるところによる。
-                      </article_item>
-                    </articles>
-                  </section>
-                  <section title="第三款　特別の機関" type="Kan">
-                    <articles number="第四十条" title="（広域漁業調整委員会）">
-                      <article_item number="第四十条">
-                        漁業法（昭和二十四年法律第二百六十七号）の規定により置かれる太平洋広域漁業調整委員会、日本海・九州西広域漁業調整委員会及び瀬戸内海広域漁業調整委員会は、水産庁に置かれるものとする。
-                      </article_item>
-                    </articles>
-                  </section>
-                  <section title="第四款　地方支分部局" type="Kan">
-                    <articles number="第四十一条" title="（漁業調整事務所）">
-                      <article_item number="第四十一条">
-                        水産庁に、地方支分部局として、漁業調整事務所を置く。
-                      </article_item>
-                      <article_item number="２">
-                        漁業調整事務所は、水産庁の所掌事務のうち、次に掲げる事務の全部又は一部を分掌する。
-                        <go>
-                          <go_item number="一">
-                            漁業に関する指導、漁業の取締りその他漁業調整に関すること。
-                          </go_item>
-                          <go_item number="二">
-                            水産資源の保護及び培養に関すること。
-                          </go_item>
-                        </go>
-                      </article_item>
-                      <article_item number="３">
-                        漁業調整事務所の名称及び位置は、政令で定める。
-                      </article_item>
-                      <article_item number="４">
-                        漁業調整事務所の管轄区域、所掌事務及び内部組織は、農林水産省令で定める。
-                      </article_item>
-                    </articles>
-                  </section>
-                </section>
-              </section>
-            </body>
+              林政審議会については、森林・林業基本法（昭和三十九年法律第百六十一号。これに基づく命令を含む。）の定めるところによる。
+            </article_item>
+          </articles>
+        </section>
+        <section title="第三款　地方支分部局" type="Kan">
+          <articles number="第三十三条" title="（森林管理局）">
+            <article_item number="第三十三条">
+              林野庁に、地方支分部局として、森林管理局を置く。
+            </article_item>
+            <article_item number="２">
+              森林管理局は、林野庁の所掌事務のうち、次に掲げる事務を分掌する。
+              <go>
+                <go_item number="一">
+                  管理経営計画の樹立その他の国有林野の管理経営を行うこと（国有林野と一体として民有林野の整備及び保全を行うことを含む。）。
+                </go_item>
+                <go_item number="二">
+                  民有林野の造林及び森林の経営の指導並びに森林治水事業の実施に関すること。
+                </go_item>
+                <go_item number="三">
+                  林野の保全に係る地すべり防止に関する事業の実施に関すること。
+                </go_item>
+              </go>
+            </article_item>
+            <article_item number="３">
+              森林管理局の名称、位置、管轄区域及び組織は、政令で定める。
+            </article_item>
+            <article_item number="４">
+              森林管理局の職員の服制は、農林水産省令で定める。
+            </article_item>
+          </articles>
+          <articles number="第三十四条" title="（森林管理局の所掌事務の特例）">
+            <article_item number="第三十四条">
+              森林管理局の所掌事務のうち沖縄県の区域に係るものについての<l>前条第二項</l>の規定の適用については、<l>同項第二号</l>中「森林の経営の指導並びに森林治水事業の実施に関すること」とあるのは、「森林の経営についての技術相談並びに森林治水事業を実施すること」とする。
+            </article_item>
+          </articles>
+          <articles number="第三十五条" title="（森林管理署及び支署）">
+            <article_item number="第三十五条">
+              森林管理局の所掌事務の一部を分掌させるため、所要の地に、森林管理署を置く。
+            </article_item>
+            <article_item number="２">
+              森林管理署の名称、位置、管轄区域、所掌事務及び内部組織並びに職員の服制は、農林水産省令で定める。
+            </article_item>
+            <article_item number="３">
+              農林水産大臣は、森林管理署の所掌事務を分掌させるため、所要の地に、森林管理署の支署を置くことができる。
+            </article_item>
+            <article_item number="４">
+              森林管理署の支署の名称、位置、管轄区域及び内部組織は、農林水産省令で定める。
+            </article_item>
+          </articles>
+        </section>
+      </section>
+      <section title="第四節　水産庁" type="Setsu">
+        <section title="第一款　任務及び所掌事務" type="Kan">
+          <articles number="第三十六条" title="（長官）">
+            <article_item number="第三十六条">
+              水産庁の長は、水産庁長官とする。
+            </article_item>
+          </articles>
+          <articles number="第三十七条" title="（任務）">
+            <article_item number="第三十七条">
+              水産庁は、水産資源の適切な保存及び管理、水産物の安定供給の確保、水産業の発展並びに漁業者の福祉の増進を図ることを任務とする。
+            </article_item>
+          </articles>
+          <articles number="第三十八条" title="（所掌事務）">
+            <article_item number="第三十八条">
+              水産庁は、<l>前条</l>の任務を達成するため、<l>第四条第二号</l>、<l>第三号</l>（業務及び会計の検査に係るものを除く。）、<l>第四号</l>、<l>第五号</l>、<l>第九号</l>から<l>第十二号</l>まで、<l>第三十三号</l>、<l>第三十四号</l>、<l>第三十五号</l>（漁業信用基金協会の業務の監督（業務及び会計の検査を除く。）に係るものに限る。）、<l>第四十号</l>、<l>第四十九号</l>、<l>第六十八号</l>から<l>第八十四号</l>まで、<l>第八十六号</l>及び<l>第八十七号</l>に掲げる事務をつかさどる。
+            </article_item>
+          </articles>
+        </section>
+        <section title="第二款　審議会等" type="Kan">
+          <articles number="第三十九条" title="（水産政策審議会）">
+            <article_item number="第三十九条">
+              別に法律で定めるところにより農林水産省に置かれる審議会等で水産庁に置かれるものは、水産政策審議会とする。
+            </article_item>
+            <article_item number="２">
+              水産政策審議会については、水産基本法（平成十三年法律第八十九号。これに基づく命令を含む。）の定めるところによる。
+            </article_item>
+          </articles>
+        </section>
+        <section title="第三款　特別の機関" type="Kan">
+          <articles number="第四十条" title="（広域漁業調整委員会）">
+            <article_item number="第四十条">
+              漁業法（昭和二十四年法律第二百六十七号）の規定により置かれる太平洋広域漁業調整委員会、日本海・九州西広域漁業調整委員会及び瀬戸内海広域漁業調整委員会は、水産庁に置かれるものとする。
+            </article_item>
+          </articles>
+        </section>
+        <section title="第四款　地方支分部局" type="Kan">
+          <articles number="第四十一条" title="（漁業調整事務所）">
+            <article_item number="第四十一条">
+              水産庁に、地方支分部局として、漁業調整事務所を置く。
+            </article_item>
+            <article_item number="２">
+              漁業調整事務所は、水産庁の所掌事務のうち、次に掲げる事務の全部又は一部を分掌する。
+              <go>
+                <go_item number="一">
+                  漁業に関する指導、漁業の取締りその他漁業調整に関すること。
+                </go_item>
+                <go_item number="二">
+                  水産資源の保護及び培養に関すること。
+                </go_item>
+              </go>
+            </article_item>
+            <article_item number="３">
+              漁業調整事務所の名称及び位置は、政令で定める。
+            </article_item>
+            <article_item number="４">
+              漁業調整事務所の管轄区域、所掌事務及び内部組織は、農林水産省令で定める。
+            </article_item>
+          </articles>
+        </section>
+      </section>
+    </section>
+  </body>
 </law>

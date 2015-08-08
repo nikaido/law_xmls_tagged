@@ -36,31 +36,31 @@
         <go>
           <go_item number="一">
             <l>前項第一号</l>の場合にあつては、戸籍抄本
-            </go_item>
-            <go_item number="二">
-              <l>前項第二号</l>の場合にあつては、当該年金証書
-              </go_item>
-              <go_item number="三">
-                <l>前項第三号</l>の場合にあつては、当該年金証書及び戸籍抄本
-                </go_item>
-              </go>
-            </article_item>
-            <article_item number="３">
-              文部科学大臣は、<l>第一項</l>の申請があつたときは、年金証書を再交付する。
-            </article_item>
-          </articles>
-          <articles number="第三条" title="（住所変更の場合の届出）">
-            <article_item number="第三条">
-              年金受給者は、その住所を変更したときは、遅滞なくその旨を文部科学大臣に届け出なければならない。
-            </article_item>
-          </articles>
-          <articles number="第四条" title="（年金証書の返還）">
-            <article_item number="第四条">
-              年金受給者が死亡したとき、及び<l>第二条</l>の規定により年金証書の再交付を受けた後従前の年金証書が発見されたときは、その遺族又は年金受給者は遅滞なく当該年金証書を文部科学大臣に返還しなければならない。
-            </article_item>
-            <article_item number="２">
-              年金受給者が死亡した場合において亡失その他の事由により年金証書を返還することができないときは、その旨を文部科学大臣に届け出なければならない。
-            </article_item>
-          </articles>
-        </body>
+          </go_item>
+          <go_item number="二">
+            <l>前項第二号</l>の場合にあつては、当該年金証書
+          </go_item>
+          <go_item number="三">
+            <l>前項第三号</l>の場合にあつては、当該年金証書及び戸籍抄本
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="３">
+        文部科学大臣は、<l>第一項</l>の申請があつたときは、年金証書を再交付する。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（住所変更の場合の届出）">
+      <article_item number="第三条">
+        年金受給者は、その住所を変更したときは、遅滞なくその旨を文部科学大臣に届け出なければならない。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（年金証書の返還）">
+      <article_item number="第四条">
+        年金受給者が死亡したとき、及び<l>第二条</l>の規定により年金証書の再交付を受けた後従前の年金証書が発見されたときは、その遺族又は年金受給者は遅滞なく当該年金証書を文部科学大臣に返還しなければならない。
+      </article_item>
+      <article_item number="２">
+        年金受給者が死亡した場合において亡失その他の事由により年金証書を返還することができないときは、その旨を文部科学大臣に届け出なければならない。
+      </article_item>
+    </articles>
+  </body>
 </law>

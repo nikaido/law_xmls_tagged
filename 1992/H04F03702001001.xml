@@ -195,73 +195,73 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>に規定する商品投資顧問契約に基づく取引を結了する方法は、顧客の利益を損なわないものでなければならない。
-        </article_item>
-      </articles>
-      <articles number="第十条" title="（業務に関する帳簿書類の作成）">
-        <article_item number="第十条">
-          法<l>第二十九条</l>の帳簿書類は、次に掲げる帳簿書類とする。
-          <go>
-            <go_item number="一">
-              顧客の商号、名称又は氏名及び住所を記載した書面
-            </go_item>
-            <go_item number="二">
-              法<l>第十八条</l>、<l>第十九条</l>及び<l>第二十一条</l>に規定する書面の写し
-            </go_item>
-            <go_item number="三">
-              法<l>第二十条</l>に規定する報告書の写し
-            </go_item>
-            <go_item number="四">
-              商品投資顧問契約を締結している顧客から一任されて行った商品投資の内容を、当該取引の相手方となった者の商号又は名称を付記して記録した書面
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="２">
-          商品投資顧問業者は、<l>前項</l>に掲げる帳簿書類を顧客ごとに作成し、当該顧客との間で締結された契約の効力を失った日から少なくとも五年間、これを保存しなければならない。
-        </article_item>
-      </articles>
-      <articles number="第十条の二" title="（電磁的方法による保存）">
-        <article_item number="第十条の二">
-          <l>前条第一項</l>に掲げる帳簿書類の内容が、電磁的方法（電子的方法、磁気的方法その他の人の知覚によって認識することができない方法をいう。）により記録され、当該記録が必要に応じ電子計算機その他の機器を用いて直ちに表示されることができるようにして保存されるときは、当該記録の保存をもって法<l>第二十九条</l>に規定する帳簿書類の保存に代えることができる。この場合において、商品投資顧問業者は、当該記録が滅失し、又はき損することを防止するために必要な措置を講じなければならない。
-          </article_item>
-        </articles>
-        <articles number="第十一条" title="（検査職員の身分証明書）">
-          <article_item number="第十一条">
-            法<l>第三十条第一項</l>の規定により立入検査をする職員の携帯する身分を示す証明書は、別紙様式<l>第九号</l>によるものとする。
-          </article_item>
-        </articles>
-        <articles number="第十二条">
-          <article_item number="第十二条">
-            削除
-          </article_item>
-        </articles>
-        <articles number="第十三条">
-          <article_item number="第十三条">
-            削除
-          </article_item>
-        </articles>
-        <articles number="第十四条" title="（経由官庁）">
-          <article_item number="第十四条">
-            商品投資顧問業者は、法<l>第五条第一項</l>に規定する許可申請書その他法及びこの省令に規定する書類を経済産業大臣に提出しようとする場合は、当該商品投資顧問業者の主たる営業所の所在地を管轄する経済産業局長を経由してこれを提出することができる。
-          </article_item>
-        </articles>
-        <articles number="第十五条" title="（標準処理期間）">
-          <article_item number="第十五条">
-            主務大臣は、法及びこの命令の規定による許可又は認可に関する申請が、主務大臣（<l>前条</l>に規定する経由官庁がある場合には、その経由官庁）に到達してから二月以内に、当該申請に対する処分をするよう努めるものとする。
-          </article_item>
-          <article_item number="２">
-            <l>前項</l>に規定する期間には、次に掲げる期間を含まないものとする。
-              <go>
-                <go_item number="一">
-                  当該申請を補正するために要する期間
-                </go_item>
-                <go_item number="二">
-                  当該申請をした者が当該申請の内容を変更するために要する期間
-                </go_item>
-                <go_item number="三">
-                  当該申請に係る審査に必要と認められる資料を当該申請をした者が追加するために要する期間
-                </go_item>
-              </go>
-            </article_item>
-          </articles>
-        </body>
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（業務に関する帳簿書類の作成）">
+      <article_item number="第十条">
+        法<l>第二十九条</l>の帳簿書類は、次に掲げる帳簿書類とする。
+        <go>
+          <go_item number="一">
+            顧客の商号、名称又は氏名及び住所を記載した書面
+          </go_item>
+          <go_item number="二">
+            法<l>第十八条</l>、<l>第十九条</l>及び<l>第二十一条</l>に規定する書面の写し
+          </go_item>
+          <go_item number="三">
+            法<l>第二十条</l>に規定する報告書の写し
+          </go_item>
+          <go_item number="四">
+            商品投資顧問契約を締結している顧客から一任されて行った商品投資の内容を、当該取引の相手方となった者の商号又は名称を付記して記録した書面
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        商品投資顧問業者は、<l>前項</l>に掲げる帳簿書類を顧客ごとに作成し、当該顧客との間で締結された契約の効力を失った日から少なくとも五年間、これを保存しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十条の二" title="（電磁的方法による保存）">
+      <article_item number="第十条の二">
+        <l>前条第一項</l>に掲げる帳簿書類の内容が、電磁的方法（電子的方法、磁気的方法その他の人の知覚によって認識することができない方法をいう。）により記録され、当該記録が必要に応じ電子計算機その他の機器を用いて直ちに表示されることができるようにして保存されるときは、当該記録の保存をもって法<l>第二十九条</l>に規定する帳簿書類の保存に代えることができる。この場合において、商品投資顧問業者は、当該記録が滅失し、又はき損することを防止するために必要な措置を講じなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（検査職員の身分証明書）">
+      <article_item number="第十一条">
+        法<l>第三十条第一項</l>の規定により立入検査をする職員の携帯する身分を示す証明書は、別紙様式<l>第九号</l>によるものとする。
+      </article_item>
+    </articles>
+    <articles number="第十二条">
+      <article_item number="第十二条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第十三条">
+      <article_item number="第十三条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第十四条" title="（経由官庁）">
+      <article_item number="第十四条">
+        商品投資顧問業者は、法<l>第五条第一項</l>に規定する許可申請書その他法及びこの省令に規定する書類を経済産業大臣に提出しようとする場合は、当該商品投資顧問業者の主たる営業所の所在地を管轄する経済産業局長を経由してこれを提出することができる。
+      </article_item>
+    </articles>
+    <articles number="第十五条" title="（標準処理期間）">
+      <article_item number="第十五条">
+        主務大臣は、法及びこの命令の規定による許可又は認可に関する申請が、主務大臣（<l>前条</l>に規定する経由官庁がある場合には、その経由官庁）に到達してから二月以内に、当該申請に対する処分をするよう努めるものとする。
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>に規定する期間には、次に掲げる期間を含まないものとする。
+        <go>
+          <go_item number="一">
+            当該申請を補正するために要する期間
+          </go_item>
+          <go_item number="二">
+            当該申請をした者が当該申請の内容を変更するために要する期間
+          </go_item>
+          <go_item number="三">
+            当該申請に係る審査に必要と認められる資料を当該申請をした者が追加するために要する期間
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

@@ -28,15 +28,15 @@
     <articles number="第三条">
       <article_item number="第三条">
         <l>第一条第三項</l>ノ規定ニ違反シタル者ハ五十万円以下ノ罰金ニ処ス
-        </article_item>
-        <article_item number="○２">
-          <l>第一条第二項</l>ノ規定ニ違反シタル者ハ科料ニ処ス
-          </article_item>
-        </articles>
-        <articles number="第四条">
-          <article_item number="第四条">
-            法人ノ代表者又ハ法人若ハ人ノ代理人、使用人其ノ他ノ従業者ガ其ノ法人又ハ人ノ業務ニ関シ<l>前条第一項</l>ノ違反行為ヲ為シタルトキハ行為者ヲ罰スルノ外其ノ法人又ハ人ニ対シ<l>同項</l>ノ刑ヲ科ス
-          </article_item>
-        </articles>
-      </body>
+      </article_item>
+      <article_item number="○２">
+        <l>第一条第二項</l>ノ規定ニ違反シタル者ハ科料ニ処ス
+      </article_item>
+    </articles>
+    <articles number="第四条">
+      <article_item number="第四条">
+        法人ノ代表者又ハ法人若ハ人ノ代理人、使用人其ノ他ノ従業者ガ其ノ法人又ハ人ノ業務ニ関シ<l>前条第一項</l>ノ違反行為ヲ為シタルトキハ行為者ヲ罰スルノ外其ノ法人又ハ人ニ対シ<l>同項</l>ノ刑ヲ科ス
+      </article_item>
+    </articles>
+  </body>
 </law>

@@ -55,12 +55,12 @@
     <articles number="第二条" title="（発行枚数）">
       <article_item number="第二条">
         <l>前条</l>に規定する貨幣の発行枚数は、二百万枚とする。
-        </article_item>
-      </articles>
-      <articles number="第三条" title="（販売価格）">
-        <article_item number="第三条">
-          特殊な技術を用いて製造し表面に光沢を持たせた<l>第一条</l>に規定する貨幣で一枚を容器に入れたものの販売価格は、十一万三千三百円とする。
-        </article_item>
-      </articles>
-    </body>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（販売価格）">
+      <article_item number="第三条">
+        特殊な技術を用いて製造し表面に光沢を持たせた<l>第一条</l>に規定する貨幣で一枚を容器に入れたものの販売価格は、十一万三千三百円とする。
+      </article_item>
+    </articles>
+  </body>
 </law>

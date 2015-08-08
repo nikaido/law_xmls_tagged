@@ -28,40 +28,40 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の指定を受けた資産の減価償却については、減価償却費は計上せず、資産の減価額と同額を資本剰余金に対する控除として計上するものとする。
-        </article_item>
-      </articles>
-      <articles number="第二条の二" title="（対応する収益の獲得が予定されない資産除去債務に係る除去費用等）">
-        <article_item number="第二条の二">
-          文部科学大臣は、機構が業務のため保有し又は取得しようとしている有形固定資産に係る資産除去債務に対応する除去費用に係る費用配分額及び時の経過による資産除去債務の調整額（以下この条において「除去費用等」という。）についてその除去費用等に対応すべき収益の獲得が予定されないと認められる場合には、当該除去費用等を指定することができる。
-        </article_item>
-      </articles>
-      <articles number="第三条" title="（短期借入金の認可の申請）">
-        <article_item number="第三条">
-          機構は、独立行政法人通則法<l>第四十五条第一項</l>ただし書の規定により短期借入金の借入れの認可を受けようとするとき、又は<l>同条第二項</l>ただし書の規定により短期借入金の借換えの認可を受けようとするときは、次に掲げる事項を記載した申請書を文部科学大臣に提出しなければならない。
-          <go>
-            <go_item number="一">
-              借入れ又は借換えを必要とする理由
-            </go_item>
-            <go_item number="二">
-              借入れ又は借換えの額
-            </go_item>
-            <go_item number="三">
-              借入先又は借換先
-            </go_item>
-            <go_item number="四">
-              借入れ又は借換えの利率
-            </go_item>
-            <go_item number="五">
-              償還の方法及び期限
-            </go_item>
-            <go_item number="六">
-              利息の支払の方法及び期限
-            </go_item>
-            <go_item number="七">
-              その他必要な事項
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-    </body>
+      </article_item>
+    </articles>
+    <articles number="第二条の二" title="（対応する収益の獲得が予定されない資産除去債務に係る除去費用等）">
+      <article_item number="第二条の二">
+        文部科学大臣は、機構が業務のため保有し又は取得しようとしている有形固定資産に係る資産除去債務に対応する除去費用に係る費用配分額及び時の経過による資産除去債務の調整額（以下この条において「除去費用等」という。）についてその除去費用等に対応すべき収益の獲得が予定されないと認められる場合には、当該除去費用等を指定することができる。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（短期借入金の認可の申請）">
+      <article_item number="第三条">
+        機構は、独立行政法人通則法<l>第四十五条第一項</l>ただし書の規定により短期借入金の借入れの認可を受けようとするとき、又は<l>同条第二項</l>ただし書の規定により短期借入金の借換えの認可を受けようとするときは、次に掲げる事項を記載した申請書を文部科学大臣に提出しなければならない。
+        <go>
+          <go_item number="一">
+            借入れ又は借換えを必要とする理由
+          </go_item>
+          <go_item number="二">
+            借入れ又は借換えの額
+          </go_item>
+          <go_item number="三">
+            借入先又は借換先
+          </go_item>
+          <go_item number="四">
+            借入れ又は借換えの利率
+          </go_item>
+          <go_item number="五">
+            償還の方法及び期限
+          </go_item>
+          <go_item number="六">
+            利息の支払の方法及び期限
+          </go_item>
+          <go_item number="七">
+            その他必要な事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

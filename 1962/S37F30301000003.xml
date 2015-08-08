@@ -108,198 +108,198 @@
           <go>
             <go_item number="一">
               <l>前条第二項</l>の航空機事故の防止に関する計画の案を立案すること。
-              </go_item>
-              <go_item number="二">
-                航空機を安全に運航するために必要な情報の収集及び整理を行うこと。
-              </go_item>
-              <go_item number="三">
-                航空機を安全に運航するために必要な教育訓練を行うこと。
-              </go_item>
-              <go_item number="四">
-                航空従事者の健康管理に関する指導を行うこと。
-              </go_item>
-            </go>
-          </article_item>
-          <article_item number="２">
-            安全担当者は、航空従事者をもつて充てなければならない。
-          </article_item>
-        </articles>
-        <articles number="第十一条" title="（勤務制等）">
-          <article_item number="第十一条">
-            航空機の職員の勤務は、日勤制によるものとする。
-          </article_item>
-          <article_item number="２">
-            警察本部長は、<l>前項</l>に定めるもののほか、勤務時間その他の勤務に関する事項についての準則を定めなければならない。
-          </article_item>
-        </articles>
-      </section>
-      <section title="第三章　運用" type="Sho">
-        <articles number="第十二条" title="（機長の指定）">
-          <article_item number="第十二条">
-            運航責任者は、航空機を運航させるときは、その都度、当該航空機を操縦する資格を有する者を機長に指定しなければならない。
-          </article_item>
-        </articles>
-        <articles number="第十三条" title="（飛行計画の承認等）">
-          <article_item number="第十三条">
-            機長は、飛行計画を作成したときは、運航責任者の承認を受けなければならない。承認を受けた飛行計画を変更しようとするときも、同様とする。ただし、飛行中に飛行計画を変更しようとする場合において、通信機の故障その他の理由により連絡ができないときは、この限りでない。
-          </article_item>
-          <article_item number="２">
-            機長は、航空基地から航空機を出発させようとするときは、運航責任者の承認を受けなければならない。
-          </article_item>
-        </articles>
-        <articles number="第十四条" title="（機長の責任と権限）">
-          <article_item number="第十四条">
-            機長（機長に事故があるときは、機長に代わつてその職務を行うべきものとされている者。以下この条及び<l>次条</l>において同じ。）は、航空機の飛行につき、すべての責めに任ずる。
-          </article_item>
-          <article_item number="２">
-            機長は、搭乗者に対し、飛行の安全上必要な指示を行うことができる。
-          </article_item>
-          <article_item number="３">
-            搭乗者は、航空機の飛行に関しては、機長を指揮してはならない。
-          </article_item>
-        </articles>
-        <articles number="第十五条" title="（航空機事故の報告）">
-          <article_item number="第十五条">
-            機長は、航空機事故が発生した場合には、速やかに、警察本部長に対し、その旨を報告しなければならない。ただし、機長が報告することができないときは、当該報告は、搭乗中の警察職員が行うものとする。
-          </article_item>
-          <article_item number="２">
-            警察本部長は、次に掲げる被害等が生じた航空機事故その他長官が定める航空機事故（以下この項及び<l>次条第二項</l>において「特定事故」という。）が発生したことを知つたときは、速やかに、長官及び管区警察局長に対し、当該特定事故の発生の日時及び場所、当該特定事故の程度その他長官が定める事項を報告しなければならない。
-            <go>
-              <go_item number="一">
-                航空機による人の死亡又は重傷
-              </go_item>
-              <go_item number="二">
-                航空機内にある者の死亡又は行方不明
-              </go_item>
-              <go_item number="三">
-                航空機の行方不明又は破壊若しくは大破
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-        <articles number="第十六条" title="（航空機事故の調査）">
-          <article_item number="第十六条">
-            警察本部長は、航空機事故が発生したときは、当該航空機事故の原因を明らかにするため必要な調査を行わなければならない。
-          </article_item>
-          <article_item number="２">
-            警察本部長は、特定事故に関し<l>前項</l>の規定による調査を行つたときは、速やかに、長官及び管区警察局長に対し、所見を添えて、その結果を報告しなければならない。特定事故以外の航空機事故が発生した場合において、長官又は管区警察局長が当該航空機事故に関し報告を求めたときも、同様とする。
-          </article_item>
-        </articles>
-        <articles number="第十七条" title="（飛行場の設置等）">
-          <article_item number="第十七条">
-            警察本部長は、飛行場を設置し、変更し、休止し、又は廃止したときは、速やかに、長官に対し、その旨を報告しなければならない。
-          </article_item>
-        </articles>
-        <articles number="第十八条" title="（臨時発着場）">
-          <article_item number="第十八条">
-            警察本部長は、当該都道府県警察の管轄区域内における航空機の運航状況を考慮し、臨時発着場とすることができる適当な場所を指定しておくものとする。
-          </article_item>
-        </articles>
-        <articles number="第十九条" title="（派遣要請）">
-          <article_item number="第十九条">
-            警察法（昭和二十九年法律第百六十二号）<l>第六十条第一項</l>の規定に基づく派遣（航空機又は航空機に係る警察職員の派遣をいう。以下この条及び<l>次条</l>において同じ。）の要請は、次に掲げる事項を明らかにして行わなければならない。
-            <go>
-              <go_item number="一">
-                活動の内容
-              </go_item>
-              <go_item number="二">
-                派遣を必要とする理由
-              </go_item>
-              <go_item number="三">
-                派遣を希望する日時及び期間
-              </go_item>
-              <go_item number="四">
-                航空機の活動基地又は着陸場所
-              </go_item>
-              <go_item number="五">
-                航空機用燃料に関する事項
-              </go_item>
-              <go_item number="六">
-                航空機に係る無線通信系の構成その他の無線通信に関する事項
-              </go_item>
-            </go>
-          </article_item>
-          <article_item number="２">
-            派遣の要請に係る警察法<l>第六十条第二項</l>の規定による連絡は、<l>前項</l>各号に掲げる事項を明らかにした上、都警察及び道警察にあつては警察庁に、府県警察にあつては管区警察局（当該管区警察局の管轄区域以外の区域を管轄する都道府県警察に対し派遣の要請を行う場合又は警衛、警護若しくは警備実施のために派遣の要請を行う場合にあつては、当該管区警察局を経由して警察庁）に対して、これを行うものとする。
-          </article_item>
-          <article_item number="３">
-            第一項の航空機に係る警察職員は、派遣に係る航空機の活動の性質に従い、派遣に係る航空機が<l>同項第四号</l>の活動基地又は着陸場所に着陸したときから派遣に係る活動を終えて当該活動基地又は着陸場所を離陸するときまでの間、当該派遣の要請を行つた都道府県公安委員会の管理の下にその職権を行うものとする。ただし、これにより難い事情があるときは、関係都道府県警察の間において、あらかじめ協定したところによるものとする。
-          </article_item>
-        </articles>
-        <articles number="第二十条" title="（長官等による調整）">
-          <article_item number="第二十条">
-            長官又は管区警察局長は、二以上の都道府県警察において同時に派遣の要請を行う必要が生じたときその他航空機の運用に関し必要があると認めるときは、所要の調整を行う。
-          </article_item>
-        </articles>
-      </section>
-      <section title="第四章　整備" type="Sho">
-        <articles number="第二十一条" title="（整備の種別及び要領）">
-          <article_item number="第二十一条">
-            航空機等の整備は、次の区分に従い、長官が定める要領により行わなければならない。
-            <table>
-              <tr>
-                <td>
-                  種別
-                </td>
-                <td>
-                  内容
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  普通整備
-                </td>
-                <td>
-                  日々点検並びに航空法施行規則（昭和二十七年運輸省令第五十六号）<l>第五条の六</l>に定める保守、軽微な修理及び小修理
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  定期整備
-                </td>
-                <td>
-                  航空法施行規則<l>第五条の五</l>の整備手順書に記載された使用時間（長官が当該時間を短縮したときはその時間）に達したときに行う整備
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  特別整備
-                </td>
-                <td>
-                  航空法施行規則<l>第五条の六</l>に定める大修理及び改造並びに長官が特に指示するところにより行う整備
-                </td>
-              </tr>
-            </table>
-          </article_item>
-        </articles>
-        <articles number="第二十二条" title="（検査）">
-          <article_item number="第二十二条">
-            警察本部長は、六月ごとに、次に掲げる事項につき、検査を行わなければならない。
-            <go>
-              <go_item number="一">
-                航空機等の整備の状況
-              </go_item>
-              <go_item number="二">
-                航空機等の整備に関する法令の遵守の状況
-              </go_item>
-              <go_item number="三">
-                航空機等の整備に関する記録の整理の状況
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-      </section>
-      <section title="第五章　雑則" type="Sho">
-        <articles number="第二十三条" title="（航空安全査察）">
-          <article_item number="第二十三条">
-            長官は、職員を指名して、航空基地に対し、<l>第九条第二項</l>の航空機事故の防止に関する計画及び整備計画並びにこれらの実施その他航空機の運航の安全に関する事項について、定期及び随時に査察を行わせるものとする。
-          </article_item>
-        </articles>
-        <articles number="第二十四条" title="（長官への委任）">
-          <article_item number="第二十四条">
-            この規則に定めるもののほか、この規則の実施のため必要な事項は、長官が定める。
-          </article_item>
-        </articles>
-      </section>
-    </body>
+            </go_item>
+            <go_item number="二">
+              航空機を安全に運航するために必要な情報の収集及び整理を行うこと。
+            </go_item>
+            <go_item number="三">
+              航空機を安全に運航するために必要な教育訓練を行うこと。
+            </go_item>
+            <go_item number="四">
+              航空従事者の健康管理に関する指導を行うこと。
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          安全担当者は、航空従事者をもつて充てなければならない。
+        </article_item>
+      </articles>
+      <articles number="第十一条" title="（勤務制等）">
+        <article_item number="第十一条">
+          航空機の職員の勤務は、日勤制によるものとする。
+        </article_item>
+        <article_item number="２">
+          警察本部長は、<l>前項</l>に定めるもののほか、勤務時間その他の勤務に関する事項についての準則を定めなければならない。
+        </article_item>
+      </articles>
+    </section>
+    <section title="第三章　運用" type="Sho">
+      <articles number="第十二条" title="（機長の指定）">
+        <article_item number="第十二条">
+          運航責任者は、航空機を運航させるときは、その都度、当該航空機を操縦する資格を有する者を機長に指定しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第十三条" title="（飛行計画の承認等）">
+        <article_item number="第十三条">
+          機長は、飛行計画を作成したときは、運航責任者の承認を受けなければならない。承認を受けた飛行計画を変更しようとするときも、同様とする。ただし、飛行中に飛行計画を変更しようとする場合において、通信機の故障その他の理由により連絡ができないときは、この限りでない。
+        </article_item>
+        <article_item number="２">
+          機長は、航空基地から航空機を出発させようとするときは、運航責任者の承認を受けなければならない。
+        </article_item>
+      </articles>
+      <articles number="第十四条" title="（機長の責任と権限）">
+        <article_item number="第十四条">
+          機長（機長に事故があるときは、機長に代わつてその職務を行うべきものとされている者。以下この条及び<l>次条</l>において同じ。）は、航空機の飛行につき、すべての責めに任ずる。
+        </article_item>
+        <article_item number="２">
+          機長は、搭乗者に対し、飛行の安全上必要な指示を行うことができる。
+        </article_item>
+        <article_item number="３">
+          搭乗者は、航空機の飛行に関しては、機長を指揮してはならない。
+        </article_item>
+      </articles>
+      <articles number="第十五条" title="（航空機事故の報告）">
+        <article_item number="第十五条">
+          機長は、航空機事故が発生した場合には、速やかに、警察本部長に対し、その旨を報告しなければならない。ただし、機長が報告することができないときは、当該報告は、搭乗中の警察職員が行うものとする。
+        </article_item>
+        <article_item number="２">
+          警察本部長は、次に掲げる被害等が生じた航空機事故その他長官が定める航空機事故（以下この項及び<l>次条第二項</l>において「特定事故」という。）が発生したことを知つたときは、速やかに、長官及び管区警察局長に対し、当該特定事故の発生の日時及び場所、当該特定事故の程度その他長官が定める事項を報告しなければならない。
+          <go>
+            <go_item number="一">
+              航空機による人の死亡又は重傷
+            </go_item>
+            <go_item number="二">
+              航空機内にある者の死亡又は行方不明
+            </go_item>
+            <go_item number="三">
+              航空機の行方不明又は破壊若しくは大破
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第十六条" title="（航空機事故の調査）">
+        <article_item number="第十六条">
+          警察本部長は、航空機事故が発生したときは、当該航空機事故の原因を明らかにするため必要な調査を行わなければならない。
+        </article_item>
+        <article_item number="２">
+          警察本部長は、特定事故に関し<l>前項</l>の規定による調査を行つたときは、速やかに、長官及び管区警察局長に対し、所見を添えて、その結果を報告しなければならない。特定事故以外の航空機事故が発生した場合において、長官又は管区警察局長が当該航空機事故に関し報告を求めたときも、同様とする。
+        </article_item>
+      </articles>
+      <articles number="第十七条" title="（飛行場の設置等）">
+        <article_item number="第十七条">
+          警察本部長は、飛行場を設置し、変更し、休止し、又は廃止したときは、速やかに、長官に対し、その旨を報告しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第十八条" title="（臨時発着場）">
+        <article_item number="第十八条">
+          警察本部長は、当該都道府県警察の管轄区域内における航空機の運航状況を考慮し、臨時発着場とすることができる適当な場所を指定しておくものとする。
+        </article_item>
+      </articles>
+      <articles number="第十九条" title="（派遣要請）">
+        <article_item number="第十九条">
+          警察法（昭和二十九年法律第百六十二号）<l>第六十条第一項</l>の規定に基づく派遣（航空機又は航空機に係る警察職員の派遣をいう。以下この条及び<l>次条</l>において同じ。）の要請は、次に掲げる事項を明らかにして行わなければならない。
+          <go>
+            <go_item number="一">
+              活動の内容
+            </go_item>
+            <go_item number="二">
+              派遣を必要とする理由
+            </go_item>
+            <go_item number="三">
+              派遣を希望する日時及び期間
+            </go_item>
+            <go_item number="四">
+              航空機の活動基地又は着陸場所
+            </go_item>
+            <go_item number="五">
+              航空機用燃料に関する事項
+            </go_item>
+            <go_item number="六">
+              航空機に係る無線通信系の構成その他の無線通信に関する事項
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          派遣の要請に係る警察法<l>第六十条第二項</l>の規定による連絡は、<l>前項</l>各号に掲げる事項を明らかにした上、都警察及び道警察にあつては警察庁に、府県警察にあつては管区警察局（当該管区警察局の管轄区域以外の区域を管轄する都道府県警察に対し派遣の要請を行う場合又は警衛、警護若しくは警備実施のために派遣の要請を行う場合にあつては、当該管区警察局を経由して警察庁）に対して、これを行うものとする。
+        </article_item>
+        <article_item number="３">
+          第一項の航空機に係る警察職員は、派遣に係る航空機の活動の性質に従い、派遣に係る航空機が<l>同項第四号</l>の活動基地又は着陸場所に着陸したときから派遣に係る活動を終えて当該活動基地又は着陸場所を離陸するときまでの間、当該派遣の要請を行つた都道府県公安委員会の管理の下にその職権を行うものとする。ただし、これにより難い事情があるときは、関係都道府県警察の間において、あらかじめ協定したところによるものとする。
+        </article_item>
+      </articles>
+      <articles number="第二十条" title="（長官等による調整）">
+        <article_item number="第二十条">
+          長官又は管区警察局長は、二以上の都道府県警察において同時に派遣の要請を行う必要が生じたときその他航空機の運用に関し必要があると認めるときは、所要の調整を行う。
+        </article_item>
+      </articles>
+    </section>
+    <section title="第四章　整備" type="Sho">
+      <articles number="第二十一条" title="（整備の種別及び要領）">
+        <article_item number="第二十一条">
+          航空機等の整備は、次の区分に従い、長官が定める要領により行わなければならない。
+          <table>
+            <tr>
+              <td>
+                種別
+              </td>
+              <td>
+                内容
+              </td>
+            </tr>
+            <tr>
+              <td>
+                普通整備
+              </td>
+              <td>
+                日々点検並びに航空法施行規則（昭和二十七年運輸省令第五十六号）<l>第五条の六</l>に定める保守、軽微な修理及び小修理
+              </td>
+            </tr>
+            <tr>
+              <td>
+                定期整備
+              </td>
+              <td>
+                航空法施行規則<l>第五条の五</l>の整備手順書に記載された使用時間（長官が当該時間を短縮したときはその時間）に達したときに行う整備
+              </td>
+            </tr>
+            <tr>
+              <td>
+                特別整備
+              </td>
+              <td>
+                航空法施行規則<l>第五条の六</l>に定める大修理及び改造並びに長官が特に指示するところにより行う整備
+              </td>
+            </tr>
+          </table>
+        </article_item>
+      </articles>
+      <articles number="第二十二条" title="（検査）">
+        <article_item number="第二十二条">
+          警察本部長は、六月ごとに、次に掲げる事項につき、検査を行わなければならない。
+          <go>
+            <go_item number="一">
+              航空機等の整備の状況
+            </go_item>
+            <go_item number="二">
+              航空機等の整備に関する法令の遵守の状況
+            </go_item>
+            <go_item number="三">
+              航空機等の整備に関する記録の整理の状況
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </section>
+    <section title="第五章　雑則" type="Sho">
+      <articles number="第二十三条" title="（航空安全査察）">
+        <article_item number="第二十三条">
+          長官は、職員を指名して、航空基地に対し、<l>第九条第二項</l>の航空機事故の防止に関する計画及び整備計画並びにこれらの実施その他航空機の運航の安全に関する事項について、定期及び随時に査察を行わせるものとする。
+        </article_item>
+      </articles>
+      <articles number="第二十四条" title="（長官への委任）">
+        <article_item number="第二十四条">
+          この規則に定めるもののほか、この規則の実施のため必要な事項は、長官が定める。
+        </article_item>
+      </articles>
+    </section>
+  </body>
 </law>

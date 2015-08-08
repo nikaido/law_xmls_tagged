@@ -17,28 +17,28 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の設備をみだりに操作した者は、一年以下の懲役又は五万円以下の罰金に処する。
-        </article_item>
-        <article_item number="３">
-          第一項の設備を損傷し、その他<l>同項</l>の設備の機能をそこなうおそれのある行為をした者は、五万円以下の罰金に処する。
-        </article_item>
-      </articles>
-      <articles number="第三条" title="（線路上に物件を置く等の罪）">
-        <article_item number="第三条">
-          次の各号の一に該当する者は、一年以下の懲役又は五万円以下の罰金に処する。
-          <go>
-            <go_item number="一">
-              列車の運行の妨害となるような方法で、みだりに、物件を新幹線鉄道の線路（軌道及びこれに附属する保線用通路その他の施設であつて、軌道の中心線の両側について幅三メートル以内の場所にあるものをいう。<l>次号</l>において同じ。）上に置き、又はこれに類する行為をした者
-            </go_item>
-            <go_item number="二">
-              新幹線鉄道の線路内にみだりに立ち入つた者
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第四条" title="（列車に物件を投げる等の罪）">
-        <article_item number="第四条">
-          新幹線鉄道の走行中の列車に向かつて物件を投げ、又は発射した者は、五万円以下の罰金に処する。
-        </article_item>
-      </articles>
-    </body>
+      </article_item>
+      <article_item number="３">
+        第一項の設備を損傷し、その他<l>同項</l>の設備の機能をそこなうおそれのある行為をした者は、五万円以下の罰金に処する。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（線路上に物件を置く等の罪）">
+      <article_item number="第三条">
+        次の各号の一に該当する者は、一年以下の懲役又は五万円以下の罰金に処する。
+        <go>
+          <go_item number="一">
+            列車の運行の妨害となるような方法で、みだりに、物件を新幹線鉄道の線路（軌道及びこれに附属する保線用通路その他の施設であつて、軌道の中心線の両側について幅三メートル以内の場所にあるものをいう。<l>次号</l>において同じ。）上に置き、又はこれに類する行為をした者
+          </go_item>
+          <go_item number="二">
+            新幹線鉄道の線路内にみだりに立ち入つた者
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（列車に物件を投げる等の罪）">
+      <article_item number="第四条">
+        新幹線鉄道の走行中の列車に向かつて物件を投げ、又は発射した者は、五万円以下の罰金に処する。
+      </article_item>
+    </articles>
+  </body>
 </law>

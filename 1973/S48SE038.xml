@@ -74,23 +74,23 @@
         <go>
           <go_item number="一">
             <l>第二条</l>に掲げる施設
-            </go_item>
-            <go_item number="二">
-              排水施設及び廃棄物処理施設
-            </go_item>
-            <go_item number="三">
-              植生復元施設、病害虫等除去施設、砂防施設及び防火施設
-            </go_item>
-            <go_item number="四">
-              給餌施設及び養殖施設
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第六条" title="（負担金の徴収方法）">
-        <article_item number="第六条">
-          国は、法<l>第三十八条</l>の規定により保全事業の執行に要する費用の一部を負担させようとする場合においては、負担させようとする者の意見をきかなければならない。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+          <go_item number="二">
+            排水施設及び廃棄物処理施設
+          </go_item>
+          <go_item number="三">
+            植生復元施設、病害虫等除去施設、砂防施設及び防火施設
+          </go_item>
+          <go_item number="四">
+            給餌施設及び養殖施設
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（負担金の徴収方法）">
+      <article_item number="第六条">
+        国は、法<l>第三十八条</l>の規定により保全事業の執行に要する費用の一部を負担させようとする場合においては、負担させようとする者の意見をきかなければならない。
+      </article_item>
+    </articles>
+  </body>
 </law>

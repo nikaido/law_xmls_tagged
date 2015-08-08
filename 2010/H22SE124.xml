@@ -36,45 +36,45 @@
     <articles number="第二条" title="（法第七条第三号の政令で定める養殖施設及びその災害復旧事業の補助率）">
       <article_item number="第二条">
         <l>前条</l>の激甚災害についての法<l>第七条第三号</l>の政令で定める養殖施設は、次に掲げるものであって当該激甚災害の発生の際に養殖の用に供されていたものとし、それぞれその災害復旧事業に係る<l>同条</l>の政令で定める率は、いずれも十分の九とする。
-          <go>
-            <go_item number="一">
-              かんぱち養殖施設
-            </go_item>
-            <go_item number="二">
-              しまあじ養殖施設
-            </go_item>
-            <go_item number="三">
-              まだい養殖施設
-            </go_item>
-            <go_item number="四">
-              くろまぐろ養殖施設
-            </go_item>
-            <go_item number="五">
-              ほたてがい養殖施設
-            </go_item>
-            <go_item number="六">
-              かき類養殖施設
-            </go_item>
-            <go_item number="七">
-              えぞいしかげがい養殖施設
-            </go_item>
-            <go_item number="八">
-              ほや類養殖施設
-            </go_item>
-            <go_item number="九">
-              こんぶ類養殖施設
-            </go_item>
-            <go_item number="十">
-              わかめ類養殖施設
-            </go_item>
-            <go_item number="十一">
-              のり類養殖施設
-            </go_item>
-            <go_item number="十二">
-              真珠養殖施設
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-    </body>
+        <go>
+          <go_item number="一">
+            かんぱち養殖施設
+          </go_item>
+          <go_item number="二">
+            しまあじ養殖施設
+          </go_item>
+          <go_item number="三">
+            まだい養殖施設
+          </go_item>
+          <go_item number="四">
+            くろまぐろ養殖施設
+          </go_item>
+          <go_item number="五">
+            ほたてがい養殖施設
+          </go_item>
+          <go_item number="六">
+            かき類養殖施設
+          </go_item>
+          <go_item number="七">
+            えぞいしかげがい養殖施設
+          </go_item>
+          <go_item number="八">
+            ほや類養殖施設
+          </go_item>
+          <go_item number="九">
+            こんぶ類養殖施設
+          </go_item>
+          <go_item number="十">
+            わかめ類養殖施設
+          </go_item>
+          <go_item number="十一">
+            のり類養殖施設
+          </go_item>
+          <go_item number="十二">
+            真珠養殖施設
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

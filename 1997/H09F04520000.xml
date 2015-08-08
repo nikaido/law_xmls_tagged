@@ -157,14 +157,14 @@
           </go_item>
           <go_item number="四">
             <l>前三号</l>に掲げるもののほか、全日にわたり勤務しないことにつき特に承認があった日
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第十四条" title="（雑則）">
-        <article_item number="第十四条">
-          この規則に定めるもののほか、任期付研究員の採用、給与及び勤務時間の特例に関し必要な事項は、人事院が定める。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十四条" title="（雑則）">
+      <article_item number="第十四条">
+        この規則に定めるもののほか、任期付研究員の採用、給与及び勤務時間の特例に関し必要な事項は、人事院が定める。
+      </article_item>
+    </articles>
+  </body>
 </law>

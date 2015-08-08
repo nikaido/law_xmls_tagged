@@ -58,60 +58,60 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の届出の書面には、左に掲げる書類、図面及び写真を添えるものとする。
-          <go>
-            <go_item number="一">
-              設計仕様書
-            </go_item>
-            <go_item number="二">
-              修理をしようとする箇所の写真又は見取図
-            </go_item>
-            <go_item number="三">
-              修理をしようとする者が管理団体であるときは、所有者及び権原に基く占有者の意見書
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第二条" title="（届出書及びその添附書類等の記載事項等の変更）">
-        <article_item number="第二条">
-          <l>前条第一項</l>の届出の書面又は<l>同条第二項</l>の書類又は図面若しくは写真に記載し、又は表示した事項を変更しようとするときは、あらかじめ文化庁長官にその旨を届け出なければならない。
-          </article_item>
-        </articles>
-        <articles number="第三条" title="（終了の報告）">
-          <article_item number="第三条">
-            法<l>第四十三条の二第一項</l>の規定により届出を行つた者は、届出に係る修理が終了したときは、その結果を示す写真又は見取図を添えて、遅滞なくその旨を文化庁長官に報告するものとする。
-          </article_item>
-        </articles>
-        <articles number="第四条" title="（修理の届出を要しない場合）">
-          <article_item number="第四条">
-            法<l>第四十三条の二第一項</l>但書の規定により届出を要しない場合は、左の各号の一に該当する場合とする。
-            <go>
-              <go_item number="一">
-                法<l>第三十五条第一項</l>の規定による補助金の交付を受けて修理を行うとき。
-              </go_item>
-              <go_item number="二">
-                法<l>第三十七条第一項</l>又は<l>第二項</l>の規定による命令又は勧告を受けて修理を行うとき。
-              </go_item>
-              <go_item number="三">
-                法<l>第四十三条第一項</l>の規定による現状変更の許可を受けて修理を行うとき。
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-        <articles number="第五条" title="（国の所有に属する国宝又は重要文化財の修理の通知）">
-          <article_item number="第五条">
-            法<l>第百六十七条第一項第五号</l>の規定による国宝又は重要文化財の修理の通知には、<l>第一条</l>から<l>第三条</l>までの規定を準用する。
-          </article_item>
-          <article_item number="２">
-            法<l>第百六十七条第一項第五号</l>括弧書の規定により国宝又は重要文化財の修理について通知を要しない場合は、次の各号のいずれかに該当する場合とする。
-            <go>
-              <go_item number="一">
-                法<l>第百六十八条第一項第一号</l>又は<l>第二項</l>の規定による同意を得て修理を行うとき。
-              </go_item>
-              <go_item number="二">
-                法<l>第百六十九条第一項第二号</l>の規定による勧告を受けて修理を行うとき。
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-      </body>
+        <go>
+          <go_item number="一">
+            設計仕様書
+          </go_item>
+          <go_item number="二">
+            修理をしようとする箇所の写真又は見取図
+          </go_item>
+          <go_item number="三">
+            修理をしようとする者が管理団体であるときは、所有者及び権原に基く占有者の意見書
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（届出書及びその添附書類等の記載事項等の変更）">
+      <article_item number="第二条">
+        <l>前条第一項</l>の届出の書面又は<l>同条第二項</l>の書類又は図面若しくは写真に記載し、又は表示した事項を変更しようとするときは、あらかじめ文化庁長官にその旨を届け出なければならない。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（終了の報告）">
+      <article_item number="第三条">
+        法<l>第四十三条の二第一項</l>の規定により届出を行つた者は、届出に係る修理が終了したときは、その結果を示す写真又は見取図を添えて、遅滞なくその旨を文化庁長官に報告するものとする。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（修理の届出を要しない場合）">
+      <article_item number="第四条">
+        法<l>第四十三条の二第一項</l>但書の規定により届出を要しない場合は、左の各号の一に該当する場合とする。
+        <go>
+          <go_item number="一">
+            法<l>第三十五条第一項</l>の規定による補助金の交付を受けて修理を行うとき。
+          </go_item>
+          <go_item number="二">
+            法<l>第三十七条第一項</l>又は<l>第二項</l>の規定による命令又は勧告を受けて修理を行うとき。
+          </go_item>
+          <go_item number="三">
+            法<l>第四十三条第一項</l>の規定による現状変更の許可を受けて修理を行うとき。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（国の所有に属する国宝又は重要文化財の修理の通知）">
+      <article_item number="第五条">
+        法<l>第百六十七条第一項第五号</l>の規定による国宝又は重要文化財の修理の通知には、<l>第一条</l>から<l>第三条</l>までの規定を準用する。
+      </article_item>
+      <article_item number="２">
+        法<l>第百六十七条第一項第五号</l>括弧書の規定により国宝又は重要文化財の修理について通知を要しない場合は、次の各号のいずれかに該当する場合とする。
+        <go>
+          <go_item number="一">
+            法<l>第百六十八条第一項第一号</l>又は<l>第二項</l>の規定による同意を得て修理を行うとき。
+          </go_item>
+          <go_item number="二">
+            法<l>第百六十九条第一項第二号</l>の規定による勧告を受けて修理を行うとき。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

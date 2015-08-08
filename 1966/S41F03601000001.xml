@@ -17,33 +17,33 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の式中の次の各号に掲げる記号は、それぞれ当該各号に定める数値とする。
-          <go>
-            <go_item number="一">
-              Ａ　検体に係る吸光度
-            </go_item>
-            <go_item number="二">
-              Ａ<sub>０</sub>　　シアンイオン標準溶液に係る吸光度
-            </go_item>
-            <go_item number="三">
-              ｎ　別表第一に定めるところにより試料について希釈を行なつた場合における希釈倍数（希釈を行なわなかつた場合は、一とする。）
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第二条" title="（定量方法）">
-        <article_item number="第二条">
-          令<l>第三十八条第一項第二号</l>に規定する塩化水素、硝酸若しくは硫酸又は水酸化カリウム若しくは水酸化ナトリウムを含有する液体状の物の水素イオン濃度は、次の方法により定量する。試料液百ミリリツトルをとり蒸留水を加えて千ミリリツトルとし混和する。この混和液について工業標準化法（昭和二十四年法律第百八十五号）に基づく日本工業規格Ｋ〇一〇二の八に該当する方法により測定する。
-        </article_item>
-      </articles>
-      <articles number="第三条" title="（吸光度の測定方法等）">
-        <article_item number="第三条">
-          <l>第一条第二項第一号</l>に掲げる検体に係る吸光度及び<l>同条</l><l>同項第二号</l>に掲げるシアンイオン標準溶液に係る吸光度の測定方法並びにその測定に使用する対照溶液の作成方法は、別表第一に定めるところによる。
-          </article_item>
-        </articles>
-        <articles number="第四条" title="（試薬等）">
-          <article_item number="第四条">
-            吸光度の測定及び対照溶液の作成に用いる試薬及び試液は、別表第二に定めるところによる。
-          </article_item>
-        </articles>
-      </body>
+        <go>
+          <go_item number="一">
+            Ａ　検体に係る吸光度
+          </go_item>
+          <go_item number="二">
+            Ａ<sub>０</sub>　　シアンイオン標準溶液に係る吸光度
+          </go_item>
+          <go_item number="三">
+            ｎ　別表第一に定めるところにより試料について希釈を行なつた場合における希釈倍数（希釈を行なわなかつた場合は、一とする。）
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（定量方法）">
+      <article_item number="第二条">
+        令<l>第三十八条第一項第二号</l>に規定する塩化水素、硝酸若しくは硫酸又は水酸化カリウム若しくは水酸化ナトリウムを含有する液体状の物の水素イオン濃度は、次の方法により定量する。試料液百ミリリツトルをとり蒸留水を加えて千ミリリツトルとし混和する。この混和液について工業標準化法（昭和二十四年法律第百八十五号）に基づく日本工業規格Ｋ〇一〇二の八に該当する方法により測定する。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（吸光度の測定方法等）">
+      <article_item number="第三条">
+        <l>第一条第二項第一号</l>に掲げる検体に係る吸光度及び<l>同条</l><l>同項第二号</l>に掲げるシアンイオン標準溶液に係る吸光度の測定方法並びにその測定に使用する対照溶液の作成方法は、別表第一に定めるところによる。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（試薬等）">
+      <article_item number="第四条">
+        吸光度の測定及び対照溶液の作成に用いる試薬及び試液は、別表第二に定めるところによる。
+      </article_item>
+    </articles>
+  </body>
 </law>

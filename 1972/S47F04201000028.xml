@@ -83,230 +83,230 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の指定を受けた資産の減価償却については、減価償却費は計上せず、資産の減価額と同額を資本剰余金に対する控除として計上する。
-        </article_item>
-      </articles>
-      <articles number="第四条" title="（予算の内容）">
-        <article_item number="第四条">
-          事業団の予算は、予算総則及び収入支出予算とする。
-        </article_item>
-      </articles>
-      <articles number="第五条" title="（予算総則）">
-        <article_item number="第五条">
-          予算総則には、収入支出予算に関する総括的規定を設けるほか、次に掲げる事項に関する規定を設けるものとする。
-          <go>
-            <go_item number="一">
-              <l>第九条</l>の規定による債務を負担する行為についての事項ごとの限度額及び支出すべき年限並びにその必要の理由
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（予算の内容）">
+      <article_item number="第四条">
+        事業団の予算は、予算総則及び収入支出予算とする。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（予算総則）">
+      <article_item number="第五条">
+        予算総則には、収入支出予算に関する総括的規定を設けるほか、次に掲げる事項に関する規定を設けるものとする。
+        <go>
+          <go_item number="一">
+            <l>第九条</l>の規定による債務を負担する行為についての事項ごとの限度額及び支出すべき年限並びにその必要の理由
+          </go_item>
+          <go_item number="二">
+            <l>第十条第二項</l>の規定による経費の指定
+          </go_item>
+          <go_item number="三">
+            <l>第十一条第一項</l>ただし書の規定による経費の指定
+          </go_item>
+          <go_item number="四">
+            長期借入金の借入限度額
+          </go_item>
+          <go_item number="五">
+            その他予算の実施に関し必要な事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（収入支出予算）">
+      <article_item number="第六条">
+        毎事業年度における事業団のすべての収入及び支出は、収入支出予算に計上しなければならない。
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の収入支出予算は、<l>第三条第一項</l>の規定により区分した経理ごとに勘定を設け、収入にあつてはその性質、支出にあつてはその目的に従つて区分する。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（予算の添附書類）">
+      <article_item number="第七条">
+        事業団は、法<l>第三十条</l>の規定により予算について国土交通大臣の認可を受けようとするときは、次に掲げる書類を添附して提出しなければならない。ただし、予算について変更の認可を受けようとするときは、<l>第一号</l>の書類は、添附することを要しない。
+        <go>
+          <go_item number="一">
+            前事業年度の予定貸借対照表及び予定損益計算書
+          </go_item>
+          <go_item number="二">
+            当該事業年度の予定貸借対照表及び予定損益計算書
+          </go_item>
+          <go_item number="三">
+            その他予算の参考となる書類
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（予備費）">
+      <article_item number="第八条">
+        予見することができない事由による支出予算の不足を補うため、事業団の収入支出予算に予備費を設けることができる。
+      </article_item>
+      <article_item number="２">
+        事業団は、予備費を使用したときは、その旨を国土交通大臣に通知しなければならない。
+      </article_item>
+      <article_item number="３">
+        <l>前項</l>の規定による通知は、使用の理由、金額及び積算の基礎を明らかにした調書をもつてするものとする。
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（債務を負担する行為）">
+      <article_item number="第九条">
+        事業団は、支出予算の金額の範囲内におけるもののほか、法<l>第二十六条第一項</l>に規定する業務を行なうため必要があるときは、毎事業年度、予算をもつて国土交通大臣の認可を受けた金額の範囲内において、翌年度以降にわたる債務を負担することができる。
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（予算の流用等）">
+      <article_item number="第十条">
+        事業団は、支出予算については、当該予算に定める目的のほかに使用してはならない。ただし、予算の実施上適当かつ必要であるときは、<l>第六条第二項</l>の規定による区分にかかわらず、彼此流用することができる。
+      </article_item>
+      <article_item number="２">
+        事業団は、予算で指定する経費の金額については、国土交通大臣の承認を受けなければ、流用し、又はこれに予備費を使用することができない。
+      </article_item>
+      <article_item number="３">
+        事業団は、<l>前項</l>の規定による承認を受けようとするときは、予算の流用にあつてはその理由及び金額を明らかにした調書を、予備費の使用にあつてはその理由、金額及び積算の基礎を明らかにした調書を国土交通大臣に提出しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（予算の繰越し）">
+      <article_item number="第十一条">
+        事業団は、予算の実施上必要があるときは、支出予算の経費の金額のうち、当該事業年度内に支出を終わらなかつたものを翌事業年度に繰り越して使用することができる。ただし、予算で指定する経費の金額については、あらかじめ、国土交通大臣の承認を受けなければならない。
+      </article_item>
+      <article_item number="２">
+        事業団は、<l>前項</l>ただし書の規定による承認を受けようとするときは、当該事業年度末までに、事項ごとに、繰越しを必要とする理由及び金額を明らかにした調書を国土交通大臣に提出しなければならない。
+      </article_item>
+      <article_item number="３">
+        事業団は、<l>第一項</l>の規定による繰越しをしたときは、支出予算と同一の区分により、次に掲げる事項を記載した調書を作成し、翌事業年度の五月三十一日までに、国土交通大臣に送付しなければならない。
+        <go>
+          <go_item number="一">
+            繰越しに係る経費の予算現額
+          </go_item>
+          <go_item number="二">
+            <l>前号</l>の予算現額のうち支出決定をした額
+          </go_item>
+          <go_item number="三">
+            第一号の予算現額のうち翌事業年度に繰越しをした額
+          </go_item>
+          <go_item number="四">
+            第一号の予算現額のうち不用となつた額
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（決算報告書）">
+      <article_item number="第十二条">
+        法<l>第三十一条第二項</l>の決算報告書は、収入支出決算書及び債務に関する計算書とする。
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の決算報告書には、<l>第五条</l>の規定により予算総則に規定した事項に係る予算の実施の結果を示さなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十三条" title="（収入支出決算書）">
+      <article_item number="第十三条">
+        <l>前条第一項</l>の収入支出決算書には、収入支出予算と同一の区分により、次に掲げる事項を記載しなければならない。
+        <go>
+          <go_item number="一">
+            収入
+            <go>
+              <go_item number="イ">
+                収入予算額
               </go_item>
-              <go_item number="二">
-                <l>第十条第二項</l>の規定による経費の指定
-                </go_item>
-                <go_item number="三">
-                  <l>第十一条第一項</l>ただし書の規定による経費の指定
-                  </go_item>
-                  <go_item number="四">
-                    長期借入金の借入限度額
-                  </go_item>
-                  <go_item number="五">
-                    その他予算の実施に関し必要な事項
-                  </go_item>
-                </go>
-              </article_item>
-            </articles>
-            <articles number="第六条" title="（収入支出予算）">
-              <article_item number="第六条">
-                毎事業年度における事業団のすべての収入及び支出は、収入支出予算に計上しなければならない。
-              </article_item>
-              <article_item number="２">
-                <l>前項</l>の収入支出予算は、<l>第三条第一項</l>の規定により区分した経理ごとに勘定を設け、収入にあつてはその性質、支出にあつてはその目的に従つて区分する。
-                </article_item>
-              </articles>
-              <articles number="第七条" title="（予算の添附書類）">
-                <article_item number="第七条">
-                  事業団は、法<l>第三十条</l>の規定により予算について国土交通大臣の認可を受けようとするときは、次に掲げる書類を添附して提出しなければならない。ただし、予算について変更の認可を受けようとするときは、<l>第一号</l>の書類は、添附することを要しない。
-                  <go>
-                    <go_item number="一">
-                      前事業年度の予定貸借対照表及び予定損益計算書
-                    </go_item>
-                    <go_item number="二">
-                      当該事業年度の予定貸借対照表及び予定損益計算書
-                    </go_item>
-                    <go_item number="三">
-                      その他予算の参考となる書類
-                    </go_item>
-                  </go>
-                </article_item>
-              </articles>
-              <articles number="第八条" title="（予備費）">
-                <article_item number="第八条">
-                  予見することができない事由による支出予算の不足を補うため、事業団の収入支出予算に予備費を設けることができる。
-                </article_item>
-                <article_item number="２">
-                  事業団は、予備費を使用したときは、その旨を国土交通大臣に通知しなければならない。
-                </article_item>
-                <article_item number="３">
-                  <l>前項</l>の規定による通知は、使用の理由、金額及び積算の基礎を明らかにした調書をもつてするものとする。
-                  </article_item>
-                </articles>
-                <articles number="第九条" title="（債務を負担する行為）">
-                  <article_item number="第九条">
-                    事業団は、支出予算の金額の範囲内におけるもののほか、法<l>第二十六条第一項</l>に規定する業務を行なうため必要があるときは、毎事業年度、予算をもつて国土交通大臣の認可を受けた金額の範囲内において、翌年度以降にわたる債務を負担することができる。
-                  </article_item>
-                </articles>
-                <articles number="第十条" title="（予算の流用等）">
-                  <article_item number="第十条">
-                    事業団は、支出予算については、当該予算に定める目的のほかに使用してはならない。ただし、予算の実施上適当かつ必要であるときは、<l>第六条第二項</l>の規定による区分にかかわらず、彼此流用することができる。
-                  </article_item>
-                  <article_item number="２">
-                    事業団は、予算で指定する経費の金額については、国土交通大臣の承認を受けなければ、流用し、又はこれに予備費を使用することができない。
-                  </article_item>
-                  <article_item number="３">
-                    事業団は、<l>前項</l>の規定による承認を受けようとするときは、予算の流用にあつてはその理由及び金額を明らかにした調書を、予備費の使用にあつてはその理由、金額及び積算の基礎を明らかにした調書を国土交通大臣に提出しなければならない。
-                  </article_item>
-                </articles>
-                <articles number="第十一条" title="（予算の繰越し）">
-                  <article_item number="第十一条">
-                    事業団は、予算の実施上必要があるときは、支出予算の経費の金額のうち、当該事業年度内に支出を終わらなかつたものを翌事業年度に繰り越して使用することができる。ただし、予算で指定する経費の金額については、あらかじめ、国土交通大臣の承認を受けなければならない。
-                  </article_item>
-                  <article_item number="２">
-                    事業団は、<l>前項</l>ただし書の規定による承認を受けようとするときは、当該事業年度末までに、事項ごとに、繰越しを必要とする理由及び金額を明らかにした調書を国土交通大臣に提出しなければならない。
-                  </article_item>
-                  <article_item number="３">
-                    事業団は、<l>第一項</l>の規定による繰越しをしたときは、支出予算と同一の区分により、次に掲げる事項を記載した調書を作成し、翌事業年度の五月三十一日までに、国土交通大臣に送付しなければならない。
-                    <go>
-                      <go_item number="一">
-                        繰越しに係る経費の予算現額
-                      </go_item>
-                      <go_item number="二">
-                        <l>前号</l>の予算現額のうち支出決定をした額
-                        </go_item>
-                        <go_item number="三">
-                          第一号の予算現額のうち翌事業年度に繰越しをした額
-                        </go_item>
-                        <go_item number="四">
-                          第一号の予算現額のうち不用となつた額
-                        </go_item>
-                      </go>
-                    </article_item>
-                  </articles>
-                  <articles number="第十二条" title="（決算報告書）">
-                    <article_item number="第十二条">
-                      法<l>第三十一条第二項</l>の決算報告書は、収入支出決算書及び債務に関する計算書とする。
-                    </article_item>
-                    <article_item number="２">
-                      <l>前項</l>の決算報告書には、<l>第五条</l>の規定により予算総則に規定した事項に係る予算の実施の結果を示さなければならない。
-                      </article_item>
-                    </articles>
-                    <articles number="第十三条" title="（収入支出決算書）">
-                      <article_item number="第十三条">
-                        <l>前条第一項</l>の収入支出決算書には、収入支出予算と同一の区分により、次に掲げる事項を記載しなければならない。
-                          <go>
-                            <go_item number="一">
-                              収入
-                              <go>
-                                <go_item number="イ">
-                                  収入予算額
-                                </go_item>
-                                <go_item number="ロ">
-                                  収入決定済額
-                                </go_item>
-                                <go_item number="ハ">
-                                  収入予算額と収入決定済額との差額
-                                </go_item>
-                              </go>
-                            </go_item>
-                            <go_item number="二">
-                              支出
-                              <go>
-                                <go_item number="イ">
-                                  支出予算額
-                                </go_item>
-                                <go_item number="ロ">
-                                  前事業年度からの繰越額
-                                </go_item>
-                                <go_item number="ハ">
-                                  予備費使用額
-                                </go_item>
-                                <go_item number="ニ">
-                                  流用増減額
-                                </go_item>
-                                <go_item number="ホ">
-                                  支出決定済額
-                                </go_item>
-                                <go_item number="ヘ">
-                                  翌事業年度への繰越額
-                                </go_item>
-                                <go_item number="ト">
-                                  不用額
-                                </go_item>
-                              </go>
-                            </go_item>
-                          </go>
-                        </article_item>
-                      </articles>
-                      <articles number="第十四条" title="（債務に関する計算書）">
-                        <article_item number="第十四条">
-                          <l>第十二条第一項</l>の債務に関する計算書には、事業団の債務について、債務の種類ごとに、前事業年度末における債務額及び当該事業年度に負担した債務額に区分して、当該事業年度において、それらについて償還し、又は支出した金額及び残額を記載しなければならない。
-                          </article_item>
-                        </articles>
-                        <articles number="第十五条" title="（借入金の認可）">
-                          <article_item number="第十五条">
-                            事業団は、法<l>第三十四条第一項</l>の規定により長期借入金又は短期借入金の借入れの認可を受けようとするときは、借入れの日の二十日前までに、次に掲げる事項を記載した申請書を国土交通大臣に提出しなければならない。
-                            <go>
-                              <go_item number="一">
-                                借入れを必要とする理由
-                              </go_item>
-                              <go_item number="二">
-                                借入金の額
-                              </go_item>
-                              <go_item number="三">
-                                借入先
-                              </go_item>
-                              <go_item number="四">
-                                借入金の利率
-                              </go_item>
-                              <go_item number="五">
-                                借入金の償還の方法及び期限
-                              </go_item>
-                              <go_item number="六">
-                                利息の支払の方法
-                              </go_item>
-                              <go_item number="七">
-                                その他必要な事項
-                              </go_item>
-                            </go>
-                          </article_item>
-                          <article_item number="２">
-                            <l>前項</l>の規定は、事業団が法<l>第三十四条第二項</l>ただし書の規定により借換えの認可を受けようとする場合に準用する。
-                            </article_item>
-                          </articles>
-                          <articles number="第十六条" title="（重要な財産）">
-                            <article_item number="第十六条">
-                              法<l>第三十九条</l>の国土交通省令で定める重要な財産は、土地及び建物並びに国土交通大臣が指定するその他の財産とする。
-                            </article_item>
-                          </articles>
-                          <articles number="第十七条" title="（重要な財産の処分等の認可の申請）">
-                            <article_item number="第十七条">
-                              事業団は、法<l>第三十九条</l>の認可を受けようとするときは、次に掲げる事項を記載した書類を国土交通大臣に提出しなければならない。
-                              <go>
-                                <go_item number="一">
-                                  譲渡し、交換し、又は担保に供しようとする財産の内容及び価額
-                                </go_item>
-                                <go_item number="二">
-                                  譲渡し、交換し、又は担保に供しようとする理由
-                                </go_item>
-                                <go_item number="三">
-                                  相手方の氏名（法人にあつては、その名称）及び住所
-                                </go_item>
-                                <go_item number="四">
-                                  譲渡し、交換し、又は担保に供しようとする場合の条件
-                                </go_item>
-                              </go>
-                            </article_item>
-                          </articles>
-                          <articles number="第十八条" title="（会計規程）">
-                            <article_item number="第十八条">
-                              事業団は、その事業の能率的な運営と予算の適正な実施を図るため、その財務及び会計に関し、国土交通大臣の承認を受けて会計規程を定めなければならない。これを変更しようとするときも、同様とする。
-                            </article_item>
-                          </articles>
-                        </body>
+              <go_item number="ロ">
+                収入決定済額
+              </go_item>
+              <go_item number="ハ">
+                収入予算額と収入決定済額との差額
+              </go_item>
+            </go>
+          </go_item>
+          <go_item number="二">
+            支出
+            <go>
+              <go_item number="イ">
+                支出予算額
+              </go_item>
+              <go_item number="ロ">
+                前事業年度からの繰越額
+              </go_item>
+              <go_item number="ハ">
+                予備費使用額
+              </go_item>
+              <go_item number="ニ">
+                流用増減額
+              </go_item>
+              <go_item number="ホ">
+                支出決定済額
+              </go_item>
+              <go_item number="ヘ">
+                翌事業年度への繰越額
+              </go_item>
+              <go_item number="ト">
+                不用額
+              </go_item>
+            </go>
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十四条" title="（債務に関する計算書）">
+      <article_item number="第十四条">
+        <l>第十二条第一項</l>の債務に関する計算書には、事業団の債務について、債務の種類ごとに、前事業年度末における債務額及び当該事業年度に負担した債務額に区分して、当該事業年度において、それらについて償還し、又は支出した金額及び残額を記載しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十五条" title="（借入金の認可）">
+      <article_item number="第十五条">
+        事業団は、法<l>第三十四条第一項</l>の規定により長期借入金又は短期借入金の借入れの認可を受けようとするときは、借入れの日の二十日前までに、次に掲げる事項を記載した申請書を国土交通大臣に提出しなければならない。
+        <go>
+          <go_item number="一">
+            借入れを必要とする理由
+          </go_item>
+          <go_item number="二">
+            借入金の額
+          </go_item>
+          <go_item number="三">
+            借入先
+          </go_item>
+          <go_item number="四">
+            借入金の利率
+          </go_item>
+          <go_item number="五">
+            借入金の償還の方法及び期限
+          </go_item>
+          <go_item number="六">
+            利息の支払の方法
+          </go_item>
+          <go_item number="七">
+            その他必要な事項
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の規定は、事業団が法<l>第三十四条第二項</l>ただし書の規定により借換えの認可を受けようとする場合に準用する。
+      </article_item>
+    </articles>
+    <articles number="第十六条" title="（重要な財産）">
+      <article_item number="第十六条">
+        法<l>第三十九条</l>の国土交通省令で定める重要な財産は、土地及び建物並びに国土交通大臣が指定するその他の財産とする。
+      </article_item>
+    </articles>
+    <articles number="第十七条" title="（重要な財産の処分等の認可の申請）">
+      <article_item number="第十七条">
+        事業団は、法<l>第三十九条</l>の認可を受けようとするときは、次に掲げる事項を記載した書類を国土交通大臣に提出しなければならない。
+        <go>
+          <go_item number="一">
+            譲渡し、交換し、又は担保に供しようとする財産の内容及び価額
+          </go_item>
+          <go_item number="二">
+            譲渡し、交換し、又は担保に供しようとする理由
+          </go_item>
+          <go_item number="三">
+            相手方の氏名（法人にあつては、その名称）及び住所
+          </go_item>
+          <go_item number="四">
+            譲渡し、交換し、又は担保に供しようとする場合の条件
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十八条" title="（会計規程）">
+      <article_item number="第十八条">
+        事業団は、その事業の能率的な運営と予算の適正な実施を図るため、その財務及び会計に関し、国土交通大臣の承認を受けて会計規程を定めなければならない。これを変更しようとするときも、同様とする。
+      </article_item>
+    </articles>
+  </body>
 </law>

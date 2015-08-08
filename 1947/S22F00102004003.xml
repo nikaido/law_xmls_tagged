@@ -49,20 +49,20 @@
           </go_item>
           <go_item number="三">
             <l>前二号</l>に掲げる者から委託を受けた業務に関し申請した者
-            </go_item>
-            <go_item number="四">
-              別に規定するところにより手数料を納付すべき業務に関し申請した者
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第五条">
-        <article_item number="第五条">
-          出張の申請を許可したときは、申請者は<l>第三条</l>の費用の概算額を納めなければならない。但し、当該官庁においてその必要がないと認める場合はこの限りではない。
-        </article_item>
-        <article_item number="○２">
-          <l>前項</l>の規定によつて納めた概算額につき、精算をなした場合において、不足額があるときは申請者にこれを納めしめ、過剰額があるときは申請者に払戻請求書を差し出させる。
-          </article_item>
-        </articles>
-      </body>
+          </go_item>
+          <go_item number="四">
+            別に規定するところにより手数料を納付すべき業務に関し申請した者
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第五条">
+      <article_item number="第五条">
+        出張の申請を許可したときは、申請者は<l>第三条</l>の費用の概算額を納めなければならない。但し、当該官庁においてその必要がないと認める場合はこの限りではない。
+      </article_item>
+      <article_item number="○２">
+        <l>前項</l>の規定によつて納めた概算額につき、精算をなした場合において、不足額があるときは申請者にこれを納めしめ、過剰額があるときは申請者に払戻請求書を差し出させる。
+      </article_item>
+    </articles>
+  </body>
 </law>

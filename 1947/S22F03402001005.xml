@@ -24,22 +24,22 @@
           </go_item>
           <go_item number="二">
             <l>前号</l>の者を担保権者とする担保権の設定の登録
-            </go_item>
-            <go_item number="三">
-              第一号の者を受託者とする信託の登録
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第三条">
-        <article_item number="第三条">
-          <l>前条</l>の規定により登録の変更又は担保権の登録の抹消の請求をする場合においては、その請求書に、<l>同条</l>の規定により請求する旨を明記した書類を添附しなければならない。
-          </article_item>
-        </articles>
-        <articles number="第四条">
-          <article_item number="第四条">
-            登録機関は、同一社債権者の新勘定金融債券について、社債等登録法施行規則<l>第九条</l>の規定にかかわらず、別用紙を備えることができる。
-          </article_item>
-        </articles>
-      </body>
+          </go_item>
+          <go_item number="三">
+            第一号の者を受託者とする信託の登録
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条">
+      <article_item number="第三条">
+        <l>前条</l>の規定により登録の変更又は担保権の登録の抹消の請求をする場合においては、その請求書に、<l>同条</l>の規定により請求する旨を明記した書類を添附しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第四条">
+      <article_item number="第四条">
+        登録機関は、同一社債権者の新勘定金融債券について、社債等登録法施行規則<l>第九条</l>の規定にかかわらず、別用紙を備えることができる。
+      </article_item>
+    </articles>
+  </body>
 </law>

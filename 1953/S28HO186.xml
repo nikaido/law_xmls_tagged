@@ -79,32 +79,32 @@
         </article_item>
         <article_item number="２">
           <l>前項</l>に規定するものの外、国は、公立又は私立の学校に係る理科教育の振興のために特に必要と認められる経費の二分の一を、当該学校の設置者に対し、予算の範囲内において補助する。
-          </article_item>
-          <article_item number="３">
-            <l>前二項</l>の規定により国が私立の学校の設置者に対し補助をする場合においては、私立学校振興助成法（昭和五十年法律第六十一号）<l>第十一条</l>から<l>第十三条</l>まで並びにこれらの規定に係る同法附則<l>第二条第一項</l>及び<l>第二項</l>の規定の適用があるものとする。
-            </article_item>
-          </articles>
-          <articles number="第十条" title="（補助金の返還等）">
-            <article_item number="第十条">
-              文部科学大臣は、<l>前条</l>の規定により補助金の交付を受けた者が次の各号のいずれかに該当するときは、当該年度におけるその後の補助金の交付をやめるとともに、既に交付した当該年度の補助金を返還させるものとする。
-              <go>
-                <go_item number="一">
-                  この法律又はこの法律に基づく政令の規定に違反したとき。
-                </go_item>
-                <go_item number="二">
-                  補助金の交付の条件に違反したとき。
-                </go_item>
-                <go_item number="三">
-                  虚偽の方法によつて補助金の交付を受けたことが明らかになつたとき。
-                </go_item>
-              </go>
-            </article_item>
-          </articles>
-          <articles number="第十一条" title="（政令への委任）">
-            <article_item number="第十一条">
-              <l>前二条</l>に規定するものを除く外、補助金の交付に関し必要な事項は、政令で定める。
-              </article_item>
-            </articles>
-          </section>
-        </body>
+        </article_item>
+        <article_item number="３">
+          <l>前二項</l>の規定により国が私立の学校の設置者に対し補助をする場合においては、私立学校振興助成法（昭和五十年法律第六十一号）<l>第十一条</l>から<l>第十三条</l>まで並びにこれらの規定に係る同法附則<l>第二条第一項</l>及び<l>第二項</l>の規定の適用があるものとする。
+        </article_item>
+      </articles>
+      <articles number="第十条" title="（補助金の返還等）">
+        <article_item number="第十条">
+          文部科学大臣は、<l>前条</l>の規定により補助金の交付を受けた者が次の各号のいずれかに該当するときは、当該年度におけるその後の補助金の交付をやめるとともに、既に交付した当該年度の補助金を返還させるものとする。
+          <go>
+            <go_item number="一">
+              この法律又はこの法律に基づく政令の規定に違反したとき。
+            </go_item>
+            <go_item number="二">
+              補助金の交付の条件に違反したとき。
+            </go_item>
+            <go_item number="三">
+              虚偽の方法によつて補助金の交付を受けたことが明らかになつたとき。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第十一条" title="（政令への委任）">
+        <article_item number="第十一条">
+          <l>前二条</l>に規定するものを除く外、補助金の交付に関し必要な事項は、政令で定める。
+        </article_item>
+      </articles>
+    </section>
+  </body>
 </law>

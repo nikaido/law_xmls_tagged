@@ -22,15 +22,15 @@
           </go_item>
           <go_item number="三">
             <l>前二号</l>の監視又は観測の結果に基づく氾濫により浸水する区域及び時期又は氾濫による浸水の量の予測
-            </go_item>
-            <go_item number="四">
-              人工衛星局の中継により行う無線通信による通信の確保
-            </go_item>
-            <go_item number="五">
-              堤防その他の施設が決壊した場所において行う氾濫による被害の拡大を防止するための仮締切の作業その他国土交通省令で定める作業
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+          <go_item number="四">
+            人工衛星局の中継により行う無線通信による通信の確保
+          </go_item>
+          <go_item number="五">
+            堤防その他の施設が決壊した場所において行う氾濫による被害の拡大を防止するための仮締切の作業その他国土交通省令で定める作業
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

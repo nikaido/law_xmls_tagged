@@ -22,23 +22,23 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の式中の次の各号に掲げる記号は、それぞれ当該各号に定める数値とする。
-          <go>
-            <go_item number="一">
-              Ａ<sub>Ｔ</sub>検液から得たＤＤＶＰのガスクロマトグラフのピーク面積
-            </go_item>
-            <go_item number="二">
-              　Ａ<sub>Ｓ</sub>標準液から得たＤＤＶＰのガスクロマトグラフのピーク面積
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="３">
-          <l>前二項</l>に掲げる標準液の作成方法及び標準液から得たＤＤＶＰのガスクロマトグラフのピーク面積の測定方法並びに検液の作成方法及び検液から得たＤＤＶＰのガスクロマトグラフのピーク面積の測定方法は、別表第二に定めるところによる。
-          </article_item>
-        </articles>
-        <articles number="第三条" title="（容器又は被包の試験方法）">
-          <article_item number="第三条">
-            令別表第一第一号下欄に規定する容器又は被包の試験は、別表第三に定めるところにより行なう。
-          </article_item>
-        </articles>
-      </body>
+        <go>
+          <go_item number="一">
+            Ａ<sub>Ｔ</sub>検液から得たＤＤＶＰのガスクロマトグラフのピーク面積
+          </go_item>
+          <go_item number="二">
+            　Ａ<sub>Ｓ</sub>標準液から得たＤＤＶＰのガスクロマトグラフのピーク面積
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="３">
+        <l>前二項</l>に掲げる標準液の作成方法及び標準液から得たＤＤＶＰのガスクロマトグラフのピーク面積の測定方法並びに検液の作成方法及び検液から得たＤＤＶＰのガスクロマトグラフのピーク面積の測定方法は、別表第二に定めるところによる。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（容器又は被包の試験方法）">
+      <article_item number="第三条">
+        令別表第一第一号下欄に規定する容器又は被包の試験は、別表第三に定めるところにより行なう。
+      </article_item>
+    </articles>
+  </body>
 </law>

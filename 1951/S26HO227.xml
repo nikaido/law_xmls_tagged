@@ -71,33 +71,33 @@
         <go>
           <go_item number="一">
             <l>第五条第一項</l>各号の要件を欠くにいたつたとき。
-            </go_item>
-            <go_item number="二">
-              <l>前三条</l>の規定に違反したとき。
-              </go_item>
-            </go>
-          </article_item>
-          <article_item number="２">
-            <l>前項</l>の処分については、<l>第五条第二項</l>の規定を準用する。
-            </article_item>
-          </articles>
-          <articles number="第十一条" title="（監督）">
-            <article_item number="第十一条">
-              主務大臣は、必要があると認めるときは、補助の決定を受けた研究機関に対して報告をさせ、又はその職員をして帳簿その他の物件を検査させることができる。
-            </article_item>
-            <article_item number="２">
-              <l>前項</l>の規定により職員が検査をする場合においては、その身分を示す証票を携帯し、関係人にこれを呈示しなければならない。
-              </article_item>
-            </articles>
-            <articles number="第十二条" title="（収支決算書）">
-              <article_item number="第十二条">
-                補助金の交付を受けた研究機関は、毎会計年度、収支決算書を作製し、主務大臣に提出しなければならない。
-              </article_item>
-            </articles>
-            <articles number="第十三条" title="（委任規定）">
-              <article_item number="第十三条">
-                補助金の交付の申請手続、補助金の交付を受けた研究機関において備えつけるべき帳簿その他この法律施行のため必要な事項は、主務省令（主務大臣の発する命令をいう。）で定める。
-              </article_item>
-            </articles>
-          </body>
+          </go_item>
+          <go_item number="二">
+            <l>前三条</l>の規定に違反したとき。
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の処分については、<l>第五条第二項</l>の規定を準用する。
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（監督）">
+      <article_item number="第十一条">
+        主務大臣は、必要があると認めるときは、補助の決定を受けた研究機関に対して報告をさせ、又はその職員をして帳簿その他の物件を検査させることができる。
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の規定により職員が検査をする場合においては、その身分を示す証票を携帯し、関係人にこれを呈示しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（収支決算書）">
+      <article_item number="第十二条">
+        補助金の交付を受けた研究機関は、毎会計年度、収支決算書を作製し、主務大臣に提出しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十三条" title="（委任規定）">
+      <article_item number="第十三条">
+        補助金の交付の申請手続、補助金の交付を受けた研究機関において備えつけるべき帳簿その他この法律施行のため必要な事項は、主務省令（主務大臣の発する命令をいう。）で定める。
+      </article_item>
+    </articles>
+  </body>
 </law>

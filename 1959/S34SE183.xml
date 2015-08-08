@@ -19,12 +19,12 @@
           </go_item>
           <go_item number="二">
             <l>前号</l>に規定する期間の毎年五月から九月までの間におけるその地域に係る各日の平均気温の合計を十で除して得た数が二千五百以下であること。
-            </go_item>
-            <go_item number="三">
-              その地域に係る農地と牧野の合計面積に対する畑と牧野の合計面積の割合が百分の七十以上であること。
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+          <go_item number="三">
+            その地域に係る農地と牧野の合計面積に対する畑と牧野の合計面積の割合が百分の七十以上であること。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

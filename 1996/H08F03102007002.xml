@@ -189,12 +189,12 @@
           </go_item>
           <go_item number="五">
             <l>前号</l>の日に出頭する違反者の氏名又は提出する押収物
-            </go_item>
-            <go_item number="六">
-              その他必要な事項
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+          <go_item number="六">
+            その他必要な事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

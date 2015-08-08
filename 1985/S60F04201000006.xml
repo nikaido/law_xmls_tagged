@@ -189,50 +189,50 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の届出書には、次の書類を添付しなければならない。
-          <go>
-            <go_item number="一">
-              建設業法（昭和二十四年法律第百号）<l>第三条第一項</l>の許可を受けたことを証する書面
-            </go_item>
-            <go_item number="二">
-              <l>第三条第一項第二号</l>及び<l>第四号</l>に掲げる書面
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-        <articles number="第十二条" title="（特例浄化槽工事業者の変更の届出）">
-          <article_item number="第十二条">
-            特例浄化槽工事業者は、次の各号に掲げる事項に変更があつたときは、別記様式<l>第十二号</l>による変更届出書を都道府県知事に提出しなければならない。
-            <go>
-              <go_item number="一">
-                氏名又は名称及び住所並びに法人にあつては、その代表者の氏名
-              </go_item>
-              <go_item number="二">
-                建設業法<l>第三条第一項</l>の許可を受けた建設業、許可番号及び許可年月日
-              </go_item>
-              <go_item number="三">
-                浄化槽工事業を営む営業所の名称及び所在地
-              </go_item>
-              <go_item number="四">
-                <l>前号</l>の営業所ごとに置かれる浄化槽設備士の氏名及びその者が交付を受けた浄化槽設備士免状の交付番号
-                </go_item>
-              </go>
-            </article_item>
-            <article_item number="２">
-              <l>前項</l>の場合において、当該変更が次に掲げるものであるときは、当該各号に掲げる書面を変更届出書に添付しなければならない。
-                <go>
-                  <go_item number="一">
-                    <l>前項第二号</l>に掲げる事項の変更　<l>前条第二項第一号</l>に掲げる書面
-                    </go_item>
-                    <go_item number="二">
-                      <l>前項第四号</l>に掲げる事項の変更　<l>前条第二項第二号</l>に掲げる書面
-                      </go_item>
-                    </go>
-                  </article_item>
-                </articles>
-                <articles number="第十三条" title="（身分証明書の様式）">
-                  <article_item number="第十三条">
-                    法<l>第五十三条第三項</l>に規定する身分を示す証明書は、別記様式<l>第十三号</l>によるものとする。
-                  </article_item>
-                </articles>
-              </body>
+        <go>
+          <go_item number="一">
+            建設業法（昭和二十四年法律第百号）<l>第三条第一項</l>の許可を受けたことを証する書面
+          </go_item>
+          <go_item number="二">
+            <l>第三条第一項第二号</l>及び<l>第四号</l>に掲げる書面
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（特例浄化槽工事業者の変更の届出）">
+      <article_item number="第十二条">
+        特例浄化槽工事業者は、次の各号に掲げる事項に変更があつたときは、別記様式<l>第十二号</l>による変更届出書を都道府県知事に提出しなければならない。
+        <go>
+          <go_item number="一">
+            氏名又は名称及び住所並びに法人にあつては、その代表者の氏名
+          </go_item>
+          <go_item number="二">
+            建設業法<l>第三条第一項</l>の許可を受けた建設業、許可番号及び許可年月日
+          </go_item>
+          <go_item number="三">
+            浄化槽工事業を営む営業所の名称及び所在地
+          </go_item>
+          <go_item number="四">
+            <l>前号</l>の営業所ごとに置かれる浄化槽設備士の氏名及びその者が交付を受けた浄化槽設備士免状の交付番号
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の場合において、当該変更が次に掲げるものであるときは、当該各号に掲げる書面を変更届出書に添付しなければならない。
+        <go>
+          <go_item number="一">
+            <l>前項第二号</l>に掲げる事項の変更　<l>前条第二項第一号</l>に掲げる書面
+          </go_item>
+          <go_item number="二">
+            <l>前項第四号</l>に掲げる事項の変更　<l>前条第二項第二号</l>に掲げる書面
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十三条" title="（身分証明書の様式）">
+      <article_item number="第十三条">
+        法<l>第五十三条第三項</l>に規定する身分を示す証明書は、別記様式<l>第十三号</l>によるものとする。
+      </article_item>
+    </articles>
+  </body>
 </law>

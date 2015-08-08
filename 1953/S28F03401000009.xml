@@ -17,21 +17,21 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の承認を受けようとする者は、左の事項を記載した申請書を、その製造場の所在地の所轄税務署長を経由して、財務大臣に提出しなければならない。
-          <go>
-            <go_item number="一">
-              申請者の住所及び氏名又は名称
-            </go_item>
-            <go_item number="二">
-              製造場の位置
-            </go_item>
-            <go_item number="三">
-              新たに設置する場合にあつては、当該連続式蒸留機のアルコールの生産能力、拡張する場合にあつては、当該連続式蒸留機の昭和二十六年五月二十二日、申請時及び当該拡張後におけるアルコールの生産能力
-            </go_item>
-            <go_item number="四">
-              申請の事由
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-    </body>
+        <go>
+          <go_item number="一">
+            申請者の住所及び氏名又は名称
+          </go_item>
+          <go_item number="二">
+            製造場の位置
+          </go_item>
+          <go_item number="三">
+            新たに設置する場合にあつては、当該連続式蒸留機のアルコールの生産能力、拡張する場合にあつては、当該連続式蒸留機の昭和二十六年五月二十二日、申請時及び当該拡張後におけるアルコールの生産能力
+          </go_item>
+          <go_item number="四">
+            申請の事由
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
 </law>

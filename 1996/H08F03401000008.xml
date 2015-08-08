@@ -158,96 +158,96 @@
             </go_item>
             <go_item number="三">
               <l>前条第二項</l>又は<l>第三項</l>の規定に著しく反するとき。
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-        <articles number="第十九条" title="（公述者の退去）">
-          <article_item number="第十九条">
-            主宰者は、公述者が<l>前条</l>の規定による中止の指示に従わないときは、その公述者を退去させることができる。
-          </article_item>
-        </articles>
-        <articles number="第二十条" title="（異議申出書等の代読）">
-          <article_item number="第二十条">
-            主宰者は、異議申出人若しくは公述人又はこれらの者の代理人が正当な理由により公開の意見聴取に出頭することができなかった場合において必要があると認めるときは、公述に代えて異議申出書又は公述申出書の朗読を行うことができる。
-          </article_item>
-        </articles>
-        <articles number="第二十一条" title="（証拠の提出）">
-          <article_item number="第二十一条">
-            公述者は、公開の意見聴取が終了するまでに証拠を提出しなければならない。
-          </article_item>
-          <article_item number="２">
-            主宰者は、<l>前項</l>の規定にかかわらず、公述者が公開の意見聴取において申し出た場合において、公開の意見聴取の終了後の提出が可能であり、かつ、その必要があると認めるときは、公述を行った事項に関する証拠を公開の意見聴取の終了後に提出することを許可することができる。
-          </article_item>
-          <article_item number="３">
-            主宰者は、<l>第一項</l>の規定にかかわらず、必要があると認めるときは、公述を行った事項に関する証拠を公開の意見聴取の終了後に提出すべきことを、公開の意見聴取において公述者に対して要求することができる。
-          </article_item>
-          <article_item number="４">
-            主宰者は、<l>前二項</l>の場合において、提出すべき期日を指定することができる。
-          </article_item>
-        </articles>
-        <articles number="第二十二条" title="（傍聴券の発行）">
-          <article_item number="第二十二条">
-            主宰者は、必要があると認めるときは、傍聴席の数に相応する数の傍聴券を発行し、その所持者に限り傍聴させることができる。
-          </article_item>
-        </articles>
-        <articles number="第二十三条" title="（遵守事項）">
-          <article_item number="第二十三条">
-            傍聴人は、公開の意見聴取の会場への入場又は退場に際し、主宰者又はその指名する者の指示に従わなければならない。
-          </article_item>
-          <article_item number="２">
-            傍聴人は、公開の意見聴取の会場において、次に掲げる事項を守らなければならない。
-            <go>
-              <go_item number="一">
-                静粛に傍聴し、かつ、公開の意見聴取を妨害することその他の行為により公開の意見聴取の進行を妨げないこと。
-              </go_item>
-              <go_item number="二">
-                みだりに席を離れないこと。
-              </go_item>
-              <go_item number="三">
-                主宰者又はその指名する者の指示に従うこと。
-              </go_item>
-            </go>
-          </article_item>
-          <article_item number="３">
-            主宰者は、<l>前二項</l>の規定に従わない傍聴人を退去させることができる。
-          </article_item>
-          <article_item number="４">
-            <l>前三項</l>の規定は、公述中でない公述者について準用する。
-            </article_item>
-          </articles>
-        </section>
-        <section title="第五章　調書の作成及び閲覧" type="Sho">
-          <articles number="第二十四条" title="（調書の作成）">
-            <article_item number="第二十四条">
-              主宰者は、公開の意見聴取の終了後、遅滞なく、次に掲げる事項を記載した調書を作成しなければならない。
-              <go>
-                <go_item number="一">
-                  公開の意見聴取に係る事案の要旨
-                </go_item>
-                <go_item number="二">
-                  公開の意見聴取の期日及び場所
-                </go_item>
-                <go_item number="三">
-                  主宰者の氏名及び職名
-                </go_item>
-                <go_item number="四">
-                  公述者の氏名及び職業又は職名
-                </go_item>
-                <go_item number="五">
-                  公述の要旨
-                </go_item>
-                <go_item number="六">
-                  その他参考となるべき事項
-                </go_item>
-              </go>
-            </article_item>
-          </articles>
-          <articles number="第二十五条" title="（調書の閲覧）">
-            <article_item number="第二十五条">
-              金融庁長官は、<l>前条</l>に規定する調書を閲覧に供するものとする。
-            </article_item>
-          </articles>
-        </section>
-      </body>
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第十九条" title="（公述者の退去）">
+        <article_item number="第十九条">
+          主宰者は、公述者が<l>前条</l>の規定による中止の指示に従わないときは、その公述者を退去させることができる。
+        </article_item>
+      </articles>
+      <articles number="第二十条" title="（異議申出書等の代読）">
+        <article_item number="第二十条">
+          主宰者は、異議申出人若しくは公述人又はこれらの者の代理人が正当な理由により公開の意見聴取に出頭することができなかった場合において必要があると認めるときは、公述に代えて異議申出書又は公述申出書の朗読を行うことができる。
+        </article_item>
+      </articles>
+      <articles number="第二十一条" title="（証拠の提出）">
+        <article_item number="第二十一条">
+          公述者は、公開の意見聴取が終了するまでに証拠を提出しなければならない。
+        </article_item>
+        <article_item number="２">
+          主宰者は、<l>前項</l>の規定にかかわらず、公述者が公開の意見聴取において申し出た場合において、公開の意見聴取の終了後の提出が可能であり、かつ、その必要があると認めるときは、公述を行った事項に関する証拠を公開の意見聴取の終了後に提出することを許可することができる。
+        </article_item>
+        <article_item number="３">
+          主宰者は、<l>第一項</l>の規定にかかわらず、必要があると認めるときは、公述を行った事項に関する証拠を公開の意見聴取の終了後に提出すべきことを、公開の意見聴取において公述者に対して要求することができる。
+        </article_item>
+        <article_item number="４">
+          主宰者は、<l>前二項</l>の場合において、提出すべき期日を指定することができる。
+        </article_item>
+      </articles>
+      <articles number="第二十二条" title="（傍聴券の発行）">
+        <article_item number="第二十二条">
+          主宰者は、必要があると認めるときは、傍聴席の数に相応する数の傍聴券を発行し、その所持者に限り傍聴させることができる。
+        </article_item>
+      </articles>
+      <articles number="第二十三条" title="（遵守事項）">
+        <article_item number="第二十三条">
+          傍聴人は、公開の意見聴取の会場への入場又は退場に際し、主宰者又はその指名する者の指示に従わなければならない。
+        </article_item>
+        <article_item number="２">
+          傍聴人は、公開の意見聴取の会場において、次に掲げる事項を守らなければならない。
+          <go>
+            <go_item number="一">
+              静粛に傍聴し、かつ、公開の意見聴取を妨害することその他の行為により公開の意見聴取の進行を妨げないこと。
+            </go_item>
+            <go_item number="二">
+              みだりに席を離れないこと。
+            </go_item>
+            <go_item number="三">
+              主宰者又はその指名する者の指示に従うこと。
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="３">
+          主宰者は、<l>前二項</l>の規定に従わない傍聴人を退去させることができる。
+        </article_item>
+        <article_item number="４">
+          <l>前三項</l>の規定は、公述中でない公述者について準用する。
+        </article_item>
+      </articles>
+    </section>
+    <section title="第五章　調書の作成及び閲覧" type="Sho">
+      <articles number="第二十四条" title="（調書の作成）">
+        <article_item number="第二十四条">
+          主宰者は、公開の意見聴取の終了後、遅滞なく、次に掲げる事項を記載した調書を作成しなければならない。
+          <go>
+            <go_item number="一">
+              公開の意見聴取に係る事案の要旨
+            </go_item>
+            <go_item number="二">
+              公開の意見聴取の期日及び場所
+            </go_item>
+            <go_item number="三">
+              主宰者の氏名及び職名
+            </go_item>
+            <go_item number="四">
+              公述者の氏名及び職業又は職名
+            </go_item>
+            <go_item number="五">
+              公述の要旨
+            </go_item>
+            <go_item number="六">
+              その他参考となるべき事項
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第二十五条" title="（調書の閲覧）">
+        <article_item number="第二十五条">
+          金融庁長官は、<l>前条</l>に規定する調書を閲覧に供するものとする。
+        </article_item>
+      </articles>
+    </section>
+  </body>
 </law>

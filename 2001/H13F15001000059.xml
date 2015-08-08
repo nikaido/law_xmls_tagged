@@ -54,17 +54,17 @@
           </go_item>
           <go_item number="三">
             <l>前二号</l>に掲げるもののほか、使用済管等の利用に関する事項
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="３">
-          事業者は、使用済管等利用計画の実施の状況について、記録を行うものとする。
-        </article_item>
-      </articles>
-      <articles number="第五条" title="（情報の提供）">
-        <article_item number="第五条">
-          事業者は、硬質塩化ビニル製の管又は管継手の需要者の使用済管等の利用に関する理解を深めるため、製造する硬質塩化ビニル製の管又は管継手の品質その他の必要な情報の提供を行うものとする。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="３">
+        事業者は、使用済管等利用計画の実施の状況について、記録を行うものとする。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（情報の提供）">
+      <article_item number="第五条">
+        事業者は、硬質塩化ビニル製の管又は管継手の需要者の使用済管等の利用に関する理解を深めるため、製造する硬質塩化ビニル製の管又は管継手の品質その他の必要な情報の提供を行うものとする。
+      </article_item>
+    </articles>
+  </body>
 </law>

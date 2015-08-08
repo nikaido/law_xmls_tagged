@@ -302,35 +302,35 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の申請書には、次に掲げる書類を添付しなければならない。
-          <go>
-            <go_item number="一">
-              定款
-            </go_item>
-            <go_item number="二">
-              登記事項証明書
-            </go_item>
-            <go_item number="三">
-              役員の氏名、住所及び略歴を記載した書面
-            </go_item>
-            <go_item number="四">
-              指定の申請に関する意思の決定を証する書面
-            </go_item>
-            <go_item number="五">
-              法<l>第二十一条</l>各号に掲げる業務の実施に関する基本的な計画
-            </go_item>
-            <go_item number="六">
-              法<l>第二十一条</l>各号に掲げる業務を適正かつ確実に実施できることを証する書面
-            </go_item>
-            <go_item number="七">
-              遊漁船業者を直接又は間接の構成員とすることを証する書面
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第十六条" title="（身分を示す証明書の様式）">
-        <article_item number="第十六条">
-          法<l>第二十四条第二項</l>に規定する証明書の様式は、別記様式<l>第九号</l>とする。
-        </article_item>
-      </articles>
-    </body>
+        <go>
+          <go_item number="一">
+            定款
+          </go_item>
+          <go_item number="二">
+            登記事項証明書
+          </go_item>
+          <go_item number="三">
+            役員の氏名、住所及び略歴を記載した書面
+          </go_item>
+          <go_item number="四">
+            指定の申請に関する意思の決定を証する書面
+          </go_item>
+          <go_item number="五">
+            法<l>第二十一条</l>各号に掲げる業務の実施に関する基本的な計画
+          </go_item>
+          <go_item number="六">
+            法<l>第二十一条</l>各号に掲げる業務を適正かつ確実に実施できることを証する書面
+          </go_item>
+          <go_item number="七">
+            遊漁船業者を直接又は間接の構成員とすることを証する書面
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十六条" title="（身分を示す証明書の様式）">
+      <article_item number="第十六条">
+        法<l>第二十四条第二項</l>に規定する証明書の様式は、別記様式<l>第九号</l>とする。
+      </article_item>
+    </articles>
+  </body>
 </law>

@@ -30,67 +30,67 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の届出書には、法<l>第八条第二項</l>の規定による届出を行う者が<l>同条第一項</l>の合意により定められた代表者であることを証する書面を添付しなければならない。
-        </article_item>
-      </articles>
-      <articles number="第四条" title="（代表者の届出事項）">
-        <article_item number="第四条">
-          法<l>第八条第二項</l>の内閣府令・防衛省令で定める事項は、次に掲げる事項とする。
-          <go>
-            <go_item number="一">
-              届出に係る法<l>第八条第一項</l>の区域の表示
-            </go_item>
-            <go_item number="二">
-              <l>前号</l>の区域内の各筆の土地の所有者の住所及び氏名並びにその所有に係る土地の地番（当該土地が登記されていない場合にあつては、当該土地の位置）
-              </go_item>
-              <go_item number="三">
-                法<l>第十条第一項</l>の協議の開始の予定時期
-              </go_item>
-              <go_item number="四">
-                その他参考となる事項
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-        <articles number="第五条" title="（地図等の交付の公告）">
-          <article_item number="第五条">
-            <l>第二条第二項</l>の規定は、法<l>第九条</l>の規定による公告について準用する。
-            </article_item>
-          </articles>
-          <articles number="第六条" title="（位置境界の確認を求める方法）">
-            <article_item number="第六条">
-              法<l>第十条第一項</l>の規定により確認を求めるには、令<l>第五条第一号</l>から<l>第三号</l>まで及び<l>第五号</l>に掲げる事項並びに当該確認を求める法<l>第八条第一項</l>の区域に係る令<l>第三条第一項</l>の協力委員が選任されている場合にあつては当該協力委員の住所及び氏名を記載した書面によらなければならない。
-            </article_item>
-          </articles>
-          <articles number="第七条" title="（位置境界の確認の通知）">
-            <article_item number="第七条">
-              法<l>第十二条第一項</l>の規定による通知は、書面により行わなければならない。
-            </article_item>
-          </articles>
-          <articles number="第八条" title="（現地確認書の記載事項）">
-            <article_item number="第八条">
-              法<l>第十二条第四項</l>の内閣府令・防衛省令で定める事項は、次に掲げる事項とする。
-              <go>
-                <go_item number="一">
-                  法<l>第十二条第三項</l>の規定による確認が行われた年月日
-                </go_item>
-                <go_item number="二">
-                  法<l>第十二条第三項</l>の規定による確認が行われた各筆の土地の面積
-                </go_item>
-                <go_item number="三">
-                  法<l>第十二条第三項</l>の規定による確認が<l>同項</l>に規定する方法により行われた旨
-                </go_item>
-              </go>
-            </article_item>
-          </articles>
-          <articles number="第九条" title="（身分証明書の様式）">
-            <article_item number="第九条">
-              法<l>第十五条第三項</l>の証明書の様式は、様式<l>第一号</l>のとおりとする。
-            </article_item>
-          </articles>
-          <articles number="第十条" title="（裁決申請書の様式）">
-            <article_item number="第十条">
-              令<l>第十一条</l>の裁決申請書の様式は、様式<l>第二号</l>のとおりとする。
-            </article_item>
-          </articles>
-        </body>
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（代表者の届出事項）">
+      <article_item number="第四条">
+        法<l>第八条第二項</l>の内閣府令・防衛省令で定める事項は、次に掲げる事項とする。
+        <go>
+          <go_item number="一">
+            届出に係る法<l>第八条第一項</l>の区域の表示
+          </go_item>
+          <go_item number="二">
+            <l>前号</l>の区域内の各筆の土地の所有者の住所及び氏名並びにその所有に係る土地の地番（当該土地が登記されていない場合にあつては、当該土地の位置）
+          </go_item>
+          <go_item number="三">
+            法<l>第十条第一項</l>の協議の開始の予定時期
+          </go_item>
+          <go_item number="四">
+            その他参考となる事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（地図等の交付の公告）">
+      <article_item number="第五条">
+        <l>第二条第二項</l>の規定は、法<l>第九条</l>の規定による公告について準用する。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（位置境界の確認を求める方法）">
+      <article_item number="第六条">
+        法<l>第十条第一項</l>の規定により確認を求めるには、令<l>第五条第一号</l>から<l>第三号</l>まで及び<l>第五号</l>に掲げる事項並びに当該確認を求める法<l>第八条第一項</l>の区域に係る令<l>第三条第一項</l>の協力委員が選任されている場合にあつては当該協力委員の住所及び氏名を記載した書面によらなければならない。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（位置境界の確認の通知）">
+      <article_item number="第七条">
+        法<l>第十二条第一項</l>の規定による通知は、書面により行わなければならない。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（現地確認書の記載事項）">
+      <article_item number="第八条">
+        法<l>第十二条第四項</l>の内閣府令・防衛省令で定める事項は、次に掲げる事項とする。
+        <go>
+          <go_item number="一">
+            法<l>第十二条第三項</l>の規定による確認が行われた年月日
+          </go_item>
+          <go_item number="二">
+            法<l>第十二条第三項</l>の規定による確認が行われた各筆の土地の面積
+          </go_item>
+          <go_item number="三">
+            法<l>第十二条第三項</l>の規定による確認が<l>同項</l>に規定する方法により行われた旨
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（身分証明書の様式）">
+      <article_item number="第九条">
+        法<l>第十五条第三項</l>の証明書の様式は、様式<l>第一号</l>のとおりとする。
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（裁決申請書の様式）">
+      <article_item number="第十条">
+        令<l>第十一条</l>の裁決申請書の様式は、様式<l>第二号</l>のとおりとする。
+      </article_item>
+    </articles>
+  </body>
 </law>

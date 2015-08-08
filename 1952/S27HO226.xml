@@ -82,61 +82,61 @@
         <go>
           <go_item number="一">
             <l>第六条</l>の規定による指示に従わないとき。
-            </go_item>
-            <go_item number="二">
-              <l>第七条第一項</l>若しくは<l>第二項</l>又は<l>前条</l>の規定に違反したとき。
-              </go_item>
-              <go_item number="三">
-                <l>第八条</l>の規定により提出する書類に虚偽の記載をしたとき。
-                </go_item>
-              </go>
-            </article_item>
-          </articles>
-          <articles number="第十二条">
-            <article_item number="第十二条">
-              削除
-            </article_item>
-          </articles>
-          <articles number="第十三条">
-            <article_item number="第十三条">
-              削除
-            </article_item>
-          </articles>
-          <articles number="第十四条">
-            <article_item number="第十四条">
-              削除
-            </article_item>
-          </articles>
-          <articles number="第十五条">
-            <article_item number="第十五条">
-              削除
-            </article_item>
-          </articles>
-          <articles number="第十六条" title="（権限の委任）">
-            <article_item number="第十六条">
-              この法律に規定する国土交通大臣の権限は、国土交通省令で定めるところにより、その一部を地方運輸局長（運輸監理部長を含む。）に委任することができる。
-            </article_item>
-          </articles>
-          <articles number="第十七条" title="（立入検査）">
-            <article_item number="第十七条">
-              国土交通大臣は、この法律の施行を確保するため必要があると認めるときは、その職員にこの法律の規定により助成を受ける離島航路事業者の使用する船舶、事業場その他の場所に立ち入り、帳簿書類その他の物件に関し検査をさせることができる。
-            </article_item>
-            <article_item number="２">
-              当該職員は、<l>前項</l>の規定により立入検査をする場合においては、その身分を示す証票を携帯し、利害関係人に呈示しなければならない。
-            </article_item>
-            <article_item number="３">
-              第一項の規定による立入検査の権限は、犯罪捜査のため認められたものと解してはならない。
-            </article_item>
-          </articles>
-          <articles number="第十八条" title="（罰則）">
-            <article_item number="第十八条">
-              <l>前条第一項</l>の規定による検査を拒み、妨げ、又は忌避した者は、三万円以下の罰金に処する。
-              </article_item>
-            </articles>
-            <articles number="第十九条" title="（施行規定）">
-              <article_item number="第十九条">
-                この法律に定めるもののほか、この法律の施行に関し必要な事項は、国土交通省令で定める。
-              </article_item>
-            </articles>
-          </body>
+          </go_item>
+          <go_item number="二">
+            <l>第七条第一項</l>若しくは<l>第二項</l>又は<l>前条</l>の規定に違反したとき。
+          </go_item>
+          <go_item number="三">
+            <l>第八条</l>の規定により提出する書類に虚偽の記載をしたとき。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十二条">
+      <article_item number="第十二条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第十三条">
+      <article_item number="第十三条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第十四条">
+      <article_item number="第十四条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第十五条">
+      <article_item number="第十五条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第十六条" title="（権限の委任）">
+      <article_item number="第十六条">
+        この法律に規定する国土交通大臣の権限は、国土交通省令で定めるところにより、その一部を地方運輸局長（運輸監理部長を含む。）に委任することができる。
+      </article_item>
+    </articles>
+    <articles number="第十七条" title="（立入検査）">
+      <article_item number="第十七条">
+        国土交通大臣は、この法律の施行を確保するため必要があると認めるときは、その職員にこの法律の規定により助成を受ける離島航路事業者の使用する船舶、事業場その他の場所に立ち入り、帳簿書類その他の物件に関し検査をさせることができる。
+      </article_item>
+      <article_item number="２">
+        当該職員は、<l>前項</l>の規定により立入検査をする場合においては、その身分を示す証票を携帯し、利害関係人に呈示しなければならない。
+      </article_item>
+      <article_item number="３">
+        第一項の規定による立入検査の権限は、犯罪捜査のため認められたものと解してはならない。
+      </article_item>
+    </articles>
+    <articles number="第十八条" title="（罰則）">
+      <article_item number="第十八条">
+        <l>前条第一項</l>の規定による検査を拒み、妨げ、又は忌避した者は、三万円以下の罰金に処する。
+      </article_item>
+    </articles>
+    <articles number="第十九条" title="（施行規定）">
+      <article_item number="第十九条">
+        この法律に定めるもののほか、この法律の施行に関し必要な事項は、国土交通省令で定める。
+      </article_item>
+    </articles>
+  </body>
 </law>

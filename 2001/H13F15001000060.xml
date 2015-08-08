@@ -63,17 +63,17 @@
           </go_item>
           <go_item number="四">
             <l>前三号</l>に掲げるもののほか、再生部品の利用に関する事項
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="３">
-          事業者は、再生部品利用計画の実施の状況について、記録を行うものとする。
-        </article_item>
-      </articles>
-      <articles number="第六条" title="（情報の提供）">
-        <article_item number="第六条">
-          事業者は、複写機の需要者の再生部品の利用に関する理解を深めるため、製造する複写機の再生部品利用量及び品質その他の必要な情報の提供を行うものとする。
-        </article_item>
-      </articles>
-    </body>
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="３">
+        事業者は、再生部品利用計画の実施の状況について、記録を行うものとする。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（情報の提供）">
+      <article_item number="第六条">
+        事業者は、複写機の需要者の再生部品の利用に関する理解を深めるため、製造する複写機の再生部品利用量及び品質その他の必要な情報の提供を行うものとする。
+      </article_item>
+    </articles>
+  </body>
 </law>

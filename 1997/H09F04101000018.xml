@@ -21,26 +21,26 @@
       </article_item>
       <article_item number="２">
         <l>前項</l>の申出は、次に掲げる事項を記載した申出書を平成九年四月一日から同年八月三十一日までの間に事業団に提出してしなければならない。
-          <go>
-            <go_item number="一">
-              共済契約者の氏名又は名称及び住所
-            </go_item>
-            <go_item number="二">
-              認定を受けようとする退職金共済契約の被共済者の氏名
-            </go_item>
-            <go_item number="三">
-              法附則<l>第二条第一項</l>本文に規定する期間の経過後における掛金月額を五千円以上に増加させることが著しく困難である理由
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第三条" title="（認定の申請及び通知）">
-        <article_item number="第三条">
-          事業団は、<l>前条第一項</l>の申出があったときは、労働大臣に対し、認定の申請をしなければならない。
-        </article_item>
-        <article_item number="２">
-          事業団は、<l>前項</l>の申請について、労働大臣が認定したとき、又は認定しなかったときは、その旨を当該共済契約者に通知しなければならない。
-        </article_item>
-      </articles>
-    </body>
+        <go>
+          <go_item number="一">
+            共済契約者の氏名又は名称及び住所
+          </go_item>
+          <go_item number="二">
+            認定を受けようとする退職金共済契約の被共済者の氏名
+          </go_item>
+          <go_item number="三">
+            法附則<l>第二条第一項</l>本文に規定する期間の経過後における掛金月額を五千円以上に増加させることが著しく困難である理由
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（認定の申請及び通知）">
+      <article_item number="第三条">
+        事業団は、<l>前条第一項</l>の申出があったときは、労働大臣に対し、認定の申請をしなければならない。
+      </article_item>
+      <article_item number="２">
+        事業団は、<l>前項</l>の申請について、労働大臣が認定したとき、又は認定しなかったときは、その旨を当該共済契約者に通知しなければならない。
+      </article_item>
+    </articles>
+  </body>
 </law>

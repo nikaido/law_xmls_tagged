@@ -23,56 +23,56 @@
           </go_item>
           <go_item number="三">
             <l>前号</l>の海外の美術品等の名称、員数及び種類
-            </go_item>
-            <go_item number="四">
-              第二号の海外の美術品等の寸法、重量、形状その他の特徴
-            </go_item>
-            <go_item number="五">
-              第二号の海外の美術品等の由来及び歴史上、芸術上又は学術上の価値
-            </go_item>
-            <go_item number="六">
-              第二号の海外の美術品等を借り受ける期間
-            </go_item>
-            <go_item number="七">
-              第二号の海外の美術品等を公開する目的
-            </go_item>
-            <go_item number="八">
-              第二号の海外の美術品等を公開する予定の施設の名称及び所在地並びに当該海外の美術品等を公開する予定の期間
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="２">
-          <l>前項</l>の申請書には、<l>前項第二号</l>の海外の美術品等に係る使用貸借又は賃貸借に関する契約書の写し、当該海外の美術品等の現状を示す明瞭な写真その他参考となるべき書類及び資料を添付しなければならない。
-          </article_item>
-        </articles>
-        <articles number="第二条" title="（指定の公示）">
-          <article_item number="第二条">
-            文部科学大臣は、指定をしたときは、次に掲げる事項を公示しなければならない。
-            <go>
-              <go_item number="一">
-                指定をした海外の美術品等（以下「指定美術品等」という。）の名称
-              </go_item>
-              <go_item number="二">
-                指定をした日及び指定の有効期間
-              </go_item>
-              <go_item number="三">
-                指定美術品等を公開しようとする者の氏名又は名称及び住所並びに法人にあっては、その代表者の氏名
-              </go_item>
-              <go_item number="四">
-                指定美術品等を公開する予定の施設の名称及び所在地並びに指定美術品等を公開する予定の期間
-              </go_item>
-            </go>
-          </article_item>
-        </articles>
-        <articles number="第三条" title="（指定の取消しの公示）">
-          <article_item number="第三条">
-            文部科学大臣は、指定を取り消したときは、その旨を公示しなければならない。
-          </article_item>
-        </articles>
-        <articles number="第四条" title="（公示の方法）">
-          <article_item number="第四条">
-            <l>第二条</l>及び<l>前条</l>の規定による公示は、官報に掲載することによって行う。
-            </article_item>
-          </articles>
-        </body>
+          </go_item>
+          <go_item number="四">
+            第二号の海外の美術品等の寸法、重量、形状その他の特徴
+          </go_item>
+          <go_item number="五">
+            第二号の海外の美術品等の由来及び歴史上、芸術上又は学術上の価値
+          </go_item>
+          <go_item number="六">
+            第二号の海外の美術品等を借り受ける期間
+          </go_item>
+          <go_item number="七">
+            第二号の海外の美術品等を公開する目的
+          </go_item>
+          <go_item number="八">
+            第二号の海外の美術品等を公開する予定の施設の名称及び所在地並びに当該海外の美術品等を公開する予定の期間
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        <l>前項</l>の申請書には、<l>前項第二号</l>の海外の美術品等に係る使用貸借又は賃貸借に関する契約書の写し、当該海外の美術品等の現状を示す明瞭な写真その他参考となるべき書類及び資料を添付しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（指定の公示）">
+      <article_item number="第二条">
+        文部科学大臣は、指定をしたときは、次に掲げる事項を公示しなければならない。
+        <go>
+          <go_item number="一">
+            指定をした海外の美術品等（以下「指定美術品等」という。）の名称
+          </go_item>
+          <go_item number="二">
+            指定をした日及び指定の有効期間
+          </go_item>
+          <go_item number="三">
+            指定美術品等を公開しようとする者の氏名又は名称及び住所並びに法人にあっては、その代表者の氏名
+          </go_item>
+          <go_item number="四">
+            指定美術品等を公開する予定の施設の名称及び所在地並びに指定美術品等を公開する予定の期間
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（指定の取消しの公示）">
+      <article_item number="第三条">
+        文部科学大臣は、指定を取り消したときは、その旨を公示しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（公示の方法）">
+      <article_item number="第四条">
+        <l>第二条</l>及び<l>前条</l>の規定による公示は、官報に掲載することによって行う。
+      </article_item>
+    </articles>
+  </body>
 </law>
