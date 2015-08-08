@@ -107,7 +107,7 @@
           </go>
         </article_item>
         <article_item number="３">
-          第一項の資格検定は、身体、技能、学力及び人物について行うものとする。
+          <l>第一項</l>の資格検定は、身体、技能、学力及び人物について行うものとする。
         </article_item>
       </articles>
       <articles number="第九条" title="（欠格事由）">
@@ -229,7 +229,7 @@
           </go>
         </article_item>
         <article_item number="３">
-          第一項の資格検定は、競走車の種類及び規格別に、身体、技能、学力及び人物について行うものとする。
+          <l>第一項</l>の資格検定は、競走車の種類及び規格別に、身体、技能、学力及び人物について行うものとする。
         </article_item>
       </articles>
       <articles number="第十六条" title="（欠格事由）">
@@ -357,7 +357,7 @@
           </go>
         </article_item>
         <article_item number="３">
-          第一項の競走車登録検査は、構造及び性能について行うものとする。
+          <l>第一項</l>の競走車登録検査は、構造及び性能について行うものとする。
         </article_item>
       </articles>
       <articles number="第二十三条" title="（登録資格）">

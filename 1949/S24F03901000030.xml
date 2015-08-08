@@ -31,7 +31,7 @@
             当該航路標識の機器の構成を示した図面
           </go_item>
           <go_item number="六">
-            第一号書式による告示要項書
+            <l>第一号</l>書式による告示要項書
           </go_item>
         </go>
       </article_item>

@@ -107,7 +107,7 @@
           </go>
         </article_item>
         <article_item number="３">
-          第一項の資格検定は、身体、技能、学力及び人物について行うものとする。
+          <l>第一項</l>の資格検定は、身体、技能、学力及び人物について行うものとする。
         </article_item>
       </articles>
       <articles number="第九条" title="（欠格事由）">
@@ -223,7 +223,7 @@
           </go>
         </article_item>
         <article_item number="３">
-          第一項の資格検定は、身体、技能、学力及び人物について行うものとする。
+          <l>第一項</l>の資格検定は、身体、技能、学力及び人物について行うものとする。
         </article_item>
       </articles>
       <articles number="第十六条" title="（欠格事由）">
@@ -347,7 +347,7 @@
           </go>
         </article_item>
         <article_item number="３">
-          第一項第二号の自転車の登録にあつては、自転車登録簿には、次の各号に掲げる事項を登録する。
+          <l>第一項第二号</l>の自転車の登録にあつては、自転車登録簿には、次の各号に掲げる事項を登録する。
           <go>
             <go_item number="一">
               自転車を所有する選手の氏名
