@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>課徴金の納付の督促状の様式等に関する規則</title>
+    <defined>昭和五十二年十二月二日公正取引委員会規則第四号</defined>
+    <updated>平成二七年一月二一日公正取引委員会規則第二号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        私的独占の禁止及び公正取引の確保に関する法律（昭和二十二年法律第五十四号）<l>第七十六条</l>の規定に基づき、課徴金の納付の督促状の様式等に関する規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（課徴金の納付の督促）">
+      <article_item number="第一条">
+        私的独占の禁止及び公正取引の確保に関する法律（昭和二十二年法律第五十四号。以下「法」という。）<l>第六十九条第一項</l>の規定による課徴金の納付の督促は、様式<l>第一号</l>の督促状を送達して行うものとする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（滞納処分を行う職員の身分証明書）">
+      <article_item number="第二条">
+        法<l>第六十九条第四項</l>の規定により滞納処分を行う職員が携帯する身分証明書は、様式<l>第二号</l>のとおりとする。
+      </article_item>
+    </articles>
+  </body>
+</law>

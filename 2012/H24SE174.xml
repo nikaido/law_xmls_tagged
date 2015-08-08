@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>特定タンカーに係る特定賠償義務履行担保契約等に関する特別措置法施行令</title>
+    <defined>平成二十四年六月二十七日政令第百七十四号</defined>
+    <updated>平成二七年三月二七日政令第一一五号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、特定タンカーに係る特定賠償義務履行担保契約等に関する特別措置法（平成二十四年法律第五十二号）<l>第二条第十号</l>イ及び<l>第十一号</l>ロ、<l>第五条</l>並びに<l>第十二条第一項第二号</l>及び<l>第五号</l>の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（特定損害保険契約の保険金額の下限）">
+      <article_item number="第一条">
+        特定タンカーに係る特定賠償義務履行担保契約等に関する特別措置法（以下「法」という。）<l>第二条第十号</l>イの政令で定める金額は、九億九千万円とする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（担保上限金額の算定の基礎となる金額）">
+      <article_item number="第二条">
+        法<l>第二条第十一号</l>ロの政令で定める金額は、八千七百七十七億五千六百七十七万四千円とする。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（納付金の金額）">
+      <article_item number="第三条">
+        法<l>第五条</l>の政令で定める金額は、千八百万円とする。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（納付金の納付期限）">
+      <article_item number="第四条">
+        法<l>第十二条第一項第二号</l>の政令で定める期限は、法<l>第三条第一項</l>に規定する特定保険者交付金交付契約の締結の日とする。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（その規定の違反が特定保険者交付金交付契約の解除の事由となる法律の範囲）">
+      <article_item number="第五条">
+        法<l>第十二条第一項第五号</l>の政令で定める法律は、次のとおりとする。
+        <go>
+          <go_item number="一">
+            船舶安全法（昭和八年法律第十一号）
+          </go_item>
+          <go_item number="二">
+            船員法（昭和二十二年法律第百号）
+          </go_item>
+          <go_item number="三">
+            船舶職員及び小型船舶操縦者法（昭和二十六年法律第百四十九号）
+          </go_item>
+          <go_item number="四">
+            海洋汚染等及び海上災害の防止に関する法律（昭和四十五年法律第百三十六号）
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
+</law>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>人質による強要行為等の処罰に関する法律</title>
+    <defined>昭和五十三年五月十六日法律第四十八号</defined>
+    <updated>平成一六年六月一八日法律第一一五号</updated>
+  </head>
+  <body>
+    <articles number="第一条" title="（人質による強要等）">
+      <article_item number="第一条">
+        人を逮捕し、又は監禁し、これを人質にして、第三者に対し、義務のない行為をすること又は権利を行わないことを要求した者は、六月以上十年以下の懲役に処する。
+      </article_item>
+      <article_item number="２">
+        第三者に対して義務のない行為をすること又は権利を行わないことを要求するための人質にする目的で、人を逮捕し、又は監禁した者も、<l>前項</l>と同様とする。
+      </article_item>
+      <article_item number="３">
+        <l>前項</l>の未遂罪は、罰する。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（加重人質強要）">
+        <article_item number="第二条">
+          二人以上共同して、かつ、凶器を示して人を逮捕し、又は監禁した者が、これを人質にして、第三者に対し、義務のない行為をすること又は権利を行わないことを要求したときは、無期又は五年以上の懲役に処する。
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（加重人質強要）">
+        <article_item number="第三条">
+          航空機の強取等の処罰に関する法律（昭和四十五年法律第六十八号）<l>第一条第一項</l>の罪を犯した者が、当該航空機内にある者を人質にして、第三者に対し、義務のない行為をすること又は権利を行わないことを要求したときは、無期又は十年以上の懲役に処する。
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（人質殺害）">
+        <article_item number="第四条">
+          <l>第二条</l>又は<l>前条</l>の罪を犯した者が、人質にされている者を殺したときは、死刑又は無期懲役に処する。
+          </article_item>
+          <article_item number="２">
+            <l>前項</l>の未遂罪は、罰する。
+            </article_item>
+          </articles>
+          <articles number="第五条" title="（国外犯）">
+            <article_item number="第五条">
+              <l>第一条</l>の罪は刑法（明治四十年法律第四十五号）<l>第三条</l>、<l>第三条の二</l>及び<l>第四条の二</l>の例に、<l>前三条</l>の罪は同法<l>第二条</l>の例に従う。
+              </article_item>
+            </articles>
+          </body>
+</law>

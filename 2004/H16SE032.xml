@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>国立研究開発法人海洋研究開発機構法施行令</title>
+    <defined>平成十六年三月五日政令第三十二号</defined>
+    <updated>平成二七年三月一八日政令第七四号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、独立行政法人海洋研究開発機構法（平成十五年法律第九十五号）<l>第六条第六項</l>、<l>第十八条第四項</l>及び<l>第二十二条</l>並びに附則<l>第二条第一号</l>、<l>第八条</l>、<l>第九条</l>、<l>第十条第三項</l>及び<l>第六項</l>、<l>第十一条第一項</l>及び<l>第六項</l>並びに<l>第十八条</l>の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="１">
+      <article_item number="１">
+        国立研究開発法人海洋研究開発機構法（平成十五年法律第九十五号。以下「法」という。）<l>第六条第五項</l>の評価委員は、必要の都度、次に掲げる者につき文部科学大臣が任命する。
+        <go>
+          <go_item number="一">
+            財務省の職員　一人
+          </go_item>
+          <go_item number="二">
+            文部科学省の職員　一人
+          </go_item>
+          <go_item number="三">
+            国立研究開発法人海洋研究開発機構（以下「機構」という。）の役員　一人
+          </go_item>
+          <go_item number="四">
+            学識経験のある者　二人
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        法<l>第六条第五項</l>の規定による評価は、<l>同項</l>の評価委員の過半数の一致によるものとする。 
+      </article_item>
+      <article_item number="３">
+        法<l>第六条第五項</l>の規定による評価に関する庶務は、文部科学省研究開発局海洋地球課において処理する。 
+      </article_item>
+    </articles>
+  </body>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>天皇陛下御即位記念のための十万円の貨幣の発行に関する法律</title>
+    <defined>平成二年六月十三日法律第二十九号</defined>
+  </head>
+  <body>
+    <articles number="第一条">
+      <article_item number="第一条">
+        政府は、天皇陛下御即位を記念するため、通貨の単位及び貨幣の発行等に関する法律（昭和六十二年法律第四十二号）<l>第五条第二項</l>に規定するもののほか、十万円の貨幣を発行することができる。
+      </article_item>
+    </articles>
+    <articles number="第二条">
+      <article_item number="第二条">
+        <l>前条</l>の規定により発行する貨幣については、通貨の単位及び貨幣の発行等に関する法律<l>第四条</l>、<l>第五条第三項</l>及び<l>第六条</l>から<l>第十条</l>までの規定を適用する。
+        </article_item>
+      </articles>
+    </body>
+</law>

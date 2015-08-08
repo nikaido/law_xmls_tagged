@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>東日本大震災についての特定非常災害及びこれに対し適用すべき措置の指定に関する政令</title>
+    <defined>平成二十三年三月十三日政令第十九号</defined>
+    <updated>平成二五年六月二一日政令第一八七号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、特定非常災害の被害者の権利利益の保全等を図るための特別措置に関する法律（平成八年法律第八十五号）<l>第二条第一項</l>及び<l>第二項</l>前段、<l>第三条第一項</l>、<l>第四条第一項</l>並びに<l>第五条第一項</l>の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（特定非常災害の指定）">
+      <article_item number="第一条">
+        特定非常災害の被害者の権利利益の保全等を図るための特別措置に関する法律（以下「法」という。）<l>第二条第一項</l>の特定非常災害として東日本大震災（平成二十三年三月十一日に発生した東北地方太平洋沖地震及びこれに伴う原子力発電所の事故による災害をいう。<l>第六条第一項</l>において同じ。）を指定し、同日を<l>同項</l>の特定非常災害発生日として定める。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（特定非常災害に対し適用すべき措置の指定）">
+      <article_item number="第二条">
+        <l>前条</l>の特定非常災害に対し適用すべき措置として法<l>第三条</l>から<l>第五条</l>まで、<l>第七条</l>及び<l>第八条</l>に規定する措置を指定する。
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（延長期日）">
+        <article_item number="第三条">
+          <l>第一条</l>の特定非常災害についての法<l>第三条第一項</l>の政令で定める日は、平成二十三年八月三十一日とする。
+          </article_item>
+        </articles>
+        <articles number="第四条" title="（免責期限）">
+          <article_item number="第四条">
+            <l>第一条</l>の特定非常災害についての法<l>第四条第一項</l>の政令で定める特定義務の不履行についての免責に係る期限は、平成二十三年六月三十日とする。
+            </article_item>
+          </articles>
+          <articles number="第五条" title="（法第五条第一項の政令で定める日）">
+            <article_item number="第五条">
+              <l>第一条</l>の特定非常災害についての法<l>第五条第一項</l>の政令で定める日は、平成二十五年三月十日とする。
+              </article_item>
+            </articles>
+            <articles number="第六条" title="（法第七条の政令で定める地区及び期日）">
+              <article_item number="第六条">
+                <l>第一条</l>の特定非常災害についての法<l>第七条</l>の政令で定める地区は、東日本大震災に際し災害救助法（昭和二十二年法律第百十八号）が適用された同法<l>第二条</l>に規定する市町村の区域（東京都の区域を除く。）とする。
+                </article_item>
+                <article_item number="２">
+                  <l>第一条</l>の特定非常災害についての法<l>第六条</l>の政令で定める日は、平成二十六年二月二十八日とする。
+                  </article_item>
+                </articles>
+              </body>
+</law>
